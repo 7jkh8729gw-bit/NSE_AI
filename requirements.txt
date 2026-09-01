@@ -1,0 +1,12 @@
+yfinance
+pandas
+numpy
+requests
+pyTelegramBotAPI
+datasets
+ta
+schedule
+feedparser
+beautifulsoup4
+lxml
+pytz
