@@ -1,12 +1,7 @@
-yfinance
+yfinance>=0.2.50
 pandas
-numpy
+scikit-learn
+ta
 requests
 pyTelegramBotAPI
 datasets
-ta
-schedule
-feedparser
-beautifulsoup4
-lxml
-pytz
