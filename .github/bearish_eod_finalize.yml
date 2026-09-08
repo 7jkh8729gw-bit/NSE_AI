@@ -1,0 +1,45 @@
+name: Bearish EOD Finalize
+
+on:
+  schedule:
+    # 10:05 UTC = 15:35 IST, Mon-Fri (5 min after market close)
+    - cron: "5 10 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nse-ai-bot-state
+  cancel-in-progress: false
+
+jobs:
+  bearish_eod_finalize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run bearish EOD finalize
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: python nse_bearish_breakdown_bot.py eod_finalize
+
+      - name: Commit updated bearish alert history
+        run: |
+          git config user.name "nse-ai-bot"
+          git config user.email "actions@github.com"
+          git add data_bearish/
+          git diff --cached --quiet || git commit -m "Bearish EOD outcomes [skip ci]"
+          git pull --rebase
+          git push
