@@ -22,27 +22,426 @@ reuses the same NSE universe, data fetchers, and Telegram plumbing as the
 bullish bot to avoid duplicating tested infrastructure.
 """
 
+"""
+NSE Bearish Breakdown Bot — intraday short-signal engine
+==========================================================
+Standalone bot, deliberately self-contained (no cross-repo imports) since
+it lives in its own repository, separate from the bullish breakout bot.
+Shared utility functions below are copied from that bot rather than
+imported, to avoid a cross-repo dependency GitHub Actions can't resolve.
+
+Same core methodology as the bullish bot, adapted for shorting rather than
+mirrored blindly:
+- Intraday ATR (not daily) sizes SL/T1/T2, since a cash-segment short must
+  close same-day — a multi-day-sized target makes no sense compressed into
+  one afternoon.
+- No new entries after SHORT_ENTRY_CUTOFF — not enough runway left before
+  the mandatory square-off.
+- Extension guard, mirrored: don't short something that already crashed
+  too far since it first qualified — same chasing risk, just downward.
+- Mandatory square-off reminder — cash-segment shorts cannot be carried
+  overnight; this is an exchange/settlement reality, not a design choice.
+
+Commands:
+    scan                -> pre-market: full universe scan, builds short
+                            watchlist, sends report
+    rescan              -> intraday: finds new weakening stocks during
+                            the day, merges into watchlist
+    recheck             -> intraday: checks watchlist for confirmed
+                            breakdowns, fires short signals
+    squareoff_reminder  -> once daily: mandatory reminder to close any
+                            open short before the deadline
+    eod_finalize        -> once daily: resolves today's pending signal
+                            outcomes for the learning loop
+    retrain             -> weekly: refits scoring weights from resolved
+                            outcomes
+"""
+
 import os
+import re
 import sys
+import math
 import logging
-from datetime import datetime, time as dt_time
+import urllib.parse
+import urllib.request
+import xml.etree.ElementTree as ET
+from datetime import datetime, timedelta, time as dt_time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+import json
 import pandas as pd
+import yfinance as yf
+import requests
+import telebot
 
-from nse_ai_breakout_actions import (
-    get_all_nse_stocks, yf_daily, yf_intraday, get_info,
-    tg_send, tg_long_send, sanitize_for_markdown,
-    now_ist, today_str, market_is_open, session_elapsed_fraction,
-    load_json, save_json, add_indicators, compute_news_score,
-    learned_adjustment, MIN_SAMPLES_FOR_LEARNING, LEARNING_FULL_INFLUENCE_SAMPLES,
-    RETRAIN_MIN_DATE,
-    MAX_WORKERS, MIN_PRICE, MIN_AVG_VOLUME, MIN_MARKET_CAP_CR,
-    MIN_DAY_VOLUME, INTRADAY_INTERVAL,
-)
+from ta.momentum import RSIIndicator
+from ta.trend import MACD, EMAIndicator, ADXIndicator
+from ta.volatility import AverageTrueRange
+from ta.volume import OnBalanceVolumeIndicator
 
-log = logging.getLogger("NSE-BEARISH-RADAR")
+log = logging.getLogger("NSE-BEARISH-BOT")
 logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(message)s")
+
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+CHAT_ID = os.getenv("CHAT_ID")
+bot = telebot.TeleBot(BOT_TOKEN) if BOT_TOKEN else None
+
+MAX_WORKERS = int(os.getenv("MAX_WORKERS", "8"))
+MIN_PRICE = float(os.getenv("MIN_PRICE", "100"))
+MIN_AVG_VOLUME = int(os.getenv("MIN_AVG_VOLUME", "500000"))
+MIN_MARKET_CAP_CR = float(os.getenv("MIN_MARKET_CAP_CR", "1000"))
+MIN_DAY_VOLUME = int(os.getenv("MIN_DAY_VOLUME", "200000"))
+INTRADAY_INTERVAL = os.getenv("INTRADAY_INTERVAL", "5m")
+MAX_NEWS_ITEMS = int(os.getenv("MAX_NEWS_ITEMS", "5"))
+MIN_SAMPLES_FOR_LEARNING = int(os.getenv("MIN_SAMPLES_FOR_LEARNING", "30"))
+LEARNING_FULL_INFLUENCE_SAMPLES = int(os.getenv("LEARNING_FULL_INFLUENCE_SAMPLES", "150"))
+RETRAIN_MIN_DATE = os.getenv("RETRAIN_MIN_DATE", "").strip()
+
+
+# ============================================================
+# TIME HELPERS
+# ============================================================
+
+def now_ist():
+    return datetime.utcnow() + timedelta(hours=5, minutes=30)
+
+
+def today_str():
+    return now_ist().strftime("%Y-%m-%d")
+
+
+def market_is_open():
+    n = now_ist()
+    if n.weekday() >= 5:
+        return False
+    return dt_time(9, 15) <= n.time() <= dt_time(15, 30)
+
+
+def session_elapsed_fraction():
+    if not market_is_open():
+        return None
+    n = now_ist().time()
+
+    def _minutes(t):
+        return t.hour * 60 + t.minute
+
+    start_min, end_min = _minutes(dt_time(9, 15)), _minutes(dt_time(15, 30))
+    fraction = (_minutes(n) - start_min) / (end_min - start_min)
+    return max(0.05, min(1.0, fraction))
+
+
+# ============================================================
+# PERSISTENCE
+# ============================================================
+
+def load_json(path, default):
+    try:
+        if os.path.exists(path):
+            with open(path, "r") as f:
+                return json.load(f)
+    except Exception as e:
+        log.warning("Could not load %s: %s", path, e)
+    return default
+
+
+def save_json(path, obj):
+    try:
+        with open(path, "w") as f:
+            json.dump(obj, f, indent=2)
+        log.info("Saved %s", path)
+    except Exception as e:
+        log.warning("Could not save %s: %s", path, e)
+
+
+# ============================================================
+# TELEGRAM
+# ============================================================
+
+def sanitize_for_markdown(text):
+    if not text:
+        return text
+    return (
+        text.replace("*", "")
+        .replace("_", " ")
+        .replace("`", "'")
+        .replace("[", "(")
+        .replace("]", ")")
+    )
+
+
+def tg_send(text, parse_mode="Markdown"):
+    if not bot or not CHAT_ID:
+        log.warning("Telegram is not configured.")
+        return None
+    try:
+        return bot.send_message(CHAT_ID, text, parse_mode=parse_mode, disable_web_page_preview=True)
+    except Exception as e:
+        log.warning("Telegram Markdown send failed (%s) — retrying as plain text.", e)
+        try:
+            return bot.send_message(CHAT_ID, text, parse_mode=None, disable_web_page_preview=True)
+        except Exception as e2:
+            log.warning("Telegram plain-text retry also failed: %s", e2)
+            return None
+
+
+def tg_long_send(text):
+    max_len = 3500
+    lines = text.split("\n")
+    chunks, current = [], ""
+    for line in lines:
+        if len(current) + len(line) + 1 > max_len:
+            chunks.append(current)
+            current = line
+        else:
+            current = current + "\n" + line if current else line
+    if current:
+        chunks.append(current)
+    for chunk in chunks:
+        tg_send(chunk)
+
+
+# ============================================================
+# NSE UNIVERSE / DATA FETCHERS
+# ============================================================
+
+def get_all_nse_stocks():
+    log.info("Loading NSE universe...")
+    try:
+        session = requests.Session()
+        session.headers.update({"User-Agent": "Mozilla/5.0"})
+        session.get("https://www.nseindia.com", timeout=10)
+        resp = session.get("https://archives.nseindia.com/content/equities/EQUITY_L.csv", timeout=15)
+        if resp.status_code == 200 and "SYMBOL" in resp.text[:200]:
+            from io import StringIO
+            df = pd.read_csv(StringIO(resp.text))
+            symbols = sorted(set(
+                s for s in df["SYMBOL"].astype(str).str.strip().str.upper()
+                if re.fullmatch(r"[A-Z0-9&._-]+", s)
+            ))
+            if len(symbols) > 500:
+                log.info("NSE universe loaded from NSE archives: %s symbols", len(symbols))
+                return symbols
+    except Exception as e:
+        log.warning("NSE archives list failed: %s", e)
+
+    try:
+        from datasets import load_dataset
+        ds = load_dataset("tickertruth/nse-india-security-master", data_files="data/nse_security_master.csv")
+        df = ds["train"].to_pandas()
+        df = df[df["active_flag"] == True]
+        symbols = sorted(set(
+            s for s in df["nse_symbol"].astype(str).str.strip().str.upper()
+            if re.fullmatch(r"[A-Z0-9&._-]+", s)
+        ))
+        log.info("NSE universe loaded from Hugging Face fallback: %s symbols", len(symbols))
+        return symbols
+    except Exception as e:
+        log.exception("Universe loading failed: %s", e)
+        return ["RELIANCE", "TCS", "HDFCBANK", "INFY", "ICICIBANK"]
+
+
+def yf_daily(symbol, period="1y"):
+    try:
+        df = yf.download(f"{symbol}.NS", period=period, interval="1d", auto_adjust=False, progress=False, threads=False)
+        if df is None or df.empty:
+            return None
+        if isinstance(df.columns, pd.MultiIndex):
+            df.columns = df.columns.get_level_values(0)
+        required = ["Open", "High", "Low", "Close", "Volume"]
+        if not all(c in df.columns for c in required):
+            return None
+        return df[required].copy().dropna()
+    except Exception as e:
+        log.debug("Daily data error %s: %s", symbol, e)
+        return None
+
+
+def yf_intraday(symbol):
+    try:
+        df = yf.download(f"{symbol}.NS", period="2d", interval=INTRADAY_INTERVAL, auto_adjust=False, progress=False, threads=False)
+        if df is None or df.empty:
+            return None
+        if isinstance(df.columns, pd.MultiIndex):
+            df.columns = df.columns.get_level_values(0)
+        required = ["Open", "High", "Low", "Close", "Volume"]
+        if not all(c in df.columns for c in required):
+            return None
+        return df[required].dropna()
+    except Exception as e:
+        log.debug("Intraday data error %s: %s", symbol, e)
+        return None
+
+
+def _fast_info_get(fi, *keys, default=0):
+    for k in keys:
+        try:
+            v = fi[k]
+            if v is not None:
+                return v
+        except Exception:
+            pass
+        try:
+            v = getattr(fi, k)
+            if v is not None:
+                return v
+        except Exception:
+            pass
+    return default
+
+
+def get_info(symbol):
+    try:
+        fi = yf.Ticker(f"{symbol}.NS").fast_info
+        price = float(_fast_info_get(fi, "last_price", "lastPrice") or 0)
+        prev_close = float(_fast_info_get(fi, "previous_close", "regularMarketPreviousClose", "previousClose") or 0)
+        volume = int(_fast_info_get(fi, "last_volume", "regularMarketVolume") or 0)
+        market_cap = float(_fast_info_get(fi, "market_cap", "marketCap") or 0)
+        if not market_cap:
+            shares = _fast_info_get(fi, "shares", "shares_outstanding")
+            if shares and price:
+                market_cap = float(shares) * price
+        return {"price": price, "prev_close": prev_close, "volume": volume, "high_52w": 0, "market_cap": market_cap / 1e7}
+    except Exception as e:
+        log.debug("fast_info failed for %s: %s", symbol, e)
+        return {"price": 0, "prev_close": 0, "volume": 0, "high_52w": 0, "market_cap": 0}
+
+
+# ============================================================
+# TECHNICAL INDICATORS
+# ============================================================
+
+def dema(series, period):
+    ema1 = series.ewm(span=period, adjust=False).mean()
+    ema2 = ema1.ewm(span=period, adjust=False).mean()
+    return (2 * ema1) - ema2
+
+
+def add_indicators(df):
+    x = df.copy()
+    x["EMA10"] = EMAIndicator(x["Close"], window=10).ema_indicator()
+    x["EMA20"] = EMAIndicator(x["Close"], window=20).ema_indicator()
+    x["EMA50"] = EMAIndicator(x["Close"], window=50).ema_indicator()
+    x["EMA200"] = EMAIndicator(x["Close"], window=200).ema_indicator()
+    x["DEMA10"] = dema(x["Close"], 10)
+    x["DEMA50"] = dema(x["Close"], 50)
+    x["DEMA200"] = dema(x["Close"], 200)
+    x["RSI"] = RSIIndicator(x["Close"], window=14).rsi()
+    macd = MACD(x["Close"], window_slow=26, window_fast=12, window_sign=9)
+    x["MACD"] = macd.macd()
+    x["MACDSignal"] = macd.macd_signal()
+    x["MACDHist"] = macd.macd_diff()
+    x["ATR"] = AverageTrueRange(x["High"], x["Low"], x["Close"], window=14).average_true_range()
+    x["OBV"] = OnBalanceVolumeIndicator(x["Close"], x["Volume"]).on_balance_volume()
+    x["ADX"] = ADXIndicator(x["High"], x["Low"], x["Close"], window=14).adx()
+    x["AvgVol20"] = x["Volume"].rolling(20).mean()
+    x["AvgVol50"] = x["Volume"].rolling(50).mean()
+    return x
+
+
+# ============================================================
+# NEWS / CATALYST ENGINE
+# ============================================================
+
+BULLISH_WORDS = {
+    "order": 3, "contract": 3, "wins": 2, "win": 2, "approval": 3, "approved": 3,
+    "launch": 2, "expansion": 2, "acquisition": 2, "merger": 2, "earnings": 1,
+    "profit": 3, "profits": 3, "revenue": 2, "growth": 2, "upgrade": 3, "buy": 2,
+    "target": 1, "capacity": 2, "investment": 2, "partnership": 2, "export": 2,
+    "record": 2, "strong": 1, "positive": 2, "surge": 2, "rises": 1,
+}
+
+BEARISH_WORDS = {
+    "fraud": 6, "default": 5, "downgrade": 4, "loss": 3, "losses": 3,
+    "decline": 2, "falls": 2, "fall": 2, "probe": 4, "investigation": 4,
+    "resign": 3, "resignation": 3, "warning": 2, "debt": 2, "lawsuit": 3,
+    "penalty": 3, "cut": 2, "weak": 2, "negative": 2,
+}
+
+
+def clean_text(s):
+    return re.sub(r"\s+", " ", str(s or "")).strip()
+
+
+def news_sentiment(text):
+    text = text.lower()
+    bull = sum(w for word, w in BULLISH_WORDS.items() if re.search(r"\b" + re.escape(word) + r"\b", text))
+    bear = sum(w for word, w in BEARISH_WORDS.items() if re.search(r"\b" + re.escape(word) + r"\b", text))
+    raw = bull - bear
+    label = "Bullish" if raw >= 5 else "Bearish" if raw <= -4 else "Neutral"
+    return raw, label
+
+
+def fetch_google_news(symbol):
+    try:
+        q = urllib.parse.quote(f"{symbol} NSE India stock")
+        url = f"https://news.google.com/rss/search?q={q}&hl=en-IN&gl=IN&ceid=IN:en"
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=10) as response:
+            xml_data = response.read()
+        root = ET.fromstring(xml_data)
+        items = []
+        for item in root.findall(".//item")[:MAX_NEWS_ITEMS]:
+            title = clean_text(item.findtext("title"))
+            if title:
+                score, label = news_sentiment(title)
+                items.append({
+                    "title": title, "link": clean_text(item.findtext("link")),
+                    "published": clean_text(item.findtext("pubDate")),
+                    "score": score, "label": label,
+                })
+        return items
+    except Exception as e:
+        log.debug("News error %s: %s", symbol, e)
+        return []
+
+
+def compute_news_score(symbol):
+    items = fetch_google_news(symbol)
+    if not items:
+        return {"score": 0, "label": "No recent news", "headlines": []}
+
+    total = sum(i["score"] for i in items)
+    bullish = sum(1 for i in items if i["label"] == "Bullish")
+    bearish = sum(1 for i in items if i["label"] == "Bearish")
+
+    score = 50 + total * 5
+    score += min(15, bullish * 5)
+    score -= min(20, bearish * 7)
+    score = max(0, min(100, score))
+    label = "Bullish" if score >= 65 else "Bearish" if score <= 35 else "Neutral"
+
+    return {"score": round(score, 1), "label": label, "headlines": items}
+
+
+# ============================================================
+# SELF-LEARNING SCORING (generic, weights supplied by our own retrain)
+# ============================================================
+
+def learned_adjustment(feature_dict, weights):
+    if not weights:
+        return None, 0.0
+    try:
+        n_samples = weights.get("n_samples", 0)
+        if n_samples < MIN_SAMPLES_FOR_LEARNING:
+            return None, 0.0
+        names, mean, scale = weights["features"], weights["mean"], weights["scale"]
+        coef, intercept = weights["coef"], weights["intercept"]
+        z = intercept
+        for i, name in enumerate(names):
+            x = feature_dict.get(name, 0.0)
+            denom = scale[i] if scale[i] else 1.0
+            z += coef[i] * ((x - mean[i]) / denom)
+        prob = 1.0 / (1.0 + math.exp(-z))
+        blend_ratio = min(
+            1.0,
+            max(0.0, (n_samples - MIN_SAMPLES_FOR_LEARNING)) /
+            max(1, (LEARNING_FULL_INFLUENCE_SAMPLES - MIN_SAMPLES_FOR_LEARNING))
+        )
+        return prob, blend_ratio
+    except Exception as e:
+        log.debug("learned_adjustment failed: %s", e)
+        return None, 0.0
+
 
 DATA_DIR = "data_bearish"
 BEAR_WATCHLIST_FILE = os.path.join(DATA_DIR, "bearish_watchlist.json")
@@ -405,7 +804,8 @@ def analyze_bearish_candidate(symbol):
         tech = analyze_bearish_daily(symbol, df)
         if not tech:
             return None
-        news_score, news_data = compute_news_score(symbol)
+        news_data = compute_news_score(symbol)
+        news_score = news_data["score"]
         # For a bearish screener, a NEGATIVE news catalyst reinforces the
         # signal — so we invert: low news_score (bearish/neutral news) is
         # what we want to see confirming weakness, not a bullish headline
