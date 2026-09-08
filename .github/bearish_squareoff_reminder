@@ -1,0 +1,29 @@
+name: Bearish Square-Off Reminder
+
+on:
+  schedule:
+    # 09:40 UTC = 15:10 IST, Monday-Friday (10 min before mandatory square-off)
+    - cron: "40 9 * * 1-5"
+  workflow_dispatch: {}
+
+jobs:
+  squareoff_reminder:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send square-off reminder
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: python nse_bearish_breakdown_bot.py squareoff_reminder
