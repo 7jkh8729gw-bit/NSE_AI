@@ -561,39 +561,200 @@ def detect_death_cross(df):
     return bool(alignment and (crossover or recent.sum() >= 7))
 
 
-def detect_double_top(df):
+def detect_head_and_shoulders(df):
+    """
+    Bearish reversal: three peaks — left shoulder, head (the highest),
+    right shoulder — with the two shoulders roughly level. Mirror of the
+    bullish inverse-H&S detector.
+    """
     if len(df) < 60:
         return False
-    close = df["Close"].values
+
     highs = df["High"].values
+    lows = df["Low"].values
+    close = df["Close"].values
     lookback = min(120, len(df))
     start = len(df) - lookback
+    window = 5
+
     candidates = []
-    for i in range(start + 3, len(df) - 3):
-        if (
-            highs[i] >= highs[i - 1] and highs[i] >= highs[i - 2]
-            and highs[i] >= highs[i + 1] and highs[i] >= highs[i + 2]
-        ):
+    for i in range(start + window, len(df) - window):
+        left = highs[i - window:i]
+        right = highs[i + 1:i + 1 + window]
+        if highs[i] > left.max() and highs[i] > right.max():
             candidates.append(i)
+
+    if len(candidates) < 3:
+        return False
+
+    for idx in range(len(candidates) - 2):
+        l_idx, h_idx, r_idx = candidates[idx], candidates[idx + 1], candidates[idx + 2]
+        if h_idx - l_idx < 8 or r_idx - h_idx < 8:
+            continue
+        if (r_idx - l_idx) > 90:
+            continue
+        if (len(df) - 1 - r_idx) > 40:
+            continue
+
+        L, H, R = highs[l_idx], highs[h_idx], highs[r_idx]
+        if not (H > L and H > R):
+            continue
+
+        avg_shoulder = (L + R) / 2
+        if avg_shoulder <= 0:
+            continue
+        if abs(L - R) / avg_shoulder > 0.07:
+            continue
+        if (H - avg_shoulder) / avg_shoulder < 0.03:
+            continue  # head not meaningfully higher — not a real H&S
+
+        neckline = max(lows[l_idx:h_idx + 1].min(), lows[h_idx:r_idx + 1].min())
+        if close[-1] <= neckline * 1.02:
+            return True
+
+    return False
+
+
+def detect_rounding_top(df):
+    """
+    Bearish continuation/reversal: inverted cup-and-handle — a rounded top
+    followed by a shallow bounce ('handle') before breaking down. Fuzzier
+    than a geometric pattern like H&S — treat with more skepticism until
+    outcome data validates it.
+    """
+    if len(df) < 80:
+        return False
+
+    n = len(df)
+    cup_window = min(90, n - 10)
+    cup = df.iloc[-(cup_window + 10):-10] if n > cup_window + 10 else df.iloc[:-10]
+    if len(cup) < 30:
+        return False
+
+    left_rim = float(cup["Low"].iloc[:10].min())
+    right_rim = float(cup["Low"].iloc[-10:].min())
+    avg_rim = (left_rim + right_rim) / 2
+    if avg_rim <= 0:
+        return False
+    if abs(left_rim - right_rim) / avg_rim > 0.08:
+        return False
+
+    top_pos = int(cup["High"].values.argmax())
+    rel_pos = top_pos / len(cup)
+    if rel_pos < 0.25 or rel_pos > 0.75:
+        return False
+
+    cup_top = float(cup["High"].iloc[top_pos])
+    height_pct = (cup_top - avg_rim) / avg_rim * 100
+    if height_pct < 12 or height_pct > 50:
+        return False
+
+    handle = df.iloc[-10:]
+    handle_high = float(handle["High"].max())
+    handle_bounce_pct = (handle_high - right_rim) / right_rim * 100 if right_rim > 0 else 100
+    if handle_bounce_pct > 15:
+        return False
+
+    recent_close = float(df["Close"].iloc[-1])
+    return recent_close <= right_rim * 1.01
+
+
+def detect_bear_flag(df):
+    """
+    Bearish continuation: a sharp decline (the flagpole) followed by a
+    brief, tight consolidation (the flag), then a break below the flag's
+    low. Mirror of the bullish bull-flag detector.
+    """
+    if len(df) < 25:
+        return False
+
+    pole = df.iloc[-20:-6]
+    flag = df.iloc[-6:]
+    if len(pole) < 8 or len(flag) < 4:
+        return False
+
+    pole_start = float(pole["Close"].iloc[0])
+    pole_end = float(pole["Close"].iloc[-1])
+    if pole_start <= 0:
+        return False
+    pole_loss_pct = (pole_start - pole_end) / pole_start * 100
+    if pole_loss_pct < 12:
+        return False
+
+    flag_high = float(flag["High"].max())
+    flag_low = float(flag["Low"].min())
+    if flag_low <= 0:
+        return False
+    flag_range_pct = (flag_high - flag_low) / flag_low * 100
+    if flag_range_pct > 10:
+        return False
+
+    pole_move = pole_start - pole_end
+    if pole_move > 0:
+        retrace_pct = (flag_high - pole_end) / pole_move * 100
+        if retrace_pct > 50:
+            return False
+
+    recent_close = float(df["Close"].iloc[-1])
+    return recent_close <= flag_low * 1.005
+
+
+def detect_double_top(df):
+    """
+    Stricter double-top detector — mirrors the fix applied to the bullish
+    bot's double-bottom detector. Requires genuine swing highs (5-bar
+    window, strict greater-than) and a MEANINGFUL drop between the two
+    tops (the actual "M" shape), not just two vaguely-similar highs
+    anywhere in a 120-day window.
+    """
+    if len(df) < 60:
+        return False
+
+    close = df["Close"].values
+    highs = df["High"].values
+    lows = df["Low"].values
+
+    lookback = min(120, len(df))
+    start = len(df) - lookback
+    window = 5
+    min_drop_pct = 8.0
+
+    candidates = []
+    for i in range(start + window, len(df) - window):
+        left = highs[i - window:i]
+        right = highs[i + 1:i + 1 + window]
+        if highs[i] > left.max() and highs[i] > right.max():
+            candidates.append(i)
+
     if len(candidates) < 2:
         return False
+
     for a_idx in candidates[:-1]:
         for b_idx in candidates:
             if b_idx <= a_idx:
                 continue
             distance = b_idx - a_idx
-            if distance < 10 or distance > 80:
+            if distance < 15 or distance > 60:
                 continue
+            if (len(df) - 1 - b_idx) > 40:
+                continue
+
             a, b = highs[a_idx], highs[b_idx]
             avg_high = (a + b) / 2
             if avg_high <= 0:
                 continue
             if abs(a - b) / avg_high > 0.04:
                 continue
-            neckline = min(low for low in df["Low"].iloc[a_idx:b_idx + 1])
+
+            middle_trough = lows[a_idx:b_idx + 1].min()
+            drop_pct = ((avg_high - middle_trough) / avg_high) * 100
+            if drop_pct < min_drop_pct:
+                continue  # no real "M" shape — just noise near a similar level
+
             recent_close = close[-1]
-            if recent_close <= neckline * 1.03:
+            if recent_close <= middle_trough * 1.03:
                 return True
+
     return False
 
 
@@ -605,7 +766,7 @@ def detect_lower_low_lower_high(df):
     previous_low = x["Low"].iloc[-15:-3].min()
     recent_high = x["High"].iloc[-1]
     previous_high = x["High"].iloc[-15:-3].max()
-    return recent_low <= previous_low and recent_high <= previous_high * 1.03
+    return recent_low <= previous_low and recent_high <= previous_high * 1.005
 
 
 def detect_near_breakdown(df):
@@ -644,6 +805,9 @@ def analyze_bearish_daily(symbol, df):
     patterns = detect_bearish_candlestick_patterns(x)
     death_cross = detect_death_cross(x)
     double_top = detect_double_top(x)
+    head_shoulders = detect_head_and_shoulders(x)
+    rounding_top = detect_rounding_top(x)
+    bear_flag = detect_bear_flag(x)
     ll_lh = detect_lower_low_lower_high(x)
     near_breakdown = detect_near_breakdown(x)
     breakdown = detect_breakdown(x)
@@ -678,6 +842,12 @@ def analyze_bearish_daily(symbol, df):
         score += 7; reasons.append("Lower High / Lower Low")
     if double_top:
         score += 10; reasons.append("Double Top")
+    if head_shoulders:
+        score += 11; reasons.append("Head & Shoulders")
+    if rounding_top:
+        score += 8; reasons.append("Rounding Top")
+    if bear_flag:
+        score += 8; reasons.append("Bear Flag")
     if near_breakdown:
         score += 6; reasons.append("Near Breakdown")
     if breakdown:
@@ -701,18 +871,22 @@ def analyze_bearish_daily(symbol, df):
 
     score = min(100, score)
 
-    if breakdown:
-        setup = "BREAKDOWN"
-    elif double_top:
-        setup = "DOUBLE TOP"
-    elif death_cross:
-        setup = "DEATH CROSS"
-    elif near_breakdown:
-        setup = "NEAR BREAKDOWN"
-    elif ll_lh:
-        setup = "DOWNTREND"
-    else:
-        setup = "BEARISH"
+    setup_candidates = [
+        ("DEATH CROSS + BREAKDOWN", death_cross and breakdown),
+        ("HEAD & SHOULDERS BREAKDOWN", head_shoulders and breakdown),
+        ("DOUBLE TOP BREAKDOWN", double_top and breakdown),
+        ("BREAKDOWN", breakdown),
+        ("HEAD & SHOULDERS", head_shoulders),
+        ("DOUBLE TOP", double_top),
+        ("ROUNDING TOP", rounding_top),
+        ("DEATH CROSS", death_cross),
+        ("BEAR FLAG", bear_flag),
+        ("CANDLESTICK REVERSAL", bool(patterns) and near_breakdown),
+        ("NEAR BREAKDOWN", near_breakdown),
+        ("DOWNTREND CONTINUATION", ll_lh),
+        ("BEARISH", True),
+    ]
+    setup = next(label for label, matched in setup_candidates if matched)
 
     return {
         "symbol": symbol, "close": close, "rsi": round(rsi, 2), "adx": round(adx, 2),
@@ -720,6 +894,8 @@ def analyze_bearish_daily(symbol, df):
         "ema_alignment_bearish": bool(ema_alignment_bearish),
         "dema_alignment_bearish": bool(dema_alignment_bearish),
         "death_cross": bool(death_cross), "double_top": bool(double_top),
+        "head_shoulders": bool(head_shoulders), "rounding_top": bool(rounding_top),
+        "bear_flag": bool(bear_flag),
         "ll_lh": bool(ll_lh), "near_breakdown": bool(near_breakdown),
         "breakdown": bool(breakdown), "macd_bearish": bool(last["MACD"] < last["MACDSignal"]),
         "macd_cross_down": bool(macd_cross_down), "obv_distribution": bool(obv_distribution),
@@ -967,7 +1143,8 @@ BEAR_FEATURE_NAMES = [
     "rsi", "adx", "daily_volume_ratio", "daily_score", "news_score",
     "combined_score", "intraday_score", "intraday_volume_ratio",
     "ema_alignment_bearish", "dema_alignment_bearish", "death_cross",
-    "double_top", "ll_lh", "near_breakdown", "breakdown",
+    "double_top", "head_shoulders", "rounding_top", "bear_flag",
+    "ll_lh", "near_breakdown", "breakdown",
     "macd_bearish", "macd_cross_down", "obv_distribution", "has_patterns",
     "move_since_first_seen_pct",
 ]
@@ -987,6 +1164,9 @@ def build_bear_feature_dict(watch_item, intraday_score, intraday_volume_ratio, m
         "dema_alignment_bearish": 1.0 if t["dema_alignment_bearish"] else 0.0,
         "death_cross": 1.0 if t["death_cross"] else 0.0,
         "double_top": 1.0 if t["double_top"] else 0.0,
+        "head_shoulders": 1.0 if t.get("head_shoulders") else 0.0,
+        "rounding_top": 1.0 if t.get("rounding_top") else 0.0,
+        "bear_flag": 1.0 if t.get("bear_flag") else 0.0,
         "ll_lh": 1.0 if t["ll_lh"] else 0.0,
         "near_breakdown": 1.0 if t["near_breakdown"] else 0.0,
         "breakdown": 1.0 if t["breakdown"] else 0.0,
