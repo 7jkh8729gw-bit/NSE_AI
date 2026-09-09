@@ -5,21 +5,21 @@
       "symbol": "HDFCBANK",
       "base": {
         "symbol": "HDFCBANK",
-        "price": 694.9000244140625,
-        "day_change": -1.1522013635757469,
-        "volume_ratio": 1.9449430345064593,
-        "market_cap": 1071122.9785017194,
-        "pct_from_low": 0.6115987697055539,
-        "avg_volume": 25204803.666666668,
-        "volume": 15164110.0
+        "price": 694.7999877929688,
+        "day_change": -1.166431323902027,
+        "volume_ratio": 1.6337689826357,
+        "market_cap": 1070756.3002355036,
+        "pct_from_low": 0.5972889251320518,
+        "avg_volume": 25274473.38095238,
+        "volume": 16627174.0
       },
       "technical": {
         "symbol": "HDFCBANK",
-        "close": 694.9000244140625,
-        "rsi": 32.02,
+        "close": 694.7999877929688,
+        "rsi": 31.98,
         "adx": 23.92,
         "atr": 11.56,
-        "volume_ratio": 0.6,
+        "volume_ratio": 0.66,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -34,7 +34,7 @@
           "3 Black Crows"
         ],
         "setup": "DOUBLE TOP",
-        "score": 71,
+        "score": 65,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -43,7 +43,6 @@
           "Double Top",
           "Near Breakdown",
           "3 Black Crows",
-          "Weak RSI",
           "MACD Bearish Crossover",
           "ADX Trend Strength",
           "OBV Distribution"
@@ -61,7 +60,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Stock Market News - Share Market News, Sensex Today, BSE/NSE India, Nifty 50 Updates | CNBCTV18 - linkedin.com",
+            "title": "Stock Market News - Share Market News, Sensex Today, BSE/NSE India, Nifty 50 Updates | CNBCTV18 - LinkedIn",
             "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjYzbzgyZkxJazhuaFJ5bWRJTG96VllfTC04N0pobHVRQjYzYnhIdHAwclYybXc4YS1BU0l1bnNna3VlWlRObE9IOHZvLVVsb2NKN2VhTzN2U1BTeUM3c0g5TkFrdnJ6QzFwRkY3Uk56dVpueU11bkRoZGU0anVISzRlRTJicHpUZHZyOHNkTGdIZEw3WmpEV2pmNV9BU3Nyb1c1VldxZUUwNE5Lci1ES1JqaFowM3ZR?oc=5",
             "published": "Sat, 04 Apr 2026 07:00:00 GMT",
             "score": 0,
@@ -90,8 +89,8 @@
           }
         ]
       },
-      "combined_score": 70.8,
-      "added_at": "2026-09-09T11:11:58.855179",
+      "combined_score": 66.0,
+      "added_at": "2026-09-09T11:46:09.125353",
       "first_seen_price": 697.5,
       "first_seen_at": "2026-09-09T09:42:37.277386"
     },
@@ -99,21 +98,21 @@
       "symbol": "WIPRO",
       "base": {
         "symbol": "WIPRO",
-        "price": 167.91000366210938,
-        "day_change": -2.093292325300656,
-        "volume_ratio": 2.3525490771744457,
-        "market_cap": 166109.433163179,
-        "pct_from_low": 0.9171630702962064,
-        "avg_volume": 7997056.19047619,
-        "volume": 5919971.0
+        "price": 167.83999633789062,
+        "day_change": -2.134112922512755,
+        "volume_ratio": 1.9873549626733444,
+        "market_cap": 166178.67467387448,
+        "pct_from_low": 0.8758348741522617,
+        "avg_volume": 8022904.238095238,
+        "volume": 6462780.0
       },
       "technical": {
         "symbol": "WIPRO",
-        "close": 167.91000366210938,
-        "rsi": 31.63,
+        "close": 167.83999633789062,
+        "rsi": 31.55,
         "adx": 14.36,
         "atr": 3.78,
-        "volume_ratio": 0.74,
+        "volume_ratio": 0.81,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -183,7 +182,7 @@
         ]
       },
       "combined_score": 57.2,
-      "added_at": "2026-09-09T11:13:02.424914",
+      "added_at": "2026-09-09T11:47:17.231195",
       "first_seen_price": 168.6199951171875,
       "first_seen_at": "2026-09-09T09:43:40.421076"
     },
@@ -191,21 +190,21 @@
       "symbol": "VBL",
       "base": {
         "symbol": "VBL",
-        "price": 400.25,
-        "day_change": -1.3433601289245403,
-        "volume_ratio": 2.3279450726770183,
-        "market_cap": 135383.15738235,
-        "pct_from_low": 4.80949406620862,
-        "avg_volume": 5960818.619047619,
-        "volume": 4329455.0
+        "price": 399.70001220703125,
+        "day_change": -1.4789252697725241,
+        "volume_ratio": 2.1708759867204135,
+        "market_cap": 135197.12594216547,
+        "pct_from_low": 4.678511792825582,
+        "avg_volume": 6006327.333333333,
+        "volume": 5285138.0
       },
       "technical": {
         "symbol": "VBL",
-        "close": 400.25,
-        "rsi": 33.14,
+        "close": 399.70001220703125,
+        "rsi": 32.91,
         "adx": 33.49,
         "atr": 10.22,
-        "volume_ratio": 0.7,
+        "volume_ratio": 0.85,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -233,8 +232,8 @@
         ]
       },
       "news": {
-        "score": 60,
-        "label": "Neutral",
+        "score": 65,
+        "label": "Bullish",
         "headlines": [
           {
             "title": "Some Confidence Is Lacking In Varun Beverages Limited's (NSE:VBL) P/E - simplywall.st",
@@ -244,10 +243,10 @@
             "label": "Neutral"
           },
           {
-            "title": "IT shares, VA Tech, VBL, RIL, among buzzing stocks as NIFTY50, SENSEX tank 1% in noon deals - Upstox",
-            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWF9NWkVSLUxHaEZERjdaVTBjb1ZKSHc0UlJHOWJ3bzhuQXFael85X21DV3hQeXZwVm1WZE5tMklRcDBmUlg5M1ZYTllWVTNRVmdjX25DVm1sQWdrSk5ORHZfM045Q3U2bkdTclJCOUg5Uko2QkRNTXJKSHVCeE9iNlpWTjJOZWNlTlZ5aHVUbWFCTHR3Q0NMY3ZMb3hBY01teV9KSEkwRWJiRFh5SW1MTWlEWldVVG1pMXMxMWFkdEhKSjNtSElfZTZtazNqRXFTc3JzNE1FQWNSejI0WVE?oc=5",
-            "published": "Fri, 19 Jun 2026 07:00:00 GMT",
-            "score": 0,
+            "title": "Varun Beverages shares jump 5%: What to expect on FY27 revenue front - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOWxpSHBObkt3YjdzVGJrbFZuT3hwYTRINU51Z05Rc1BlVkN2NHMyY3gxbW11enF2NHpRSmZ3aUJhR1Ffa1FDZC10NFNaWFBHd1U5WWxZVGFScGpwQUtkekdGTzh5N2dIcEpVLS1DT3FoRjdyOWxjX3VBa1Voemd1SDM0ZUtiUGJRRU51Y3gzX19SdEUtdnV2empPXzVSbXJWVEg0S1JEc2x5ekVUbl9jMUxfN0phMEhfc1Q4QVY2WEt3VS0yS3RJUnBxNGY?oc=5",
+            "published": "Wed, 15 Apr 2026 07:00:00 GMT",
+            "score": 2,
             "label": "Neutral"
           },
           {
@@ -265,16 +264,16 @@
             "label": "Neutral"
           },
           {
-            "title": "Varun Beverages shares jump 5%: What to expect on FY27 revenue front - Upstox",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOWxpSHBObkt3YjdzVGJrbFZuT3hwYTRINU51Z05Rc1BlVkN2NHMyY3gxbW11enF2NHpRSmZ3aUJhR1Ffa1FDZC10NFNaWFBHd1U5WWxZVGFScGpwQUtkekdGTzh5N2dIcEpVLS1DT3FoRjdyOWxjX3VBa1Voemd1SDM0ZUtiUGJRRU51Y3gzX19SdEUtdnV2empPXzVSbXJWVEg0S1JEc2x5ekVUbl9jMUxfN0phMEhfc1Q4QVY2WEt3VS0yS3RJUnBxNGY?oc=5",
-            "published": "Wed, 15 Apr 2026 07:00:00 GMT",
-            "score": 2,
+            "title": "ITC, Varun Beverages, HUL, others: Fresh target prices, preferred stocks and more - Business Today",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOGhobi1BYmJtWkNGd0thdFlhZTVOb3MxTWR6UFlUYXRQaVhFcGJKa3hvZmxEb3NXelQ0c1N2aWF2ZGR4UVJUWlpqc09DV1VWRl8xb2N2ZS1PeGliT2paUVZTeThNeW0tQk42bHg5TnV4YVhveWdJVjJSUWFhQ2V6UWN4NjM1Qm9CSi1kNF9LaFVzWEtxTTFaVFNOMFo4MWthMnUtaE00dXFQcU0xYS1jRmxyczJZYnc2dzJPQzNkRDdaX3lJSGhwSlpfQWt6U2d1RVV1VDhxR1B4WDFD0gHiAUFVX3lxTE1ITk0tclJHRlU2ZDVHQ0FDanFZZlc3M241SnRsbFRxaXdEWkxUeU5LLUk5aUNaYktDWFZ3U0NYcm5RaWgtQ2xnX19uaGg4TXNHLWpETEZwVnN2TW8wWlFOaXRLTTlWWjVYNXlhS1o5U3FPMG54clpHZkhnM0FxaUphWkZ5dWhNUnIyOXo5VGVGLWtKbV9XU0ZRY2RTVVBYR2c4Y0F4cDF0bFNBS2wzeUFjV19GUmV1cnZQb0RKRkY1ZU83ZTZ4bUpFSXFHUlBvWGEtX2w1RGlPUllyaGgtSjdaMXc?oc=5",
+            "published": "Wed, 27 May 2026 07:00:00 GMT",
+            "score": 1,
             "label": "Neutral"
           }
         ]
       },
-      "combined_score": 58.4,
-      "added_at": "2026-09-09T11:12:57.642280",
+      "combined_score": 57.4,
+      "added_at": "2026-09-09T11:47:12.617605",
       "first_seen_price": 402.1000061035156,
       "first_seen_at": "2026-09-09T09:43:36.283953"
     },
@@ -468,21 +467,21 @@
       "symbol": "MUTHOOTFIN",
       "base": {
         "symbol": "MUTHOOTFIN",
-        "price": 2820.199951171875,
-        "day_change": -2.741662976814933,
-        "volume_ratio": 1.8747623450132256,
-        "market_cap": 113222.1376412247,
-        "pct_from_low": 5.290403296045661,
-        "avg_volume": 920798.7619047619,
-        "volume": 538599.0
+        "price": 2830.60009765625,
+        "day_change": -2.383000126882066,
+        "volume_ratio": 1.6513980184678227,
+        "market_cap": 113639.67073715059,
+        "pct_from_low": 5.638383810853381,
+        "avg_volume": 924422.9523809524,
+        "volume": 614707.0
       },
       "technical": {
         "symbol": "MUTHOOTFIN",
-        "close": 2820.199951171875,
-        "rsi": 38.02,
+        "close": 2830.60009765625,
+        "rsi": 38.63,
         "adx": 17.4,
         "atr": 83.82,
-        "volume_ratio": 0.58,
+        "volume_ratio": 0.66,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -509,7 +508,7 @@
         ]
       },
       "news": {
-        "score": 38,
+        "score": 53,
         "label": "Neutral",
         "headlines": [
           {
@@ -541,16 +540,16 @@
             "label": "Neutral"
           },
           {
-            "title": "Muthoot Finance Q1 FY27 results conference call August 1 2026 - Kalkine India",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORVMtZFVDNWk0SEhXekxKUGxyTGgtOERBMXBueFdJaGlnRVZKU0sxV1Q0dkxCa0N2bUloS2xHcDdkNWtGVC1rWkp3LXN3M3Y5QWNWbjZlc1d4eHN0M20tMkNQRVJQTE9LQ3B5M3JNWWtpRHU0c0VxOS1lU3hIeU90MUZxTmhCbzAzV3pDMTNobWEydk1YOVgxdzNVLXJkVTBfVEQyd2FfN0ZXTGs5RVJlaGNVTnM1Ukt2R042cGdR?oc=5",
-            "published": "Wed, 29 Jul 2026 07:00:00 GMT",
-            "score": 0,
+            "title": "Muthoot Finance slides 11.24% after Q3 results despite profit jump - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVHlxcXFMNEF5NWVZUWJwZzJGQXFtbzNvZGVYOXpzOWQtc2NMQmo5WTlkS01hUGJJN0pXRkFzcVp6Wm05c3BMcVdVMTlLWUxaVm9Pem1zeC1iaVh0Vm11OEp5M3QyOFczUXlKd1ZEMERJTTBxZEpRdHE2cW1OX1Z0X1ZMUUp3UQ?oc=5",
+            "published": "Fri, 13 Feb 2026 08:00:00 GMT",
+            "score": 3,
             "label": "Neutral"
           }
         ]
       },
-      "combined_score": 60.4,
-      "added_at": "2026-09-09T11:12:23.338657",
+      "combined_score": 57.4,
+      "added_at": "2026-09-09T11:46:32.441184",
       "first_seen_price": 2804.699951171875,
       "first_seen_at": "2026-09-09T10:13:18.502644"
     },
@@ -929,34 +928,34 @@
       "symbol": "HDFCLIFE",
       "base": {
         "symbol": "HDFCLIFE",
-        "price": 516.2999877929688,
-        "day_change": -3.27838149123137,
-        "volume_ratio": 4.6614708308839985,
-        "market_cap": 112142.89480818281,
-        "pct_from_low": 0.23242537970239951,
-        "avg_volume": 2502816.0,
-        "volume": 2675587.0
+        "price": 516.8499755859375,
+        "day_change": -3.1753489311815453,
+        "volume_ratio": 4.21341890709599,
+        "market_cap": 112262.35485984062,
+        "pct_from_low": 0.3579327993273556,
+        "avg_volume": 2584185.0476190476,
+        "volume": 4384337.0
       },
       "technical": {
         "symbol": "HDFCLIFE",
-        "close": 516.2999877929688,
-        "rsi": 34.39,
-        "adx": 14.51,
-        "atr": 10.77,
-        "volume_ratio": 1.09,
+        "close": 516.8499755859375,
+        "rsi": 34.59,
+        "adx": 14.52,
+        "atr": 10.78,
+        "volume_ratio": 1.73,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
         "double_top": true,
         "ll_lh": true,
         "near_breakdown": true,
-        "breakdown": false,
+        "breakdown": true,
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": false,
         "patterns": [],
-        "setup": "DOUBLE TOP",
-        "score": 55,
+        "setup": "BREAKDOWN",
+        "score": 69,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -964,8 +963,10 @@
           "Lower High / Lower Low",
           "Double Top",
           "Near Breakdown",
+          "Confirmed Breakdown",
           "Weak RSI",
-          "MACD Bearish"
+          "MACD Bearish",
+          "Volume Expansion"
         ]
       },
       "news": {
@@ -1001,7 +1002,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Stock Alert: HDFC Life Insurance Co, Wipro, Alok Industries, VST Industries, Waaree Renewable Tech - business-standard.com",
+            "title": "Stock Alert: HDFC Life Insurance Co, Wipro, Alok Industries, VST Industries, Waaree Renewable Tech - Business Standard",
             "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZ0VOY3FkUGtwd1ZCS1JwXzY2elhOdWNmWlhBQmU4Y29jSmxNQUc0dy1kdWJFVXJyNS1OX0VnM0tXdWtRM1dhUFpUNnl4OC1HWnBKZFVpM1dyeTNScGhtRU9GVF9QZGQ0VXlWMEZyVS1DUUJ6cTZxRGdFRW5USmtndU1wQnRXYlBDakd3TnpiT054bDNmVVQwaEMtc3JXc3ppMU1pc3Jlbk53ZklmMURDaEZRa0xuenZUejZqQmwycTdZR1NEWTJWRHJna2ZuODE5cmhzVmw1RFo3VlJZdHFvY3NKc05ycHVfbGhpMWFuN2ZsbjNXcFo4RkRPMUtkOTFOYkU0NFdB0gGLAkFVX3lxTE1hVDJkZmRKMGU0SWpnTWVpUzJMRlJaczNFOHROcEtEUW5SOXJldU5Ebnl3cFM3c1lxOU5Vblc3NlJWR3FkTGhwdUUydzNCTTUtUldFQ2NpbFRaZ2lUNVFMalZkalFqRVlMSkNCQ3ZzV0s2cUpVaXhnU21DcHFYVF9nRmJmTk81Mk96THNQQUlqaVNJY0Yyd0RaeFpKeGxXakl5VW96UmMtVU5CWVRwY18xTlZGX3c5T0o2NVVjR0ItUThEaEdZTC1DSDZjTkUyOXBpaDBWX2daZ002STZhSjA5SmNONzR2M1VOX3RoQ2tUdWtYRmZXbEN6Y0lQZ1pqd0o1Q1BWWnNRMnJpdw?oc=5",
             "published": "Fri, 17 Apr 2026 07:00:00 GMT",
             "score": 0,
@@ -1009,8 +1010,8 @@
           }
         ]
       },
-      "combined_score": 53.0,
-      "added_at": "2026-09-09T10:41:43.018326",
+      "combined_score": 64.2,
+      "added_at": "2026-09-09T11:46:08.962010",
       "first_seen_price": 516.5999755859375,
       "first_seen_at": "2026-09-09T10:12:55.170982"
     },
