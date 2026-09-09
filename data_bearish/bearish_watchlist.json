@@ -1,4 +1,375 @@
 {
   "date": "2026-09-09",
-  "items": []
+  "items": [
+    {
+      "symbol": "HDFCBANK",
+      "base": {
+        "symbol": "HDFCBANK",
+        "price": 697.5,
+        "day_change": -0.7823613086770981,
+        "volume_ratio": 2.749589760506713,
+        "market_cap": 1075130.5961385,
+        "pct_from_low": 0.20072034610215053,
+        "avg_volume": 24715702.19047619,
+        "volume": 4892979.0
+      },
+      "technical": {
+        "symbol": "HDFCBANK",
+        "close": 697.5,
+        "rsi": 33.04,
+        "adx": 23.51,
+        "atr": 11.18,
+        "volume_ratio": 0.2,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": true,
+        "obv_distribution": false,
+        "patterns": [
+          "3 Black Crows"
+        ],
+        "setup": "DOUBLE TOP",
+        "score": 66,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Near Breakdown",
+          "3 Black Crows",
+          "Weak RSI",
+          "MACD Bearish Crossover",
+          "ADX Trend Strength"
+        ]
+      },
+      "news": {
+        "score": 30,
+        "label": "Bearish",
+        "headlines": [
+          {
+            "title": "HDFC Bank Falls 0.47% as U.S. Jobs Beat Tightens Fed Rate Odds - The Eastern Herald",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TMVdsWlJzSWU3RTFFak5Ick1ZTk81UTM0NE1ETExYdWF1anFFdzNac0M2VjBKdE1WTTQxRUdmYUNpUzZTREJIQmE4cWFTSW9hbnBqaVpIMjF0NU1weUhObk52T183bjRXUHN1cHJMWjFYWTJpb0JQRnBCUQ?oc=5",
+            "published": "Tue, 08 Sep 2026 17:19:14 GMT",
+            "score": -2,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stock Market News - Share Market News, Sensex Today, BSE/NSE India, Nifty 50 Updates | CNBCTV18 - linkedin.com",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjYzbzgyZkxJazhuaFJ5bWRJTG96VllfTC04N0pobHVRQjYzYnhIdHAwclYybXc4YS1BU0l1bnNna3VlWlRObE9IOHZvLVVsb2NKN2VhTzN2U1BTeUM3c0g5TkFrdnJ6QzFwRkY3Uk56dVpueU11bkRoZGU0anVISzRlRTJicHpUZHZyOHNkTGdIZEw3WmpEV2pmNV9BU3Nyb1c1VldxZUUwNE5Lci1ES1JqaFowM3ZR?oc=5",
+            "published": "Sat, 04 Apr 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "NIFTY50, SENSEX fall: HDFC Bank, ITC, IRFC, HUL among 112 stocks that hit 52-week low on NSE - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPU0diNDQ5QUllOGp1aG5kZjJqU2dqaXdyaDVJR08xZzY4dmlCSGZYZXRhUE9wSDI0blRtNlBfS3prQVpZX2VoUEFPTHRFVW9abVJkcHhxTFEzRklQcGt6YUYyOWZyaUxFX2FCWHZrSWZtSjJyRmU4NlZJbmZCZnJ0QU16YlI1NlJ4U3NTbkpoak5yOFVVQlBqRGI4VXZ5dkhQbWVJQ2VOakNJY3dRTUhrXy1qeERFb2k4dnJoOTBGaWw5ai1pazNkQkZDZElmdGNPSEc1MVlCY0ljWXo5NFpMaw?oc=5",
+            "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
+          },
+          {
+            "title": "Financial services emerge as India Inc's biggest value creator, led by HDFC Bank, ICICI Bank and NSE - bfsi.economictimes.indiatimes.com",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVW5SUThocko1cS1zWmMwMlhmRlVNZHBDY2JFakZDcnlXVGllczVZeWd1VWRNS1RGbFpJLUYzZlpXSy1mN2QtWXc4OC1Tdkx5NnFsVktiS3ZLQmFlMnVGZVFUaldtODNNbXdmLUN4NTZhbl9BUHRDTUJMZjJiQ3FoWURvZEVOUEhnOEM1Ny1DSjhoeTNGeVJRaHlMT2cyOHBDZTdGVEd1NUFsWWJGYlhEeksxeVFqZVBKRmw4d1pJYzIwdUdIMlBwX0VEdlduMmpBT29XV19LN2NrUdIB3wFBVV95cUxPV3M3WERRSVRKNkk3Ri04dmJaOHZGRjZib051VWU1SUhYSDF0WlhnajBDQ2RmZnZiVUVYTHVZWE5JUzFSZ2M0emJET2pWTDlrQ2dkNGs0TDVxa1d4cVU3c1FNRDQtNzYtVktvS3ZJWENxLWJZcGQzaXV4TkE2RFcxdDdQazNubmZ2cVhjaExydG4za01rQ1Zza2FuRzZLLVNJMEZUVzRiS2M5WGN3R1VDNEkyUFltaUNtR1dpd01KNVFiWkVmc2w5ekJLM0h2eEl5NXdiNm8wM09BQlYxWGRZ?oc=5",
+            "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "HDFC Bank Block Deal Worth \u20b961.41 Crore Executed On NSE; Shares Hold Near Flat Levels - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX0ZnZ280UE9DVGFhQUE1M0UtLW5fUDQzajBQdmJwODRtNFlLektzcmNPMy1wSy1uMTFBRmx1MzVoOHlFWGhITVdwdW5CRW1JdGx2Qk41aFh4R2ZJTkI1YUlnLWY3bDkzS3hrTHYyUDdWMWt5VmhVQWdUUUUteFZKNDh4QmJQb2VGaGc?oc=5",
+            "published": "Thu, 05 Mar 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 66.8,
+      "added_at": "2026-09-09T09:42:37.277386",
+      "first_seen_price": 697.5,
+      "first_seen_at": "2026-09-09T09:42:37.277386"
+    },
+    {
+      "symbol": "WIPRO",
+      "base": {
+        "symbol": "WIPRO",
+        "price": 168.6199951171875,
+        "day_change": -1.6793031386661808,
+        "volume_ratio": 6.4384849999779865,
+        "market_cap": 166811.811077428,
+        "pct_from_low": 1.334361324370989,
+        "avg_volume": 7895909.047619048,
+        "volume": 3795881.0
+      },
+      "technical": {
+        "symbol": "WIPRO",
+        "close": 168.6199951171875,
+        "rsi": 32.38,
+        "adx": 14.36,
+        "atr": 3.78,
+        "volume_ratio": 0.48,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [
+          "3 Black Crows"
+        ],
+        "setup": "DOUBLE TOP",
+        "score": 65,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Near Breakdown",
+          "3 Black Crows",
+          "Weak RSI",
+          "MACD Bearish",
+          "OBV Distribution"
+        ]
+      },
+      "news": {
+        "score": 50,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "BSE to replace Wipro in India's benchmark Nifty 50 index - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeGhIN19pS1ZwOUhZbGZZcVV1LW5DaGxLcHEtdHpGVk9qVGdqaEx5NG9Xbm5XWkN4M0c3NmRJS2xkVUhsTmppMlZSeFVtV3pPbnVTdU8xNVZxSC1sUTVHSnhQdE9LQzhOLXhCOHdWTXVhcjJUNE96V2hqeGMya2pQblNIQTEtUEhUSllQUWRuYThadnFqNTBuVUdham9PQQ?oc=5",
+            "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "BSE replaces Wipro in Nifty 50: What drove the index reshuffle? - firstpost.com",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTV4aXNrSlBhaXFiMzVwem1xdURTd1FrNDFUQndfd2JKaEpLbHNMdE15R0xWZVlfaWpCSXRCc1Y3VW9Jd1BuZHBBcDJkbUVlSndLbTFCYm1TWUVvaGRjQ0ZLVE03bjVMU3IwRTVNU2pScUtvcWgxY1plRkd4OEFlS01INnBFQXdDdGd5QnFEbUo0UdIBlwFBVV95cUxOMEZvNWFpLTZqaVAtMWxnZ3hzWEwxRWVYZVZNTUtTdXl1X0g4bHdubFFiREFRUmNqVFl6NEZCWUZqZHV4RlN5YUdOMjlIT0xaTUtxckhHc01RbVJzSk5VMzgwR0RENGNxeXhGZE5RSkF6bmFKUjd6QUpUQkJRWmJZNEE4ZmZQMG54UjFsWmVJU3dzZVl4TlQ0?oc=5",
+            "published": "Tue, 11 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "NSE indices rejig: Vodafone Idea, Wipro part of major changes in Nifty Next 50 and Nifty 100. Check full l - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbE5OX0J4cnJpdUs3cXFiaDhWNzg2c3dsRHgwUC1yeU81VldLNGFnb0VEUWE1YUEtZmNIam5GcThyWnc3cS1ITDdVY3NoNWRlRGdYMmVlX2Q4eDgydmQtZzFpenZYcHhlcGZwRXBmbm5IeTdnU3ExYlg5OFdTSVlRUGNOZ082UTJRNGx0bzlFS0hPdElFNmpuRElrQ0RnUkxqOTREMkN5OEFscUJNQ3A2MFltMXU4WmNlOWxVQnByQTJZNURQSl9kRkEyU19FVmNzSXlTMVZQbVd1OUc1UUFrTHNlal9wY19id0YwQTk3STNmbnF1aE1HTDJySzY0Sll2c1c5WEtBTkg3NjBo0gGSAkFVX3lxTE84UVBvSEdjQ0xaVW5nOVF2RF96ck9lX2w0MUlfWjNYQ2RqVjRXYUxYWjRORW02MTFhRGdmWGVwWGtBRVUtaWlWTGRhdlZTSmtLRnBIb2xGbk1VRTQ0dUdiQTJBUkkxUV9NQ1ZBcUZ2RnJQdi16dGtORHpTWFFEakVOSGp3LThUR0Nya3RUOHBfd0FHRXFJN3dHaGNWbmF0bmp5N3hncFJKNF9tR1M2UW93M2tTQUZxb090X0VLVzJPUE5rcVYwd3Q1TXJzd0ZPcWdxSG9JeFQwTnFud0J4UXppemFqY1NrTU9YeUdZUkwwb1I1VU00Nlg0UER4MXJrTXhCTDBNTlRJLXA0a2MwYXpPaFE?oc=5",
+            "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "BSE enters Nifty50, Wipro exits: What changes from September 30 - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbHBKZWg5Q3ctOU1ZMVNTYlBEb0dEWUJmRkRkaC01S0VjVGEyallKVkVqUmVMTDhxRXg5U1RiNDRKVnY4TDNxSkpIcXJfUFh2d3NVRklzVGhndmZReFQ4Z29RM3dMczhNUFlkU3NpN3dJQ0hkS3FaSWdTMDQ1cHRkN2tLa0d0empCZk9iZEZ6S3FFVHFELUI3dkd2MlFXalotQURidXRwUlJTb0dJRVFpSXByYy1IU3E2WGU3LTFhYkxVNnZCaHNhTzdsRFNORmhzcl9qb01OSGZzd0htdHVoetIB5gFBVV95cUxOdkF3elNTUW9mWm45SGNJRzA4d1ZNelJzMEdhTG5uR3pqXzJmWW5nZWJIcTdmM19MYVVaREQ2U1dZODZoVXkwSjA4MWpwNGh6cy1CWHMyODhDQmNuNFBNX1EwNGd0YUdCNTJrMlB1NnVYUXdBbzZlS2kxUmtpTXVuQ0JoQkNaanRYU1FNUW51cVN5NXNyeVNuRjEwbmhsYTBYR29rZUFaMVJzTWNhNWVTdllsemo0NUlvcWdta1ZWeHA4c2M0U2R2eEpwTURHYllTdERiSE53ZWt0aVFIMDBzVklQWkZYUQ?oc=5",
+            "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to watch, June 2: Anant Raj, NHPC, Ola Electric, fertiliser stocks, Wipro, NMDC, Coal India - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdlYxZWZESkozYzVaMk01X2lneEtJaUhlWG5oRDFwbmNZSkdTY0xhRUNsVE1TV3d5a1ZGUUtWcl8zOGpWTC1tQTRFemtPcHZaQnlwUHIxWmNCcFZTNjAxSUFFbWs1YUJoRTV1d1J4S0hKNU4xYTJrOV91dnFBX3BoeWpWWjhwZW5hYmhabFZpXzZ1d1ljcUlIbWVqTzNZcW9FLU5yRWF5WTdZWDRHbGN4Q2YwUzZLQjQteG1PdEZ4XzJKR3hUQkZSdGtIVklTYkl4TjUzUWVsY3Z1MXZSN2NPdFMxZw?oc=5",
+            "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 62.0,
+      "added_at": "2026-09-09T09:43:40.421076",
+      "first_seen_price": 168.6199951171875,
+      "first_seen_at": "2026-09-09T09:43:40.421076"
+    },
+    {
+      "symbol": "VBL",
+      "base": {
+        "symbol": "VBL",
+        "price": 402.1000061035156,
+        "day_change": -0.8873566663040965,
+        "volume_ratio": 5.58138464417871,
+        "market_cap": 136008.91545223273,
+        "pct_from_low": 5.247452321123241,
+        "avg_volume": 5871166.952380952,
+        "volume": 2446770.0
+      },
+      "technical": {
+        "symbol": "VBL",
+        "close": 402.1000061035156,
+        "rsi": 33.93,
+        "adx": 33.49,
+        "atr": 10.22,
+        "volume_ratio": 0.4,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DOUBLE TOP",
+        "score": 63,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Near Breakdown",
+          "Weak RSI",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "OBV Distribution"
+        ]
+      },
+      "news": {
+        "score": 60,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Some Confidence Is Lacking In Varun Beverages Limited's (NSE:VBL) P/E - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYm1JcVoySjhmcmhXTkw3SG5LQnRpMVZpTE9zUTBTX3ZRSDViZWVYR090ZlNYRUVPT2I3eFNWdGFtbFFOYnZ1YXliVG1VQWtDWmJmNXl2U0ZpQ3U5dlFNUFZJRVhZSFFBS2hRTFE2MGJUT2h5RmNYU1ZmUXcxNmJySldpTkZWSmtDSmhGYXUxZlEtN0huUXhDenRrTUxBQ18xbHByblNMOERtaVFLQXpWY1lLNkhGanRwYjNPT19tNW5hTkhWN0ozTG50ODV5blgxQW1tZ0FYTVhzSmJwZWZOblE2R2TSAeoBQVVfeXFMT2V5a3c1dm5uSW5jZHNnUGpYMnlLeENxaEpDRGN1TnlrZHBTckpWeHctbU9qZWJ5TDJRZ1FKaGZmY21pMU1QaEVjNm9EWk0wVGNmRXV3UXJlX3FIUy1iUVNPNW9ZeFdPMWI0b3dwWUFFNHBwRU52NFhFX05RSWxha2toM1UtRERLczhZRF82SjZudXRCUHJLR2xuNlZhUm1FcFBHZzE2N21lZ3NwbUJucGd6bWhpb0VxYnA1QlpqMEU0QWQ4WEtUb2poazhUNkl6eGdHNmxFQllXVE5jS0JZamd5REcweEFORDdR?oc=5",
+            "published": "Thu, 22 Jan 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "IT shares, VA Tech, VBL, RIL, among buzzing stocks as NIFTY50, SENSEX tank 1% in noon deals - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWF9NWkVSLUxHaEZERjdaVTBjb1ZKSHc0UlJHOWJ3bzhuQXFael85X21DV3hQeXZwVm1WZE5tMklRcDBmUlg5M1ZYTllWVTNRVmdjX25DVm1sQWdrSk5ORHZfM045Q3U2bkdTclJCOUg5Uko2QkRNTXJKSHVCeE9iNlpWTjJOZWNlTlZ5aHVUbWFCTHR3Q0NMY3ZMb3hBY01teV9KSEkwRWJiRFh5SW1MTWlEWldVVG1pMXMxMWFkdEhKSjNtSElfZTZtazNqRXFTc3JzNE1FQWNSejI0WVE?oc=5",
+            "published": "Fri, 19 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Varun Beverages Results, \u20b90.50 Dividend; Shares Rise 3.5% - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUGtrVEpTei1JMDFkREpaanA3eGctXzhQTTM2cVVIS0kwbnFFQS1WYmxFS29RNHFGYU9NbUZmanRPeVFqVGR4MGM4Z2hyQzU5b3Mya0RCR3ZjSk5aXzVXQklRQWVWSWpnUXZWNjdBUDAtYUZrQWI2ZG42Q1BKU2lKOGl0NUppcU1LemZTaHpKTGhFTEJHOHQwckh1MW1SNTJuU2xF?oc=5",
+            "published": "Mon, 27 Apr 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Varun Beverages Share Pros and Cons 2026: PepsiCo's India Bottler Champion - Univest",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11ZEFQWmVMejVqRTBkbm80TFZDY2xKWU1hQ0ZxclowYTY5M3lyOFVyT2Q5WXI4T2Zkblh6QnhGYlBXMC1SQlk2WDJtSmhDWF9Dd1VuTUZRNUY1d3g0T0dSSTlJRGY?oc=5",
+            "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Varun Beverages shares jump 5%: What to expect on FY27 revenue front - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOWxpSHBObkt3YjdzVGJrbFZuT3hwYTRINU51Z05Rc1BlVkN2NHMyY3gxbW11enF2NHpRSmZ3aUJhR1Ffa1FDZC10NFNaWFBHd1U5WWxZVGFScGpwQUtkekdGTzh5N2dIcEpVLS1DT3FoRjdyOWxjX3VBa1Voemd1SDM0ZUtiUGJRRU51Y3gzX19SdEUtdnV2empPXzVSbXJWVEg0S1JEc2x5ekVUbl9jMUxfN0phMEhfc1Q4QVY2WEt3VS0yS3RJUnBxNGY?oc=5",
+            "published": "Wed, 15 Apr 2026 07:00:00 GMT",
+            "score": 2,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 58.4,
+      "added_at": "2026-09-09T09:43:36.283953",
+      "first_seen_price": 402.1000061035156,
+      "first_seen_at": "2026-09-09T09:43:36.283953"
+    },
+    {
+      "symbol": "CMSINFO",
+      "base": {
+        "symbol": "CMSINFO",
+        "price": 233.35000610351562,
+        "day_change": -1.331921309295719,
+        "volume_ratio": 3.3641135982685033,
+        "market_cap": 3735.0798867199555,
+        "pct_from_low": 0.9642168164340588,
+        "avg_volume": 1034150.5714285715,
+        "volume": 250488.0
+      },
+      "technical": {
+        "symbol": "CMSINFO",
+        "close": 233.35000610351562,
+        "rsi": 32.87,
+        "adx": 26.52,
+        "atr": 8.42,
+        "volume_ratio": 0.24,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": true,
+        "obv_distribution": false,
+        "patterns": [
+          "3 Black Crows"
+        ],
+        "setup": "DOUBLE TOP",
+        "score": 66,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Near Breakdown",
+          "3 Black Crows",
+          "Weak RSI",
+          "MACD Bearish Crossover",
+          "ADX Trend Strength"
+        ]
+      },
+      "news": {
+        "score": 80,
+        "label": "Bullish",
+        "headlines": [
+          {
+            "title": "Stocks to Watch Today: CMS Info Systems, Advanced Enzyme, Niva Bupa, Oberoi Realty, Bank of India, Swiggy,... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNNHk2N2Z6VGllRWh6Ym11T1h5a3l2UURrNzl1bGs0T0hxZWJPOUNGX25yeTJlZUJKZ0k3M3Zsa05DS2VfaGRySDFqVTE1ZllpeVNkdk1weEktbHBMdUhjTWkxWDE4S1FuNUVSaFFndnpxc0VsUlVPU3BuZG5LTjlpeDhVdlQ5M0JoYmN0N2JnM0ROaUJmLTBpOHhmUkZ3MEFKTFNQSE11YS1xTjBZQ2VVZXR1N0NEVjJSMmtQQ3ZXTjI0ay1JOUNzMy1zVkJ5NzRJVnlTSkNYREwtUXU5Y1pPRnZFR2JuSHZmZDRLSWNCV1EtZU4yZXI0Q2JEdHlxWVBQeVdscVJZNnB0d1NyeFVPTHF3cXo2ck8yWm8zcnRGVFRSZkR2RXFUbXRTcVRZYk01VlBNWtIBugJBVV95cUxORHh1Skl5N3hEcDRXbUU3aGtYYkhxbDNBcURVS1ZyYXBTeHd2bDY4bUNCWWhLRnkzX1BLeGZNUlBDV1hTX3pRZGFVblJVMy1EZVE2c0NFUmJKM0lGd09WdGg0R0VIbEdzVGpSeC01ME1PMUZiSTRHYkk4Q2dXMEhWcmRVU0Nrekt0a1V4Q1I3TGhnanYzRmlwbGZIcUxxZm52NUFZZkV6dkYwSXkxLXBKNVQ5emFpZ25Ed3RFcGJFdjdPTU80cVY3SVhDTlpwZjFwb09ocE5QaTlyTWVfRWpVbGtyRzFnb2hEaldoUkVURkt2M2FrVE42S3U0dldpa2IxOUJodUluREFpM2FsRVVPREJHd0UxS1hKSDVzMUxZejhWMlFlWUJzMVkya2J2X3hwcUV3Nmp1VjVaQQ?oc=5",
+            "published": "Mon, 11 May 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "5 Cash Management and ATM Services Stocks India 2026 - Univest",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNGczaVh5SVFESFFPUlVNVld6OVlVeVVSRkVybFFnQlJvN3ZfOGkxNGlQXzduYVA2cDd3MmRGVEZQelMzSFA0V0hZWDRUcjVpVmJNek1fbTVkczczS0pCUWlMLVBBY3ZxMng4X1RYZmQwdXV3ZERmaVpINnJvUVhPeFVIcFRlZnpPbkVYUlJZenk?oc=5",
+            "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "CMS Info Systems Wins HDFC ATM Deal; Shares Rise 3% - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYXpYMF9rMkprRE9JT3ZMeF9FSVZJem9CcnZkMkhSSl9TOXlpVGJveDFjdjRjaDlDWFYwWlIwTXRYNkNKX1Z1THBtSU9JQVo1NjktVDRubE9rdk1MZDBQLUhTV1AzYk5Ga0swcDJJNkdCRF9TZUtXbjl5TV9McDB6Nno1bENNcjVlbVhKNEhBX2tKeGgt?oc=5",
+            "published": "Mon, 11 May 2026 07:00:00 GMT",
+            "score": 2,
+            "label": "Neutral"
+          },
+          {
+            "title": "CMS Info Systems' (NSE:CMSINFO) Dividend Will Be Reduced To \u20b92.75 - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYnNLVThWaGRkb1liZlIwV1NkVG5OejVuaHdaVWdvU0VJWW1tTWhuVV9sbVNQY0FIY1Jnbm9qV0lTODFEZk9sMTFVd2lmT2RUYzBCVE1LUk5oaWJjNnlpcmlxQzN3Q2h4NVBxYzIxVXFfWm1kWjRKVVRFZGt2ZVZRaHlEeWtHNXhHNGpBc2tQSXhUYjVubVpwYkJPVjdlTzhSS3NHbjNGQ0YyYklINGtaelNWUzFhQ1NoUEd4UkNhMWZTUDluM0FtTDVWNDZmZFdpSFpiR2dGS2J5REcycC1oZ0pJMzNBOWfSAewBQVVfeXFMT0UxcHJfdmNudVZYY3FUVFNVSWtybHJKaXZHanY4OVVlb2NxcU55M0tXaXlSMU1JSTdMSmVZUnlITmVDZkpmeG02WnJJczBPS3c3c2ZnNm1JS1NHeDVTZVdIdTlkNEdCdHNLS1BhSVpfM2NfWTROS1ZTM1IzV2l4dEtKRXRwTng3N2JKNmUxWmcyN3hMRDA1MW9wWW94X1FmNXhkV25lRjdIdEpRVU1jUmZXNzhPaG1MT1hNT2VtN1VKLVVMdk5MYmpZeWpOR1pZZmtwbDh6bjZLSTBSaE1HdUZPTURBMzF4a2cxRVg?oc=5",
+            "published": "Mon, 16 Feb 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "CMS Info Systems share price rises nearly 7% on \u20b91,000 crore SBI integrated cash solutions contract for 5,000 ATMs - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOWFp6bzlwdzVRX0p6OVN0QWk1MklfQktPRTZ0MGNrdDI5TEdnZEFNZUZNaDhNQmI4TDFRWkE0WUtTVklmUm92amhLT2lCS0lCOVUzdEo4S3dCSjA5XzlVUk9uNnFzcTRCWnZ6UG9YRk1qbG5DOEhqUFVzU0hwdUxlYUNtdUpCRFk0UHVWLVdnUkwwWThpdkcyOS1lclE4d1M3ZXRSaFlhLUhoN2p5bS1wbzd3ZWpMU3BxcmhXQ3dMUzI5ODFmQWU3Y3l4Rmt6NG9hRFBqUVdib1p6QzgxU3BvVER3cGlDaVdQVTNYT0NMX3JYODBveHM4MG00cklqdDJmYXc?oc=5",
+            "published": "Tue, 06 Jan 2026 08:00:00 GMT",
+            "score": 4,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 56.8,
+      "added_at": "2026-09-09T09:42:19.390513",
+      "first_seen_price": 233.35000610351562,
+      "first_seen_at": "2026-09-09T09:42:19.390513"
+    }
+  ]
 }
