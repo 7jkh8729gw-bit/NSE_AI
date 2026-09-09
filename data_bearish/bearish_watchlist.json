@@ -928,21 +928,21 @@
       "symbol": "HDFCLIFE",
       "base": {
         "symbol": "HDFCLIFE",
-        "price": 517.3499755859375,
-        "day_change": -3.0816808885749345,
-        "volume_ratio": 3.2428048569100105,
-        "market_cap": 112370.95731719062,
-        "pct_from_low": 1.6236520296328736,
-        "avg_volume": 2717888.6666666665,
-        "volume": 7685444.0
+        "price": 514.2999877929688,
+        "day_change": -3.6530536616578124,
+        "volume_ratio": 3.363297430191477,
+        "market_cap": 111751.92861315,
+        "pct_from_low": 1.040244159618983,
+        "avg_volume": 2775021.1904761903,
+        "volume": 8885227.0
       },
       "technical": {
         "symbol": "HDFCLIFE",
-        "close": 517.3499755859375,
-        "rsi": 34.51,
+        "close": 514.2999877929688,
+        "rsi": 33.33,
         "adx": 14.41,
         "atr": 11.51,
-        "volume_ratio": 2.81,
+        "volume_ratio": 3.18,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -975,7 +975,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "HDFC Life Share Price Today, HDFC Life Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",
+            "title": "HDFC Life Share Price Today, HDFC Life Stock Price Live NSE/BSE Updates - The Economic Times",
             "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdVZhWi1vdFEtdXRnUjlqZG5HaW01NkJsTXBBUTRpWG1RSGxWQnhUUWttNUlfZEZKUllnWDQwLTNGSGpGWnNHbGZOdjRSVTUwaDV0a3BDdFhrUWxHQVphMXQ5NURSZWFBcEUzVGI0T0pORWpfSnZWSTVva2pWbW1yOThkWG5VM3FHS0FGY2JiZDRCOWhqajNIMGFB?oc=5",
             "published": "Tue, 08 Sep 2026 05:27:05 GMT",
             "score": 0,
@@ -1012,7 +1012,7 @@
         ]
       },
       "combined_score": 68.2,
-      "added_at": "2026-09-09T14:42:36.759245",
+      "added_at": "2026-09-09T15:13:00.903168",
       "first_seen_price": 516.5999755859375,
       "first_seen_at": "2026-09-09T10:12:55.170982"
     },
@@ -1110,36 +1110,36 @@
       "symbol": "BANKBARODA",
       "base": {
         "symbol": "BANKBARODA",
-        "price": 234.9199981689453,
-        "day_change": -0.7100625068603282,
-        "volume_ratio": 1.7207172584412422,
-        "market_cap": 121485.6393621633,
-        "pct_from_low": 0.6214845336530933,
-        "avg_volume": 7664789.619047619,
-        "volume": 11500752.0
+        "price": 234.33999633789062,
+        "day_change": -0.9552027503482887,
+        "volume_ratio": 1.9502718019494272,
+        "market_cap": 121185.69940887661,
+        "pct_from_low": 0.37551832285368664,
+        "avg_volume": 7807405.619047619,
+        "volume": 14495688.0
       },
       "technical": {
         "symbol": "BANKBARODA",
-        "close": 234.9199981689453,
-        "rsi": 35.54,
-        "adx": 20.41,
-        "atr": 4.28,
-        "volume_ratio": 1.51,
+        "close": 234.33999633789062,
+        "rsi": 34.83,
+        "adx": 20.51,
+        "atr": 4.32,
+        "volume_ratio": 1.86,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
         "double_top": true,
         "ll_lh": true,
         "near_breakdown": true,
-        "breakdown": false,
+        "breakdown": true,
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": true,
         "patterns": [
           "3 Black Crows"
         ],
-        "setup": "DOUBLE TOP",
-        "score": 73,
+        "setup": "BREAKDOWN",
+        "score": 82,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -1147,6 +1147,7 @@
           "Lower High / Lower Low",
           "Double Top",
           "Near Breakdown",
+          "Confirmed Breakdown",
           "3 Black Crows",
           "Weak RSI",
           "MACD Bearish",
@@ -1196,8 +1197,8 @@
           }
         ]
       },
-      "combined_score": 68.4,
-      "added_at": "2026-09-09T14:42:10.611649",
+      "combined_score": 75.6,
+      "added_at": "2026-09-09T15:12:32.371213",
       "first_seen_price": 235.2100067138672,
       "first_seen_at": "2026-09-09T12:15:38.045869"
     },
@@ -1205,21 +1206,21 @@
       "symbol": "KEC",
       "base": {
         "symbol": "KEC",
-        "price": 399.25,
-        "day_change": -1.5291680898668698,
-        "volume_ratio": 1.7420186536650042,
-        "market_cap": 10634.69,
-        "pct_from_low": 0.06261740763932373,
-        "avg_volume": 951307.2380952381,
-        "volume": 1445074.0
+        "price": 395.0,
+        "day_change": -2.5773860876578922,
+        "volume_ratio": 1.8774949464998605,
+        "market_cap": 10514.9,
+        "pct_from_low": 0.18987341772151897,
+        "avg_volume": 964845.1904761905,
+        "volume": 1729371.0
       },
       "technical": {
         "symbol": "KEC",
-        "close": 399.25,
-        "rsi": 28.39,
+        "close": 395.0,
+        "rsi": 26.94,
         "adx": 44.21,
-        "atr": 10.99,
-        "volume_ratio": 1.57,
+        "atr": 11.33,
+        "volume_ratio": 1.85,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1262,7 +1263,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Volumes jump at KEC International Ltd counter - business-standard.com",
+            "title": "Volumes jump at KEC International Ltd counter - Business Standard",
             "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVUJUXzFlWUNkQzFOTWI5cF9KQUZ0YTA4Nng0aERMSHltYVJBU3dPS3pjZ01mV2I4Q1hGWFM5dk9oV05XTFdzek9mM0hHYmNxdUhMczJ3d3h1RkRjbXhQei00SndiYlF5NnJ3UW9KQzB4bTVtbllkaDJpSHFReG0wbDhSblhWeFllaUhRMm16RUs3aFIzZTBBVXhjempBYTRhQ3lDdkZZVTRNRkF2ZUxUaVNWRDRrWXo1MnBkQUV1SWViSHVrU3fSAcsBQVVfeXFMTl9XNGFkWkIwMW9GSU9BNnBlV25UVFR6Z2Y5SXBoZXRzMjM3WHZvQTJoYjVtZUNNQXREMk9mbzdZeUZ5OHdkelZKVksxdmtPMDV5cnB5R0o1a1Brd1JBdnd6MS1UWmd0SkQ0TDBQRGZSTEMzV0d4eHBZMEI4SGRKVUNXWlVzb2NKZER0bTBtZUtqLXNtbnZFeWhoc3dIZml3Y2FfOGI1OGY2RW5VYU1fM3EtUHRJS1pLRE9nY29TZjhYMXRmQ3JWQkV0bEE?oc=5",
             "published": "Tue, 30 Jun 2026 07:00:00 GMT",
             "score": 0,
@@ -1292,9 +1293,102 @@
         ]
       },
       "combined_score": 68.8,
-      "added_at": "2026-09-09T14:42:50.479043",
+      "added_at": "2026-09-09T15:13:12.909407",
       "first_seen_price": 399.8500061035156,
       "first_seen_at": "2026-09-09T14:12:53.416836"
+    },
+    {
+      "symbol": "CSBBANK",
+      "base": {
+        "symbol": "CSBBANK",
+        "price": 309.79998779296875,
+        "day_change": -0.9749139367245807,
+        "volume_ratio": 1.9038495677896947,
+        "market_cap": 5250.41543837818,
+        "pct_from_low": 1.1620321910223153,
+        "avg_volume": 511704.28571428574,
+        "volume": 927446.0
+      },
+      "technical": {
+        "symbol": "CSBBANK",
+        "close": 309.79998779296875,
+        "rsi": 36.87,
+        "adx": 22.89,
+        "atr": 10.82,
+        "volume_ratio": 1.77,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": true,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "BREAKDOWN",
+        "score": 77,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Near Breakdown",
+          "Confirmed Breakdown",
+          "Weak RSI",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "Volume Expansion",
+          "OBV Distribution"
+        ]
+      },
+      "news": {
+        "score": 50,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Stock Alert: KP Energy, Bank of Baroda, Innovision, TCS, CSB Bank - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQalRtWnpIYkdvcm5SNTlNZFNXd2FXbWxQZFc2elF0ZkViR0c0ek1PMVYxMzNwZzMyVHR6RHFIWnZldXpBRVpFeGI0NnRMcWRZRkJ4cHdUZXdUcE9lQnFndVVmNEI2S0lfUVZIUVdBOXRTaG1EU21WdUxPeC1NclVHX05xSDlxdmJiVVltSlEzak5XNktFTmphS0trcF85dURYT3dTMkVVdVVqQ2FxSlRLcUthSjctYW1xLW1sQy1XLV9iempOQ2lBa2FRdGJhTlEzOXcyNERsSnoxd9IB3wFBVV95cUxPMEhJUzNFNFFRVE04Vm5UZTRaRVo4TmJ6Wlo4VFh4SF9pdzFlOHNnWjVMcEhhR0R6cjBNeWJrNXNVSGtWQkVNbHlJN0FKTW5HZ0pSVkJORGV5c21PRWRCVXliQVVLeGxMUmVCcnVDTlN6cklDZm9CYTBKTnBENWFWTXZkX3ZiNzYtQ0dxT0VRNGM5SXdyazAtZzJNUmkwQy1IX3Jod1QwMjUxS1JkWW5ma2FXSGpQV2NHVFlSZElxcEIwR1oyQ2d0ZW1VbThNa204MW1ET0ZPSjlRM0kxR1ZV?oc=5",
+            "published": "Wed, 09 Sep 2026 03:34:02 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Is Now The Time To Put CSB Bank (NSE:CSBBANK) On Your Watchlist? - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOclBneFhpREFXM1F0MFZkVkRSUWtrRHptMU5UVG5HdmRzWWliQXVCMjE4YnRZV3FfWGNmNHlrWTNCQXpvd0htREtxQjByaFYwM3hWQVlLemNhdHR5S2xFbFpLeG1mYU0yWEcyZ1BOS0lXSkpweVlYbWg2bU1xNWdxNUJrTl80d2J3SHZMMjVMTzUxY2hleFNQQlh1cDhpQ044WFJOSFF6bEwwYzNDcDk3SE0wQTNjZGxSMmVHMkRTMlBKbGNQR21mckF1SdIB0AFBVV95cUxNdDZERW13b3hsTEx4bGpINjZZZzRNbjROcndTQS1qNlFlcUYzRE5lSmEyeVRpYkJtNmJYR3VuWUM1SGJFendlM2xoS01OejFnUklDclpsQlhEd3Z3U0pqRGFodERuZmlkdXZHbVVzMjZSWU9DRmROR2pqLTEyUlZCM1hveGwtd3VwejNYMXNXWXFHcklBRGJMMnY2ajNYRTF3RGlYeldkOS1PakpuOTBGcjF3LVZIcWZKaWk3RnJuWEk1OHI3a2IzVzItLWVCcmtR?oc=5",
+            "published": "Fri, 26 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to Watch Today: PB Fintech, Bajaj Finance, CSB Bank, Ujjivan SFB, Marico, Titagarh Rail, BLS... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPQ1VhdU84WTA3NWU2RjF1TGpXaXNxRVVfd1h3OUVmNjZ4aVYybnM4dW1iX3hPTXdBLW5NRXlmOHRLcnlrVTBweEhTQl93YnlKaG9HYzZLc3pEUEJZdDBUVkktLWZZeGQ4aVViTXh5UHhSd0EtNDV1SlNFM2pURXZKckZwQmJfRnlHNzVVVTczdEh3MmdDMlBVdTNMdHRqNHpOUnFBc1ZpelZVMENIc2VFVTctb0tsWm81OHUybVdGZEYySlpuU3dEQ2JXRWlaVGpSQ19aOVhHc2pESGtXWnZTSjBqcEVreGJlbHgzWWpnVFZBY3NNbVJSU0lhRHFDYTBXYWtRajU3Vi16dWJCUHVZUi1XVlIyb2pYQy1aM2xFcXlnTlBaVHhubnhlUlVOM0HSAbQCQVVfeXFMUDh4R1RXeVZTQ3NHdmljby16c3pBNDZrV2pST3NIYW1ZT09NWGhkdlI0T2MyUjc2SlhpN3ZNZzZudG5FSUpiV2w3c3NBZU5jamdqLWRKSEw1S0ExOE50UTRydXRCaUJYeW5CZjJPMmx2OVNRc2hETmJvWllub3E5dWxsM1VNRWxlLUtKTUtiUHdRYTM5QWtuRzI2UTUxcUI3cGVURjI4dnNsQkhQMzhiejEyR3VZaWtTR00xaC16YTc5ZGExY3ZNOHRYYl91V1JyTHZTcVVIWDNScFhwMWpHeDM5RTNOYURqN1RFR2Y2SnV2MTZVbDhESkhtcG5HQVlscjF6QmluZU81aU9qNklac3pkRkd4RmZXZGdJMjV3WUFvNWVEdmUwQzlCYkZOX3pBZldZbVI?oc=5",
+            "published": "Fri, 03 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Csb Bank Latest News: CSB Bank Hits 52-Week Low of Rs 322.85 - Univest",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90b0t1WGplQW0xODJ0azJTV0FOS2ZWOXItQmhNYVJtUlFnNUhUaVNpVC1vMmhVWmRDVmhpTHZ6aXJCQ1RINEdaa0JBOVROMjh6ZjYxRklCRlhwNXA3ck5oYTNWbnRvVWh0dmlvU0tDTG4zNEtJVUE?oc=5",
+            "published": "Thu, 25 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "CSB Bank holds one-on-one meeting with Theleme Partners in Mumbai - scanx.trade",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPekhiSjU5ZWJvOTRvVzVYOHNhM1hSRXpaWWJHWXI5RWlSdjZTTUxTUTNWS3F5MEwwU3dPb0FqNENRMjV4a2d1QXRpVFljLUdrM1dzN2xLMlZYQ1NuTVBqWUZ4YTlRalAyLVBscDl4cmpYNWZHYWVnMUNtM2xTVThGY0FyQl9fSmUtYzdNT0hIZWlWVTItZkI1VTdtQ1l4RV9ucnJWbFVZZC1HOVp6dE8wcEttNW1IRFd5X2lYaDlhWQ?oc=5",
+            "published": "Wed, 29 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 71.6,
+      "added_at": "2026-09-09T15:12:42.703381",
+      "first_seen_price": 309.79998779296875,
+      "first_seen_at": "2026-09-09T15:12:42.703381"
     }
   ]
 }
