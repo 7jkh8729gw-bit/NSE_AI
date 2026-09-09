@@ -928,21 +928,21 @@
       "symbol": "HDFCLIFE",
       "base": {
         "symbol": "HDFCLIFE",
-        "price": 516.5999755859375,
-        "day_change": -3.2221829524848498,
-        "volume_ratio": 3.302513024819169,
-        "market_cap": 112208.05363116562,
-        "pct_from_low": 1.480829218048165,
-        "avg_volume": 2713361.476190476,
-        "volume": 7097042.0
+        "price": 517.3499755859375,
+        "day_change": -3.0816808885749345,
+        "volume_ratio": 3.2428048569100105,
+        "market_cap": 112370.95731719062,
+        "pct_from_low": 1.6236520296328736,
+        "avg_volume": 2717888.6666666665,
+        "volume": 7685444.0
       },
       "technical": {
         "symbol": "HDFCLIFE",
-        "close": 516.5999755859375,
-        "rsi": 34.5,
-        "adx": 14.96,
-        "atr": 11.21,
-        "volume_ratio": 2.66,
+        "close": 517.3499755859375,
+        "rsi": 34.51,
+        "adx": 14.41,
+        "atr": 11.51,
+        "volume_ratio": 2.81,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -952,10 +952,10 @@
         "breakdown": true,
         "macd_bearish": true,
         "macd_cross_down": false,
-        "obv_distribution": true,
+        "obv_distribution": false,
         "patterns": [],
         "setup": "BREAKDOWN",
-        "score": 79,
+        "score": 74,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -967,7 +967,6 @@
           "Weak RSI",
           "MACD Bearish",
           "Volume Expansion",
-          "OBV Distribution",
           "Strong Volume"
         ]
       },
@@ -976,7 +975,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "HDFC Life Share Price Today, HDFC Life Stock Price Live NSE/BSE Updates - The Economic Times",
+            "title": "HDFC Life Share Price Today, HDFC Life Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",
             "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdVZhWi1vdFEtdXRnUjlqZG5HaW01NkJsTXBBUTRpWG1RSGxWQnhUUWttNUlfZEZKUllnWDQwLTNGSGpGWnNHbGZOdjRSVTUwaDV0a3BDdFhrUWxHQVphMXQ5NURSZWFBcEUzVGI0T0pORWpfSnZWSTVva2pWbW1yOThkWG5VM3FHS0FGY2JiZDRCOWhqajNIMGFB?oc=5",
             "published": "Tue, 08 Sep 2026 05:27:05 GMT",
             "score": 0,
@@ -1012,8 +1011,8 @@
           }
         ]
       },
-      "combined_score": 72.2,
-      "added_at": "2026-09-09T14:12:41.288943",
+      "combined_score": 68.2,
+      "added_at": "2026-09-09T14:42:36.759245",
       "first_seen_price": 516.5999755859375,
       "first_seen_at": "2026-09-09T10:12:55.170982"
     },
@@ -1111,21 +1110,21 @@
       "symbol": "BANKBARODA",
       "base": {
         "symbol": "BANKBARODA",
-        "price": 235.1999969482422,
-        "day_change": -0.5917198305823015,
-        "volume_ratio": 1.8396875338144714,
-        "market_cap": 121630.43687190552,
-        "pct_from_low": 0.7397917759148186,
-        "avg_volume": 7647755.142857143,
-        "volume": 11143028.0
+        "price": 234.9199981689453,
+        "day_change": -0.7100625068603282,
+        "volume_ratio": 1.7207172584412422,
+        "market_cap": 121485.6393621633,
+        "pct_from_low": 0.6214845336530933,
+        "avg_volume": 7664789.619047619,
+        "volume": 11500752.0
       },
       "technical": {
         "symbol": "BANKBARODA",
-        "close": 235.1999969482422,
-        "rsi": 35.9,
+        "close": 234.9199981689453,
+        "rsi": 35.54,
         "adx": 20.41,
         "atr": 4.28,
-        "volume_ratio": 1.46,
+        "volume_ratio": 1.51,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1140,7 +1139,7 @@
           "3 Black Crows"
         ],
         "setup": "DOUBLE TOP",
-        "score": 68,
+        "score": 73,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -1152,6 +1151,7 @@
           "Weak RSI",
           "MACD Bearish",
           "ADX Trend Strength",
+          "Volume Expansion",
           "OBV Distribution"
         ]
       },
@@ -1167,7 +1167,7 @@
             "label": "Neutral"
           },
           {
-            "title": "NSE IPO opportunity: Five stocks holding unlisted NSE shares - TradingView",
+            "title": "NSE IPO opportunity: Five stocks holding unlisted NSE shares - tradingview.com",
             "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZUsxd011bDJmTGNpR2RQTnlQT3pmTHJLdi1vaUZXS1ZEX0VqdXlXem1VUm1sWm8wajVkV0VvRWc2SGt3YU9zSE9ZQlBycl90VUFfNGRJdk1QVkVJdHhDUHltcXZHZUI2OTQ1Y2p1ME9zdXhFbkljeXhsekZjNnUwV1BaRVRGZXJRQnpTdEtOdFJFZi13bFFoN0J2OGF2QzlPQkpMR05vQnNDMTU1d2tfTzItcWRMeVE?oc=5",
             "published": "Fri, 04 Sep 2026 16:21:47 GMT",
             "score": 0,
@@ -1196,8 +1196,8 @@
           }
         ]
       },
-      "combined_score": 64.4,
-      "added_at": "2026-09-09T14:12:14.990250",
+      "combined_score": 68.4,
+      "added_at": "2026-09-09T14:42:10.611649",
       "first_seen_price": 235.2100067138672,
       "first_seen_at": "2026-09-09T12:15:38.045869"
     },
@@ -1205,34 +1205,36 @@
       "symbol": "KEC",
       "base": {
         "symbol": "KEC",
-        "price": 399.8500061035156,
-        "day_change": -1.3811828671634483,
-        "volume_ratio": 1.5426000829768065,
-        "market_cap": 10644.007162475586,
-        "pct_from_low": 0.21258124060039907,
-        "avg_volume": 1127918.238095238,
-        "volume": 1378022.0
+        "price": 399.25,
+        "day_change": -1.5291680898668698,
+        "volume_ratio": 1.7420186536650042,
+        "market_cap": 10634.69,
+        "pct_from_low": 0.06261740763932373,
+        "avg_volume": 951307.2380952381,
+        "volume": 1445074.0
       },
       "technical": {
         "symbol": "KEC",
-        "close": 399.8500061035156,
-        "rsi": 26.49,
-        "adx": 43.12,
-        "atr": 11.34,
-        "volume_ratio": 1.42,
+        "close": 399.25,
+        "rsi": 28.39,
+        "adx": 44.21,
+        "atr": 10.99,
+        "volume_ratio": 1.57,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
         "double_top": true,
         "ll_lh": true,
         "near_breakdown": true,
-        "breakdown": false,
+        "breakdown": true,
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": true,
-        "patterns": [],
-        "setup": "DOUBLE TOP",
-        "score": 57,
+        "patterns": [
+          "Bearish Engulfing"
+        ],
+        "setup": "BREAKDOWN",
+        "score": 76,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -1240,8 +1242,11 @@
           "Lower High / Lower Low",
           "Double Top",
           "Near Breakdown",
+          "Confirmed Breakdown",
+          "Bearish Engulfing",
           "MACD Bearish",
           "ADX Trend Strength",
+          "Volume Expansion",
           "OBV Distribution"
         ]
       },
@@ -1257,7 +1262,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Volumes jump at KEC International Ltd counter - Business Standard",
+            "title": "Volumes jump at KEC International Ltd counter - business-standard.com",
             "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVUJUXzFlWUNkQzFOTWI5cF9KQUZ0YTA4Nng0aERMSHltYVJBU3dPS3pjZ01mV2I4Q1hGWFM5dk9oV05XTFdzek9mM0hHYmNxdUhMczJ3d3h1RkRjbXhQei00SndiYlF5NnJ3UW9KQzB4bTVtbllkaDJpSHFReG0wbDhSblhWeFllaUhRMm16RUs3aFIzZTBBVXhjempBYTRhQ3lDdkZZVTRNRkF2ZUxUaVNWRDRrWXo1MnBkQUV1SWViSHVrU3fSAcsBQVVfeXFMTl9XNGFkWkIwMW9GSU9BNnBlV25UVFR6Z2Y5SXBoZXRzMjM3WHZvQTJoYjVtZUNNQXREMk9mbzdZeUZ5OHdkelZKVksxdmtPMDV5cnB5R0o1a1Brd1JBdnd6MS1UWmd0SkQ0TDBQRGZSTEMzV0d4eHBZMEI4SGRKVUNXWlVzb2NKZER0bTBtZUtqLXNtbnZFeWhoc3dIZml3Y2FfOGI1OGY2RW5VYU1fM3EtUHRJS1pLRE9nY29TZjhYMXRmQ3JWQkV0bEE?oc=5",
             "published": "Tue, 30 Jun 2026 07:00:00 GMT",
             "score": 0,
@@ -1271,7 +1276,7 @@
             "label": "Neutral"
           },
           {
-            "title": "KEC Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+            "title": "KEC Forecast \u2014 Price Target \u2014 Prediction for 2027 - tradingview.com",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zbkxVVkp4cGxuVHIzZXlzOGxWZWNCZnE2ZTZvdVFIUWFsTmJsUG1CSl91Wk9vdFdZTGRnVHlONGZFdFMtQUdGWDJaYmVnUnllakNJWkVsNXBZNXBjSndINnZZQWpvVkNjQWRGNGN1MUhjWUVz?oc=5",
             "published": "Thu, 25 Jun 2026 15:20:47 GMT",
             "score": 1,
@@ -1286,8 +1291,8 @@
           }
         ]
       },
-      "combined_score": 53.6,
-      "added_at": "2026-09-09T14:12:53.416836",
+      "combined_score": 68.8,
+      "added_at": "2026-09-09T14:42:50.479043",
       "first_seen_price": 399.8500061035156,
       "first_seen_at": "2026-09-09T14:12:53.416836"
     }
