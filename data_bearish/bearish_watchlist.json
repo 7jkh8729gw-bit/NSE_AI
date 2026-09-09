@@ -98,21 +98,21 @@
       "symbol": "WIPRO",
       "base": {
         "symbol": "WIPRO",
-        "price": 167.19000244140625,
-        "day_change": -2.513118109967201,
-        "volume_ratio": 1.8031583481488591,
-        "market_cap": 165397.152822286,
-        "pct_from_low": 0.4904643293525469,
-        "avg_volume": 8050647.380952381,
-        "volume": 7045386.0
+        "price": 167.8699951171875,
+        "day_change": -2.1166209229227406,
+        "volume_ratio": 1.7695640009415305,
+        "market_cap": 166069.85364692798,
+        "pct_from_low": 0.893548605248289,
+        "avg_volume": 8097248.80952381,
+        "volume": 8024016.0
       },
       "technical": {
         "symbol": "WIPRO",
-        "close": 167.19000244140625,
-        "rsi": 30.9,
+        "close": 167.8699951171875,
+        "rsi": 31.58,
         "adx": 14.36,
         "atr": 3.78,
-        "volume_ratio": 0.88,
+        "volume_ratio": 0.99,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -166,7 +166,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Stocks to watch, June 2: Anant Raj, NHPC, Ola Electric, fertiliser stocks, Wipro, NMDC, Coal India - upstox.com",
+            "title": "Stocks to watch, June 2: Anant Raj, NHPC, Ola Electric, fertiliser stocks, Wipro, NMDC, Coal India - Upstox",
             "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdlYxZWZESkozYzVaMk01X2lneEtJaUhlWG5oRDFwbmNZSkdTY0xhRUNsVE1TV3d5a1ZGUUtWcl8zOGpWTC1tQTRFemtPcHZaQnlwUHIxWmNCcFZTNjAxSUFFbWs1YUJoRTV1d1J4S0hKNU4xYTJrOV91dnFBX3BoeWpWWjhwZW5hYmhabFZpXzZ1d1ljcUlIbWVqTzNZcW9FLU5yRWF5WTdZWDRHbGN4Q2YwUzZLQjQteG1PdEZ4XzJKR3hUQkZSdGtIVklTYkl4TjUzUWVsY3Z1MXZSN2NPdFMxZw?oc=5",
             "published": "Mon, 01 Jun 2026 07:00:00 GMT",
             "score": 0,
@@ -182,7 +182,7 @@
         ]
       },
       "combined_score": 57.2,
-      "added_at": "2026-09-09T12:17:06.992405",
+      "added_at": "2026-09-09T12:45:16.294966",
       "first_seen_price": 168.6199951171875,
       "first_seen_at": "2026-09-09T09:43:40.421076"
     },
@@ -190,21 +190,21 @@
       "symbol": "VBL",
       "base": {
         "symbol": "VBL",
-        "price": 396.8999938964844,
-        "day_change": -2.169094908988115,
-        "volume_ratio": 2.089004505538053,
-        "market_cap": 134250.02957836725,
-        "pct_from_low": 4.0060453869977275,
-        "avg_volume": 6046578.142857143,
-        "volume": 6130405.0
+        "price": 400.5,
+        "day_change": -1.2817382426840183,
+        "volume_ratio": 2.0737554790491113,
+        "market_cap": 135467.7190047,
+        "pct_from_low": 4.868913857677903,
+        "avg_volume": 6091515.80952381,
+        "volume": 7074096.0
       },
       "technical": {
         "symbol": "VBL",
-        "close": 396.8999938964844,
-        "rsi": 31.81,
+        "close": 400.5,
+        "rsi": 33.24,
         "adx": 33.49,
         "atr": 10.22,
-        "volume_ratio": 0.98,
+        "volume_ratio": 1.12,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -215,11 +215,9 @@
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": true,
-        "patterns": [
-          "Shooting Star"
-        ],
+        "patterns": [],
         "setup": "DOUBLE TOP",
-        "score": 62,
+        "score": 63,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -227,14 +225,14 @@
           "Lower High / Lower Low",
           "Double Top",
           "Near Breakdown",
-          "Shooting Star",
+          "Weak RSI",
           "MACD Bearish",
           "ADX Trend Strength",
           "OBV Distribution"
         ]
       },
       "news": {
-        "score": 55,
+        "score": 60,
         "label": "Neutral",
         "headlines": [
           {
@@ -245,7 +243,7 @@
             "label": "Neutral"
           },
           {
-            "title": "IT shares, VA Tech, VBL, RIL, among buzzing stocks as NIFTY50, SENSEX tank 1% in noon deals - upstox.com",
+            "title": "IT shares, VA Tech, VBL, RIL, among buzzing stocks as NIFTY50, SENSEX tank 1% in noon deals - Upstox",
             "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWF9NWkVSLUxHaEZERjdaVTBjb1ZKSHc0UlJHOWJ3bzhuQXFael85X21DV3hQeXZwVm1WZE5tMklRcDBmUlg5M1ZYTllWVTNRVmdjX25DVm1sQWdrSk5ORHZfM045Q3U2bkdTclJCOUg5Uko2QkRNTXJKSHVCeE9iNlpWTjJOZWNlTlZ5aHVUbWFCTHR3Q0NMY3ZMb3hBY01teV9KSEkwRWJiRFh5SW1MTWlEWldVVG1pMXMxMWFkdEhKSjNtSElfZTZtazNqRXFTc3JzNE1FQWNSejI0WVE?oc=5",
             "published": "Fri, 19 Jun 2026 07:00:00 GMT",
             "score": 0,
@@ -266,16 +264,16 @@
             "label": "Neutral"
           },
           {
-            "title": "ITC, Varun Beverages, HUL, others: Fresh target prices, preferred stocks and more - Business Today",
-            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOGhobi1BYmJtWkNGd0thdFlhZTVOb3MxTWR6UFlUYXRQaVhFcGJKa3hvZmxEb3NXelQ0c1N2aWF2ZGR4UVJUWlpqc09DV1VWRl8xb2N2ZS1PeGliT2paUVZTeThNeW0tQk42bHg5TnV4YVhveWdJVjJSUWFhQ2V6UWN4NjM1Qm9CSi1kNF9LaFVzWEtxTTFaVFNOMFo4MWthMnUtaE00dXFQcU0xYS1jRmxyczJZYnc2dzJPQzNkRDdaX3lJSGhwSlpfQWt6U2d1RVV1VDhxR1B4WDFD0gHiAUFVX3lxTE1ITk0tclJHRlU2ZDVHQ0FDanFZZlc3M241SnRsbFRxaXdEWkxUeU5LLUk5aUNaYktDWFZ3U0NYcm5RaWgtQ2xnX19uaGg4TXNHLWpETEZwVnN2TW8wWlFOaXRLTTlWWjVYNXlhS1o5U3FPMG54clpHZkhnM0FxaUphWkZ5dWhNUnIyOXo5VGVGLWtKbV9XU0ZRY2RTVVBYR2c4Y0F4cDF0bFNBS2wzeUFjV19GUmV1cnZQb0RKRkY1ZU83ZTZ4bUpFSXFHUlBvWGEtX2w1RGlPUllyaGgtSjdaMXc?oc=5",
-            "published": "Wed, 27 May 2026 07:00:00 GMT",
-            "score": 1,
+            "title": "Varun Beverages shares jump 5%: What to expect on FY27 revenue front - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOWxpSHBObkt3YjdzVGJrbFZuT3hwYTRINU51Z05Rc1BlVkN2NHMyY3gxbW11enF2NHpRSmZ3aUJhR1Ffa1FDZC10NFNaWFBHd1U5WWxZVGFScGpwQUtkekdGTzh5N2dIcEpVLS1DT3FoRjdyOWxjX3VBa1Voemd1SDM0ZUtiUGJRRU51Y3gzX19SdEUtdnV2empPXzVSbXJWVEg0S1JEc2x5ekVUbl9jMUxfN0phMEhfc1Q4QVY2WEt3VS0yS3RJUnBxNGY?oc=5",
+            "published": "Wed, 15 Apr 2026 07:00:00 GMT",
+            "score": 2,
             "label": "Neutral"
           }
         ]
       },
-      "combined_score": 58.6,
-      "added_at": "2026-09-09T12:17:02.717449",
+      "combined_score": 58.4,
+      "added_at": "2026-09-09T12:45:11.803693",
       "first_seen_price": 402.1000061035156,
       "first_seen_at": "2026-09-09T09:43:36.283953"
     },
@@ -745,21 +743,21 @@
       "symbol": "DABUR",
       "base": {
         "symbol": "DABUR",
-        "price": 369.95001220703125,
-        "day_change": -1.3466634114583333,
-        "volume_ratio": 1.6025735485382877,
-        "market_cap": 65627.54234234488,
-        "pct_from_low": 0.5135894989507959,
-        "avg_volume": 1603651.0476190476,
-        "volume": 794977.0
+        "price": 370.5,
+        "day_change": -1.2,
+        "volume_ratio": 1.8256127447525912,
+        "market_cap": 65725.1078133,
+        "pct_from_low": 0.6612718507506747,
+        "avg_volume": 1645121.7142857143,
+        "volume": 1665861.0
       },
       "technical": {
         "symbol": "DABUR",
-        "close": 369.95001220703125,
-        "rsi": 20.76,
+        "close": 370.5,
+        "rsi": 21.02,
         "adx": 55.7,
         "atr": 6.25,
-        "volume_ratio": 0.5,
+        "volume_ratio": 1.01,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -830,7 +828,7 @@
         ]
       },
       "combined_score": 57.6,
-      "added_at": "2026-09-09T11:11:40.224760",
+      "added_at": "2026-09-09T12:43:32.795364",
       "first_seen_price": 368.20001220703125,
       "first_seen_at": "2026-09-09T10:12:39.617313"
     },
@@ -930,21 +928,21 @@
       "symbol": "HDFCLIFE",
       "base": {
         "symbol": "HDFCLIFE",
-        "price": 510.5,
-        "day_change": -4.364928498650606,
-        "volume_ratio": 4.0490550279349184,
-        "market_cap": 110883.10895435,
-        "pct_from_low": 0.03917966837047013,
-        "avg_volume": 2619156.238095238,
-        "volume": 5118732.0
+        "price": 511.1499938964844,
+        "day_change": -4.243161186670736,
+        "volume_ratio": 4.036186587384106,
+        "market_cap": 111024.2908231914,
+        "pct_from_low": 0.43039845754134054,
+        "avg_volume": 2658858.9523809524,
+        "volume": 5952489.0
       },
       "technical": {
         "symbol": "HDFCLIFE",
-        "close": 510.5,
-        "rsi": 32.34,
-        "adx": 14.87,
-        "atr": 11.12,
-        "volume_ratio": 1.99,
+        "close": 511.1499938964844,
+        "rsi": 32.56,
+        "adx": 14.96,
+        "atr": 11.21,
+        "volume_ratio": 2.28,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -957,7 +955,7 @@
         "obv_distribution": true,
         "patterns": [],
         "setup": "BREAKDOWN",
-        "score": 74,
+        "score": 79,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -969,7 +967,8 @@
           "Weak RSI",
           "MACD Bearish",
           "Volume Expansion",
-          "OBV Distribution"
+          "OBV Distribution",
+          "Strong Volume"
         ]
       },
       "news": {
@@ -977,7 +976,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "HDFC Life Insurance Share Price - Live NSE: HDFCLIFE Stock Price & Chart - upstox.com",
+            "title": "HDFC Life Insurance Share Price - Live NSE: HDFCLIFE Stock Price & Chart - Upstox",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rbmpVWmJiOEVqYWFGbHNBdFhudURwc01vMGRrM3lYdFZYRkNlRTc2cThBbXNDZ3pFVDhjUVEzOGQ3ZVl0dGhmUG8zSWlJZGlHZE0yNURUTUFtN1ZzNXlQQ1ZXUkxpb3Bjd3dj?oc=5",
             "published": "Mon, 07 Sep 2026 18:11:15 GMT",
             "score": 0,
@@ -1013,8 +1012,8 @@
           }
         ]
       },
-      "combined_score": 68.2,
-      "added_at": "2026-09-09T12:16:02.967145",
+      "combined_score": 72.2,
+      "added_at": "2026-09-09T12:43:53.886589",
       "first_seen_price": 516.5999755859375,
       "first_seen_at": "2026-09-09T10:12:55.170982"
     },
