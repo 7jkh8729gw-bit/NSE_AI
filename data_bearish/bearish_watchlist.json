@@ -743,21 +743,21 @@
       "symbol": "DABUR",
       "base": {
         "symbol": "DABUR",
-        "price": 370.1499938964844,
-        "day_change": -1.2933349609375,
-        "volume_ratio": 1.5416368442912207,
-        "market_cap": 65663.01823465257,
-        "pct_from_low": 0.5673392241370426,
-        "avg_volume": 1652151.0,
-        "volume": 1813476.0
+        "price": 370.79998779296875,
+        "day_change": -1.1200032552083332,
+        "volume_ratio": 1.5058497209744683,
+        "market_cap": 65778.32435860511,
+        "pct_from_low": 0.7416397223657478,
+        "avg_volume": 1660074.0,
+        "volume": 1979859.0
       },
       "technical": {
         "symbol": "DABUR",
-        "close": 370.1499938964844,
-        "rsi": 20.85,
+        "close": 370.79998779296875,
+        "rsi": 21.16,
         "adx": 55.7,
         "atr": 6.25,
-        "volume_ratio": 1.1,
+        "volume_ratio": 1.19,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -828,7 +828,7 @@
         ]
       },
       "combined_score": 57.6,
-      "added_at": "2026-09-09T13:43:00.510464",
+      "added_at": "2026-09-09T14:12:25.034442",
       "first_seen_price": 368.20001220703125,
       "first_seen_at": "2026-09-09T10:12:39.617313"
     },
@@ -928,21 +928,21 @@
       "symbol": "HDFCLIFE",
       "base": {
         "symbol": "HDFCLIFE",
-        "price": 515.5999755859375,
-        "day_change": -3.4095190376980713,
-        "volume_ratio": 3.5551563894239546,
-        "market_cap": 111990.84871646563,
-        "pct_from_low": 1.2897524619447676,
-        "avg_volume": 2702360.8095238097,
-        "volume": 6866028.0
+        "price": 516.5999755859375,
+        "day_change": -3.2221829524848498,
+        "volume_ratio": 3.302513024819169,
+        "market_cap": 112208.05363116562,
+        "pct_from_low": 1.480829218048165,
+        "avg_volume": 2713361.476190476,
+        "volume": 7097042.0
       },
       "technical": {
         "symbol": "HDFCLIFE",
-        "close": 515.5999755859375,
-        "rsi": 34.13,
+        "close": 516.5999755859375,
+        "rsi": 34.5,
         "adx": 14.96,
         "atr": 11.21,
-        "volume_ratio": 2.59,
+        "volume_ratio": 2.66,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1013,7 +1013,7 @@
         ]
       },
       "combined_score": 72.2,
-      "added_at": "2026-09-09T13:43:15.193016",
+      "added_at": "2026-09-09T14:12:41.288943",
       "first_seen_price": 516.5999755859375,
       "first_seen_at": "2026-09-09T10:12:55.170982"
     },
@@ -1111,21 +1111,21 @@
       "symbol": "BANKBARODA",
       "base": {
         "symbol": "BANKBARODA",
-        "price": 235.25,
-        "day_change": -0.5705858278486179,
-        "volume_ratio": 1.8561369786690805,
-        "market_cap": 121656.295260975,
-        "pct_from_low": 0.7608898134464666,
-        "avg_volume": 7595109.285714285,
-        "volume": 10037465.0
+        "price": 235.1999969482422,
+        "day_change": -0.5917198305823015,
+        "volume_ratio": 1.8396875338144714,
+        "market_cap": 121630.43687190552,
+        "pct_from_low": 0.7397917759148186,
+        "avg_volume": 7647755.142857143,
+        "volume": 11143028.0
       },
       "technical": {
         "symbol": "BANKBARODA",
-        "close": 235.25,
-        "rsi": 35.96,
+        "close": 235.1999969482422,
+        "rsi": 35.9,
         "adx": 20.41,
         "atr": 4.28,
-        "volume_ratio": 1.33,
+        "volume_ratio": 1.46,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1197,9 +1197,99 @@
         ]
       },
       "combined_score": 64.4,
-      "added_at": "2026-09-09T13:42:51.658500",
+      "added_at": "2026-09-09T14:12:14.990250",
       "first_seen_price": 235.2100067138672,
       "first_seen_at": "2026-09-09T12:15:38.045869"
+    },
+    {
+      "symbol": "KEC",
+      "base": {
+        "symbol": "KEC",
+        "price": 399.8500061035156,
+        "day_change": -1.3811828671634483,
+        "volume_ratio": 1.5426000829768065,
+        "market_cap": 10644.007162475586,
+        "pct_from_low": 0.21258124060039907,
+        "avg_volume": 1127918.238095238,
+        "volume": 1378022.0
+      },
+      "technical": {
+        "symbol": "KEC",
+        "close": 399.8500061035156,
+        "rsi": 26.49,
+        "adx": 43.12,
+        "atr": 11.34,
+        "volume_ratio": 1.42,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DOUBLE TOP",
+        "score": 57,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Near Breakdown",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "OBV Distribution"
+        ]
+      },
+      "news": {
+        "score": 60,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "3 Fundamentally Strong Power Infrastructure Stocks in India (2026) - Univest",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHZFZmtnY0M4MVdaVGxGbW1kNy01d0JmM0Rtd1NRNUlGSjRveEJWZVQ3ZHVfU1ptWUgzS2pGZ0JuRDhKMW8ycUJjMXd3M2J4NFRPNkV4c0RsR3RHaGVxQ191dDFUX1hLVmN1aWpKZEZDaWwxdjFnVDBNMFVkaHN6OTEyLS13dw?oc=5",
+            "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Volumes jump at KEC International Ltd counter - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVUJUXzFlWUNkQzFOTWI5cF9KQUZ0YTA4Nng0aERMSHltYVJBU3dPS3pjZ01mV2I4Q1hGWFM5dk9oV05XTFdzek9mM0hHYmNxdUhMczJ3d3h1RkRjbXhQei00SndiYlF5NnJ3UW9KQzB4bTVtbllkaDJpSHFReG0wbDhSblhWeFllaUhRMm16RUs3aFIzZTBBVXhjempBYTRhQ3lDdkZZVTRNRkF2ZUxUaVNWRDRrWXo1MnBkQUV1SWViSHVrU3fSAcsBQVVfeXFMTl9XNGFkWkIwMW9GSU9BNnBlV25UVFR6Z2Y5SXBoZXRzMjM3WHZvQTJoYjVtZUNNQXREMk9mbzdZeUZ5OHdkelZKVksxdmtPMDV5cnB5R0o1a1Brd1JBdnd6MS1UWmd0SkQ0TDBQRGZSTEMzV0d4eHBZMEI4SGRKVUNXWlVzb2NKZER0bTBtZUtqLXNtbnZFeWhoc3dIZml3Y2FfOGI1OGY2RW5VYU1fM3EtUHRJS1pLRE9nY29TZjhYMXRmQ3JWQkV0bEE?oc=5",
+            "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "KEC International shares climb 5% on bagging new orders worth \u20b91,180 crore across businesses - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdGh0NWN3MGYzbTltQk43OVJQUndITGczZWVKOHNualhHbEFVQ1lYbGNSV3YyWEhOaFd4bEI1S3FYWXNGWk5yOThvamZDeGthcmVPUHY1SVA2SzJzOWdrZmpqalpSdlphWmI2TUVSc254eFhNS1BIQjU3WlVraUM1TDJDTHY1UUxLN0ozTDlqX2dJMUtrNWx6amdEaXNFVHRrenh3X2VYTHh6b2NQQTREVHRBZEZNc1lPRWRFRDFodnJ4REMwSTZtZDZta19ycVBGNjdudmhmbWJjTDM0MXc1NVRwZw?oc=5",
+            "published": "Tue, 14 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "KEC Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zbkxVVkp4cGxuVHIzZXlzOGxWZWNCZnE2ZTZvdVFIUWFsTmJsUG1CSl91Wk9vdFdZTGRnVHlONGZFdFMtQUdGWDJaYmVnUnllakNJWkVsNXBZNXBjSndINnZZQWpvVkNjQWRGNGN1MUhjWUVz?oc=5",
+            "published": "Thu, 25 Jun 2026 15:20:47 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to Watch Today: Info Edge, KEC International, RITES, NHPC, NTPC, NPST, Poonawalla Fincorp, Uflex,... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNSm44aDFqUXU1QmgzeVpWbE1Ud3Bqbks0UlZIbzZ6dk5zTXp6RElTTlZrVEZkMnMwN3dtOXJENGhHdWlGV0J4RHpQMUo0QTZhYkxBbFpPMlVKT1J1RXYtWEp5Q3RwNzNpYUdPYWFObXZCOVdsVnRQWlVRTFlmTWY4a1VxX0tuQnprZkpLeVRWVU1ldGc3VUVodjB1N3JnSmluSGxGZnlnMjM1NFlJaTNSZk5oZllkUmtPLTc4UUJfM2oxRk9XZTNkRGc2S2k1YkREYy0tNE8xVGkteHFlREhWbTVndmZvdkg3S1NPNGhHRk1wRGtDWTVqVnlnUWxaZU0xdUh4SEM2cy1OcXFlT09hNjdLcnVRemluYVBpX2N4YUpPYm5aMkHSAasCQVVfeXFMTjVHeWx0aThaTjU3NFhUbmpMNHJ2aTluQVZZaGtFZFhVd0R2Rkw0VUlrR1VWSzFSSnd2YVp0SEVPUmdWV1JLazloTzBOY1FwNE9PZ3FGbDBQWDRGcEhSdi1pemtldFI3ODFHYndUSnM2LWhRVjBrZmlnTDZUZ0pqSVpuQmJQQ3A0S1dsSmZucUxJWjJwUkphRTI0V0U1WmhWM0JFUlRLWWM0dlZQVDlYUllXLURQUjN2MFU0d0lENGdyMllRdTFLTGVUa25ZVDlOZmxLV3hWeUgtQmt5cHA3MVU4RlQ1MFl1dUtxekdUZ1EtWkh2dldqTU9sOVlmd3hFWXBWanV6UXprc2NQVDc1MXRWdW1HZU9rVm5TTmFuaVdzY1JnS0FwajBEdGs?oc=5",
+            "published": "Thu, 09 Apr 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 53.6,
+      "added_at": "2026-09-09T14:12:53.416836",
+      "first_seen_price": 399.8500061035156,
+      "first_seen_at": "2026-09-09T14:12:53.416836"
     }
   ]
 }
