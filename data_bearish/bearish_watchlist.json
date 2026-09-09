@@ -98,21 +98,21 @@
       "symbol": "WIPRO",
       "base": {
         "symbol": "WIPRO",
-        "price": 167.6300048828125,
-        "day_change": -2.256556919642857,
-        "volume_ratio": 1.6499671260458502,
-        "market_cap": 165832.43693007203,
-        "pct_from_low": 0.7516612354129877,
-        "avg_volume": 8120065.333333333,
-        "volume": 8503163.0
+        "price": 167.60000610351562,
+        "day_change": -2.2740489192328717,
+        "volume_ratio": 1.5184250682537501,
+        "market_cap": 165802.75984046503,
+        "pct_from_low": 0.7338967431590827,
+        "avg_volume": 8137209.285714285,
+        "volume": 8863186.0
       },
       "technical": {
         "symbol": "WIPRO",
-        "close": 167.6300048828125,
-        "rsi": 31.34,
+        "close": 167.60000610351562,
+        "rsi": 31.31,
         "adx": 14.36,
         "atr": 3.78,
-        "volume_ratio": 1.05,
+        "volume_ratio": 1.09,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -166,14 +166,14 @@
             "label": "Neutral"
           },
           {
-            "title": "Stocks to watch, June 2: Anant Raj, NHPC, Ola Electric, fertiliser stocks, Wipro, NMDC, Coal India - upstox.com",
+            "title": "Stocks to watch, June 2: Anant Raj, NHPC, Ola Electric, fertiliser stocks, Wipro, NMDC, Coal India - Upstox",
             "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdlYxZWZESkozYzVaMk01X2lneEtJaUhlWG5oRDFwbmNZSkdTY0xhRUNsVE1TV3d5a1ZGUUtWcl8zOGpWTC1tQTRFemtPcHZaQnlwUHIxWmNCcFZTNjAxSUFFbWs1YUJoRTV1d1J4S0hKNU4xYTJrOV91dnFBX3BoeWpWWjhwZW5hYmhabFZpXzZ1d1ljcUlIbWVqTzNZcW9FLU5yRWF5WTdZWDRHbGN4Q2YwUzZLQjQteG1PdEZ4XzJKR3hUQkZSdGtIVklTYkl4TjUzUWVsY3Z1MXZSN2NPdFMxZw?oc=5",
             "published": "Mon, 01 Jun 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
           },
           {
-            "title": "Wipro Secures Olam Deal; Share Price Gain 0.94% - hdfcsky.com",
+            "title": "Wipro Secures Olam Deal; Share Price Gain 0.94% - HDFC Sky",
             "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZE5PeGdlY3FLV1pXbWdRTVRpNnFBMHZjSVBmdUpqaEpDSEROcENjaFBOSU16WVZPNVNpMHJSOXNRYnp4cl9ZZGhaWnVIX2taY0c0V09oeG84RXNhVXRJdi00dXcyWmdDRkVJM1dHVTlZVlVKY0hZRXpFXzR1X0FVWmY2OHY?oc=5",
             "published": "Mon, 06 Apr 2026 07:00:00 GMT",
             "score": 0,
@@ -182,7 +182,7 @@
         ]
       },
       "combined_score": 57.2,
-      "added_at": "2026-09-09T13:13:31.386426",
+      "added_at": "2026-09-09T13:44:15.563678",
       "first_seen_price": 168.6199951171875,
       "first_seen_at": "2026-09-09T09:43:40.421076"
     },
@@ -743,21 +743,21 @@
       "symbol": "DABUR",
       "base": {
         "symbol": "DABUR",
-        "price": 370.04998779296875,
-        "day_change": -1.3200032552083332,
-        "volume_ratio": 1.665086919944923,
-        "market_cap": 65645.27758165511,
-        "pct_from_low": 0.540467522219981,
-        "avg_volume": 1648398.1904761905,
-        "volume": 1734667.0
+        "price": 370.1499938964844,
+        "day_change": -1.2933349609375,
+        "volume_ratio": 1.5416368442912207,
+        "market_cap": 65663.01823465257,
+        "pct_from_low": 0.5673392241370426,
+        "avg_volume": 1652151.0,
+        "volume": 1813476.0
       },
       "technical": {
         "symbol": "DABUR",
-        "close": 370.04998779296875,
-        "rsi": 20.8,
+        "close": 370.1499938964844,
+        "rsi": 20.85,
         "adx": 55.7,
         "atr": 6.25,
-        "volume_ratio": 1.05,
+        "volume_ratio": 1.1,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -828,7 +828,7 @@
         ]
       },
       "combined_score": 57.6,
-      "added_at": "2026-09-09T13:12:10.707191",
+      "added_at": "2026-09-09T13:43:00.510464",
       "first_seen_price": 368.20001220703125,
       "first_seen_at": "2026-09-09T10:12:39.617313"
     },
@@ -928,21 +928,21 @@
       "symbol": "HDFCLIFE",
       "base": {
         "symbol": "HDFCLIFE",
-        "price": 513.7000122070312,
-        "day_change": -3.7654507391508525,
-        "volume_ratio": 3.8518050526577388,
-        "market_cap": 111578.16733281719,
-        "pct_from_low": 0.9246641789227088,
-        "avg_volume": 2686871.9523809524,
-        "volume": 6540762.0
+        "price": 515.5999755859375,
+        "day_change": -3.4095190376980713,
+        "volume_ratio": 3.5551563894239546,
+        "market_cap": 111990.84871646563,
+        "pct_from_low": 1.2897524619447676,
+        "avg_volume": 2702360.8095238097,
+        "volume": 6866028.0
       },
       "technical": {
         "symbol": "HDFCLIFE",
-        "close": 513.7000122070312,
-        "rsi": 33.44,
+        "close": 515.5999755859375,
+        "rsi": 34.13,
         "adx": 14.96,
         "atr": 11.21,
-        "volume_ratio": 2.48,
+        "volume_ratio": 2.59,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -976,7 +976,14 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "HDFC Life Insurance Share Price - Live NSE: HDFCLIFE Stock Price & Chart - upstox.com",
+            "title": "HDFC Life Share Price Today, HDFC Life Stock Price Live NSE/BSE Updates - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdVZhWi1vdFEtdXRnUjlqZG5HaW01NkJsTXBBUTRpWG1RSGxWQnhUUWttNUlfZEZKUllnWDQwLTNGSGpGWnNHbGZOdjRSVTUwaDV0a3BDdFhrUWxHQVphMXQ5NURSZWFBcEUzVGI0T0pORWpfSnZWSTVva2pWbW1yOThkWG5VM3FHS0FGY2JiZDRCOWhqajNIMGFB?oc=5",
+            "published": "Tue, 08 Sep 2026 05:27:05 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "HDFC Life Insurance Share Price - Live NSE: HDFCLIFE Stock Price & Chart - Upstox",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rbmpVWmJiOEVqYWFGbHNBdFhudURwc01vMGRrM3lYdFZYRkNlRTc2cThBbXNDZ3pFVDhjUVEzOGQ3ZVl0dGhmUG8zSWlJZGlHZE0yNURUTUFtN1ZzNXlQQ1ZXUkxpb3Bjd3dj?oc=5",
             "published": "Mon, 07 Sep 2026 18:11:15 GMT",
             "score": 0,
@@ -1002,18 +1009,11 @@
             "published": "Sat, 07 Feb 2026 08:00:00 GMT",
             "score": 0,
             "label": "Neutral"
-          },
-          {
-            "title": "Stock Alert: HDFC Life Insurance Co, Wipro, Alok Industries, VST Industries, Waaree Renewable Tech - Business Standard",
-            "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZ0VOY3FkUGtwd1ZCS1JwXzY2elhOdWNmWlhBQmU4Y29jSmxNQUc0dy1kdWJFVXJyNS1OX0VnM0tXdWtRM1dhUFpUNnl4OC1HWnBKZFVpM1dyeTNScGhtRU9GVF9QZGQ0VXlWMEZyVS1DUUJ6cTZxRGdFRW5USmtndU1wQnRXYlBDakd3TnpiT054bDNmVVQwaEMtc3JXc3ppMU1pc3Jlbk53ZklmMURDaEZRa0xuenZUejZqQmwycTdZR1NEWTJWRHJna2ZuODE5cmhzVmw1RFo3VlJZdHFvY3NKc05ycHVfbGhpMWFuN2ZsbjNXcFo4RkRPMUtkOTFOYkU0NFdB0gGLAkFVX3lxTE1hVDJkZmRKMGU0SWpnTWVpUzJMRlJaczNFOHROcEtEUW5SOXJldU5Ebnl3cFM3c1lxOU5Vblc3NlJWR3FkTGhwdUUydzNCTTUtUldFQ2NpbFRaZ2lUNVFMalZkalFqRVlMSkNCQ3ZzV0s2cUpVaXhnU21DcHFYVF9nRmJmTk81Mk96THNQQUlqaVNJY0Yyd0RaeFpKeGxXakl5VW96UmMtVU5CWVRwY18xTlZGX3c5T0o2NVVjR0ItUThEaEdZTC1DSDZjTkUyOXBpaDBWX2daZ002STZhSjA5SmNONzR2M1VOX3RoQ2tUdWtYRmZXbEN6Y0lQZ1pqd0o1Q1BWWnNRMnJpdw?oc=5",
-            "published": "Fri, 17 Apr 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
           }
         ]
       },
       "combined_score": 72.2,
-      "added_at": "2026-09-09T13:12:25.898436",
+      "added_at": "2026-09-09T13:43:15.193016",
       "first_seen_price": 516.5999755859375,
       "first_seen_at": "2026-09-09T10:12:55.170982"
     },
@@ -1111,21 +1111,21 @@
       "symbol": "BANKBARODA",
       "base": {
         "symbol": "BANKBARODA",
-        "price": 235.2100067138672,
-        "day_change": -0.5874891605202641,
-        "volume_ratio": 2.2289115683105143,
-        "market_cap": 121635.61328424289,
-        "pct_from_low": 0.7440159644775971,
-        "avg_volume": 7499192.761904762,
-        "volume": 8023218.0
+        "price": 235.25,
+        "day_change": -0.5705858278486179,
+        "volume_ratio": 1.8561369786690805,
+        "market_cap": 121656.295260975,
+        "pct_from_low": 0.7608898134464666,
+        "avg_volume": 7595109.285714285,
+        "volume": 10037465.0
       },
       "technical": {
         "symbol": "BANKBARODA",
-        "close": 235.2100067138672,
-        "rsi": 35.91,
+        "close": 235.25,
+        "rsi": 35.96,
         "adx": 20.41,
-        "atr": 4.25,
-        "volume_ratio": 1.08,
+        "atr": 4.28,
+        "volume_ratio": 1.33,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1160,7 +1160,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "Bank of Baroda Share Price - Live NSE: BANKBARODA Stock Price & Chart - upstox.com",
+            "title": "Bank of Baroda Share Price - Live NSE: BANKBARODA Stock Price & Chart - Upstox",
             "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kMkkzR1p5aVA1NFZxUnNWWnVHdWpRMlZmMkYwNEVWUU1NcnhJbnBVdWFqVDV6d2ZURkxtV0VhYlI4X1BUbjZyd19kZGYtSklkendYamc4ZDNsZkNqb0RDVFlWNA?oc=5",
             "published": "Mon, 07 Sep 2026 18:05:14 GMT",
             "score": 0,
@@ -1197,7 +1197,7 @@
         ]
       },
       "combined_score": 64.4,
-      "added_at": "2026-09-09T12:15:38.045869",
+      "added_at": "2026-09-09T13:42:51.658500",
       "first_seen_price": 235.2100067138672,
       "first_seen_at": "2026-09-09T12:15:38.045869"
     }
