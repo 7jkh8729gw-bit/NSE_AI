@@ -98,21 +98,21 @@
       "symbol": "WIPRO",
       "base": {
         "symbol": "WIPRO",
-        "price": 167.83999633789062,
-        "day_change": -2.134112922512755,
-        "volume_ratio": 1.9873549626733444,
-        "market_cap": 166178.67467387448,
-        "pct_from_low": 0.8758348741522617,
-        "avg_volume": 8022904.238095238,
-        "volume": 6462780.0
+        "price": 167.19000244140625,
+        "day_change": -2.513118109967201,
+        "volume_ratio": 1.8031583481488591,
+        "market_cap": 165397.152822286,
+        "pct_from_low": 0.4904643293525469,
+        "avg_volume": 8050647.380952381,
+        "volume": 7045386.0
       },
       "technical": {
         "symbol": "WIPRO",
-        "close": 167.83999633789062,
-        "rsi": 31.55,
+        "close": 167.19000244140625,
+        "rsi": 30.9,
         "adx": 14.36,
         "atr": 3.78,
-        "volume_ratio": 0.81,
+        "volume_ratio": 0.88,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -152,13 +152,6 @@
             "label": "Neutral"
           },
           {
-            "title": "BSE replaces Wipro in Nifty 50: What drove the index reshuffle? - Firstpost",
-            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTV4aXNrSlBhaXFiMzVwem1xdURTd1FrNDFUQndfd2JKaEpLbHNMdE15R0xWZVlfaWpCSXRCc1Y3VW9Jd1BuZHBBcDJkbUVlSndLbTFCYm1TWUVvaGRjQ0ZLVE03bjVMU3IwRTVNU2pScUtvcWgxY1plRkd4OEFlS01INnBFQXdDdGd5QnFEbUo0UdIBlwFBVV95cUxOMEZvNWFpLTZqaVAtMWxnZ3hzWEwxRWVYZVZNTUtTdXl1X0g4bHdubFFiREFRUmNqVFl6NEZCWUZqZHV4RlN5YUdOMjlIT0xaTUtxckhHc01RbVJzSk5VMzgwR0RENGNxeXhGZE5RSkF6bmFKUjd6QUpUQkJRWmJZNEE4ZmZQMG54UjFsWmVJU3dzZVl4TlQ0?oc=5",
-            "published": "Tue, 11 Aug 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
             "title": "NSE indices rejig: Vodafone Idea, Wipro part of major changes in Nifty Next 50 and Nifty 100. Check full l - The Economic Times",
             "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbE5OX0J4cnJpdUs3cXFiaDhWNzg2c3dsRHgwUC1yeU81VldLNGFnb0VEUWE1YUEtZmNIam5GcThyWnc3cS1ITDdVY3NoNWRlRGdYMmVlX2Q4eDgydmQtZzFpenZYcHhlcGZwRXBmbm5IeTdnU3ExYlg5OFdTSVlRUGNOZ082UTJRNGx0bzlFS0hPdElFNmpuRElrQ0RnUkxqOTREMkN5OEFscUJNQ3A2MFltMXU4WmNlOWxVQnByQTJZNURQSl9kRkEyU19FVmNzSXlTMVZQbVd1OUc1UUFrTHNlal9wY19id0YwQTk3STNmbnF1aE1HTDJySzY0Sll2c1c5WEtBTkg3NjBo0gGSAkFVX3lxTE84UVBvSEdjQ0xaVW5nOVF2RF96ck9lX2w0MUlfWjNYQ2RqVjRXYUxYWjRORW02MTFhRGdmWGVwWGtBRVUtaWlWTGRhdlZTSmtLRnBIb2xGbk1VRTQ0dUdiQTJBUkkxUV9NQ1ZBcUZ2RnJQdi16dGtORHpTWFFEakVOSGp3LThUR0Nya3RUOHBfd0FHRXFJN3dHaGNWbmF0bmp5N3hncFJKNF9tR1M2UW93M2tTQUZxb090X0VLVzJPUE5rcVYwd3Q1TXJzd0ZPcWdxSG9JeFQwTnFud0J4UXppemFqY1NrTU9YeUdZUkwwb1I1VU00Nlg0UER4MXJrTXhCTDBNTlRJLXA0a2MwYXpPaFE?oc=5",
             "published": "Mon, 10 Aug 2026 07:00:00 GMT",
@@ -173,16 +166,23 @@
             "label": "Neutral"
           },
           {
-            "title": "Stocks to watch, June 2: Anant Raj, NHPC, Ola Electric, fertiliser stocks, Wipro, NMDC, Coal India - Upstox",
+            "title": "Stocks to watch, June 2: Anant Raj, NHPC, Ola Electric, fertiliser stocks, Wipro, NMDC, Coal India - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdlYxZWZESkozYzVaMk01X2lneEtJaUhlWG5oRDFwbmNZSkdTY0xhRUNsVE1TV3d5a1ZGUUtWcl8zOGpWTC1tQTRFemtPcHZaQnlwUHIxWmNCcFZTNjAxSUFFbWs1YUJoRTV1d1J4S0hKNU4xYTJrOV91dnFBX3BoeWpWWjhwZW5hYmhabFZpXzZ1d1ljcUlIbWVqTzNZcW9FLU5yRWF5WTdZWDRHbGN4Q2YwUzZLQjQteG1PdEZ4XzJKR3hUQkZSdGtIVklTYkl4TjUzUWVsY3Z1MXZSN2NPdFMxZw?oc=5",
             "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Wipro Secures Olam Deal; Share Price Gain 0.94% - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZE5PeGdlY3FLV1pXbWdRTVRpNnFBMHZjSVBmdUpqaEpDSEROcENjaFBOSU16WVZPNVNpMHJSOXNRYnp4cl9ZZGhaWnVIX2taY0c0V09oeG84RXNhVXRJdi00dXcyWmdDRkVJM1dHVTlZVlVKY0hZRXpFXzR1X0FVWmY2OHY?oc=5",
+            "published": "Mon, 06 Apr 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
           }
         ]
       },
       "combined_score": 57.2,
-      "added_at": "2026-09-09T11:47:17.231195",
+      "added_at": "2026-09-09T12:17:06.992405",
       "first_seen_price": 168.6199951171875,
       "first_seen_at": "2026-09-09T09:43:40.421076"
     },
@@ -190,21 +190,21 @@
       "symbol": "VBL",
       "base": {
         "symbol": "VBL",
-        "price": 399.70001220703125,
-        "day_change": -1.4789252697725241,
-        "volume_ratio": 2.1708759867204135,
-        "market_cap": 135197.12594216547,
-        "pct_from_low": 4.678511792825582,
-        "avg_volume": 6006327.333333333,
-        "volume": 5285138.0
+        "price": 396.8999938964844,
+        "day_change": -2.169094908988115,
+        "volume_ratio": 2.089004505538053,
+        "market_cap": 134250.02957836725,
+        "pct_from_low": 4.0060453869977275,
+        "avg_volume": 6046578.142857143,
+        "volume": 6130405.0
       },
       "technical": {
         "symbol": "VBL",
-        "close": 399.70001220703125,
-        "rsi": 32.91,
+        "close": 396.8999938964844,
+        "rsi": 31.81,
         "adx": 33.49,
         "atr": 10.22,
-        "volume_ratio": 0.85,
+        "volume_ratio": 0.98,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -215,9 +215,11 @@
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": true,
-        "patterns": [],
+        "patterns": [
+          "Shooting Star"
+        ],
         "setup": "DOUBLE TOP",
-        "score": 63,
+        "score": 62,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -225,15 +227,15 @@
           "Lower High / Lower Low",
           "Double Top",
           "Near Breakdown",
-          "Weak RSI",
+          "Shooting Star",
           "MACD Bearish",
           "ADX Trend Strength",
           "OBV Distribution"
         ]
       },
       "news": {
-        "score": 65,
-        "label": "Bullish",
+        "score": 55,
+        "label": "Neutral",
         "headlines": [
           {
             "title": "Some Confidence Is Lacking In Varun Beverages Limited's (NSE:VBL) P/E - simplywall.st",
@@ -243,10 +245,10 @@
             "label": "Neutral"
           },
           {
-            "title": "Varun Beverages shares jump 5%: What to expect on FY27 revenue front - Upstox",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOWxpSHBObkt3YjdzVGJrbFZuT3hwYTRINU51Z05Rc1BlVkN2NHMyY3gxbW11enF2NHpRSmZ3aUJhR1Ffa1FDZC10NFNaWFBHd1U5WWxZVGFScGpwQUtkekdGTzh5N2dIcEpVLS1DT3FoRjdyOWxjX3VBa1Voemd1SDM0ZUtiUGJRRU51Y3gzX19SdEUtdnV2empPXzVSbXJWVEg0S1JEc2x5ekVUbl9jMUxfN0phMEhfc1Q4QVY2WEt3VS0yS3RJUnBxNGY?oc=5",
-            "published": "Wed, 15 Apr 2026 07:00:00 GMT",
-            "score": 2,
+            "title": "IT shares, VA Tech, VBL, RIL, among buzzing stocks as NIFTY50, SENSEX tank 1% in noon deals - upstox.com",
+            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWF9NWkVSLUxHaEZERjdaVTBjb1ZKSHc0UlJHOWJ3bzhuQXFael85X21DV3hQeXZwVm1WZE5tMklRcDBmUlg5M1ZYTllWVTNRVmdjX25DVm1sQWdrSk5ORHZfM045Q3U2bkdTclJCOUg5Uko2QkRNTXJKSHVCeE9iNlpWTjJOZWNlTlZ5aHVUbWFCTHR3Q0NMY3ZMb3hBY01teV9KSEkwRWJiRFh5SW1MTWlEWldVVG1pMXMxMWFkdEhKSjNtSElfZTZtazNqRXFTc3JzNE1FQWNSejI0WVE?oc=5",
+            "published": "Fri, 19 Jun 2026 07:00:00 GMT",
+            "score": 0,
             "label": "Neutral"
           },
           {
@@ -272,8 +274,8 @@
           }
         ]
       },
-      "combined_score": 57.4,
-      "added_at": "2026-09-09T11:47:12.617605",
+      "combined_score": 58.6,
+      "added_at": "2026-09-09T12:17:02.717449",
       "first_seen_price": 402.1000061035156,
       "first_seen_at": "2026-09-09T09:43:36.283953"
     },
@@ -928,21 +930,21 @@
       "symbol": "HDFCLIFE",
       "base": {
         "symbol": "HDFCLIFE",
-        "price": 516.8499755859375,
-        "day_change": -3.1753489311815453,
-        "volume_ratio": 4.21341890709599,
-        "market_cap": 112262.35485984062,
-        "pct_from_low": 0.3579327993273556,
-        "avg_volume": 2584185.0476190476,
-        "volume": 4384337.0
+        "price": 510.5,
+        "day_change": -4.364928498650606,
+        "volume_ratio": 4.0490550279349184,
+        "market_cap": 110883.10895435,
+        "pct_from_low": 0.03917966837047013,
+        "avg_volume": 2619156.238095238,
+        "volume": 5118732.0
       },
       "technical": {
         "symbol": "HDFCLIFE",
-        "close": 516.8499755859375,
-        "rsi": 34.59,
-        "adx": 14.52,
-        "atr": 10.78,
-        "volume_ratio": 1.73,
+        "close": 510.5,
+        "rsi": 32.34,
+        "adx": 14.87,
+        "atr": 11.12,
+        "volume_ratio": 1.99,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -952,10 +954,10 @@
         "breakdown": true,
         "macd_bearish": true,
         "macd_cross_down": false,
-        "obv_distribution": false,
+        "obv_distribution": true,
         "patterns": [],
         "setup": "BREAKDOWN",
-        "score": 69,
+        "score": 74,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -966,7 +968,8 @@
           "Confirmed Breakdown",
           "Weak RSI",
           "MACD Bearish",
-          "Volume Expansion"
+          "Volume Expansion",
+          "OBV Distribution"
         ]
       },
       "news": {
@@ -974,7 +977,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "HDFC Life Insurance Share Price - Live NSE: HDFCLIFE Stock Price & Chart - Upstox",
+            "title": "HDFC Life Insurance Share Price - Live NSE: HDFCLIFE Stock Price & Chart - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rbmpVWmJiOEVqYWFGbHNBdFhudURwc01vMGRrM3lYdFZYRkNlRTc2cThBbXNDZ3pFVDhjUVEzOGQ3ZVl0dGhmUG8zSWlJZGlHZE0yNURUTUFtN1ZzNXlQQ1ZXUkxpb3Bjd3dj?oc=5",
             "published": "Mon, 07 Sep 2026 18:11:15 GMT",
             "score": 0,
@@ -1010,8 +1013,8 @@
           }
         ]
       },
-      "combined_score": 64.2,
-      "added_at": "2026-09-09T11:46:08.962010",
+      "combined_score": 68.2,
+      "added_at": "2026-09-09T12:16:02.967145",
       "first_seen_price": 516.5999755859375,
       "first_seen_at": "2026-09-09T10:12:55.170982"
     },
@@ -1104,6 +1107,100 @@
       "added_at": "2026-09-09T10:41:49.442676",
       "first_seen_price": 469.45001220703125,
       "first_seen_at": "2026-09-09T10:41:49.442676"
+    },
+    {
+      "symbol": "BANKBARODA",
+      "base": {
+        "symbol": "BANKBARODA",
+        "price": 235.2100067138672,
+        "day_change": -0.5874891605202641,
+        "volume_ratio": 2.2289115683105143,
+        "market_cap": 121635.61328424289,
+        "pct_from_low": 0.7440159644775971,
+        "avg_volume": 7499192.761904762,
+        "volume": 8023218.0
+      },
+      "technical": {
+        "symbol": "BANKBARODA",
+        "close": 235.2100067138672,
+        "rsi": 35.91,
+        "adx": 20.41,
+        "atr": 4.25,
+        "volume_ratio": 1.08,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [
+          "3 Black Crows"
+        ],
+        "setup": "DOUBLE TOP",
+        "score": 68,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Near Breakdown",
+          "3 Black Crows",
+          "Weak RSI",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "OBV Distribution"
+        ]
+      },
+      "news": {
+        "score": 50,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Bank of Baroda Share Price - Live NSE: BANKBARODA Stock Price & Chart - upstox.com",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kMkkzR1p5aVA1NFZxUnNWWnVHdWpRMlZmMkYwNEVWUU1NcnhJbnBVdWFqVDV6d2ZURkxtV0VhYlI4X1BUbjZyd19kZGYtSklkendYamc4ZDNsZkNqb0RDVFlWNA?oc=5",
+            "published": "Mon, 07 Sep 2026 18:05:14 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "NSE IPO opportunity: Five stocks holding unlisted NSE shares - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZUsxd011bDJmTGNpR2RQTnlQT3pmTHJLdi1vaUZXS1ZEX0VqdXlXem1VUm1sWm8wajVkV0VvRWc2SGt3YU9zSE9ZQlBycl90VUFfNGRJdk1QVkVJdHhDUHltcXZHZUI2OTQ1Y2p1ME9zdXhFbkljeXhsekZjNnUwV1BaRVRGZXJRQnpTdEtOdFJFZi13bFFoN0J2OGF2QzlPQkpMR05vQnNDMTU1d2tfTzItcWRMeVE?oc=5",
+            "published": "Fri, 04 Sep 2026 16:21:47 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Bank of Baroda Share Pros and Cons 2026: PSU Bank at 7x PE Analysed - Univest",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4cTJsQWNoalVTN1JIdDBySTZtaUFOZ1RVQjNPelk3YjA0UGNNaXM5UVF2ZEVBeTZ0MEstV3RVYnprSXdkd3VHYUtQZ2pMMi1mTlFTV1NCVU5reWo1czVJZDJyOVhCVmdvS1FEd0xR?oc=5",
+            "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "FIIs Exit Financial Stocks: Why Bank of Baroda\u2019s 7x P/E Is Getting Attention - NiftyTrader",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaHRncWw4bC1yNzNMcXI2SDdURTc1b2ctRWdLVjB5dllNZjIzOXRoeEVacktwSm1FbWNNVXdYMllJVU1kNGVWY01Sa1g5aXFoTmNjRkFsVWg1bE1vZzV4VzlHdllPcm1OaWxMakN5WTVBdndqTDFiV0hVQndlb2l1YQ?oc=5",
+            "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Bank of Baroda (NSE:BANKBARODA) Q1 FY27 Business Update - Kalkine India",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3FOVmxTM0Z2Wm5DdndUR2tGaWdleXdNLVQ5cjQ2TFVpc090YkhlQl91QjU2NVBuTUxTbVBmTjNxSU9kNUxaNDdscUMzMVpXbEJTVFVuYm45NU1BN2dWTl9Rbm5oZzluaWM3UUlpV3FkekR1Z1R1aWhtMEdqeTJkZFlpVkp4Q2wyWDBwRmg2VG5JRF9mcFFnUWxoWDRwX1FBUllJSmNvUlNNd296Sk9obzF1dWxGdm5jUllZc1pR?oc=5",
+            "published": "Thu, 09 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 64.4,
+      "added_at": "2026-09-09T12:15:38.045869",
+      "first_seen_price": 235.2100067138672,
+      "first_seen_at": "2026-09-09T12:15:38.045869"
     }
   ]
 }
