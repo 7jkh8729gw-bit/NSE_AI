@@ -391,21 +391,21 @@
       "symbol": "HEG",
       "base": {
         "symbol": "HEG",
-        "price": 254.0,
-        "day_change": -3.495445205296794,
-        "volume_ratio": 2.241961803034952,
-        "market_cap": 4901.629262,
-        "pct_from_low": 1.574803149606299,
-        "avg_volume": 1975124.0952380951,
-        "volume": 318827.0
+        "price": 253.3000030517578,
+        "day_change": -3.7614014802879874,
+        "volume_ratio": 3.5700039286703698,
+        "market_cap": 4888.120893792068,
+        "pct_from_low": 1.3028041894983748,
+        "avg_volume": 2011930.1904761905,
+        "volume": 1091755.0
       },
       "technical": {
         "symbol": "HEG",
-        "close": 254.0,
-        "rsi": 15.22,
+        "close": 253.3000030517578,
+        "rsi": 15.2,
         "adx": 62.04,
         "atr": 50.02,
-        "volume_ratio": 0.16,
+        "volume_ratio": 0.53,
         "ema_alignment_bearish": false,
         "dema_alignment_bearish": true,
         "death_cross": false,
@@ -414,18 +414,20 @@
         "rounding_top": false,
         "bear_flag": false,
         "ll_lh": false,
-        "near_breakdown": false,
+        "near_breakdown": true,
         "breakdown": false,
         "macd_bearish": true,
         "macd_cross_down": false,
-        "obv_distribution": false,
+        "obv_distribution": true,
         "patterns": [],
-        "setup": "BEARISH",
-        "score": 13,
+        "setup": "NEAR BREAKDOWN",
+        "score": 24,
         "reasons": [
           "DEMA bearish alignment",
+          "Near Breakdown",
           "MACD Bearish",
-          "ADX Trend Strength"
+          "ADX Trend Strength",
+          "OBV Distribution"
         ]
       },
       "news": {
@@ -440,7 +442,7 @@
             "label": "Neutral"
           },
           {
-            "title": "HEG Share Price - upstox.com",
+            "title": "HEG Share Price - Upstox",
             "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15aXRNODZBUDcxMFZFUmlmcUJYMjYwUmJCLS1qYkRKaXZmckxMY3RpVzJkOTlxZWRGNUtRRFgwM2s5eXI5WlR1STRGQV8wZUQzcmdZdE9peXB0dw?oc=5",
             "published": "Tue, 08 Sep 2026 05:42:57 GMT",
             "score": 0,
@@ -469,10 +471,103 @@
           }
         ]
       },
-      "combined_score": 18.4,
-      "added_at": "2026-09-10T09:42:41.424691",
+      "combined_score": 27.2,
+      "added_at": "2026-09-10T10:12:49.430118",
       "first_seen_price": 254.0,
       "first_seen_at": "2026-09-10T09:42:41.424691"
+    },
+    {
+      "symbol": "IEX",
+      "base": {
+        "symbol": "IEX",
+        "price": 116.55000305175781,
+        "day_change": -1.186938476224555,
+        "volume_ratio": 1.573314242642411,
+        "market_cap": 10369.77065931819,
+        "pct_from_low": 1.6731055569091287,
+        "avg_volume": 2876085.8571428573,
+        "volume": 687798.0
+      },
+      "technical": {
+        "symbol": "IEX",
+        "close": 116.55000305175781,
+        "rsi": 31.98,
+        "adx": 25.84,
+        "atr": 2.31,
+        "volume_ratio": 0.23,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DOUBLE TOP",
+        "score": 57,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Near Breakdown",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "OBV Distribution"
+        ]
+      },
+      "news": {
+        "score": 35,
+        "label": "Bearish",
+        "headlines": [
+          {
+            "title": "Indian Energy Exchange Ltd Share Price Today,, IEX Share Price NSE, BSE - Business Today",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkRRQ0NmV0x1UktEOW5qZ3JDbFZHd0hlUFUwUExVTXVlLWpaMnl6TGpXRXdGbFFpNkp6dC0tbGs5Z3Jra3ZYVk5NUUU2UWJORnJyNUR5REQ0cTItR0RsQUZVSmFIaTVFaXNESUh3X2hCcnFXaGhXaDlSSzFjR3k3VWJPeEdmSVRWQ21XVkJn?oc=5",
+            "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Indian Energy Exchange Limited (NSE:IEX) Looks Like A Good Stock, And It's Going Ex-Dividend Soon - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOEpJazhpTE9sVHBkcV9VTEJrdnVuQUFVYmVUb2VyaFowakt2RS1JdjFHaG13bFRtamEwdTJxVEVBVlBLNE50R3VhYmRJN2dXTlJ4ZmZqemc5UUFVcmlKRzFKZmFibGQxZTByVjlxTm9pWDh3ZzM0M3ZySmN3SHBVWTRUa0F5Y2M0MVQ5MVFrb0NPQUxDZ2ZPYjZtMXBLWmNyUThwckxGZ3cxTC1DMEpqeUhFNGt0UU8zaWdqOEpfVmtDcGZvZTRyT2d3NUlJak1GRjk2WFlfWnByeEhKZ3Z4ZnBYd3Fkd0xaajRpLXhxbjQtUdIB9wFBVV95cUxPQUMzekZ1UXNPODBpZzBEbzBuNlVYVS1sbEttNThXQlJhbEJpMDc0VTc4TklxMlZtZktXSi1mYjd2UWRlRXVsYlk3cGp6b09pUnh1WWd4a3g5Zl9ydlpHb2dtRlNtdXA3TkVleTVwWTRhMHZXRmM3OGZ4MkJNQjFJWFpiVExLZlVETVJ4RE9KNkluWldYUXIzcWVmajNvSTNWNk16VVFlVjI0dmNUTTEyYTU4LXVqb0g1SXpZUVBtZ1RzXzhmbWI0Q0w4WWlwa1dFYVcyRG1PR1VoQUxrcG1YYlNZcUh3WkZLUEprdDdvSnFERDNaTDFF?oc=5",
+            "published": "Tue, 12 May 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "BSE, MCX, IEX: Top stocks to trade ahead of NSE IPO\u2014 Key levels, target prices & stop loss - Business Today",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVmIyczZXS3VRcUMwc3lFVmwwN2hKQ1NEb2ttTEtOdnFlUVBLMXN0WHFQWkQ1cW9WZFBlRWpjVV9pNHZEcXJiakUtYzdCcXdqRWNjRmNjV05VVFdOZ2hndk5pQ2ppcU1IT3JGbGRHOVZ5RHBfYnRtZ0JTOGJxUVpCcXI2blRUWUI1aXVLSzJpLXJCbkFaSzNZYUNyeWRkWmZVMklwYURnejdiSUxaYmIxX0gzQlBwdG1ydFdScVRBZEwwTmR5QUJVNWZkMjRzcWZEbFI1TjFsLW10NmlPUGcwQ3JyU1RhZ9IB6wFBVV95cUxOMm1ObVgyak44dFFrTjVuUWpSMEZOT0o3dDdrNDkyZUZ3Yjh1NF9MbC1TUFJLNmM3ZW96MjNBVUlTanVqVWNBcnpYNmpsRlR3QnpSZVlxY1JjeUZhUFNXOF9STFhDZHpSNkVnNWRmbklpcjNNMjA0c1dUQmcwMlBxcEJtZzFZeFR5ZXpiYzlvWFRCWXl0V1hEUzh3U0dmX3FTOTZhN1F0cTRXRHVsM0pSVlRQNm1OaUhqUkNvWHVrelczbXd0YWo4QlM0UUVVNDhNS0hXWXFtcTNrVU5FQzdqazdrMUotUnY0S3ow?oc=5",
+            "published": "Mon, 07 Sep 2026 03:18:04 GMT",
+            "score": -2,
+            "label": "Neutral"
+          },
+          {
+            "title": "IEX falls over 4% as Supreme Court allows CERC to frame market coupling regulations - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbE52T1JGQmdmdlRaQlV0VVpKXzU0Sm5zYmx5M1doeXVIbFRhbERxMUY1cDVMOEhHMjZhUmtXVmFaRWFMakRqM2FCdjI1Z3BlQnFpd3ktMlYxZkQtcVMyS2Y2NUc5SUNsRGtTbnppQWo0a1YyVlVidl90WUNlMlFlV1kyWWtEYmhWazdXZGdDLWFPdTRaVHFPbGZ0VkEyM0ZBMC1YXy03V0VaS2liWkp3aXY1WG5XbUlaaS1aQk9qQXpSQVF6LS1MTURoUU94ZDktaEp4RFBNVGpfbzdxUnJ30gHkAUFVX3lxTE96ZHFNVlB0VXgzZGZBbzZyOUd3TG9DM01YYkpRV3BqYm9LX01KTGx3TTIzZkVfYnY5Vk1iaU9vd3lUTkJqUVBidVFRRUNST1dxem1WV1BHYTRyQ2JmczU4MmZtaDBBM1FmanBvUWNRQTdWVDZFY2N4aTQ1T1prcHVhV1QwckN3NWdPaTBEcUd2SGs0R1JWaGF5Y2RmR1AybnhBYzNoRHZUdzQ4SHFOeGIzbEYyVmVYOXF1SFpIM1hUdnJYWVJUUXlYU2xPLW9GOFlDVTJCQWgyRnFtZzFlWUZPZm84eA?oc=5",
+            "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
+          },
+          {
+            "title": "IEX Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDSTA4ZzZVbVo4bkYxOW1xNFBDU0hKVFN1aGFMdzIwa0ZCYmNIZVZQZ2lfZEhvU3F1Y2pyb3l6MWc1SVpkdXoxdnd3TnhvYWxpbV8yMExmMDBqZnNYNEtOQTgxalJZcktPMDhNX1hBckNaMTVN?oc=5",
+            "published": "Thu, 25 Jun 2026 13:52:26 GMT",
+            "score": 1,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 58.6,
+      "added_at": "2026-09-10T10:12:52.596117",
+      "first_seen_price": 116.55000305175781,
+      "first_seen_at": "2026-09-10T10:12:52.596117"
     }
   ]
 }
