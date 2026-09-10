@@ -391,21 +391,21 @@
       "symbol": "HEG",
       "base": {
         "symbol": "HEG",
-        "price": 251.4499969482422,
-        "day_change": -4.464291304647275,
-        "volume_ratio": 2.4955522263858834,
-        "market_cap": 4852.419932957931,
-        "pct_from_low": 0.576654192022381,
-        "avg_volume": 2014852.6666666667,
-        "volume": 1153127.0
+        "price": 251.1999969482422,
+        "day_change": -4.559276102673557,
+        "volume_ratio": 1.9944667039118886,
+        "market_cap": 4847.595494707932,
+        "pct_from_low": 0.47770579730119883,
+        "avg_volume": 2019265.4761904762,
+        "volume": 1245796.0
       },
       "technical": {
         "symbol": "HEG",
-        "close": 251.4499969482422,
-        "rsi": 15.14,
+        "close": 251.1999969482422,
+        "rsi": 15.13,
         "adx": 62.04,
-        "atr": 50.02,
-        "volume_ratio": 0.56,
+        "atr": 50.07,
+        "volume_ratio": 0.6,
         "ema_alignment_bearish": false,
         "dema_alignment_bearish": true,
         "death_cross": false,
@@ -472,7 +472,7 @@
         ]
       },
       "combined_score": 27.2,
-      "added_at": "2026-09-10T10:41:49.748645",
+      "added_at": "2026-09-10T11:11:42.326177",
       "first_seen_price": 254.0,
       "first_seen_at": "2026-09-10T09:42:41.424691"
     },
@@ -480,21 +480,21 @@
       "symbol": "IEX",
       "base": {
         "symbol": "IEX",
-        "price": 117.01000213623047,
-        "day_change": -0.7969434814179768,
-        "volume_ratio": 1.8361707507404188,
-        "market_cap": 10409.8081113,
-        "pct_from_low": 2.0596561132470503,
-        "avg_volume": 2901515.1904761903,
-        "volume": 1221814.0
+        "price": 116.86000061035156,
+        "day_change": -0.924117309107628,
+        "volume_ratio": 1.5275109394284163,
+        "market_cap": 10397.351984958637,
+        "pct_from_low": 1.9339398634491158,
+        "avg_volume": 2908782.5714285714,
+        "volume": 1374429.0
       },
       "technical": {
         "symbol": "IEX",
-        "close": 117.01000213623047,
-        "rsi": 33.02,
+        "close": 116.86000061035156,
+        "rsi": 32.68,
         "adx": 25.84,
         "atr": 2.31,
-        "volume_ratio": 0.41,
+        "volume_ratio": 0.46,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -566,7 +566,7 @@
         ]
       },
       "combined_score": 63.4,
-      "added_at": "2026-09-10T10:41:52.807981",
+      "added_at": "2026-09-10T11:11:46.242281",
       "first_seen_price": 116.55000305175781,
       "first_seen_at": "2026-09-10T10:12:52.596117"
     }
