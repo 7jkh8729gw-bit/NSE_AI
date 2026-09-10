@@ -391,21 +391,21 @@
       "symbol": "HEG",
       "base": {
         "symbol": "HEG",
-        "price": 253.3000030517578,
-        "day_change": -3.7614014802879874,
-        "volume_ratio": 3.5700039286703698,
-        "market_cap": 4888.120893792068,
-        "pct_from_low": 1.3028041894983748,
-        "avg_volume": 2011930.1904761905,
-        "volume": 1091755.0
+        "price": 251.4499969482422,
+        "day_change": -4.464291304647275,
+        "volume_ratio": 2.4955522263858834,
+        "market_cap": 4852.419932957931,
+        "pct_from_low": 0.576654192022381,
+        "avg_volume": 2014852.6666666667,
+        "volume": 1153127.0
       },
       "technical": {
         "symbol": "HEG",
-        "close": 253.3000030517578,
-        "rsi": 15.2,
+        "close": 251.4499969482422,
+        "rsi": 15.14,
         "adx": 62.04,
         "atr": 50.02,
-        "volume_ratio": 0.53,
+        "volume_ratio": 0.56,
         "ema_alignment_bearish": false,
         "dema_alignment_bearish": true,
         "death_cross": false,
@@ -472,7 +472,7 @@
         ]
       },
       "combined_score": 27.2,
-      "added_at": "2026-09-10T10:12:49.430118",
+      "added_at": "2026-09-10T10:41:49.748645",
       "first_seen_price": 254.0,
       "first_seen_at": "2026-09-10T09:42:41.424691"
     },
@@ -480,21 +480,21 @@
       "symbol": "IEX",
       "base": {
         "symbol": "IEX",
-        "price": 116.55000305175781,
-        "day_change": -1.186938476224555,
-        "volume_ratio": 1.573314242642411,
-        "market_cap": 10369.77065931819,
-        "pct_from_low": 1.6731055569091287,
-        "avg_volume": 2876085.8571428573,
-        "volume": 687798.0
+        "price": 117.01000213623047,
+        "day_change": -0.7969434814179768,
+        "volume_ratio": 1.8361707507404188,
+        "market_cap": 10409.8081113,
+        "pct_from_low": 2.0596561132470503,
+        "avg_volume": 2901515.1904761903,
+        "volume": 1221814.0
       },
       "technical": {
         "symbol": "IEX",
-        "close": 116.55000305175781,
-        "rsi": 31.98,
+        "close": 117.01000213623047,
+        "rsi": 33.02,
         "adx": 25.84,
         "atr": 2.31,
-        "volume_ratio": 0.23,
+        "volume_ratio": 0.41,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -510,7 +510,7 @@
         "obv_distribution": true,
         "patterns": [],
         "setup": "DOUBLE TOP",
-        "score": 57,
+        "score": 63,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -518,6 +518,7 @@
           "Lower High / Lower Low",
           "Double Top",
           "Near Breakdown",
+          "Weak RSI",
           "MACD Bearish",
           "ADX Trend Strength",
           "OBV Distribution"
@@ -564,8 +565,8 @@
           }
         ]
       },
-      "combined_score": 58.6,
-      "added_at": "2026-09-10T10:12:52.596117",
+      "combined_score": 63.4,
+      "added_at": "2026-09-10T10:41:52.807981",
       "first_seen_price": 116.55000305175781,
       "first_seen_at": "2026-09-10T10:12:52.596117"
     }
