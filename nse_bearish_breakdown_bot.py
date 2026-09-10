@@ -455,6 +455,11 @@ BEAR_MAX_DAY_DECLINE = float(os.getenv("BEAR_MAX_DAY_DECLINE", "10"))   # stock 
 BEAR_MIN_DAY_DECLINE = float(os.getenv("BEAR_MIN_DAY_DECLINE", "0.5"))  # must be down at least this much
 BEAR_MAX_FROM_52W_LOW = float(os.getenv("BEAR_MAX_FROM_52W_LOW", "10")) # within 10% of 52w low
 BEAR_MIN_VOLUME_RATIO = float(os.getenv("BEAR_MIN_VOLUME_RATIO", "1.5"))
+
+# Excludes the most squeeze-prone candidates — deeply oversold + near a
+# 52-week low is the classic short-squeeze setup. This is a floor, not a
+# ceiling: RSI below this is excluded entirely, not just scored lower.
+BEAR_MIN_RSI = float(os.getenv("BEAR_MIN_RSI", "25"))
 BEAR_WATCHLIST_MAX_SIZE = int(os.getenv("BEAR_WATCHLIST_MAX_SIZE", "20"))
 BEAR_MIN_WARN_SCORE = float(os.getenv("BEAR_MIN_WARN_SCORE", "70"))
 BEAR_MIN_INTRADAY_VOLUME_RATIO = float(os.getenv("BEAR_MIN_INTRADAY_VOLUME_RATIO", "1.8"))
@@ -888,6 +893,11 @@ def analyze_bearish_daily(symbol, df):
     ]
     setup = next(label for label, matched in setup_candidates if matched)
 
+    # A meaningful multi-week support level, used later by the intraday
+    # engine so a "breakdown" means breaking real support, not just dipping
+    # below the last hour's minor low.
+    support_20d = float(x["Low"].tail(20).min())
+
     return {
         "symbol": symbol, "close": close, "rsi": round(rsi, 2), "adx": round(adx, 2),
         "atr": round(atr, 2), "volume_ratio": round(volume_ratio, 2),
@@ -900,6 +910,7 @@ def analyze_bearish_daily(symbol, df):
         "breakdown": bool(breakdown), "macd_bearish": bool(last["MACD"] < last["MACDSignal"]),
         "macd_cross_down": bool(macd_cross_down), "obv_distribution": bool(obv_distribution),
         "patterns": patterns, "setup": setup, "score": score, "reasons": reasons,
+        "support_20d": round(support_20d, 2),
     }
 
 
@@ -980,6 +991,16 @@ def analyze_bearish_candidate(symbol):
         tech = analyze_bearish_daily(symbol, df)
         if not tech:
             return None
+
+        # Deeply oversold + already near a 52-week low is the classic
+        # short-squeeze setup (see: "momentum crashes" — the short leg of
+        # momentum strategies, i.e. beaten-down stocks, is the one prone to
+        # violent snap-back rallies, especially on any market-wide bounce).
+        # Excluding the most extreme cases trims the riskiest tail rather
+        # than removing the near-52w-low filter itself.
+        if tech["rsi"] < BEAR_MIN_RSI:
+            return None
+
         news_data = compute_news_score(symbol)
         news_score = news_data["score"]
         # For a bearish screener, a NEGATIVE news catalyst reinforces the
@@ -1331,13 +1352,20 @@ def analyze_bearish_intraday(symbol, watch_item, model_weights=None):
     price = float(last["Close"])
 
     lookback = min(12, len(day) - 1)
-    support = float(day["Low"].iloc[-lookback - 1:-1].min()) if lookback >= 2 else float(day["Low"].iloc[:-1].min())
+    intraday_support = float(day["Low"].iloc[-lookback - 1:-1].min()) if lookback >= 2 else float(day["Low"].iloc[:-1].min())
 
     bearish_candle = last["Close"] < last["Open"]
     avg_bar_volume = float(day["Volume"].iloc[-lookback - 1:-1].mean()) if lookback >= 2 else 0
     volume_ratio = float(last["Volume"]) / avg_bar_volume if avg_bar_volume > 0 else 0
 
-    breakdown = price < support
+    # Require BOTH a fresh local low (immediate weakness) AND a break of
+    # the actual 20-day support level from the daily scan — a break of
+    # only the last hour's minor low isn't a meaningful support break,
+    # it's just noise. This is the tightening we discussed: "recent good
+    # support" should mean something real, not an arbitrary short window.
+    support_20d = watch_item["technical"].get("support_20d", intraday_support)
+    support = min(intraday_support, support_20d)
+    breakdown = price < intraday_support and price < support_20d
 
     # Same lesson as the long bot's extension guard, mirrored: don't short
     # something that has already crashed too far since it first qualified
