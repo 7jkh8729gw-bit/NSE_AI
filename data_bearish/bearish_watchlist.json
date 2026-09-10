@@ -291,6 +291,188 @@
       "added_at": "2026-09-10T06:21:22.796837",
       "first_seen_price": 514.0,
       "first_seen_at": "2026-09-10T06:21:22.796837"
+    },
+    {
+      "symbol": "RELIANCE",
+      "base": {
+        "symbol": "RELIANCE",
+        "price": 1272.5,
+        "day_change": -0.508209538702111,
+        "volume_ratio": 1.8356268592826743,
+        "market_cap": 1722007.14280375,
+        "pct_from_low": 1.7838861431728879,
+        "avg_volume": 10356672.714285715,
+        "volume": 1419487.0
+      },
+      "technical": {
+        "symbol": "RELIANCE",
+        "close": 1272.5,
+        "rsi": 40.7,
+        "adx": 14.2,
+        "atr": 20.79,
+        "volume_ratio": 0.14,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [
+          "3 Black Crows"
+        ],
+        "setup": "DEATH CROSS",
+        "score": 55,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Near Breakdown",
+          "3 Black Crows",
+          "Weak RSI",
+          "MACD Bearish",
+          "OBV Distribution"
+        ]
+      },
+      "news": {
+        "score": 55,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Meta- and Google-backed Indian telecom operator Jio Platforms gets regulatory nod for IPO - CNBC",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11UC1TUVNmSU85cGI4cmlTMldPak1pWm5YN18wbDlYNER3QTFRR2xxMk90cVVkXzhvTTV6bDc3S2YzclY5OVRtX3Zjdks2OVBBdzQ0NU5nQTZ0VklVc3libFJWUXdETFdVVlB1VElzLUs2UFgxYVNEMXdpenQ1Z9IBgwFBVV95cUxObzRqSDlkYzNRRjIwTkdOQ014TmdsR09oZV83TDgyb3IzQmloM0tOZGUzcDRyTnVIc1NlTlNIaEJyemlUQ1RSVUw3SDBObTFHMzBjbnYtNG93b3BDX1VVc0dzMUtyb3JyMUhXR3hjMFFRLTZjQVItWmFmaTR4OWtsTElxMA?oc=5",
+            "published": "Sun, 30 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "India's largest bourse NSE files for IPO after years of regulatory delays - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjNWN01mNXc1ODR1QzViR2gtZl9fdmRMSFFhTDlJQ25ZUDJyTGIyTUVKU09fQ0loQUtKS042a3FIdFExMWp0RnZ4STB0bXhQVF84Ykk1T0VWMFhoNzVGV0FWd3ViOVh2ZWJ2WkszQnpmSFFoWGlHS3pjZjRWaW9va090Rmo4WTgyaEpiU1R3UVRHYk1jU3JVWkQ0M0o0MlZfdjU0M3VudlAxZkZLR0dzMHlHMA?oc=5",
+            "published": "Wed, 17 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "NSE and Jio Eye Blockbuster Listings; Lessons Linger from Paytm, LIC and Reliance Power - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT19OcDVxMUh4WE1rc290eVF2eTNEc1UweEt4Vk1FRmw4X3NMOGs3SU90T2VmMmhmRnNfMEVDZ1NTUU1oWlRGV0ljblZCVGU1NFpMV1hwTmFuVEl6Uy1IclB2WUJBajNlUGpTZG9TZEZTcmQxcmplVUl5V3BXdmtJbzBiYnhldThoMnFQYlA2cw?oc=5",
+            "published": "Fri, 19 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Market gears up for NSE and Jio\u2019s mega IPOs, investor interest to remain strong - The New Indian Express",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMXItSFNYWWFPOHE5LXR2YXhmNy1jUXByaFZzLUU0SDRNQXBUVzZVZ1FtRThKSWlsdkM3NGZ5dzJTc1UxZ2lrbVFpMEVQMTBHS3JOYlI5NF9UWk1FVk12cHpubjJ4bEQ5LTVKeTJtdEpoMlh5SjlZUWdEa1QzMTMwU1NwZXl5VWtMTWQzVVl2ZHJyd21Dc2ZUaGZfczNFODlpdnYwLTBfdzc1WmhKaWVlZXZkbFRsUEZGZ2xmZFdpUWxmQXNOQ0t0ckxENNIB2AFBVV95cUxQVGtfQXpKSUROeVpoSGo1UDFtYUxTeWdxcTZPcW5YbjF2TTgxdENJX2Q3NDhhcWNobVpDZ29CdXFXVHlsWE51RTBKOE1KM0pZbGkzTlNrOVpiWDlqZzFwYUNsRWFucHFZakw2a1dnUWxxRE5Yc01aaC1xcWlFdmNBd3NjVktRS0ZaR2hSeVhrOENua3VRS2tnRTJJTFdsdzlkUXhuekJjdHhLOHVFYUs4bGUxOFk5SmRvcU5wRXVuZjVKeDFBSUFTdjdpMzZiMmhMOGk5Zy1ldHE?oc=5",
+            "published": "Sun, 21 Jun 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "$6 billion double dhamaka coming: Jio and NSE likely to file for India's biggest IPOs this week - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMFRONnVnVFBCaThLdGJpMWFMbERjdWVPS0NSQUNlakdaMFkzbnBCRWF4STFtM3l4d2xRMnhmd0hlSEZ1VFlkcHZsdlNMZ3NrWnlpamV2QTBiemVhMDJnODNxOTJXeTZIeXEtX2IxT1B0Y3hveG5Nd2ZNcHd6Zi01LUNlVGY2bVMxeXlzODA3dE1wZmhFaDFEZndKcDBWZFNQdWRFVlJRaS1RRHFuQUhuU1l0Qk8zc2dpQURtZzl3R2tEY29XQS1vZ3FuNUFiYXlsYnBUYXgtbndxZ2tDZ1lmVGh1bV90ZXl5TF9MQjNwZnBzVmNBeDhxbUZTcjHSAYICQVVfeXFMUDQ4WGJpOWxoS3I1VV9yRTZfVUVlVS1IYmxubVhnSk1xMWc0blR4cGVnejk3aEFxREM0akNPdklPWGJHM3lzZFFmX1kwallhd1F5TTk3M0w1N2dlLVRwOUllUFFnRG41bWpWUFhWM3JYd2pmcFNHYS1aSEZtNjdlYU16cGtINHd0TmNXMmxNakJfc1V0WDJyU1RBVFNRQ0ZCTFBObUdtV1VnOV9XaE5mU0dLak80WE5LenV6eFNMb2d2cWVkRGkzanlvOWV6TnViZHB3VmdKT3dDM1d2OG9lVFN0aEI1aFpfT2pzWWhacTRHWVJyU003TkFZREtIX3VJQ3BB?oc=5",
+            "published": "Wed, 17 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 53.0,
+      "added_at": "2026-09-10T09:43:33.490116",
+      "first_seen_price": 1272.5,
+      "first_seen_at": "2026-09-10T09:43:33.490116"
+    },
+    {
+      "symbol": "HEG",
+      "base": {
+        "symbol": "HEG",
+        "price": 254.0,
+        "day_change": -3.495445205296794,
+        "volume_ratio": 2.241961803034952,
+        "market_cap": 4901.629262,
+        "pct_from_low": 1.574803149606299,
+        "avg_volume": 1975124.0952380951,
+        "volume": 318827.0
+      },
+      "technical": {
+        "symbol": "HEG",
+        "close": 254.0,
+        "rsi": 15.22,
+        "adx": 62.04,
+        "atr": 50.02,
+        "volume_ratio": 0.16,
+        "ema_alignment_bearish": false,
+        "dema_alignment_bearish": true,
+        "death_cross": false,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": false,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [],
+        "setup": "BEARISH",
+        "score": 13,
+        "reasons": [
+          "DEMA bearish alignment",
+          "MACD Bearish",
+          "ADX Trend Strength"
+        ]
+      },
+      "news": {
+        "score": 60,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Graphite India stock soars 18%, HEG hits upper circuit; GrafTech\u2019s 30% price hike sparks electrode rally - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPeVFvcnh1S0V0d2lEZDQzNEVlbEI5WFdGUHQ5SnIzaW9rSnFCLXktcFpOb01oYTdYVU9Pa3ZNLVFrU1R6TzJyOGlWQUxveWhTNUM4d0Mwcl94by1YUjAwc2FVRVBnMl9odUpjRVV5Tm1TOXJuQWJLZzJRLVB4anpUOUY4ZU9JR3pYT21ueTZHRkVlWHVWVjY3SWRXNXQwZzlxMmlPS2lfRlJHeFdYNldPSktJT054X2dsbjQ5MEptYnlERktVM1NmenpSYW1xNGVSYzhqd181TVNycmlTbVVZQzF4elIzU0VDUFVHQ2JnalNXdFRMaVRmcdIB_gFBVV95cUxQTkY1T2RJTmRVRXE5dXBRa25Ec0hONWdSLS1lS0xRTHBQNnlqSDV5WUl0RUhVTDdYWEJzT2I1VVQtNWQzS2lYd2s2aV90RndiWjh1SW13dlFkTFlHNll2UjBIaXlWNHlSZG91ekRHaTdmWXJ5VnRzWjdITkgtYlRxSFZKejcwQmZ3Ty1BRWxfRVRMNHE1YnlRV3ZZMHJQRGZMbHhYaTF6QzdzQ2dRZTRXd1JqZVgtSnpPdF9qeE1vR08ydnRHbnpiaGhZZE44NF85bDRZWjFsd2dERFlQWEhjbHFlLUg4RlpKM0M5VGZoNE1mS0RiekZvWXpCLVN5QQ?oc=5",
+            "published": "Wed, 09 Sep 2026 05:14:45 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "HEG Share Price - upstox.com",
+            "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15aXRNODZBUDcxMFZFUmlmcUJYMjYwUmJCLS1qYkRKaXZmckxMY3RpVzJkOTlxZWRGNUtRRFgwM2s5eXI5WlR1STRGQV8wZUQzcmdZdE9peXB0dw?oc=5",
+            "published": "Tue, 08 Sep 2026 05:42:57 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "HEG Advanced Materials Limited: Performance & Quotes, HEG Stock Price on NSE India S.E. Exchange - marketscreener.com",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNlR0R3pKa1JkU1E1dFBsbHRLUElZVHZpR24tbU5MWUdMd0t2aWNwYjZPam9RNVB3RUstNEx2VzhLaFNlNFExSkdxQThLZ2ZyeWdBd1A2cFYxeFhoWXFYemZXRUV0MHhPbmxnQnk2c2k5bTdCblZRVW9VREpaNzVGaUEwamRyN0F1cjRQVg?oc=5",
+            "published": "Sat, 05 Sep 2026 09:33:22 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "HEG demerger news: Record date today | Ratio, latest updates, other details in 5 points - Livemint",
+            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONU1DclhLSzBMYTkzT2Uwd1pwenNuX0VzVmRLNmNWd08zbUtTbXN5WmFqVENCemZiaWEtMWVZUXZqSnVWQXVua2tEVGhFaFU2VVZGWGFwNkRiYnhYcWZzdzFxajZCZTZwT2FXQnN0VktOd25STGMtRUItbVYwQ0ZRSkUzc0tTdjk2S09PeVhLcFpkakVFTGQ4Zm1QOFR5R3pPOWRJcHRrYTNLTk9USmluS2VrTmROMk5MME9PWERCR2ItT0JqSzR2SXdqS3U0dk02WFdHMDZSVnRDTExDLUhCZXh0TEJ3NjTSAewBQVVfeXFMUGtBMkVqNDdMLXJsVGhuakl1ZzNYMi1iazJ6TzhCNkZoVGI5TTZ5eWEwLWtoZ3U2X29ENUoxZjN3OTVOaVBDZ0RlNkJkLTJBM0V1NS1rN0ZzVkwzNk5ESmNBQVZtY2VSZDM3cjBySFhYWUNNd25fWkRld2NDbUNZcThNbUlNRGNSLTN3cE9iTVpRZDR2amh5QU00ZVgtWW5SZXVlT0NRNF90NjBadlJTWnFmNVlQbmNGNmZvTk9qZGo4ZGNnQjlodnpDWVVkSXBTVXBZdUI4Ql9rd1V2WFNsTmR5dW5BQ1gxU1pCOFM?oc=5",
+            "published": "Mon, 07 Sep 2026 03:57:53 GMT",
+            "score": 2,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks in news: Hyundai Motor India, BSE, HEG, Hexaware Tech and Oil India - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMXpTZ3VCeUx0TTVkTW1VWlRXUl85RldyVF96NzUzcmFFUmtrSWdZSEtLX1lqVTJNUU5mby0zQnhpMjZxbDRtUkdxcjlFTGxHOXFoQ2x6cjZOZXR3WWYwWFFuckVySW8tZkV5U0psYWVTVmk3TUkzaDVpTV9IdFBNU1owQ3NaVE13UEljT1dBS0EwQUplb2NyYmEwb2NBSW1BcE14Y0hRNDhvdWFLd2FGT2VheHpreUdmVjIyMDlFbHk3Wm1RTmYyQTAxdkNMU3lmWHJnRjZDa1dlZ1g00gHiAUFVX3lxTE1lcmNkcW5FLTZJRWdxcTRQOWxfLUhBWWdCT1JJS3ljMEtKbGZEdEdHRnNlVzVVWE5aT2c2RE45ZzBOaWotaXBMWUxjOEo4SWlETFh3ekgzdW5rRjVhNmowSXdGcWpFR2ZWcWkxdEJUWFRPUkJLa0lNenlUc1c4LXpjTHlQcWRqd3BVT0VxVTl4eFBxd2k0bVNHb3F5eTU4YnJ4XzJ1WEMyVEN6ZGhtWTZKVmNPN0RsYThsYmc1NGpFQ3A4SGFrWDVpQmZIaElSd2JaNkZTbmRDTnhkRUpIY29heXc?oc=5",
+            "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 18.4,
+      "added_at": "2026-09-10T09:42:41.424691",
+      "first_seen_price": 254.0,
+      "first_seen_at": "2026-09-10T09:42:41.424691"
     }
   ]
 }
