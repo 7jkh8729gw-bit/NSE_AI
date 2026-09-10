@@ -391,21 +391,21 @@
       "symbol": "HEG",
       "base": {
         "symbol": "HEG",
-        "price": 251.1999969482422,
-        "day_change": -4.559276102673557,
-        "volume_ratio": 1.9944667039118886,
-        "market_cap": 4847.595494707932,
-        "pct_from_low": 0.47770579730119883,
-        "avg_volume": 2019265.4761904762,
-        "volume": 1245796.0
+        "price": 250.60000610351562,
+        "day_change": -4.787236139489442,
+        "volume_ratio": 1.6274986171141506,
+        "market_cap": 4836.017019584137,
+        "pct_from_low": 0.2394278088196773,
+        "avg_volume": 2023075.238095238,
+        "volume": 1325801.0
       },
       "technical": {
         "symbol": "HEG",
-        "close": 251.1999969482422,
-        "rsi": 15.13,
+        "close": 250.60000610351562,
+        "rsi": 15.12,
         "adx": 62.04,
         "atr": 50.07,
-        "volume_ratio": 0.6,
+        "volume_ratio": 0.64,
         "ema_alignment_bearish": false,
         "dema_alignment_bearish": true,
         "death_cross": false,
@@ -472,7 +472,7 @@
         ]
       },
       "combined_score": 27.2,
-      "added_at": "2026-09-10T11:11:42.326177",
+      "added_at": "2026-09-10T11:46:46.516445",
       "first_seen_price": 254.0,
       "first_seen_at": "2026-09-10T09:42:41.424691"
     },
