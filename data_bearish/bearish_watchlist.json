@@ -543,21 +543,21 @@
       "symbol": "IEX",
       "base": {
         "symbol": "IEX",
-        "price": 113.38999938964844,
-        "day_change": -2.778014181659924,
-        "volume_ratio": 2.168445614229089,
-        "market_cap": 10088.616541766361,
-        "pct_from_low": 0.3439451377967299,
-        "avg_volume": 3138740.6666666665,
-        "volume": 4864156.0
+        "price": 113.56999969482422,
+        "day_change": -2.6236796970378675,
+        "volume_ratio": 2.101028043660384,
+        "market_cap": 10104.631658320683,
+        "pct_from_low": 0.5018928382106842,
+        "avg_volume": 3158209.4285714286,
+        "volume": 5273000.0
       },
       "technical": {
         "symbol": "IEX",
-        "close": 113.38999938964844,
-        "rsi": 25.92,
+        "close": 113.56999969482422,
+        "rsi": 26.21,
         "adx": 26.84,
         "atr": 2.42,
-        "volume_ratio": 1.5,
+        "volume_ratio": 1.62,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -622,7 +622,7 @@
             "label": "Neutral"
           },
           {
-            "title": "IEX Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+            "title": "IEX Forecast \u2014 Price Target \u2014 Prediction for 2027 - tradingview.com",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDSTA4ZzZVbVo4bkYxOW1xNFBDU0hKVFN1aGFMdzIwa0ZCYmNIZVZQZ2lfZEhvU3F1Y2pyb3l6MWc1SVpkdXoxdnd3TnhvYWxpbV8yMExmMDBqZnNYNEtOQTgxalJZcktPMDhNX1hBckNaMTVN?oc=5",
             "published": "Thu, 25 Jun 2026 13:52:26 GMT",
             "score": 1,
@@ -631,7 +631,7 @@
         ]
       },
       "combined_score": 69.8,
-      "added_at": "2026-09-11T13:43:57.650352",
+      "added_at": "2026-09-11T14:13:40.323826",
       "first_seen_price": 113.11000061035156,
       "first_seen_at": "2026-09-11T09:43:24.246395"
     },
@@ -1308,21 +1308,21 @@
       "symbol": "AFCONS",
       "base": {
         "symbol": "AFCONS",
-        "price": 249.85000610351562,
-        "day_change": -4.21698284171585,
-        "volume_ratio": 1.7470972061913852,
-        "market_cap": 9189.099230012924,
-        "pct_from_low": 0.34020655703464664,
-        "avg_volume": 884098.9523809524,
-        "volume": 1103879.0
+        "price": 254.35000610351562,
+        "day_change": -2.4918534973775475,
+        "volume_ratio": 1.951549486467597,
+        "market_cap": 9354.602313962923,
+        "pct_from_low": 2.103403174811906,
+        "avg_volume": 897837.8095238095,
+        "volume": 1392395.0
       },
       "technical": {
         "symbol": "AFCONS",
-        "close": 249.85000610351562,
-        "rsi": 26.68,
+        "close": 254.35000610351562,
+        "rsi": 28.54,
         "adx": 19.89,
         "atr": 9.39,
-        "volume_ratio": 1.21,
+        "volume_ratio": 1.51,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1332,15 +1332,15 @@
         "bear_flag": false,
         "ll_lh": true,
         "near_breakdown": true,
-        "breakdown": false,
+        "breakdown": true,
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": true,
         "patterns": [
           "3 Black Crows"
         ],
-        "setup": "DOUBLE TOP",
-        "score": 59,
+        "setup": "DEATH CROSS + BREAKDOWN",
+        "score": 73,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -1348,8 +1348,10 @@
           "Lower High / Lower Low",
           "Double Top",
           "Near Breakdown",
+          "Confirmed Breakdown",
           "3 Black Crows",
           "MACD Bearish",
+          "Volume Expansion",
           "OBV Distribution"
         ],
         "support_20d": 249.0
@@ -1373,7 +1375,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Afcons Infrastructure Stock Prediction 2026: Expert Analysis, Forecast Scenarios and Full Stock Review - Univest",
+            "title": "Afcons Infrastructure Stock Prediction 2026: Expert Analysis, Forecast Scenarios and Full Stock Review - univest.in",
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81emxwZFFJQTB3OTh6bDZwX1V1dmhiai0tN3VaSkliUnRMYUp5V1FvbXFnSmR2cGFZOElhRVRfUnFtYlc2d01mZGlXXzJjVGJJMmdWc3VkZWk0MTlOWHFpMTBhZWQ4YkpZM2xqM2dqOGV5Uml3alhJ?oc=5",
             "published": "Fri, 19 Jun 2026 07:00:00 GMT",
             "score": 0,
@@ -1395,8 +1397,8 @@
           }
         ]
       },
-      "combined_score": 59.2,
-      "added_at": "2026-09-11T13:43:05.277555",
+      "combined_score": 70.4,
+      "added_at": "2026-09-11T14:13:04.877478",
       "first_seen_price": 259.0,
       "first_seen_at": "2026-09-11T11:10:32.764778"
     }
