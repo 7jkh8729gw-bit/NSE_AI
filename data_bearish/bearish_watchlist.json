@@ -259,21 +259,21 @@
       "symbol": "HINDPETRO",
       "base": {
         "symbol": "HINDPETRO",
-        "price": 350.6000061035156,
-        "day_change": -0.5813094650358894,
-        "volume_ratio": 1.706989299846087,
-        "market_cap": 74601.4587447398,
-        "pct_from_low": 9.811749371826217,
-        "avg_volume": 4283434.523809524,
-        "volume": 4621043.0
+        "price": 350.70001220703125,
+        "day_change": -0.5529510061541404,
+        "volume_ratio": 1.5546285906367296,
+        "market_cap": 74622.73826862959,
+        "pct_from_low": 9.837467578881453,
+        "avg_volume": 4290374.523809524,
+        "volume": 4766783.0
       },
       "technical": {
         "symbol": "HINDPETRO",
-        "close": 350.6000061035156,
-        "rsi": 33.99,
+        "close": 350.70001220703125,
+        "rsi": 34.05,
         "adx": 28.23,
         "atr": 8.12,
-        "volume_ratio": 1.13,
+        "volume_ratio": 1.16,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -310,7 +310,7 @@
           {
             "title": "Hindustan Petroleum Corp Share Price - Live NSE: HINDPETRO Stock Price & Chart - Upstox",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBycFVJWlFyNk9sdVl0eENRNmg3aE5KRG9fMW0xWnp1YUplc3hScndnSC0zWUJXdjR5SUlqbkdnOFRmU1RkbE1UYnhLNnFrWnpwX2FUUWtyV3Q2Qk0zcDZ0VnhWVmNoYmhJbHBxZGU2X3U?oc=5",
-            "published": "Mon, 07 Sep 2026 21:59:45 GMT",
+            "published": "Thu, 10 Sep 2026 03:47:31 GMT",
             "score": 0,
             "label": "Neutral"
           },
@@ -336,7 +336,7 @@
             "label": "Neutral"
           },
           {
-            "title": "5 Refinery Stocks India 2026: Strong Future Roadmaps - univest.in",
+            "title": "5 Refinery Stocks India 2026: Strong Future Roadmaps - Univest",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FOU05U1Z1X3dEYWQ2REFVTHRQd1ktTnNILUNTMG54RnE5eVRzTFQ3ckJQb21WTXRfc092UVRwcC1SR0F4TUR3THFpdTBYaU9EdWM5cTFSWmp2eVc1eVJDS0xUazJUWnlKZDB2ZjRUUi12ZVFuZXc?oc=5",
             "published": "Wed, 26 Aug 2026 07:00:00 GMT",
             "score": 1,
@@ -345,7 +345,7 @@
         ]
       },
       "combined_score": 53.0,
-      "added_at": "2026-09-11T13:12:02.312906",
+      "added_at": "2026-09-11T13:43:56.221684",
       "first_seen_price": 341.6000061035156,
       "first_seen_at": "2026-09-11T09:43:25.933593"
     },
@@ -543,21 +543,21 @@
       "symbol": "IEX",
       "base": {
         "symbol": "IEX",
-        "price": 113.69000244140625,
-        "day_change": -2.5207878601107994,
-        "volume_ratio": 2.366052848138665,
-        "market_cap": 10115.308628959552,
-        "pct_from_low": 0.606915671201489,
-        "avg_volume": 3129991.238095238,
-        "volume": 4680418.0
+        "price": 113.38999938964844,
+        "day_change": -2.778014181659924,
+        "volume_ratio": 2.168445614229089,
+        "market_cap": 10088.616541766361,
+        "pct_from_low": 0.3439451377967299,
+        "avg_volume": 3138740.6666666665,
+        "volume": 4864156.0
       },
       "technical": {
         "symbol": "IEX",
-        "close": 113.69000244140625,
-        "rsi": 26.4,
+        "close": 113.38999938964844,
+        "rsi": 25.92,
         "adx": 26.84,
         "atr": 2.42,
-        "volume_ratio": 1.45,
+        "volume_ratio": 1.5,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -573,7 +573,7 @@
         "obv_distribution": true,
         "patterns": [],
         "setup": "DEATH CROSS + BREAKDOWN",
-        "score": 66,
+        "score": 71,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -584,6 +584,7 @@
           "Confirmed Breakdown",
           "MACD Bearish",
           "ADX Trend Strength",
+          "Volume Expansion",
           "OBV Distribution"
         ],
         "support_20d": 113.0
@@ -593,7 +594,7 @@
         "label": "Bearish",
         "headlines": [
           {
-            "title": "Indian Energy Exchange Ltd Share Price Today,, IEX Share Price NSE, BSE - businesstoday.in",
+            "title": "Indian Energy Exchange Ltd Share Price Today,, IEX Share Price NSE, BSE - Business Today",
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkRRQ0NmV0x1UktEOW5qZ3JDbFZHd0hlUFUwUExVTXVlLWpaMnl6TGpXRXdGbFFpNkp6dC0tbGs5Z3Jra3ZYVk5NUUU2UWJORnJyNUR5REQ0cTItR0RsQUZVSmFIaTVFaXNESUh3X2hCcnFXaGhXaDlSSzFjR3k3VWJPeEdmSVRWQ21XVkJn?oc=5",
             "published": "Mon, 07 Sep 2026 07:00:00 GMT",
             "score": 0,
@@ -614,7 +615,7 @@
             "label": "Neutral"
           },
           {
-            "title": "BSE, MCX, IEX: Top stocks to trade ahead of NSE IPO\u2014 Key levels, target prices & stop loss - businesstoday.in",
+            "title": "BSE, MCX, IEX: Top stocks to trade ahead of NSE IPO\u2014 Key levels, target prices & stop loss - Business Today",
             "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVmIyczZXS3VRcUMwc3lFVmwwN2hKQ1NEb2ttTEtOdnFlUVBLMXN0WHFQWkQ1cW9WZFBlRWpjVV9pNHZEcXJiakUtYzdCcXdqRWNjRmNjV05VVFdOZ2hndk5pQ2ppcU1IT3JGbGRHOVZ5RHBfYnRtZ0JTOGJxUVpCcXI2blRUWUI1aXVLSzJpLXJCbkFaSzNZYUNyeWRkWmZVMklwYURnejdiSUxaYmIxX0gzQlBwdG1ydFdScVRBZEwwTmR5QUJVNWZkMjRzcWZEbFI1TjFsLW10NmlPUGcwQ3JyU1RhZ9IB6wFBVV95cUxOMm1ObVgyak44dFFrTjVuUWpSMEZOT0o3dDdrNDkyZUZ3Yjh1NF9MbC1TUFJLNmM3ZW96MjNBVUlTanVqVWNBcnpYNmpsRlR3QnpSZVlxY1JjeUZhUFNXOF9STFhDZHpSNkVnNWRmbklpcjNNMjA0c1dUQmcwMlBxcEJtZzFZeFR5ZXpiYzlvWFRCWXl0V1hEUzh3U0dmX3FTOTZhN1F0cTRXRHVsM0pSVlRQNm1OaUhqUkNvWHVrelczbXd0YWo4QlM0UUVVNDhNS0hXWXFtcTNrVU5FQzdqazdrMUotUnY0S3ow?oc=5",
             "published": "Mon, 07 Sep 2026 03:18:04 GMT",
             "score": -2,
@@ -629,8 +630,8 @@
           }
         ]
       },
-      "combined_score": 65.8,
-      "added_at": "2026-09-11T13:12:04.162132",
+      "combined_score": 69.8,
+      "added_at": "2026-09-11T13:43:57.650352",
       "first_seen_price": 113.11000061035156,
       "first_seen_at": "2026-09-11T09:43:24.246395"
     },
@@ -1307,21 +1308,21 @@
       "symbol": "AFCONS",
       "base": {
         "symbol": "AFCONS",
-        "price": 253.0,
-        "day_change": -3.0093946405354624,
-        "volume_ratio": 1.5853654345026973,
-        "market_cap": 9304.9511643,
-        "pct_from_low": 0.0,
-        "avg_volume": 873010.5714285715,
-        "volume": 871023.0
+        "price": 249.85000610351562,
+        "day_change": -4.21698284171585,
+        "volume_ratio": 1.7470972061913852,
+        "market_cap": 9189.099230012924,
+        "pct_from_low": 0.34020655703464664,
+        "avg_volume": 884098.9523809524,
+        "volume": 1103879.0
       },
       "technical": {
         "symbol": "AFCONS",
-        "close": 253.0,
-        "rsi": 27.95,
-        "adx": 19.63,
-        "atr": 9.11,
-        "volume_ratio": 0.97,
+        "close": 249.85000610351562,
+        "rsi": 26.68,
+        "adx": 19.89,
+        "atr": 9.39,
+        "volume_ratio": 1.21,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1351,10 +1352,10 @@
           "MACD Bearish",
           "OBV Distribution"
         ],
-        "support_20d": 253.0
+        "support_20d": 249.0
       },
       "news": {
-        "score": 50,
+        "score": 40,
         "label": "Neutral",
         "headlines": [
           {
@@ -1372,6 +1373,13 @@
             "label": "Neutral"
           },
           {
+            "title": "Afcons Infrastructure Stock Prediction 2026: Expert Analysis, Forecast Scenarios and Full Stock Review - Univest",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81emxwZFFJQTB3OTh6bDZwX1V1dmhiai0tN3VaSkliUnRMYUp5V1FvbXFnSmR2cGFZOElhRVRfUnFtYlc2d01mZGlXXzJjVGJJMmdWc3VkZWk0MTlOWHFpMTBhZWQ4YkpZM2xqM2dqOGV5Uml3alhJ?oc=5",
+            "published": "Fri, 19 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
             "title": "Volumes spurt at Afcons Infrastructure Ltd counter - Business Standard",
             "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQanBpWnNTa1BfU0xZY1JOX0RfWkdKMzhpVUN3aEkzTUtjNUwwbW0yWjI0SGE4SnhBQzNaUVRwU090YXJ2WFNqV2JINHRDR3I4RXE3bFFvaFk3Q1FjVXRoVE1iN2JYMkNyRkdTbm1qSnpaVmZHWnN0emFiQjlvY01sWERqQnc0YjRCSlpvTndVcTg0ak5QcmFoMFg3a2hfMDFMR0wxdUFSUmdZZHB2V3BSVDNTbXF5WEhscGt3bmozc1lJREJkQ0pLWHhRTG3SAdIBQVVfeXFMT0Y1ckYzYlpadXlQdmpwVkJCY2YtYVlfRE9PRVp6TWg2N25UUGJra2NOaEdlLTMxNWdjZGJmU05MX2ppQVNzTGhEd0FGRDhoVDQ4NnZCcDliX29rX1BabVdrOXRaMnZvNTVQVTJicTdKZTZOUkZNTjRQbFVILVhMWDVWLTBwUWhSWEdQX2dUVkVTQlJ0U1p0T0hsXzJoeXN2TGg1SjluaTQ2LVFaSVF3LWFYdFNwRTZDSU04MXJoV1V2NTcyLU9fS19McENmZXhEMDF3?oc=5",
             "published": "Fri, 17 Jul 2026 07:00:00 GMT",
@@ -1384,18 +1392,11 @@
             "published": "Wed, 07 Jan 2026 08:00:00 GMT",
             "score": -2,
             "label": "Neutral"
-          },
-          {
-            "title": "Afcons Infrastructure sets record date for \u20b950 crore CP maturity - scanx.trade",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVW15QUhoTE4zbDNIdy1jZ0ROX2RnWm9aSTU3bXJVTUJ6Q09RaGVFT3d2aHJKQlJEMFlmbXZMZjE4b1FJSUdVS0tGYkQtUVh4cGF3VGR6NmV5SUpLc0lfcWJGc3JycXpnZlJtWkxSQnpSblBJZ0UwNHRBOFhPV3V5amgySEgtdkxLdzBFQlk5M1h4Y25fWHQ3VFBocjZwN2UwcGtVYnJjRXhyZldMeFlQdEFwcGhrSFV6bktPdg?oc=5",
-            "published": "Mon, 27 Jul 2026 07:00:00 GMT",
-            "score": 2,
-            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 57.2,
-      "added_at": "2026-09-11T13:11:30.230096",
+      "combined_score": 59.2,
+      "added_at": "2026-09-11T13:43:05.277555",
       "first_seen_price": 259.0,
       "first_seen_at": "2026-09-11T11:10:32.764778"
     }
