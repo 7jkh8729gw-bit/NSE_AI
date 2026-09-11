@@ -543,21 +543,21 @@
       "symbol": "IEX",
       "base": {
         "symbol": "IEX",
-        "price": 113.56999969482422,
-        "day_change": -2.6236796970378675,
-        "volume_ratio": 2.101028043660384,
-        "market_cap": 10104.631658320683,
-        "pct_from_low": 0.5018928382106842,
-        "avg_volume": 3158209.4285714286,
-        "volume": 5273000.0
+        "price": 114.08999633789062,
+        "day_change": -2.177828153428089,
+        "volume_ratio": 2.0287363395785185,
+        "market_cap": 10150.897173473171,
+        "pct_from_low": 0.9553829195177426,
+        "avg_volume": 3174540.1904761903,
+        "volume": 5615946.0
       },
       "technical": {
         "symbol": "IEX",
-        "close": 113.56999969482422,
-        "rsi": 26.21,
+        "close": 114.08999633789062,
+        "rsi": 27.06,
         "adx": 26.84,
         "atr": 2.42,
-        "volume_ratio": 1.62,
+        "volume_ratio": 1.72,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -631,7 +631,7 @@
         ]
       },
       "combined_score": 69.8,
-      "added_at": "2026-09-11T14:13:40.323826",
+      "added_at": "2026-09-11T14:42:33.106856",
       "first_seen_price": 113.11000061035156,
       "first_seen_at": "2026-09-11T09:43:24.246395"
     },
@@ -1308,21 +1308,21 @@
       "symbol": "AFCONS",
       "base": {
         "symbol": "AFCONS",
-        "price": 254.35000610351562,
-        "day_change": -2.4918534973775475,
-        "volume_ratio": 1.951549486467597,
-        "market_cap": 9354.602313962923,
-        "pct_from_low": 2.103403174811906,
-        "avg_volume": 897837.8095238095,
-        "volume": 1392395.0
+        "price": 256.0,
+        "day_change": -1.8593084109765943,
+        "volume_ratio": 2.0161376323861444,
+        "market_cap": 9415.2865536,
+        "pct_from_low": 2.734375,
+        "avg_volume": 907507.7619047619,
+        "volume": 1595464.0
       },
       "technical": {
         "symbol": "AFCONS",
-        "close": 254.35000610351562,
-        "rsi": 28.54,
+        "close": 256.0,
+        "rsi": 29.28,
         "adx": 19.89,
         "atr": 9.39,
-        "volume_ratio": 1.51,
+        "volume_ratio": 1.71,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1398,7 +1398,7 @@
         ]
       },
       "combined_score": 70.4,
-      "added_at": "2026-09-11T14:13:04.877478",
+      "added_at": "2026-09-11T14:42:01.004069",
       "first_seen_price": 259.0,
       "first_seen_at": "2026-09-11T11:10:32.764778"
     }
