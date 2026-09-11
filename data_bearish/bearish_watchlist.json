@@ -259,21 +259,21 @@
       "symbol": "HINDPETRO",
       "base": {
         "symbol": "HINDPETRO",
-        "price": 346.3999938964844,
-        "day_change": -1.7722955077760765,
-        "volume_ratio": 2.0328593364490977,
-        "market_cap": 73707.7706901602,
-        "pct_from_low": 8.718239671354574,
-        "avg_volume": 4261391.952380952,
-        "volume": 4158149.0
+        "price": 349.54998779296875,
+        "day_change": -0.8790603026142657,
+        "volume_ratio": 1.8524478854668074,
+        "market_cap": 74378.0334842954,
+        "pct_from_low": 9.540831569329079,
+        "avg_volume": 4271370.333333333,
+        "volume": 4367695.0
       },
       "technical": {
         "symbol": "HINDPETRO",
-        "close": 346.3999938964844,
-        "rsi": 31.56,
+        "close": 349.54998779296875,
+        "rsi": 33.35,
         "adx": 28.23,
         "atr": 8.12,
-        "volume_ratio": 1.02,
+        "volume_ratio": 1.07,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -282,7 +282,7 @@
         "rounding_top": true,
         "bear_flag": false,
         "ll_lh": true,
-        "near_breakdown": true,
+        "near_breakdown": false,
         "breakdown": false,
         "macd_bearish": true,
         "macd_cross_down": false,
@@ -297,25 +297,25 @@
           "Lower High / Lower Low",
           "Double Top",
           "Rounding Top",
-          "Near Breakdown",
+          "Weak RSI",
           "MACD Bearish",
           "ADX Trend Strength"
         ],
         "support_20d": 340.1
       },
       "news": {
-        "score": 75,
-        "label": "Bullish",
+        "score": 60,
+        "label": "Neutral",
         "headlines": [
           {
             "title": "Hindustan Petroleum Corp Share Price - Live NSE: HINDPETRO Stock Price & Chart - Upstox",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBycFVJWlFyNk9sdVl0eENRNmg3aE5KRG9fMW0xWnp1YUplc3hScndnSC0zWUJXdjR5SUlqbkdnOFRmU1RkbE1UYnhLNnFrWnpwX2FUUWtyV3Q2Qk0zcDZ0VnhWVmNoYmhJbHBxZGU2X3U?oc=5",
-            "published": "Mon, 07 Sep 2026 21:59:45 GMT",
+            "published": "Wed, 09 Sep 2026 08:09:53 GMT",
             "score": 0,
             "label": "Neutral"
           },
           {
-            "title": "Hindustan Petroleum ESG Rating 2026 | HINDPETRO NSE - kalkine.co.in",
+            "title": "Hindustan Petroleum ESG Rating 2026 | HINDPETRO NSE - Kalkine India",
             "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXVFRlE4Qmx6MEtPMlh1WFBHU1ZwRklKWVJqUERQTkVaMU1BSUhyNFJBUThLbmwzVm0yeWVTeGZCd1NEdF80cVgycDRCdXpFYkxBd21Xblp3LVBsUDB3QlFQNW1aQkg5eXhHaTh5X09ZQjF0endqbzkyMlNYTnNMc0lIc1o3ZVh3NndaYTdWMWVOenRNZFlFeWJjaW9rMG9fUHBUY2RrbmNHZ3c1RS1KaUJ1bEw?oc=5",
             "published": "Thu, 10 Sep 2026 10:44:00 GMT",
             "score": 0,
@@ -329,23 +329,23 @@
             "label": "Neutral"
           },
           {
-            "title": "HINDPETRO Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83Tk5vS3JodUVPcmxZRWJBYmd4NGVQeF9KNUdaU1BuS2I0SHM1US1rcFJkcGJobGN4OF9GTkp0UjJJYS1xeEsxRm1MRlFOa3NCWlQyLVBtTk1JbkNCOUhoMDI3UUFWX2ItWTFMRWR5MEhkMlllWTctWmxjS3k?oc=5",
-            "published": "Thu, 25 Jun 2026 12:21:25 GMT",
-            "score": 1,
-            "label": "Neutral"
-          },
-          {
             "title": "5 Refinery Stocks India 2026: Strong Future Roadmaps - Univest",
             "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FOU05U1Z1X3dEYWQ2REFVTHRQd1ktTnNILUNTMG54RnE5eVRzTFQ3ckJQb21WTXRfc092UVRwcC1SR0F4TUR3THFpdTBYaU9EdWM5cTFSWmp2eVc1eVJDS0xUazJUWnlKZDB2ZjRUUi12ZVFuZXc?oc=5",
             "published": "Wed, 26 Aug 2026 07:00:00 GMT",
             "score": 1,
             "label": "Neutral"
+          },
+          {
+            "title": "Oil-linked stocks split: HPCL, Indian Oil, Asian Paints, IndiGo decline; ONGC, OIL gain as crude jumps - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbEJCU0JCUWJFeFZBSk91NXVySHFyaWFzbUFweXlkU1FQSUNrdUg1SC1CRDI0dU1kOVJIRXNmd1RWd0N4RnlpLXBqSWZsaU55NkVpS1VGU2kzRXpkVS13TzUyZnNOendScXQ3WEtSdXRUd0RhLU5PRy13QXY0YWVqQm1iWnFmUVl5RElfb2Z5NDdsVm1Hb0FJR2hQZ1R3U1puY2d5N2JwSUl2czQyQ3IzUXVybm9KQ1Rxc0tHTnB3Wl9vcWdCMndyVWNHand0VlZjMDdNNXhuS18yRVVGYUJUTVJpaVY2Z2lRYkQ3Zg?oc=5",
+            "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 53.0,
-      "added_at": "2026-09-11T12:15:34.320710",
+      "combined_score": 56.0,
+      "added_at": "2026-09-11T12:42:46.668508",
       "first_seen_price": 341.6000061035156,
       "first_seen_at": "2026-09-11T09:43:25.933593"
     },
@@ -353,21 +353,21 @@
       "symbol": "MUTHOOTFIN",
       "base": {
         "symbol": "MUTHOOTFIN",
-        "price": 2776.300048828125,
-        "day_change": -2.2945610125593876,
-        "volume_ratio": 1.7211504085209217,
-        "market_cap": 111459.6949521753,
-        "pct_from_low": 3.7928194711004704,
-        "avg_volume": 904149.619047619,
-        "volume": 751115.0
+        "price": 2780.0,
+        "day_change": -2.16434981523843,
+        "volume_ratio": 1.5259389643311687,
+        "market_cap": 111608.236328,
+        "pct_from_low": 3.920863309352518,
+        "avg_volume": 904851.5238095238,
+        "volume": 765855.0
       },
       "technical": {
         "symbol": "MUTHOOTFIN",
-        "close": 2776.300048828125,
-        "rsi": 36.3,
+        "close": 2780.0,
+        "rsi": 36.51,
         "adx": 19.56,
         "atr": 83.43,
-        "volume_ratio": 0.81,
+        "volume_ratio": 0.83,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -398,16 +398,9 @@
         "support_20d": 2728.6
       },
       "news": {
-        "score": 53,
+        "score": 48,
         "label": "Neutral",
         "headlines": [
-          {
-            "title": "Do Muthoot Finance's (NSE:MUTHOOTFIN) Earnings Warrant Your Attention? - simplywall.st",
-            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSkdmTF9nb1NoSXpIVE1iRjR2YlVFWmNRYjNsRFBkLXUyX2ZMS2RiNk9Pa01wMkRzLUhxZU8xLWN0T2pJeHFRWkJHQkVMOG8tLWVyM0s1VVhOMW8yb09DNWIxSXE5eldPYS12TTZfbF9VTV9MYkdjMnNDMHNUTUJ5R3lyaEtBMGItUnhMUHBGRjVxZlNPMXRHd25mLVNNcjJqR2VkeE5hUTRtSDZTdHZ0UUtHS3pSWUYwdHhVTk1LLVZRaHBvc0ZmX2p5LW1BVVBrYVFZQ0tXUjM5bUx4X0ZVeVdmdnpvR0s0a2ttOXBTR2Ixd9IB9wFBVV95cUxOelhvc0hkMlF2V2RxclhFd3pkMGRSTzJjVFh5WlVwODBHV2hrT29kbmNRajdNRmFNdmlkMU8xQXZ5cVdmeERrUlo4MmRZYXpJemlEdi1aRlpleHE0cnpvWFBReDBIVzFwU0FMbFZ6WTQ1VjlpaktTMWxfNkpsbG9SdjZKYlFZekdUQ19RTjJEM3dnSGdaSXZ4YU5XdFRpUzBIeEZLNzVkMk9xRGJaWktrZFVETjhQOU1jQTNyUlhjZkU2Q01xSnpiWVJjQm9Db0JpdXdzaG9xbmpZODJFY3AxMGZqM2g3UHJVdUIzZG9lMHBBc2x0N01F?oc=5",
-            "published": "Tue, 11 Aug 2026 07:00:00 GMT",
-            "score": 1,
-            "label": "Neutral"
-          },
           {
             "title": "5 Gold Stocks India 2026: Strong Future Roadmaps - Univest",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6dkZ5YmZjMDNjSDN1U1lVUXYxMU9LZWctQzZ4ejlPX3U3NktzRjVJQW9FTFJ2bTRCT3dEcmptZ01WaHB3V25hV3RrcEEwZjh0a3lwYTZUaEplOWJZTXFJTFBtVGVXR3ZoQ2VNbXh3UU8?oc=5",
@@ -423,6 +416,13 @@
             "label": "Bearish"
           },
           {
+            "title": "Investing in Muthoot Finance (NSE:MUTHOOTFIN) three years ago would have delivered you a 286% gain - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVkUzaWt0aFhYMW5CSDJOM3lPdlpnTWxFRUo3RjBvMEdQNkJITHV3OGNtNWtHUHdOWjZ4RkJqRmpCQlRkZms5LV9idHJiUTdabnZURUVfWGVaTEhqTHZ2ajN2LXN1WG0zQjFRQmRtOWdXMG5wdTRvRlN0TVdXZHlMcHlSTmdVLXFER2ZEdi12UlhqcjREckFJSGF4cV84U1Vna0xDVWppbGRUMjFaVnBCX1dEWXhIYzd5dUUxVmJuaWtmV2dVTWZrYnYtYW9HQWJXZ1FqQnp1UXJ4ZXkzanVXdzlfd05GcmdCdGYwRXNmNNIB9AFBVV95cUxPeExaQjVjRDBQZ3lpZ254X1FWS0MxVTg0Ulh4NFJWX01ldHdxRXlVbVdFWXlLRkJUcng1QmxwcjRUWlZfRkNzUC1yNmwtXzJRWHFHajlkcjR4WVlfd0NCM1RaV1gxY3U5em5KWHRoT3c1U3FVNldjRGEzUHdSYzdRbTh4Y0NjWmNPM29YRDNhZnFBdnVpOUxqeFVHbGhFNFQ1Z3QtcnIxbmlKVjJNMmpPM1Uxd0tzVjk2UVhnaTFmT1lXbWVRNGo5Tnl1bl91OWhYbG1TTlNVWEVmNkRKZHFSUG9Ed0dEZXNYS0dDYUViNm1oSmRJ?oc=5",
+            "published": "Tue, 13 Jan 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
             "title": "Muthoot Finance shares plunge 12% despite strong Q3; MOFSL stays 'Neutral' - Business Standard",
             "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSXNxTWtid3A1REQwcExGYXRScUxNSkFxTXkydVJad1docUNjQ1ZaN1l5QlNKTm1pUkRaWUFXM1d5R3FUU05DVDNGV2NFZ1BsN2R1RGtNRHBhYlpiVHhCZi1KU1Y2ZEJUWm04RndnZTVGc2laVWlMaEM0NUlmR3hUMnRLSkszUkhwb18waHZiRktnb1JxNGcxdHdwM0xacHRZa0FXNDNmdEVEdUZHSm9TQTFCREdTWEZEd0N0bWJnV0YxbWpkbVJNQWVUYlNrQ2NVWWU3SmpjVU5IdDRxRFhhcnVJaUxFemhzLXRhNXB0YmpDLTc3MnF3VmV30gH_AUFVX3lxTFA2V193NExpeVpvbmRjNU5DZVE3dWZpVUpVM0hFTUVZU29tS0pxNVIyNDZjLS03ODVSLUp1bDlVMU9CLXB4OWFyQWp4REZDMDNMcEU3Szlvbk5VajJKSzJkUExfUENQNlJwV3J2Q1RuYXhmek9qQS0xbXlvemo4VXF5REFmLXBFNHlleWY3X0k4YjFIVUhLczJxRGxiTy1xTmI3THNSNTdvV1huVjNQR29raWxIM2I5SC1hQ2hiZkxCQlFWd3N1WlpRUGVmU3VKemxkdkNibkFLT092ZE9XUFNsYVVLMEhlYjJxeWlwampHQlJqX2pfcU1QeEM3Z0FLVQ?oc=5",
             "published": "Fri, 13 Feb 2026 08:00:00 GMT",
@@ -430,7 +430,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Muthoot Finance slides 11.24% after Q3 results despite profit jump - hdfcsky.com",
+            "title": "Muthoot Finance slides 11.24% after Q3 results despite profit jump - HDFC Sky",
             "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVHlxcXFMNEF5NWVZUWJwZzJGQXFtbzNvZGVYOXpzOWQtc2NMQmo5WTlkS01hUGJJN0pXRkFzcVp6Wm05c3BMcVdVMTlLWUxaVm9Pem1zeC1iaVh0Vm11OEp5M3QyOFczUXlKd1ZEMERJTTBxZEpRdHE2cW1OX1Z0X1ZMUUp3UQ?oc=5",
             "published": "Fri, 13 Feb 2026 08:00:00 GMT",
             "score": 3,
@@ -438,8 +438,8 @@
           }
         ]
       },
-      "combined_score": 57.4,
-      "added_at": "2026-09-11T12:16:02.869216",
+      "combined_score": 58.4,
+      "added_at": "2026-09-11T12:43:06.883199",
       "first_seen_price": 2748.300048828125,
       "first_seen_at": "2026-09-11T09:43:55.557428"
     },
@@ -543,21 +543,21 @@
       "symbol": "IEX",
       "base": {
         "symbol": "IEX",
-        "price": 113.43000030517578,
-        "day_change": -2.743716902684235,
-        "volume_ratio": 2.6783576553921384,
-        "market_cap": 10092.175531979317,
-        "pct_from_low": 0.37908869260239303,
-        "avg_volume": 3096692.476190476,
-        "volume": 3981144.0
+        "price": 113.66000366210938,
+        "day_change": -2.5465091839582934,
+        "volume_ratio": 2.426534817077602,
+        "market_cap": 10112.639556001828,
+        "pct_from_low": 0.5806824219990758,
+        "avg_volume": 3105172.0,
+        "volume": 4159214.0
       },
       "technical": {
         "symbol": "IEX",
-        "close": 113.43000030517578,
-        "rsi": 25.99,
+        "close": 113.66000366210938,
+        "rsi": 26.35,
         "adx": 26.84,
         "atr": 2.42,
-        "volume_ratio": 1.25,
+        "volume_ratio": 1.3,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -629,7 +629,7 @@
         ]
       },
       "combined_score": 58.6,
-      "added_at": "2026-09-11T12:15:36.872833",
+      "added_at": "2026-09-11T12:42:48.340571",
       "first_seen_price": 113.11000061035156,
       "first_seen_at": "2026-09-11T09:43:24.246395"
     },
@@ -1030,21 +1030,21 @@
       "symbol": "SWANCORP",
       "base": {
         "symbol": "SWANCORP",
-        "price": 294.04998779296875,
-        "day_change": -0.6252132955983833,
-        "volume_ratio": 2.3309507108078864,
-        "market_cap": 9217.199350192199,
-        "pct_from_low": 6.937593859329579,
-        "avg_volume": 3520992.6666666665,
-        "volume": 3961371.0
+        "price": 294.29998779296875,
+        "day_change": -0.540725291152037,
+        "volume_ratio": 2.0717798095993825,
+        "market_cap": 9225.0357723422,
+        "pct_from_low": 7.0166478943285,
+        "avg_volume": 3525262.904761905,
+        "volume": 4051046.0
       },
       "technical": {
         "symbol": "SWANCORP",
-        "close": 294.04998779296875,
-        "rsi": 48.3,
+        "close": 294.29998779296875,
+        "rsi": 48.52,
         "adx": 26.58,
         "atr": 9.79,
-        "volume_ratio": 1.1,
+        "volume_ratio": 1.13,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1075,7 +1075,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "Swan Corp (NSE: SWANCORP): Diversified Conglomerate in Focus - kalkine.co.in",
+            "title": "Swan Corp (NSE: SWANCORP): Diversified Conglomerate in Focus - Kalkine India",
             "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTGJXVXZWM0xzLVU0WGNQR1BJczJEUVpkMjJLYTZCNm9RMDdKRmFZVnd4cFlmbEU2MnpxUHE3Y25sTlVvNWYxLXlHOEFwZzhlQmF6OG5DdFE0QmxZdUxmXzhWUG53OUlsanVkQ3ZiQmNYQnZQU2N6SjRrRXExZVdkR3d2anI5b0pXcE5manNHYzlsYkFjbFVRT0JjdmdwMTc1SzFOa0pSZU1SeHNiY25IVkk4dkhTY2h2MC1ieTdDTlVQekFKQ3dTa0Z3?oc=5",
             "published": "Thu, 10 Sep 2026 13:06:00 GMT",
             "score": 0,
@@ -1112,7 +1112,7 @@
         ]
       },
       "combined_score": 33.6,
-      "added_at": "2026-09-11T12:16:39.124580",
+      "added_at": "2026-09-11T12:43:31.825496",
       "first_seen_price": 289.54998779296875,
       "first_seen_at": "2026-09-11T09:44:37.181993"
     },
@@ -1306,21 +1306,21 @@
       "symbol": "AFCONS",
       "base": {
         "symbol": "AFCONS",
-        "price": 255.89999389648438,
-        "day_change": -1.8976469584849802,
-        "volume_ratio": 1.66571073257422,
-        "market_cap": 9411.608482812077,
-        "pct_from_low": 0.11722852681665161,
-        "avg_volume": 864255.619047619,
-        "volume": 687169.0
+        "price": 253.89999389648438,
+        "day_change": -2.664371111524226,
+        "volume_ratio": 1.6889586049030667,
+        "market_cap": 9338.051556612076,
+        "pct_from_low": 0.2363099090782886,
+        "avg_volume": 870164.6666666666,
+        "volume": 811259.0
       },
       "technical": {
         "symbol": "AFCONS",
-        "close": 255.89999389648438,
-        "rsi": 29.23,
-        "adx": 19.45,
-        "atr": 8.92,
-        "volume_ratio": 0.77,
+        "close": 253.89999389648438,
+        "rsi": 28.34,
+        "adx": 19.61,
+        "atr": 9.09,
+        "volume_ratio": 0.91,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1350,10 +1350,10 @@
           "MACD Bearish",
           "OBV Distribution"
         ],
-        "support_20d": 255.6
+        "support_20d": 253.3
       },
       "news": {
-        "score": 50,
+        "score": 40,
         "label": "Neutral",
         "headlines": [
           {
@@ -1371,6 +1371,13 @@
             "label": "Neutral"
           },
           {
+            "title": "Afcons Infrastructure Stock Prediction 2026: Expert Analysis, Forecast Scenarios and Full Stock Review - Univest",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81emxwZFFJQTB3OTh6bDZwX1V1dmhiai0tN3VaSkliUnRMYUp5V1FvbXFnSmR2cGFZOElhRVRfUnFtYlc2d01mZGlXXzJjVGJJMmdWc3VkZWk0MTlOWHFpMTBhZWQ4YkpZM2xqM2dqOGV5Uml3alhJ?oc=5",
+            "published": "Fri, 19 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
             "title": "Volumes spurt at Afcons Infrastructure Ltd counter - Business Standard",
             "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQanBpWnNTa1BfU0xZY1JOX0RfWkdKMzhpVUN3aEkzTUtjNUwwbW0yWjI0SGE4SnhBQzNaUVRwU090YXJ2WFNqV2JINHRDR3I4RXE3bFFvaFk3Q1FjVXRoVE1iN2JYMkNyRkdTbm1qSnpaVmZHWnN0emFiQjlvY01sWERqQnc0YjRCSlpvTndVcTg0ak5QcmFoMFg3a2hfMDFMR0wxdUFSUmdZZHB2V3BSVDNTbXF5WEhscGt3bmozc1lJREJkQ0pLWHhRTG3SAdIBQVVfeXFMT0Y1ckYzYlpadXlQdmpwVkJCY2YtYVlfRE9PRVp6TWg2N25UUGJra2NOaEdlLTMxNWdjZGJmU05MX2ppQVNzTGhEd0FGRDhoVDQ4NnZCcDliX29rX1BabVdrOXRaMnZvNTVQVTJicTdKZTZOUkZNTjRQbFVILVhMWDVWLTBwUWhSWEdQX2dUVkVTQlJ0U1p0T0hsXzJoeXN2TGg1SjluaTQ2LVFaSVF3LWFYdFNwRTZDSU04MXJoV1V2NTcyLU9fS19McENmZXhEMDF3?oc=5",
             "published": "Fri, 17 Jul 2026 07:00:00 GMT",
@@ -1383,18 +1390,11 @@
             "published": "Wed, 07 Jan 2026 08:00:00 GMT",
             "score": -2,
             "label": "Neutral"
-          },
-          {
-            "title": "Afcons Infrastructure sets record date for \u20b950 crore CP maturity - scanx.trade",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVW15QUhoTE4zbDNIdy1jZ0ROX2RnWm9aSTU3bXJVTUJ6Q09RaGVFT3d2aHJKQlJEMFlmbXZMZjE4b1FJSUdVS0tGYkQtUVh4cGF3VGR6NmV5SUpLc0lfcWJGc3JycXpnZlJtWkxSQnpSblBJZ0UwNHRBOFhPV3V5amgySEgtdkxLdzBFQlk5M1h4Y25fWHQ3VFBocjZwN2UwcGtVYnJjRXhyZldMeFlQdEFwcGhrSFV6bktPdg?oc=5",
-            "published": "Mon, 27 Jul 2026 07:00:00 GMT",
-            "score": 2,
-            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 57.2,
-      "added_at": "2026-09-11T12:14:49.151207",
+      "combined_score": 59.2,
+      "added_at": "2026-09-11T12:42:17.774657",
       "first_seen_price": 259.0,
       "first_seen_at": "2026-09-11T11:10:32.764778"
     }
