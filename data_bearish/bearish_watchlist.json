@@ -103,21 +103,21 @@
       "symbol": "HDFCBANK",
       "base": {
         "symbol": "HDFCBANK",
-        "price": 685.4000244140625,
-        "day_change": -1.210718294421881,
-        "volume_ratio": 2.042558804338112,
-        "market_cap": 1056270.0161439932,
-        "pct_from_low": 0.5106506967215377,
-        "avg_volume": 25679448.14285714,
-        "volume": 7972671.0
+        "price": 685.7000122070312,
+        "day_change": -1.1674799262686855,
+        "volume_ratio": 1.537527775873504,
+        "market_cap": 1056942.0256578096,
+        "pct_from_low": 0.5541764219513288,
+        "avg_volume": 25731855.04761905,
+        "volume": 9073216.0
       },
       "technical": {
         "symbol": "HDFCBANK",
-        "close": 685.4000244140625,
-        "rsi": 31.37,
+        "close": 685.7000122070312,
+        "rsi": 31.47,
         "adx": 24.89,
         "atr": 11.59,
-        "volume_ratio": 0.31,
+        "volume_ratio": 0.35,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -190,7 +190,7 @@
         ]
       },
       "combined_score": 66.8,
-      "added_at": "2026-09-11T10:12:26.720003",
+      "added_at": "2026-09-11T10:41:43.462886",
       "first_seen_price": 684.7999877929688,
       "first_seen_at": "2026-09-11T09:43:22.682372"
     },
@@ -259,21 +259,21 @@
       "symbol": "HINDPETRO",
       "base": {
         "symbol": "HINDPETRO",
-        "price": 341.6000061035156,
-        "day_change": -3.133414996233439,
-        "volume_ratio": 2.8190146018136493,
-        "market_cap": 72686.41847943979,
-        "pct_from_low": 7.43559527009709,
-        "avg_volume": 4148022.3333333335,
-        "volume": 1777387.0
+        "price": 345.20001220703125,
+        "day_change": -2.1125710529970876,
+        "volume_ratio": 2.7395877333881056,
+        "market_cap": 73452.43588427959,
+        "pct_from_low": 8.400926701766005,
+        "avg_volume": 4188702.619047619,
+        "volume": 2631673.0
       },
       "technical": {
         "symbol": "HINDPETRO",
-        "close": 341.6000061035156,
-        "rsi": 29.18,
+        "close": 345.20001220703125,
+        "rsi": 30.93,
         "adx": 28.23,
         "atr": 8.12,
-        "volume_ratio": 0.45,
+        "volume_ratio": 0.66,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -310,7 +310,7 @@
           {
             "title": "Hindustan Petroleum Corp Share Price - Live NSE: HINDPETRO Stock Price & Chart - Upstox",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBycFVJWlFyNk9sdVl0eENRNmg3aE5KRG9fMW0xWnp1YUplc3hScndnSC0zWUJXdjR5SUlqbkdnOFRmU1RkbE1UYnhLNnFrWnpwX2FUUWtyV3Q2Qk0zcDZ0VnhWVmNoYmhJbHBxZGU2X3U?oc=5",
-            "published": "Wed, 09 Sep 2026 08:09:53 GMT",
+            "published": "Thu, 10 Sep 2026 03:47:31 GMT",
             "score": 0,
             "label": "Neutral"
           },
@@ -345,7 +345,7 @@
         ]
       },
       "combined_score": 56.0,
-      "added_at": "2026-09-11T10:12:30.084922",
+      "added_at": "2026-09-11T10:41:45.367511",
       "first_seen_price": 341.6000061035156,
       "first_seen_at": "2026-09-11T09:43:25.933593"
     },
@@ -353,21 +353,21 @@
       "symbol": "MUTHOOTFIN",
       "base": {
         "symbol": "MUTHOOTFIN",
-        "price": 2740.0,
-        "day_change": -3.5720570121414745,
-        "volume_ratio": 3.3637109379338606,
-        "market_cap": 110002.362424,
-        "pct_from_low": 2.5182481751824817,
-        "avg_volume": 890442.0476190476,
-        "volume": 463256.0
+        "price": 2760.699951171875,
+        "day_change": -2.8435702561367235,
+        "volume_ratio": 2.761580329476752,
+        "market_cap": 110833.40020902471,
+        "pct_from_low": 3.249174222421337,
+        "avg_volume": 895709.3333333334,
+        "volume": 573869.0
       },
       "technical": {
         "symbol": "MUTHOOTFIN",
-        "close": 2740.0,
-        "rsi": 34.39,
+        "close": 2760.699951171875,
+        "rsi": 35.46,
         "adx": 19.56,
         "atr": 83.43,
-        "volume_ratio": 0.51,
+        "volume_ratio": 0.63,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -439,7 +439,7 @@
         ]
       },
       "combined_score": 58.4,
-      "added_at": "2026-09-11T10:13:04.535162",
+      "added_at": "2026-09-11T10:42:15.957976",
       "first_seen_price": 2748.300048828125,
       "first_seen_at": "2026-09-11T09:43:55.557428"
     },
@@ -447,21 +447,21 @@
       "symbol": "IOC",
       "base": {
         "symbol": "IOC",
-        "price": 133.85000610351562,
-        "day_change": -0.8077636862085606,
-        "volume_ratio": 2.3115584828728397,
-        "market_cap": 189012.7843753749,
-        "pct_from_low": 2.711994559047806,
-        "avg_volume": 7143286.714285715,
-        "volume": 2509843.0
+        "price": 134.1999969482422,
+        "day_change": -0.5483959387694455,
+        "volume_ratio": 1.774646988107295,
+        "market_cap": 189507.01479040005,
+        "pct_from_low": 2.9657196855779766,
+        "avg_volume": 7162583.19047619,
+        "volume": 2915069.0
       },
       "technical": {
         "symbol": "IOC",
-        "close": 133.85000610351562,
-        "rsi": 38.06,
+        "close": 134.1999969482422,
+        "rsi": 38.87,
         "adx": 18.26,
         "atr": 2.37,
-        "volume_ratio": 0.36,
+        "volume_ratio": 0.41,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -475,18 +475,15 @@
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": true,
-        "patterns": [
-          "Evening Star"
-        ],
+        "patterns": [],
         "setup": "DOUBLE TOP",
-        "score": 58,
+        "score": 53,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
           "Double Top",
           "Near Breakdown",
-          "Evening Star",
           "Weak RSI",
           "MACD Bearish",
           "OBV Distribution"
@@ -526,7 +523,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Indian Oil Corporation Ltd. Share Price Today - Indian Oil Corporation Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+            "title": "Indian Oil Corporation Ltd. Share Price Today - Indian Oil Corporation Ltd. Stock Price Live NSE/BSE - cnbctv18.com",
             "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjZxUGRXSVdjNDZDakRKS1VWdWNFak4tcDJncGwzWlV1Qkt5SUIzeGZCektTUmtTOXZHcU9VNXNkbUFlWnZ2UTZkZUQxN0s4UTI4djloS1hEWmhrTDRtLXE0Ymh0Y1REeWtRemhHZzhmQmx1dU1XZnQyQ0tFTlhSc2V3a1ZYTXFFY1E?oc=5",
             "published": "Sat, 03 Jan 2026 15:32:33 GMT",
             "score": 0,
@@ -534,8 +531,8 @@
           }
         ]
       },
-      "combined_score": 58.4,
-      "added_at": "2026-09-11T10:12:37.564738",
+      "combined_score": 54.4,
+      "added_at": "2026-09-11T10:41:51.406732",
       "first_seen_price": 133.8800048828125,
       "first_seen_at": "2026-09-11T09:43:33.150215"
     },
@@ -543,21 +540,21 @@
       "symbol": "IEX",
       "base": {
         "symbol": "IEX",
-        "price": 114.0,
-        "day_change": -2.2549921249705713,
-        "volume_ratio": 5.316855631013027,
-        "market_cap": 10142.8899546,
-        "pct_from_low": 0.8771929824561403,
-        "avg_volume": 3023469.095238095,
-        "volume": 2443453.0
+        "price": 113.7699966430664,
+        "day_change": -2.452199843696513,
+        "volume_ratio": 3.9497223791063862,
+        "market_cap": 10122.42593057749,
+        "pct_from_low": 0.6768011477420861,
+        "avg_volume": 3038160.619047619,
+        "volume": 2751975.0
       },
       "technical": {
         "symbol": "IEX",
-        "close": 114.0,
-        "rsi": 26.91,
+        "close": 113.7699966430664,
+        "rsi": 26.53,
         "adx": 26.84,
         "atr": 2.42,
-        "volume_ratio": 0.79,
+        "volume_ratio": 0.88,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -629,7 +626,7 @@
         ]
       },
       "combined_score": 58.6,
-      "added_at": "2026-09-11T10:12:33.124658",
+      "added_at": "2026-09-11T10:41:47.151950",
       "first_seen_price": 113.11000061035156,
       "first_seen_at": "2026-09-11T09:43:24.246395"
     },
@@ -847,21 +844,21 @@
       "symbol": "RVNL",
       "base": {
         "symbol": "RVNL",
-        "price": 203.47000122070312,
-        "day_change": -1.0359945620527287,
-        "volume_ratio": 2.4246296534338496,
-        "market_cap": 42428.07516023575,
-        "pct_from_low": 0.7028102059227829,
-        "avg_volume": 3728800.0,
-        "volume": 1398335.0
+        "price": 202.85000610351562,
+        "day_change": -1.3375485984253466,
+        "volume_ratio": 2.0207257309671793,
+        "market_cap": 42294.63400109528,
+        "pct_from_low": 0.39931614148902606,
+        "avg_volume": 3745835.4285714286,
+        "volume": 1756079.0
       },
       "technical": {
         "symbol": "RVNL",
-        "close": 203.47000122070312,
-        "rsi": 30.52,
+        "close": 202.85000610351562,
+        "rsi": 30.01,
         "adx": 25.63,
         "atr": 5.02,
-        "volume_ratio": 0.37,
+        "volume_ratio": 0.46,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -891,8 +888,8 @@
         "support_20d": 202.04
       },
       "news": {
-        "score": 60,
-        "label": "Neutral",
+        "score": 23,
+        "label": "Bearish",
         "headlines": [
           {
             "title": "3 Fundamentally Strong Railway Stocks in India (August 2026) - Univest",
@@ -909,18 +906,11 @@
             "label": "Neutral"
           },
           {
-            "title": "Rail Vikas Nigam Limited's (NSE:RVNL) Shares May Have Run Too Fast Too Soon - simplywall.st",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRTBqYjNZTjBNWGhqNEd6RnFkRmRpSzJ2OFdVTldMbUJUd2RDakVjYTZZY2ZQcTZqcDBxOGVqYy11Um8xeWxXRGtDZ01SX0hjVGVENGU1UThrTG9BVlVyWEx3NXQ5eTBTaVVsMmsyQzlrdjlOd0ZsMDlYQzlNWEpYSDNjWUNjTlBjZ1RPcF85M2V0aEMyTURKcFNmRlI2UmRPU0ZiY2F1WDRycnc5anhZY1hSZDJCUl82U3o3NFZVVTVnVWNzaGF4dExtRFdJZ2dsMWNuUVBldWdnOUhUNzdn0gHkAUFVX3lxTE0zUGlMMTh3d3UwNUMxWGN1aDVWVEZGbU51VE81RFRpMlV5TWJ6NEI4T3QxQU8xMU10bnFyaXg3VENCTDNjZGhHOTVDYnNFbkhxb2YxbEtFdjgzcEk0aEt4V041MnM0VHJGWHViaTlTMHNFTlZIRnhGNkpZODVYMXdYaWthUFl6QkxIYjVRcmZsT1VwdWE2U0pYR253M2dnbW9RZ2lkU0pEa09tV1B3SEVFclRSOFkwWGhva0g2YUcyRTZjVm5yT0NMYk5obl9HSkJ0U2ZsRlA1UEFGTDgtbHdWOGFTag?oc=5",
-            "published": "Mon, 12 Jan 2026 08:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "RVNL Emerges L1 for \u20b9358.97 Crore East Central Railway Project - HDFC Sky",
-            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcF8xbzRGazZ5clhYS1JPaVRKUVVjZDVrSW8yVV9nR3R2N0J3UlJzajFpWEctZVpTU1FLdTFaXzdSMVl0RWNWQ2lkYkdVV3ZHZF9HdUdzSDRDMEU5TURUODdyR1BldlVlSHUwcDh0aXdxejNrN0pYeDh5c3MzZTdvYnZ0MVRhaXlRTVE?oc=5",
-            "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
+            "title": "RVNL Share Price Fall Nearly 4% So far, As Railway Stocks Extend Broad Market Decline - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KMEhHSnk3clZ3ZXJlWmRudmR0TU1WNlNxV1NXcnlRQ1pXWnFNaWdSSXZsX3FlQzFuM3AtUWRaVEpBdlZUQWNXQWgtOUk4WElNTUFPX0o2eHptQ2hVQ1JOaF8tRzRRdVRhX3hBRWNpc1o?oc=5",
+            "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+            "score": -4,
+            "label": "Bearish"
           },
           {
             "title": "Railtel shares zooms 14% after bagging \u20b9255 crore order from RVNL - Business Standard",
@@ -928,11 +918,18 @@
             "published": "Wed, 15 Apr 2026 07:00:00 GMT",
             "score": 3,
             "label": "Neutral"
+          },
+          {
+            "title": "IndiGo, ixigo, RVNL: Airline, rail, tourism stocks decline up to 8% on travel disruption as Iran conflict... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNX1ZJSkEyRVVrcEZxenlET2xLS0EzY2hvYzlLSnh3V1ZyWEsyalVqS1VHVHZtZEhXYUZxT2g1eGU4elRLbW04WmNvM2FaTW9ZV3VFd19yaDl6d0NDZjFVaktEMEljUC1rUTVrVnZVMUpVSXdyQmR3MWNmM092NkRFRy1maElPZ2dKcmFiX2l1azI5T096elUwN09KUlktRGN3NFQyME9YUG5CZkZMeHVNSWxJMHVjb1NkODBjN1NrenZLazRxYjA4OHpsLUpoZFBVelpNeDdhcFNVS184ODY5aG5Oc2xEajgyZzhKQ2d0UWdhZ0tWa20zeGl6UVZEb0d20gGGAkFVX3lxTE9vRlR2aWxITk1SOWJkSE9uVlNhWU5qUlloQ1JBRm4xd1hodkhlNGczUGFvcHpCYVk0SWZDUUNxQWM2MW9aclJIekRfamh4WUY4WHBjZm45YkdNWUoySG1QaXEwVkdwd0w0RW9HRi1GMlBnMzFwREQzUjEzUE9oODR5MnppNXRwdi15anlGVnRaSFJ6a3EzUkZCNFF6cnlWbmhpSlNFR1hYd0tuSHgxNVI2TXZrVlg4dk05RF9LX0VTd1VZUWZzalZhZVhfekxDYVFvWlVUX3d5ckZvcHNMeEtNWkpremRzS29YaExuWGNDQzAtcEhhQnAwWWlfQXRjRXRLNlBLN0E?oc=5",
+            "published": "Mon, 02 Mar 2026 08:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 45.6,
-      "added_at": "2026-09-11T10:13:32.666985",
+      "combined_score": 53.0,
+      "added_at": "2026-09-11T10:42:37.301333",
       "first_seen_price": 202.97999572753906,
       "first_seen_at": "2026-09-11T09:44:19.209331"
     },
@@ -940,21 +937,21 @@
       "symbol": "SHAKTIPUMP",
       "base": {
         "symbol": "SHAKTIPUMP",
-        "price": 490.3500061035156,
-        "day_change": -2.553657748765864,
-        "volume_ratio": 3.179831643173401,
-        "market_cap": 6050.8192890911405,
-        "pct_from_low": 6.9338226933400735,
-        "avg_volume": 990295.1904761905,
-        "volume": 487041.0
+        "price": 490.8500061035156,
+        "day_change": -2.454293681224012,
+        "volume_ratio": 2.3437409912556046,
+        "market_cap": 6056.989187341141,
+        "pct_from_low": 7.028623728431669,
+        "avg_volume": 992809.3333333334,
+        "volume": 539838.0
       },
       "technical": {
         "symbol": "SHAKTIPUMP",
-        "close": 490.3500061035156,
-        "rsi": 47.87,
+        "close": 490.8500061035156,
+        "rsi": 48.1,
         "adx": 26.29,
         "atr": 14.39,
-        "volume_ratio": 0.48,
+        "volume_ratio": 0.53,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -981,16 +978,9 @@
         "support_20d": 465.0
       },
       "news": {
-        "score": 90,
+        "score": 75,
         "label": "Bullish",
         "headlines": [
-          {
-            "title": "Shakti Pumps shares jump over 12% after \u20b9236 crore supply order from Maharashtra; what investors should know - Upstox",
-            "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdkhsb3VlUy12MHNCWkljY2lnR2FPT2U4NG5VSTJKYnVCUFByalBYRjFNNERrXzJUMzBNbkZBY3lkU0U5MjJTdXhsck4zMFlwdzcxWHVhVkI2LXVYU0FjMFQ0SUpCRXA1ck8zUFFUS1p3bHVfYXkxUlNMd1ZUU2lRdFVqNjByYWhtYjlUZDNLRUlYam9vc0lzc2dqbkN5Z3VDeGJzcHBFNzk0WEU4dVZ2WUNxd2dBWmo5b0c3Rm5JbTlnMXNlY3hCUjJ0UkxSZFdBUGJNOHZXNDdITDQxQXcteFBZdzUxTWc3elV6OUwxSHJOVlZqRS1n?oc=5",
-            "published": "Thu, 10 Sep 2026 04:04:04 GMT",
-            "score": 3,
-            "label": "Neutral"
-          },
           {
             "title": "Earnings Troubles May Signal Larger Issues for Shakti Pumps (India) (NSE:SHAKTIPUMP) Shareholders - simplywall.st",
             "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcFVEZDVYV2piNjh3blRhTWE4SEIxN3pwQ3N4eVpISUJqTlEybDE0N1NNdl9IQUNZS200NUk4d2dUMWNBckdjVG1BMW9PTEdCbThjTnZaVzRldklDdkQweDlxaC1KeUVWcVI5TnpkeW9qaC1LeU1Ec2VZOUQ2dWpPa2ZVbVhZOWdBRmo3UkhCRDFBY2lxM0RNQXBfVmhSeW9qLW8ySmc0SmRtRkZickxhWjNBeGp6OW91N0lWUG9FeklJNlpfVlVzR1lNMmh6VVMwbDRrWDhkOGRvbHM2OU51RjRXNDFpZ9IB6wFBVV95cUxOalY3SzZzLWx3SUZ5T0FxT3ZHM0Vmb292V29lSGJxeW1hNWtsTUQxTGJEU3NpOWE3eDNFbTVxM0tmUXdkbm1lelFPNG8wbUxWTUx4M0JpTGVZREZMOUVpdWJjWnFPRGR0S0d4SzVmOC1ocFQ4OUFLV0hNSmIta3REQ2Ewa2hlMjh1Wndnak12NlQtalUycnlLbmswbkdiTmJCbVJWaXRGYTlpc3RvYmY3OWp6T3BjYzBaU0hDVDBraHIzQUR6eVU1WVU4dHJQMmlQTHFTVTR1dnh2ejR4Z0Y0TG9WTnVmajNEdi1j?oc=5",
@@ -1018,11 +1008,18 @@
             "published": "Thu, 25 Jun 2026 14:18:24 GMT",
             "score": 1,
             "label": "Neutral"
+          },
+          {
+            "title": "Shakti Pumps, Va Tech, Astral, NCC: Pipes, EPC, and pump stocks jump over 16% as Jal Jeevan Mission gets extended; details to know - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbTBSMUpSWTltRU5YZVJlS0tOa2JYV21tUFAyYWFjdWt5YzBHN2dvb0ROcll3WGo0WURqNHQ5UEhLeGZBVHZaVnVVLWZscUw0M2NzWk5vYW0yeVQxNm9QSHRtbGZULTNJOUwwTVFPeVhzcENudk9BVFlMMnRpMXQyTmM1Z25FcUFYblJXY2hUNFd5UldNazkwZndjR2FBaVgtZHo0dF9YYTRITm9VcThPbVFUclNidXZZcGJCbzlNU1psbjdJbnBDcUFEWFdjM1VRbmM0YndkdURueG5OcGN6emhrd0pNNnFSNm85ZVJDcjdTeGxtTGNuc0phMXljXzdOQ1RuLTVKT2gxUQ?oc=5",
+            "published": "Tue, 10 Mar 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 27.6,
-      "added_at": "2026-09-11T10:13:38.075626",
+      "combined_score": 30.6,
+      "added_at": "2026-09-11T10:42:42.135600",
       "first_seen_price": 489.3500061035156,
       "first_seen_at": "2026-09-11T09:44:22.958897"
     },
@@ -1030,21 +1027,21 @@
       "symbol": "SWANCORP",
       "base": {
         "symbol": "SWANCORP",
-        "price": 290.25,
-        "day_change": -1.9094268377920043,
-        "volume_ratio": 5.350884210084668,
-        "market_cap": 9098.08611615,
-        "pct_from_low": 5.719209682520456,
-        "avg_volume": 3469070.9523809524,
-        "volume": 2871015.0
+        "price": 292.6499938964844,
+        "day_change": -1.0983440578025012,
+        "volume_ratio": 4.024966381468589,
+        "market_cap": 9173.3155774711,
+        "pct_from_low": 6.492397196741663,
+        "avg_volume": 3487429.0,
+        "volume": 3256534.0
       },
       "technical": {
         "symbol": "SWANCORP",
-        "close": 290.25,
-        "rsi": 45.13,
+        "close": 292.6499938964844,
+        "rsi": 47.08,
         "adx": 26.58,
         "atr": 9.79,
-        "volume_ratio": 0.81,
+        "volume_ratio": 0.92,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1112,7 +1109,7 @@
         ]
       },
       "combined_score": 33.6,
-      "added_at": "2026-09-11T10:13:50.132765",
+      "added_at": "2026-09-11T10:42:54.252021",
       "first_seen_price": 289.54998779296875,
       "first_seen_at": "2026-09-11T09:44:37.181993"
     },
@@ -1120,21 +1117,21 @@
       "symbol": "MOIL",
       "base": {
         "symbol": "MOIL",
-        "price": 245.92999267578125,
-        "day_change": -1.5295324621496496,
-        "volume_ratio": 1.906593078047722,
-        "market_cap": 5004.311645085981,
-        "pct_from_low": 1.4556933594452857,
-        "avg_volume": 945947.3333333334,
-        "volume": 278947.0
+        "price": 245.9600067138672,
+        "day_change": -1.5175148292824074,
+        "volume_ratio": 1.5008747237696756,
+        "market_cap": 5004.922386373268,
+        "pct_from_low": 1.4677185362704868,
+        "avg_volume": 948389.4761904762,
+        "volume": 330232.0
       },
       "technical": {
         "symbol": "MOIL",
-        "close": 245.92999267578125,
-        "rsi": 33.97,
+        "close": 245.9600067138672,
+        "rsi": 33.99,
         "adx": 16.57,
         "atr": 6.94,
-        "volume_ratio": 0.29,
+        "volume_ratio": 0.34,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1166,7 +1163,7 @@
         "support_20d": 244.5
       },
       "news": {
-        "score": 75,
+        "score": 65,
         "label": "Bullish",
         "headlines": [
           {
@@ -1191,23 +1188,23 @@
             "label": "Neutral"
           },
           {
-            "title": "The total return for MOIL (NSE:MOIL) investors has risen faster than earnings growth over the last five years - simplywall.st",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMXBjUFNaalprRHZPMW5ibHZld21xZFpFdDhHMXFaQkVzMnNoQTRXcXBORFg4VHJyaVRpYTRCeGpXVlc1Z0ZxbW1QZkliR05tdHFUWTVhN0FBampRNms5aFJMSU1OZDROdmlxNGR2d0Z6a043VEpEQ3diUXhBa0hhWEpzUmJpX21MQklZblc0Z3dabE5SSF9iSFpCLXpySjBZWEgxUmI4ZUdISjl1MzEycUF6SWp3dGhHaWhYMFZHRExyTEVuR1Rr0gHMAUFVX3lxTE9HRXlnYy1wTWE3SlZtNWpYdmI1a2hLZndNS2d1RE1XYnA4emdHSjhUVktYaHUwalNYM1RDYVhPV0xFUWVyQlV2YUJzanFRQ0lrOElYa3NRM0dCSm12NEZSZnllbUNVMV83UzdtY3FWMjFGOW8xMU1laGZTV1FnVjNfYUtRM3REVXJuUDBxbkZack5kLXpBeXhlRlVmQ3g1ZV9sOFdfSnAwLWJlMld4eXJZQkpGd3pBekFXdkVvYzBzNHJja2lBbEE0a015eA?oc=5",
-            "published": "Thu, 05 Feb 2026 08:00:00 GMT",
-            "score": 3,
-            "label": "Neutral"
-          },
-          {
             "title": "5 Non Ferrous non ferrous metal stocks India 2026: Strong Future Roadmaps - Univest",
             "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYWNNXzNDZmVCMzQtc2hhSF93aDZpUGxFbEYtb1VjQ3dIdDFlbXdPYk9Eb1l2Y2pGVzEydnVaWGd5SUk0MWRXU3UtLXNFWTQ0QkhXdkRLWnJDaEw3NGhBRnFreHpfZWM1TEFQWEpBVV84c1lVcGZYNVZ3YzZQQjJjVktn?oc=5",
             "published": "Wed, 26 Aug 2026 07:00:00 GMT",
             "score": 1,
             "label": "Neutral"
+          },
+          {
+            "title": "MOIL Limited's (NSE:MOIL) Stock Has Seen Strong Momentum: Does That Call For Deeper Study Of Its Financial Prospects? - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRnN0blhpcm95bHZWT1c4R2RseGM4ZTI1dXZfempFeHZZNXFieXFmNnJGZnR2LXdmQV9UZlJ1SUJpVUQ3WS15OS1YeS1FRHk4SzkzcTZzaFhFYlM1eGM2TGFoNUJPZVZTbklhRUlTYUxLQUw1YnVGUnhWTUJhWjh2RGtwR3ZYTEVrLXVyUHVqd2FtbHZwV2U3UWRGQkRiSVBCbUJlVDFnOUlQcXZSNlVzZ1NoSFBTUVJ3Y3R4bUNkeW9zNTl4NmJz0gHMAUFVX3lxTE5mdXAyUF9GbEJHNjkxLVJ5allWbHRlb2c1cW9mSFNsenpVRDdqdmJiWGpRNi1oRzFKVDZWVUFnWW1ENkRZVHE2M2MtUDJKY3BPakZ4U3RURjljTW9TSDBGNXdlZk44NUszcklRSExhSGR0cUN5VUo0ZnhMTW90Z2tLaXhIZkFqcUdRQUhuWnhwckpFdVNnVV8tdHMtWHFBcnRVc1hwWUJnOFdRcWJ5dUY5WGl2YXYtb2FXTmRHWGhmS19mdnVEY213Q1pFbg?oc=5",
+            "published": "Thu, 25 Dec 2025 08:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 61.8,
-      "added_at": "2026-09-11T10:13:03.025854",
+      "combined_score": 63.8,
+      "added_at": "2026-09-11T10:42:13.663910",
       "first_seen_price": 245.92999267578125,
       "first_seen_at": "2026-09-11T10:13:03.025854"
     },
