@@ -259,21 +259,21 @@
       "symbol": "HINDPETRO",
       "base": {
         "symbol": "HINDPETRO",
-        "price": 345.20001220703125,
-        "day_change": -2.1125710529970876,
-        "volume_ratio": 2.7395877333881056,
-        "market_cap": 73452.43588427959,
-        "pct_from_low": 8.400926701766005,
-        "avg_volume": 4188702.619047619,
-        "volume": 2631673.0
+        "price": 346.04998779296875,
+        "day_change": -1.8715457869688683,
+        "volume_ratio": 2.8128994909790084,
+        "market_cap": 73633.29560334541,
+        "pct_from_low": 8.625914358880383,
+        "avg_volume": 4239026.619047619,
+        "volume": 3688477.0
       },
       "technical": {
         "symbol": "HINDPETRO",
-        "close": 345.20001220703125,
-        "rsi": 30.93,
+        "close": 346.04998779296875,
+        "rsi": 31.38,
         "adx": 28.23,
         "atr": 8.12,
-        "volume_ratio": 0.66,
+        "volume_ratio": 0.91,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -345,7 +345,7 @@
         ]
       },
       "combined_score": 56.0,
-      "added_at": "2026-09-11T10:41:45.367511",
+      "added_at": "2026-09-11T11:11:17.139504",
       "first_seen_price": 341.6000061035156,
       "first_seen_at": "2026-09-11T09:43:25.933593"
     },
@@ -353,21 +353,21 @@
       "symbol": "MUTHOOTFIN",
       "base": {
         "symbol": "MUTHOOTFIN",
-        "price": 2760.699951171875,
-        "day_change": -2.8435702561367235,
-        "volume_ratio": 2.761580329476752,
-        "market_cap": 110833.40020902471,
-        "pct_from_low": 3.249174222421337,
-        "avg_volume": 895709.3333333334,
-        "volume": 573869.0
+        "price": 2774.199951171875,
+        "day_change": -2.368469077181946,
+        "volume_ratio": 2.3520295648942824,
+        "market_cap": 111375.3826516247,
+        "pct_from_low": 3.719989654252621,
+        "avg_volume": 899547.7619047619,
+        "volume": 654476.0
       },
       "technical": {
         "symbol": "MUTHOOTFIN",
-        "close": 2760.699951171875,
-        "rsi": 35.46,
+        "close": 2774.199951171875,
+        "rsi": 36.18,
         "adx": 19.56,
         "atr": 83.43,
-        "volume_ratio": 0.63,
+        "volume_ratio": 0.71,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -439,7 +439,7 @@
         ]
       },
       "combined_score": 58.4,
-      "added_at": "2026-09-11T10:42:15.957976",
+      "added_at": "2026-09-11T11:11:45.584913",
       "first_seen_price": 2748.300048828125,
       "first_seen_at": "2026-09-11T09:43:55.557428"
     },
@@ -447,21 +447,21 @@
       "symbol": "IOC",
       "base": {
         "symbol": "IOC",
-        "price": 134.1999969482422,
-        "day_change": -0.5483959387694455,
-        "volume_ratio": 1.774646988107295,
-        "market_cap": 189507.01479040005,
-        "pct_from_low": 2.9657196855779766,
-        "avg_volume": 7162583.19047619,
-        "volume": 2915069.0
+        "price": 133.9600067138672,
+        "day_change": -0.7262455237946189,
+        "volume_ratio": 1.5414835102200546,
+        "market_cap": 189168.1188594799,
+        "pct_from_low": 2.791882133264261,
+        "avg_volume": 7186959.619047619,
+        "volume": 3426974.0
       },
       "technical": {
         "symbol": "IOC",
-        "close": 134.1999969482422,
-        "rsi": 38.87,
+        "close": 133.9600067138672,
+        "rsi": 38.31,
         "adx": 18.26,
         "atr": 2.37,
-        "volume_ratio": 0.41,
+        "volume_ratio": 0.48,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -475,15 +475,18 @@
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": true,
-        "patterns": [],
+        "patterns": [
+          "Evening Star"
+        ],
         "setup": "DOUBLE TOP",
-        "score": 53,
+        "score": 58,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
           "Double Top",
           "Near Breakdown",
+          "Evening Star",
           "Weak RSI",
           "MACD Bearish",
           "OBV Distribution"
@@ -531,8 +534,8 @@
           }
         ]
       },
-      "combined_score": 54.4,
-      "added_at": "2026-09-11T10:41:51.406732",
+      "combined_score": 58.4,
+      "added_at": "2026-09-11T11:11:23.849263",
       "first_seen_price": 133.8800048828125,
       "first_seen_at": "2026-09-11T09:43:33.150215"
     },
@@ -540,21 +543,21 @@
       "symbol": "IEX",
       "base": {
         "symbol": "IEX",
-        "price": 113.7699966430664,
-        "day_change": -2.452199843696513,
-        "volume_ratio": 3.9497223791063862,
-        "market_cap": 10122.42593057749,
-        "pct_from_low": 0.6768011477420861,
-        "avg_volume": 3038160.619047619,
-        "volume": 2751975.0
+        "price": 113.43000030517578,
+        "day_change": -2.743716902684235,
+        "volume_ratio": 3.3930043244139707,
+        "market_cap": 10092.175531979317,
+        "pct_from_low": 0.37908869260239303,
+        "avg_volume": 3060054.1428571427,
+        "volume": 3211739.0
       },
       "technical": {
         "symbol": "IEX",
-        "close": 113.7699966430664,
-        "rsi": 26.53,
+        "close": 113.43000030517578,
+        "rsi": 25.99,
         "adx": 26.84,
         "atr": 2.42,
-        "volume_ratio": 0.88,
+        "volume_ratio": 1.02,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -626,7 +629,7 @@
         ]
       },
       "combined_score": 58.6,
-      "added_at": "2026-09-11T10:41:47.151950",
+      "added_at": "2026-09-11T11:11:20.690347",
       "first_seen_price": 113.11000061035156,
       "first_seen_at": "2026-09-11T09:43:24.246395"
     },
@@ -844,21 +847,21 @@
       "symbol": "RVNL",
       "base": {
         "symbol": "RVNL",
-        "price": 202.85000610351562,
-        "day_change": -1.3375485984253466,
-        "volume_ratio": 2.0207257309671793,
-        "market_cap": 42294.63400109528,
-        "pct_from_low": 0.39931614148902606,
-        "avg_volume": 3745835.4285714286,
-        "volume": 1756079.0
+        "price": 202.8000030517578,
+        "day_change": -1.36186914816922,
+        "volume_ratio": 1.7598101316649846,
+        "market_cap": 42284.20826429764,
+        "pct_from_low": 0.3747582614340658,
+        "avg_volume": 3760534.619047619,
+        "volume": 2064762.0
       },
       "technical": {
         "symbol": "RVNL",
-        "close": 202.85000610351562,
-        "rsi": 30.01,
+        "close": 202.8000030517578,
+        "rsi": 29.97,
         "adx": 25.63,
         "atr": 5.02,
-        "volume_ratio": 0.46,
+        "volume_ratio": 0.54,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -929,7 +932,7 @@
         ]
       },
       "combined_score": 53.0,
-      "added_at": "2026-09-11T10:42:37.301333",
+      "added_at": "2026-09-11T11:12:03.004704",
       "first_seen_price": 202.97999572753906,
       "first_seen_at": "2026-09-11T09:44:19.209331"
     },
@@ -937,21 +940,21 @@
       "symbol": "SHAKTIPUMP",
       "base": {
         "symbol": "SHAKTIPUMP",
-        "price": 490.8500061035156,
-        "day_change": -2.454293681224012,
-        "volume_ratio": 2.3437409912556046,
-        "market_cap": 6056.989187341141,
-        "pct_from_low": 7.028623728431669,
-        "avg_volume": 992809.3333333334,
-        "volume": 539838.0
+        "price": 490.8999938964844,
+        "day_change": -2.444359700350382,
+        "volume_ratio": 1.8868776535114349,
+        "market_cap": 6057.606026533859,
+        "pct_from_low": 7.038090898867331,
+        "avg_volume": 994996.0952380953,
+        "volume": 585760.0
       },
       "technical": {
         "symbol": "SHAKTIPUMP",
-        "close": 490.8500061035156,
-        "rsi": 48.1,
+        "close": 490.8999938964844,
+        "rsi": 48.12,
         "adx": 26.29,
         "atr": 14.39,
-        "volume_ratio": 0.53,
+        "volume_ratio": 0.57,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1019,7 +1022,7 @@
         ]
       },
       "combined_score": 30.6,
-      "added_at": "2026-09-11T10:42:42.135600",
+      "added_at": "2026-09-11T11:12:08.015152",
       "first_seen_price": 489.3500061035156,
       "first_seen_at": "2026-09-11T09:44:22.958897"
     },
@@ -1027,21 +1030,21 @@
       "symbol": "SWANCORP",
       "base": {
         "symbol": "SWANCORP",
-        "price": 292.6499938964844,
-        "day_change": -1.0983440578025012,
-        "volume_ratio": 4.024966381468589,
-        "market_cap": 9173.3155774711,
-        "pct_from_low": 6.492397196741663,
-        "avg_volume": 3487429.0,
-        "volume": 3256534.0
+        "price": 291.3500061035156,
+        "day_change": -1.5376775555326596,
+        "volume_ratio": 3.146145357684895,
+        "market_cap": 9132.5665649289,
+        "pct_from_low": 6.075171387071294,
+        "avg_volume": 3495757.1904761903,
+        "volume": 3431426.0
       },
       "technical": {
         "symbol": "SWANCORP",
-        "close": 292.6499938964844,
-        "rsi": 47.08,
+        "close": 291.3500061035156,
+        "rsi": 46.0,
         "adx": 26.58,
         "atr": 9.79,
-        "volume_ratio": 0.92,
+        "volume_ratio": 0.96,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1109,7 +1112,7 @@
         ]
       },
       "combined_score": 33.6,
-      "added_at": "2026-09-11T10:42:54.252021",
+      "added_at": "2026-09-11T11:12:17.788320",
       "first_seen_price": 289.54998779296875,
       "first_seen_at": "2026-09-11T09:44:37.181993"
     },
@@ -1298,6 +1301,102 @@
       "added_at": "2026-09-11T10:12:45.590810",
       "first_seen_price": 407.20001220703125,
       "first_seen_at": "2026-09-11T10:12:45.590810"
+    },
+    {
+      "symbol": "AFCONS",
+      "base": {
+        "symbol": "AFCONS",
+        "price": 259.0,
+        "day_change": -0.7092221814177261,
+        "volume_ratio": 2.067543411485448,
+        "market_cap": 9525.6219429,
+        "pct_from_low": 0.3861003861003861,
+        "avg_volume": 857421.1428571428,
+        "volume": 543645.0
+      },
+      "technical": {
+        "symbol": "AFCONS",
+        "close": 259.0,
+        "rsi": 30.74,
+        "adx": 19.26,
+        "atr": 8.75,
+        "volume_ratio": 0.62,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [
+          "3 Black Crows"
+        ],
+        "setup": "DOUBLE TOP",
+        "score": 59,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Near Breakdown",
+          "3 Black Crows",
+          "MACD Bearish",
+          "OBV Distribution"
+        ],
+        "support_20d": 258.0
+      },
+      "news": {
+        "score": 40,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Stocks to Watch Today: TCS, GE Shipping, Afcons Infra, Hindustan Copper, Shankesh Jewellers, Sunshine... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOaHctQXM1ZDJ2QmVtSFZadWNlbmxpR2wtVmhNRFdKek1Ub3h6Z0pjUEFZUWRMa19FOFRqc2E2dWpvZWdBWDZ6cHF4WW0tOVhWZkxDSmVpbFJfdnpHZTZOUEZlalQtZW16eV8xQzN1UmNIWWpVVG4waXdBNmlxcHROQmEwT2RGV0lXc3lZOEduWk1idGxaT2t6WG84N0ZSOEFqOFRCNDVUX0w3UE90MEZ0R2xLSTdBeWZ4bS11aEhiekh4bjhNb3dZN1ZZNUFJaEItRmg3X3RSVDVBVk1HWDF4WVRtQ0NmUnRPUUN5QlZlRTZZTDA0ZC1rV2cycWFIWGRkUElvU3dhM2hIZTBEemk1cExoOFBlekJNM3ZES01tQjFmdTlDaUFaZ3MwSjI0Wmlw0gG2AkFVX3lxTFBLNk1fcndCOVNwOVU0WE5QYnlRcUd5VHk0SDY2ZldycUZ5VmtkbFlrb19NbVc4MmdCZEFBZlZlTEl1eG9oRnhqLVRqUDQzTzNtOG5ueWlvVk9fUUFPNWgxNnFXNFQ1VXVmamtDSWxiSkpSOUg4NHhkM2tKQVE4TzhNTFNlZ0g4MGRZUG1mMmo2MWRGMDR0M3BOOElVaDBrY3pObEZMS2Z6SGFiSllOZ1JGV3hfZGVyakRZcldkU1BqcGFrWkIzZTRpWDAyNUcwZHY5ZlpsNXhqeEdWR1c2Ym5FYVYzX2RTbnIwY25jUjRaVGIwWndsdXZHcGxfSnpPcDJ0REhHR2taX0FLU2ZNWlk3UDJLVE55cTFpM05KUkwwU3dYeTA5eFlVc1kwUFN4MGI1UzdrYXc?oc=5",
+            "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Afcons Infrastructure IPO allotment finalised: How to check status online on Link Intime India, NSE - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUjc2RnR5VlowaFJvOEFDMDI1OEdoQUxxWFJDaGRNdWdBTUl2VUxpQURnblhwU1dyUkhWYmZSdy1HLVJ2TDhHUG1Na2ZmTWlrYXkxY1hiWGkzZ2RfckNlUDhMUkFzbWZ0TV9MNVBrd1hLMHVDYVZ4VnFpUlFlUWZzUzl5T0VCckY2UXlEblZQbldVQzZKMGc2bkdmQWxlWWRMYlBlSGFGOU5ncEJ3WlI0dGZ5NEpmT1V4aDJILTVCaGt2WFBIX0FIUUdCMTRxbmdsVTlqSE5UTlViMkN2Yl90QUZwN0s5TXlj?oc=5",
+            "published": "Mon, 16 Feb 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Afcons Infrastructure Stock Prediction 2026: Expert Analysis, Forecast Scenarios and Full Stock Review - Univest",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81emxwZFFJQTB3OTh6bDZwX1V1dmhiai0tN3VaSkliUnRMYUp5V1FvbXFnSmR2cGFZOElhRVRfUnFtYlc2d01mZGlXXzJjVGJJMmdWc3VkZWk0MTlOWHFpMTBhZWQ4YkpZM2xqM2dqOGV5Uml3alhJ?oc=5",
+            "published": "Fri, 19 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Volumes spurt at Afcons Infrastructure Ltd counter - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQanBpWnNTa1BfU0xZY1JOX0RfWkdKMzhpVUN3aEkzTUtjNUwwbW0yWjI0SGE4SnhBQzNaUVRwU090YXJ2WFNqV2JINHRDR3I4RXE3bFFvaFk3Q1FjVXRoVE1iN2JYMkNyRkdTbm1qSnpaVmZHWnN0emFiQjlvY01sWERqQnc0YjRCSlpvTndVcTg0ak5QcmFoMFg3a2hfMDFMR0wxdUFSUmdZZHB2V3BSVDNTbXF5WEhscGt3bmozc1lJREJkQ0pLWHhRTG3SAdIBQVVfeXFMT0Y1ckYzYlpadXlQdmpwVkJCY2YtYVlfRE9PRVp6TWg2N25UUGJra2NOaEdlLTMxNWdjZGJmU05MX2ppQVNzTGhEd0FGRDhoVDQ4NnZCcDliX29rX1BabVdrOXRaMnZvNTVQVTJicTdKZTZOUkZNTjRQbFVILVhMWDVWLTBwUWhSWEdQX2dUVkVTQlJ0U1p0T0hsXzJoeXN2TGg1SjluaTQ2LVFaSVF3LWFYdFNwRTZDSU04MXJoV1V2NTcyLU9fS19McENmZXhEMDF3?oc=5",
+            "published": "Fri, 17 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "We Think Afcons Infrastructure (NSE:AFCONS) Is Taking Some Risk With Its Debt - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYjFJSC1vbmY4b29TZjFXN2lHQzlSVlpWV3ZzTll1b1hnM0txcVZ0YmU4eEVZY3FuU25PTFFyNjFxTl9mczQ5UWktZDRXV2JQcmdJaFh0d3FvaVFKSkF2ZkZsNTBIVkRLM1pQLWgxYS1ZRUcxZ1lobHlqVnBuWkx6UmpOdmctU3gyQXhOak0yTjRzZ3E2eGd5UGtQcEJ5NmRfczIwdF9QNVlSU0RTNm9oNHFUMGJGdXlJT1ZzZUszR2pydkJBTDVkekc4X0Vqd1RSclNwaFd6YVF3TWJEdEIzUHlGdkZGd9IB6wFBVV95cUxQdkp2WkpaRW5VR3ZhUmpLT2F1NTQtMEgwY19aQ1FhTXZqRUdRMWpweUZ1b3MxUEFLVzllLU9EM2Vsc2g5NGRQemZNTGxyRnFPWS1NMEdlSE5NZnBzMGxKWmJCOGFYSVBfeGQ4eVhLNDB6RmpYQ29fZUZUYy0tZEpWUmI0Ul9DV0NQRE5hanNZZGJVNUl4T19RU2NpQWczUE9QTWFET2xDX2hDZGlyZC1IWkJ5bXZEZUwyNUdWU0ZCUzR4UnFvaXh5U0QyMHZFNXdVcGpEWS1tTjlIWklSU3UxU0ZoblNyRFh6cFNF?oc=5",
+            "published": "Wed, 07 Jan 2026 08:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 59.2,
+      "added_at": "2026-09-11T11:10:32.764778",
+      "first_seen_price": 259.0,
+      "first_seen_at": "2026-09-11T11:10:32.764778"
     }
   ]
 }
