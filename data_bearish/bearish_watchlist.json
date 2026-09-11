@@ -259,21 +259,21 @@
       "symbol": "HINDPETRO",
       "base": {
         "symbol": "HINDPETRO",
-        "price": 346.04998779296875,
-        "day_change": -1.8715457869688683,
-        "volume_ratio": 2.8128994909790084,
-        "market_cap": 73633.29560334541,
-        "pct_from_low": 8.625914358880383,
-        "avg_volume": 4239026.619047619,
-        "volume": 3688477.0
+        "price": 346.6499938964844,
+        "day_change": -1.7014036874650333,
+        "volume_ratio": 2.3662977780772447,
+        "market_cap": 73760.96625308521,
+        "pct_from_low": 8.784071030027484,
+        "avg_volume": 4255175.571428572,
+        "volume": 4027605.0
       },
       "technical": {
         "symbol": "HINDPETRO",
-        "close": 346.04998779296875,
-        "rsi": 31.38,
+        "close": 346.6499938964844,
+        "rsi": 31.7,
         "adx": 28.23,
         "atr": 8.12,
-        "volume_ratio": 0.91,
+        "volume_ratio": 0.99,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -345,7 +345,7 @@
         ]
       },
       "combined_score": 56.0,
-      "added_at": "2026-09-11T11:11:17.139504",
+      "added_at": "2026-09-11T11:45:35.196179",
       "first_seen_price": 341.6000061035156,
       "first_seen_at": "2026-09-11T09:43:25.933593"
     },
@@ -353,21 +353,21 @@
       "symbol": "MUTHOOTFIN",
       "base": {
         "symbol": "MUTHOOTFIN",
-        "price": 2774.199951171875,
-        "day_change": -2.368469077181946,
-        "volume_ratio": 2.3520295648942824,
-        "market_cap": 111375.3826516247,
-        "pct_from_low": 3.719989654252621,
-        "avg_volume": 899547.7619047619,
-        "volume": 654476.0
+        "price": 2785.10009765625,
+        "day_change": -1.9848637108481435,
+        "volume_ratio": 1.9672220228186543,
+        "market_cap": 111812.9891713506,
+        "pct_from_low": 4.096804195736765,
+        "avg_volume": 902422.2380952381,
+        "volume": 714840.0
       },
       "technical": {
         "symbol": "MUTHOOTFIN",
-        "close": 2774.199951171875,
-        "rsi": 36.18,
+        "close": 2785.10009765625,
+        "rsi": 36.79,
         "adx": 19.56,
         "atr": 83.43,
-        "volume_ratio": 0.71,
+        "volume_ratio": 0.78,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -430,7 +430,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Muthoot Finance slides 11.24% after Q3 results despite profit jump - HDFC Sky",
+            "title": "Muthoot Finance slides 11.24% after Q3 results despite profit jump - hdfcsky.com",
             "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVHlxcXFMNEF5NWVZUWJwZzJGQXFtbzNvZGVYOXpzOWQtc2NMQmo5WTlkS01hUGJJN0pXRkFzcVp6Wm05c3BMcVdVMTlLWUxaVm9Pem1zeC1iaVh0Vm11OEp5M3QyOFczUXlKd1ZEMERJTTBxZEpRdHE2cW1OX1Z0X1ZMUUp3UQ?oc=5",
             "published": "Fri, 13 Feb 2026 08:00:00 GMT",
             "score": 3,
@@ -439,7 +439,7 @@
         ]
       },
       "combined_score": 58.4,
-      "added_at": "2026-09-11T11:11:45.584913",
+      "added_at": "2026-09-11T11:46:06.422763",
       "first_seen_price": 2748.300048828125,
       "first_seen_at": "2026-09-11T09:43:55.557428"
     },
@@ -543,21 +543,21 @@
       "symbol": "IEX",
       "base": {
         "symbol": "IEX",
-        "price": 113.43000030517578,
-        "day_change": -2.743716902684235,
-        "volume_ratio": 3.3930043244139707,
-        "market_cap": 10092.175531979317,
-        "pct_from_low": 0.37908869260239303,
-        "avg_volume": 3060054.1428571427,
-        "volume": 3211739.0
+        "price": 113.72000122070312,
+        "day_change": -2.4950665362633053,
+        "volume_ratio": 2.9252086918023794,
+        "market_cap": 10117.977701917276,
+        "pct_from_low": 0.6331350799986153,
+        "avg_volume": 3078651.285714286,
+        "volume": 3602279.0
       },
       "technical": {
         "symbol": "IEX",
-        "close": 113.43000030517578,
-        "rsi": 25.99,
+        "close": 113.72000122070312,
+        "rsi": 26.45,
         "adx": 26.84,
         "atr": 2.42,
-        "volume_ratio": 1.02,
+        "volume_ratio": 1.14,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -629,7 +629,7 @@
         ]
       },
       "combined_score": 58.6,
-      "added_at": "2026-09-11T11:11:20.690347",
+      "added_at": "2026-09-11T11:45:37.858433",
       "first_seen_price": 113.11000061035156,
       "first_seen_at": "2026-09-11T09:43:24.246395"
     },
@@ -847,21 +847,21 @@
       "symbol": "RVNL",
       "base": {
         "symbol": "RVNL",
-        "price": 202.8000030517578,
-        "day_change": -1.36186914816922,
-        "volume_ratio": 1.7598101316649846,
-        "market_cap": 42284.20826429764,
-        "pct_from_low": 0.3747582614340658,
-        "avg_volume": 3760534.619047619,
-        "volume": 2064762.0
+        "price": 203.25,
+        "day_change": -1.1429990436539397,
+        "volume_ratio": 1.5230914053415725,
+        "market_cap": 42378.0335325,
+        "pct_from_low": 0.5953292565152214,
+        "avg_volume": 3772383.8571428573,
+        "volume": 2313596.0
       },
       "technical": {
         "symbol": "RVNL",
-        "close": 202.8000030517578,
-        "rsi": 29.97,
+        "close": 203.25,
+        "rsi": 30.34,
         "adx": 25.63,
         "atr": 5.02,
-        "volume_ratio": 0.54,
+        "volume_ratio": 0.6,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -909,7 +909,7 @@
             "label": "Neutral"
           },
           {
-            "title": "RVNL Share Price Fall Nearly 4% So far, As Railway Stocks Extend Broad Market Decline - HDFC Sky",
+            "title": "RVNL Share Price Fall Nearly 4% So far, As Railway Stocks Extend Broad Market Decline - hdfcsky.com",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KMEhHSnk3clZ3ZXJlWmRudmR0TU1WNlNxV1NXcnlRQ1pXWnFNaWdSSXZsX3FlQzFuM3AtUWRaVEpBdlZUQWNXQWgtOUk4WElNTUFPX0o2eHptQ2hVQ1JOaF8tRzRRdVRhX3hBRWNpc1o?oc=5",
             "published": "Wed, 04 Mar 2026 08:00:00 GMT",
             "score": -4,
@@ -932,7 +932,7 @@
         ]
       },
       "combined_score": 53.0,
-      "added_at": "2026-09-11T11:12:03.004704",
+      "added_at": "2026-09-11T11:46:27.571171",
       "first_seen_price": 202.97999572753906,
       "first_seen_at": "2026-09-11T09:44:19.209331"
     },
@@ -940,21 +940,21 @@
       "symbol": "SHAKTIPUMP",
       "base": {
         "symbol": "SHAKTIPUMP",
-        "price": 490.8999938964844,
-        "day_change": -2.444359700350382,
-        "volume_ratio": 1.8868776535114349,
-        "market_cap": 6057.606026533859,
-        "pct_from_low": 7.038090898867331,
-        "avg_volume": 994996.0952380953,
-        "volume": 585760.0
+        "price": 490.6499938964844,
+        "day_change": -2.494041734121308,
+        "volume_ratio": 1.5259751338266088,
+        "market_cap": 6054.521077408859,
+        "pct_from_low": 6.990724186211901,
+        "avg_volume": 996253.0952380953,
+        "volume": 612157.0
       },
       "technical": {
         "symbol": "SHAKTIPUMP",
-        "close": 490.8999938964844,
-        "rsi": 48.12,
+        "close": 490.6499938964844,
+        "rsi": 48.01,
         "adx": 26.29,
         "atr": 14.39,
-        "volume_ratio": 0.57,
+        "volume_ratio": 0.6,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1022,7 +1022,7 @@
         ]
       },
       "combined_score": 30.6,
-      "added_at": "2026-09-11T11:12:08.015152",
+      "added_at": "2026-09-11T11:46:32.403804",
       "first_seen_price": 489.3500061035156,
       "first_seen_at": "2026-09-11T09:44:22.958897"
     },
@@ -1030,21 +1030,21 @@
       "symbol": "SWANCORP",
       "base": {
         "symbol": "SWANCORP",
-        "price": 291.3500061035156,
-        "day_change": -1.5376775555326596,
-        "volume_ratio": 3.146145357684895,
-        "market_cap": 9132.5665649289,
-        "pct_from_low": 6.075171387071294,
-        "avg_volume": 3495757.1904761903,
-        "volume": 3431426.0
+        "price": 292.8999938964844,
+        "day_change": -1.0138560533561551,
+        "volume_ratio": 2.625893320063482,
+        "market_cap": 9181.1519996211,
+        "pct_from_low": 6.572209081985596,
+        "avg_volume": 3509037.619047619,
+        "volume": 3710315.0
       },
       "technical": {
         "symbol": "SWANCORP",
-        "close": 291.3500061035156,
-        "rsi": 46.0,
+        "close": 292.8999938964844,
+        "rsi": 47.29,
         "adx": 26.58,
         "atr": 9.79,
-        "volume_ratio": 0.96,
+        "volume_ratio": 1.04,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1112,7 +1112,7 @@
         ]
       },
       "combined_score": 33.6,
-      "added_at": "2026-09-11T11:12:17.788320",
+      "added_at": "2026-09-11T11:46:43.712221",
       "first_seen_price": 289.54998779296875,
       "first_seen_at": "2026-09-11T09:44:37.181993"
     },
@@ -1306,21 +1306,21 @@
       "symbol": "AFCONS",
       "base": {
         "symbol": "AFCONS",
-        "price": 259.0,
-        "day_change": -0.7092221814177261,
-        "volume_ratio": 2.067543411485448,
-        "market_cap": 9525.6219429,
-        "pct_from_low": 0.3861003861003861,
-        "avg_volume": 857421.1428571428,
-        "volume": 543645.0
+        "price": 259.04998779296875,
+        "day_change": -0.6900587573045931,
+        "volume_ratio": 1.7231842985697632,
+        "market_cap": 9527.460417099152,
+        "pct_from_low": 0.4053224637894576,
+        "avg_volume": 859558.0952380953,
+        "volume": 588521.0
       },
       "technical": {
         "symbol": "AFCONS",
-        "close": 259.0,
-        "rsi": 30.74,
+        "close": 259.04998779296875,
+        "rsi": 30.76,
         "adx": 19.26,
         "atr": 8.75,
-        "volume_ratio": 0.62,
+        "volume_ratio": 0.67,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1394,7 +1394,7 @@
         ]
       },
       "combined_score": 59.2,
-      "added_at": "2026-09-11T11:10:32.764778",
+      "added_at": "2026-09-11T11:44:43.997624",
       "first_seen_price": 259.0,
       "first_seen_at": "2026-09-11T11:10:32.764778"
     }
