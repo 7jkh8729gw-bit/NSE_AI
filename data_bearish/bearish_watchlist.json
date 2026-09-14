@@ -7,7 +7,7 @@
         "symbol": "IEX",
         "price": 113.87999725341797,
         "day_change": -2.35788396189764,
-        "volume_ratio": 13.12350227640596,
+        "volume_ratio": 9.003332957069205,
         "market_cap": 10132.213228331999,
         "pct_from_low": 0.7727408453125483,
         "avg_volume": 3224116.095238095,
@@ -94,7 +94,7 @@
         ]
       },
       "combined_score": 73.8,
-      "added_at": "2026-09-14T10:14:14.288473",
+      "added_at": "2026-09-14T10:41:52.199775",
       "first_seen_price": 113.87999725341797,
       "first_seen_at": "2026-09-14T06:21:42.737405"
     },
@@ -104,7 +104,7 @@
         "symbol": "HDFCAMC",
         "price": 2403.89990234375,
         "day_change": -1.2285375086080683,
-        "volume_ratio": 5.114707978468331,
+        "volume_ratio": 3.508927566623623,
         "market_cap": 103081.76426826001,
         "pct_from_low": 8.249087430560733,
         "avg_volume": 842091.6666666666,
@@ -148,8 +148,8 @@
         "support_20d": 2366.1
       },
       "news": {
-        "score": 30,
-        "label": "Bearish",
+        "score": 40,
+        "label": "Neutral",
         "headlines": [
           {
             "title": "HDFC AMC Share Price - Live NSE: HDFCAMC Stock Price & Chart - Upstox",
@@ -166,13 +166,6 @@
             "label": "Neutral"
           },
           {
-            "title": "HDFC AMC Share Price +5.67% on Iran Deal Rate Cut Hopes - Univest",
-            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZaXZaVmNQVFVPam9ZTEZSTHVQTTZRd1owa0ZQV0FJdU1oRjJqdFJ0QWhRa1lvX1dIRWNnbkIyd3FHbjczWVFLNUllR3BwVFJBYXZrLVlLR25yZnFGM2ozbkVBajZ0QVptYVdZaWNMSWQ?oc=5",
-            "published": "Mon, 15 Jun 2026 07:00:00 GMT",
-            "score": -2,
-            "label": "Neutral"
-          },
-          {
             "title": "HDFC AMC Stock Drops Nearly 4%: What\u2019s Driving the Capital Market Index Decline? - Outlook Money",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOGZfZm92MXFXc3hLSUdlSFcxYWg3WmFVdFpnWFlWUERqcC1KakpDSUNmMkJjWmlxNURjOTZKQWJQSGdkMVh4MUtNUzRBc0hkY1g0S0hJQUgyTXZiZnFhNDJ3d1BuenRER0FweDNZWGFhMUwwRXRNSUdJeVM3XzJIcXUwVVJtNW5fVDcxQ1QySWNEVDFLYUdUQ0hsakxzSFpaUXNLV1NoWktmcGlReFg3UTZB0gG_AUFVX3lxTE5KLVZBTEQyODZUV3M0dmQ4dkJIaS0zMkYydVlYZ2JRcVlVNVV1Y3ZLbEl1ekl4VVdQcG05NldUSUlYNUYxcDFtSVllbUFEaVIyOUFsa2pDQndRQ2pFdDJEY3EyOFVKSVV5V2xCVWxBQnd1RllOOExfTjZ2SlhGZEFWX1FMOHczcy1iLW5OM0pidzEtVjBoTllNbV8ycWNjWUtKREttUVlyVG9EVzRLc0pBaXl3QmZBRmNBblprQVRr?oc=5",
             "published": "Mon, 18 May 2026 07:00:00 GMT",
@@ -185,11 +178,18 @@
             "published": "Thu, 16 Apr 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
+          },
+          {
+            "title": "HDFC AMC among 5 F&O stocks with a sharp rise in futures open interest - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeVRtRWNuamZZVjB6RmZGZzVIMlNMdE5OaEt2NUFIcnIxYzc3RE00N09RbXA1T29OQk00SEtlRUllOWVOY0l4akxjeHZEU1VJZVRhQVBIeENEaXB1UE04bFg3bm1SOHpseWVub21WOWpGeF9SdURNN1JxRDJZWjZmZUU3Sk5LSlhkMVhLNlhfdlJUWk10aEpJUjNjbUZSbEtBT0xCaVNZczc1aExNR2h1X3pKSzVTOERxQlhEdEFRa0dENGhuWlNHc3VsQWlKdjRIMjhOcHBYdWpnNzJBVUs1NHdLdnh2TE5udDRUYlY1aXAzUQ?oc=5",
+            "published": "Fri, 17 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 70.8,
-      "added_at": "2026-09-14T10:14:09.712427",
+      "combined_score": 68.8,
+      "added_at": "2026-09-14T10:41:48.952689",
       "first_seen_price": 2403.89990234375,
       "first_seen_at": "2026-09-14T09:42:50.136710"
     },
@@ -199,7 +199,7 @@
         "symbol": "AFCONS",
         "price": 253.8000030517578,
         "day_change": -2.702703809391552,
-        "volume_ratio": 13.004351308819967,
+        "volume_ratio": 8.770376464087885,
         "market_cap": 9327.018242159998,
         "pct_from_low": 1.891254134768052,
         "avg_volume": 919611.9523809524,
@@ -287,7 +287,7 @@
         ]
       },
       "combined_score": 68.4,
-      "added_at": "2026-09-14T10:13:24.503348",
+      "added_at": "2026-09-14T10:41:16.003145",
       "first_seen_price": 253.8000030517578,
       "first_seen_at": "2026-09-14T06:20:46.619631"
     },
@@ -297,7 +297,7 @@
         "symbol": "SBILIFE",
         "price": 1684.699951171875,
         "day_change": -0.9349655793440891,
-        "volume_ratio": 2.316184284309405,
+        "volume_ratio": 1.5973684719375207,
         "market_cap": 169034.30239484002,
         "pct_from_low": 0.8131982886534384,
         "avg_volume": 832811.0,
@@ -383,7 +383,7 @@
         ]
       },
       "combined_score": 68.2,
-      "added_at": "2026-09-14T10:15:08.714937",
+      "added_at": "2026-09-14T10:42:30.469561",
       "first_seen_price": 1684.699951171875,
       "first_seen_at": "2026-09-14T09:43:45.713802"
     },
@@ -393,7 +393,7 @@
         "symbol": "AMBUJACEM",
         "price": 391.8500061035156,
         "day_change": -0.9479271845660051,
-        "volume_ratio": 4.3588497188844535,
+        "volume_ratio": 2.9396893452941666,
         "market_cap": 97367.56143341001,
         "pct_from_low": 1.071841812329008,
         "avg_volume": 1944694.0952380951,
@@ -444,7 +444,7 @@
         "label": "Bullish",
         "headlines": [
           {
-            "title": "BHEL Share Price Today, BHEL Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",
+            "title": "BHEL Share Price Today, BHEL Stock Price Live NSE/BSE Updates - The Economic Times",
             "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVFBiSExfMWR6ZWdOOWduY0V3bG5xT2pxX1QtS3g0dThLUFpPSFVrbWVsUFRqRWJPSkxBc1RjVzg4NkJNdjJVWFZ4eEdXdG1CWEFVeGpIVkh6UzdIMFE2QjluMTN5RkJWMGxwVHQ1N2NjUzgwMEpESzVXc2pKLV8wSTdJOFZSdTFrd2NZMFNta2M5c19vZG1F?oc=5",
             "published": "Thu, 10 Sep 2026 21:59:00 GMT",
             "score": 0,
@@ -481,7 +481,7 @@
         ]
       },
       "combined_score": 65.4,
-      "added_at": "2026-09-14T10:13:27.690326",
+      "added_at": "2026-09-14T10:41:18.302826",
       "first_seen_price": 391.8500061035156,
       "first_seen_at": "2026-09-14T09:42:06.634132"
     },
@@ -491,7 +491,7 @@
         "symbol": "MOIL",
         "price": 244.92999267578125,
         "day_change": -1.92993286255005,
-        "volume_ratio": 5.368123586776494,
+        "volume_ratio": 3.6404516278139436,
         "market_cap": 4999.631634269999,
         "pct_from_low": 1.0533567343386996,
         "avg_volume": 971746.1428571428,
@@ -576,7 +576,7 @@
         ]
       },
       "combined_score": 63.8,
-      "added_at": "2026-09-14T10:14:40.621466",
+      "added_at": "2026-09-14T10:42:10.363557",
       "first_seen_price": 244.92999267578125,
       "first_seen_at": "2026-09-14T09:43:20.125246"
     },
@@ -586,7 +586,7 @@
         "symbol": "MUTHOOTFIN",
         "price": 2792.10009765625,
         "day_change": -1.7385149513901108,
-        "volume_ratio": 7.039325547915914,
+        "volume_ratio": 4.773795486517688,
         "market_cap": 112094.01318395999,
         "pct_from_low": 4.337240550863633,
         "avg_volume": 916729.7142857143,
@@ -670,7 +670,7 @@
         ]
       },
       "combined_score": 60.4,
-      "added_at": "2026-09-14T10:14:42.640554",
+      "added_at": "2026-09-14T10:42:11.954531",
       "first_seen_price": 2792.10009765625,
       "first_seen_at": "2026-09-14T09:43:22.821835"
     },
@@ -680,7 +680,7 @@
         "symbol": "IRCTC",
         "price": 462.8999938964844,
         "day_change": -1.0580340157003267,
-        "volume_ratio": 5.228529175812967,
+        "volume_ratio": 3.587014202011222,
         "market_cap": 37096.0,
         "pct_from_low": 0.16202203713308283,
         "avg_volume": 734585.3333333334,
@@ -730,7 +730,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "IRCTC Share Price Today, IRCTC Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",
+            "title": "IRCTC Share Price Today, IRCTC Stock Price Live NSE/BSE Updates - The Economic Times",
             "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZFpESmpra1p3STZRdmtybzhSYzc5aENGQU53TFVlaTVjbnNnZU9VSnh2Sml5SlhnNmlqLWVKMFRUUzM1bnpaRFlKS05YY1FrN1JtMktVZEh4WXpPUXNqeFlScXQ0dmpLV282eWNCdDdJWXNDWmZwbUpRdWVvdFpfcktmeGw3ZjU2emNHQml2anVIOG1BMXBnY1NFRjBNYkV1SmpGeWQ1czNCWl9JWXctVg?oc=5",
             "published": "Thu, 10 Sep 2026 21:59:00 GMT",
             "score": 0,
@@ -767,7 +767,7 @@
         ]
       },
       "combined_score": 58.6,
-      "added_at": "2026-09-14T10:14:19.375533",
+      "added_at": "2026-09-14T10:41:55.519849",
       "first_seen_price": 462.8999938964844,
       "first_seen_at": "2026-09-14T09:42:58.953489"
     },
@@ -777,7 +777,7 @@
         "symbol": "RCF",
         "price": 111.44999694824219,
         "day_change": -0.898099008049805,
-        "volume_ratio": 2.6190099119654917,
+        "volume_ratio": 1.7761101701834938,
         "market_cap": 6151.322315,
         "pct_from_low": 4.8900826356892475,
         "avg_volume": 2072708.0,
@@ -861,7 +861,7 @@
         ]
       },
       "combined_score": 58.6,
-      "added_at": "2026-09-14T10:15:00.734287",
+      "added_at": "2026-09-14T10:42:24.900941",
       "first_seen_price": 111.44999694824219,
       "first_seen_at": "2026-09-14T09:43:39.145034"
     },
@@ -871,7 +871,7 @@
         "symbol": "HINDUNILVR",
         "price": 1927.0,
         "day_change": -0.7877283861139885,
-        "volume_ratio": 5.637832066857055,
+        "volume_ratio": 3.8678150226112353,
         "market_cap": 452766.2361874,
         "pct_from_low": 0.04151784266346653,
         "avg_volume": 1240461.7142857143,
@@ -921,7 +921,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "HUL Share Price Today, HUL Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",
+            "title": "HUL Share Price Today, HUL Stock Price Live NSE/BSE Updates - The Economic Times",
             "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUE9mc0I1c2JSMFMwWXVtb1FMbi0ybkJWdkN2V1hvSzdiRTFsbzhGZHoyZTE2LW5BZDhrWmtMa09tQmRHaEJTeVZuNGdKMGZPN29ETDdYQVduVnZuZU1saTZXOE56dkM1M09wU3ZxMUZRR1pTQ0wweWZLcFhPQUtoZVJ0TWpWc0tvT0FIeEFIOA?oc=5",
             "published": "Thu, 10 Sep 2026 22:08:00 GMT",
             "score": 0,
@@ -958,7 +958,7 @@
         ]
       },
       "combined_score": 57.6,
-      "added_at": "2026-09-14T10:14:11.730840",
+      "added_at": "2026-09-14T10:41:50.532123",
       "first_seen_price": 1927.0,
       "first_seen_at": "2026-09-14T09:42:51.802944"
     },
@@ -968,7 +968,7 @@
         "symbol": "ASTRAL",
         "price": 1411.4000244140625,
         "day_change": -3.262506894169808,
-        "volume_ratio": 3.3859618025187195,
+        "volume_ratio": 2.283555634256811,
         "market_cap": 37917.28400582,
         "pct_from_low": 7.0709966771863,
         "avg_volume": 1665408.857142857,
@@ -1055,7 +1055,7 @@
         ]
       },
       "combined_score": 55.8,
-      "added_at": "2026-09-14T10:13:32.071946",
+      "added_at": "2026-09-14T10:41:21.595290",
       "first_seen_price": 1411.4000244140625,
       "first_seen_at": "2026-09-14T09:42:12.181604"
     },
@@ -1065,7 +1065,7 @@
         "symbol": "CSBBANK",
         "price": 305.70001220703125,
         "day_change": -0.6822533038402775,
-        "volume_ratio": 3.7557125021642066,
+        "volume_ratio": 2.5329223851805116,
         "market_cap": 5169.0664035,
         "pct_from_low": 0.5561047233063044,
         "avg_volume": 522514.38095238095,
@@ -1152,7 +1152,7 @@
         ]
       },
       "combined_score": 55.4,
-      "added_at": "2026-09-14T10:13:48.554498",
+      "added_at": "2026-09-14T10:41:33.376684",
       "first_seen_price": 305.70001220703125,
       "first_seen_at": "2026-09-14T09:42:29.539538"
     },
@@ -1162,7 +1162,7 @@
         "symbol": "LATENTVIEW",
         "price": 252.4499969482422,
         "day_change": -1.3096192586197095,
-        "volume_ratio": 4.066560054094573,
+        "volume_ratio": 2.7577821056503424,
         "market_cap": 5247.4890482,
         "pct_from_low": 1.7627241045895259,
         "avg_volume": 523763.90476190473,
@@ -1246,7 +1246,7 @@
         ]
       },
       "combined_score": 53.6,
-      "added_at": "2026-09-14T10:14:31.158842",
+      "added_at": "2026-09-14T10:42:04.011164",
       "first_seen_price": 252.4499969482422,
       "first_seen_at": "2026-09-14T09:43:11.297921"
     },
@@ -1256,7 +1256,7 @@
         "symbol": "RELIANCE",
         "price": 1257.5,
         "day_change": -1.2951334379905808,
-        "volume_ratio": 5.126106513455561,
+        "volume_ratio": 3.5352458713486623,
         "market_cap": 1701708.43385125,
         "pct_from_low": 0.6123221607852882,
         "avg_volume": 10702245.42857143,
@@ -1342,7 +1342,7 @@
         ]
       },
       "combined_score": 53.0,
-      "added_at": "2026-09-14T10:15:01.735371",
+      "added_at": "2026-09-14T10:42:25.745765",
       "first_seen_price": 1257.5,
       "first_seen_at": "2026-09-14T09:43:40.252264"
     },
@@ -1447,7 +1447,7 @@
         "symbol": "IREDA",
         "price": 111.70999908447266,
         "day_change": -1.4207559254212545,
-        "volume_ratio": 5.369734899604017,
+        "volume_ratio": 3.6838878962399653,
         "market_cap": 31381.922494827995,
         "pct_from_low": 2.7392333575079943,
         "avg_volume": 3956273.095238095,
@@ -1530,7 +1530,7 @@
         ]
       },
       "combined_score": 51.0,
-      "added_at": "2026-09-14T10:14:19.115313",
+      "added_at": "2026-09-14T10:41:55.858520",
       "first_seen_price": 111.70999908447266,
       "first_seen_at": "2026-09-14T09:43:00.275593"
     },
@@ -1540,7 +1540,7 @@
         "symbol": "TATACONSUM",
         "price": 991.0,
         "day_change": -0.8603417162847004,
-        "volume_ratio": 5.300205396293448,
+        "volume_ratio": 3.6553140664092743,
         "market_cap": 98078.2801892,
         "pct_from_low": 0.30272452068617556,
         "avg_volume": 1068306.4761904762,
@@ -1626,7 +1626,7 @@
         ]
       },
       "combined_score": 49.6,
-      "added_at": "2026-09-14T10:15:22.815060",
+      "added_at": "2026-09-14T10:42:40.770425",
       "first_seen_price": 991.0,
       "first_seen_at": "2026-09-14T09:43:59.554888"
     },
@@ -1636,7 +1636,7 @@
         "symbol": "VMM",
         "price": 101.70999908447266,
         "day_change": -1.6344317373953587,
-        "volume_ratio": 2.8339630549830153,
+        "volume_ratio": 1.9544572792986312,
         "market_cap": 47649.188667268994,
         "pct_from_low": 2.8905736583130883,
         "avg_volume": 17009845.95238095,
@@ -1719,7 +1719,7 @@
         ]
       },
       "combined_score": 49.0,
-      "added_at": "2026-09-14T10:15:34.732643",
+      "added_at": "2026-09-14T10:42:49.276380",
       "first_seen_price": 101.70999908447266,
       "first_seen_at": "2026-09-14T09:44:10.773394"
     },
@@ -1729,7 +1729,7 @@
         "symbol": "GODREJCP",
         "price": 865.0,
         "day_change": -0.5632859267204876,
-        "volume_ratio": 3.0835410714946683,
+        "volume_ratio": 2.1154525955602956,
         "market_cap": 88515.8784345,
         "pct_from_low": 1.1387255012644508,
         "avg_volume": 1592962.761904762,
@@ -1812,7 +1812,7 @@
         ]
       },
       "combined_score": 48.8,
-      "added_at": "2026-09-14T10:14:05.481796",
+      "added_at": "2026-09-14T10:41:45.355147",
       "first_seen_price": 865.0,
       "first_seen_at": "2026-09-14T09:42:45.291723"
     },
@@ -1822,7 +1822,7 @@
         "symbol": "CMSINFO",
         "price": 224.3800048828125,
         "day_change": -1.4537298621381256,
-        "volume_ratio": 3.357003692289305,
+        "volume_ratio": 2.264025745962555,
         "market_cap": 3593.42366675,
         "pct_from_low": 0.3921939850532147,
         "avg_volume": 1025516.1904761905,
@@ -1899,7 +1899,7 @@
             "label": "Neutral"
           },
           {
-            "title": "CMS Info Systems Balance Sheets, Financial Statements - economictimes.indiatimes.com",
+            "title": "CMS Info Systems Balance Sheets, Financial Statements - The Economic Times",
             "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVkNzUUFOY3ZIUWJvU0xCeUlNUTdzN3RJMUdPYjdSSDFpb0ZCRFlaUVppT0xmVk5aNkcxV05ySENHXzA0U1VyTjFaSlgwWTBRNmJIdkZ2Q0Y2WGhuMmI4TWhSVDJJWDdOVWVGQ1dzeWpOc25OVE5nZHpyS18xblpEUWFkMXNYT3gtVTA2dmFvSGo5MmZMaVJHY2E4bU9aNVF2RHJN?oc=5",
             "published": "Tue, 07 Jul 2026 08:08:00 GMT",
             "score": 0,
@@ -1908,7 +1908,7 @@
         ]
       },
       "combined_score": 45.6,
-      "added_at": "2026-09-14T10:13:46.516335",
+      "added_at": "2026-09-14T10:41:31.733983",
       "first_seen_price": 224.3800048828125,
       "first_seen_at": "2026-09-14T09:42:27.667521"
     }
