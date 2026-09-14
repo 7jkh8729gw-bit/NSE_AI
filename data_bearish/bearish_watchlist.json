@@ -7,7 +7,7 @@
         "symbol": "IEX",
         "price": 113.87999725341797,
         "day_change": -2.35788396189764,
-        "volume_ratio": 9.003332957069205,
+        "volume_ratio": 6.674884778516824,
         "market_cap": 10132.213228331999,
         "pct_from_low": 0.7727408453125483,
         "avg_volume": 3224116.095238095,
@@ -57,7 +57,7 @@
         "label": "Bearish",
         "headlines": [
           {
-            "title": "IEX Share Price - Upstox",
+            "title": "IEX Share Price - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yQ1ZkQXg0anVXWjI4WUMtQjdHanhIa1BtQ0pkVmVQNnlkdDhFMW9KX0Y1LTM3WGdQY1h4YnY5aW41cU1STmRzUGZTUHZJY1otSFd2UzJjalB1SE9jR1lheFhRZTdUXzloUHpJcg?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
@@ -85,7 +85,7 @@
             "label": "Neutral"
           },
           {
-            "title": "IEX Forecast \u2014 Price Target \u2014 Prediction for 2027 - tradingview.com",
+            "title": "IEX Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDSTA4ZzZVbVo4bkYxOW1xNFBDU0hKVFN1aGFMdzIwa0ZCYmNIZVZQZ2lfZEhvU3F1Y2pyb3l6MWc1SVpkdXoxdnd3TnhvYWxpbV8yMExmMDBqZnNYNEtOQTgxalJZcktPMDhNX1hBckNaMTVN?oc=5",
             "published": "Thu, 25 Jun 2026 13:52:26 GMT",
             "score": 1,
@@ -94,7 +94,7 @@
         ]
       },
       "combined_score": 73.8,
-      "added_at": "2026-09-14T10:41:52.199775",
+      "added_at": "2026-09-14T11:11:28.107997",
       "first_seen_price": 113.87999725341797,
       "first_seen_at": "2026-09-14T06:21:42.737405"
     },
@@ -104,7 +104,7 @@
         "symbol": "HDFCAMC",
         "price": 2403.89990234375,
         "day_change": -1.2285375086080683,
-        "volume_ratio": 3.508927566623623,
+        "volume_ratio": 2.6014462993933756,
         "market_cap": 103081.76426826001,
         "pct_from_low": 8.249087430560733,
         "avg_volume": 842091.6666666666,
@@ -152,7 +152,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "HDFC AMC Share Price - Live NSE: HDFCAMC Stock Price & Chart - Upstox",
+            "title": "HDFC AMC Share Price - Live NSE: HDFCAMC Stock Price & Chart - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NSFdXUHpoeExRRExRT0lxVW9RMW9jVGhCQm5VMVpMam5EOC1nS09LYTU4Y2pqV0NDb2g0eHYycXl3OFJ2QTIxYjNoMmxwbEFkT3FsOE16MXBxNUthMlgzQTQ1aXo1dw?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
@@ -189,7 +189,7 @@
         ]
       },
       "combined_score": 68.8,
-      "added_at": "2026-09-14T10:41:48.952689",
+      "added_at": "2026-09-14T11:11:24.440690",
       "first_seen_price": 2403.89990234375,
       "first_seen_at": "2026-09-14T09:42:50.136710"
     },
@@ -199,7 +199,7 @@
         "symbol": "AFCONS",
         "price": 253.8000030517578,
         "day_change": -2.702703809391552,
-        "volume_ratio": 8.770376464087885,
+        "volume_ratio": 6.558716312274419,
         "market_cap": 9327.018242159998,
         "pct_from_low": 1.891254134768052,
         "avg_volume": 919611.9523809524,
@@ -250,14 +250,14 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "AFCONS INFRASTRUCTURE LTD Share Price - Upstox",
+            "title": "AFCONS INFRASTRUCTURE LTD Share Price - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TeXZ3Sm8yYU0wQkpCUUhXN0NtNy15cmw0OFlmSGFRVGxLSUxteVZzWVFqb0wxdWxhb0tSNkVOSmN0UXhPWFIyUkJmNF9wd2NpQXc2TU9wSGR5cHRYZmJUcjYwc3N1N1VWdHVkODJZWER0UQ?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
           },
           {
-            "title": "AFCONS Stock Price and Chart \u2014 NSE:AFCONS - tradingview.com",
+            "title": "AFCONS Stock Price and Chart \u2014 NSE:AFCONS - TradingView",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Gc3UybUlsWGE3WE5WVnJ5RVVKdEtPSmp3TXRCRUIzM1UtS2oxRHJDOFA5N2NjcjdxMk4zVjlDNUJiaVd1d0hET0phRDZ2eTVIMVNEVjFjaG9nRFk?oc=5",
             "published": "Wed, 12 Aug 2026 07:00:00 GMT",
             "score": 0,
@@ -287,7 +287,7 @@
         ]
       },
       "combined_score": 68.4,
-      "added_at": "2026-09-14T10:41:16.003145",
+      "added_at": "2026-09-14T11:10:50.487460",
       "first_seen_price": 253.8000030517578,
       "first_seen_at": "2026-09-14T06:20:46.619631"
     },
@@ -393,7 +393,7 @@
         "symbol": "AMBUJACEM",
         "price": 391.8500061035156,
         "day_change": -0.9479271845660051,
-        "volume_ratio": 2.9396893452941666,
+        "volume_ratio": 2.198376379959116,
         "market_cap": 97367.56143341001,
         "pct_from_low": 1.071841812329008,
         "avg_volume": 1944694.0952380951,
@@ -451,7 +451,7 @@
             "label": "Neutral"
           },
           {
-            "title": "BHEL Share Price - Upstox",
+            "title": "BHEL Share Price - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82NlR3TGFGUVl3bXBURmlHaklBdDhROTVtQS1lRU5fem1qWmw2LXNPVzlOXzFLdEM2MlFUUlFqTElBOHlOd3dRWllfV2FRUVF5Y0RRS3dn?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
@@ -472,7 +472,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Ambuja Cements shares rise over 1% on partnering with UK firm for commercial-scale low-carbon cement project in Gujarat - Upstox",
+            "title": "Ambuja Cements shares rise over 1% on partnering with UK firm for commercial-scale low-carbon cement project in Gujarat - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNODZVZkhkNlVONnU0NFRBNEp4NDBhRlIxel9MemIteGF4bDFvblJDRlVwQUtaZHQ4MmVkaDVGR2lKVU5BeWQ1cER1NWhxQTVMTi1IazhLU2VSNWtSTGttOThMZDdlZkVFNnFjSzlTVWNKUUFrVkZSZURBYlhSVU5pV2N0VlVvYW03eEVWNmh2b0tpNHU3bDdXQVZwVHQ4cDhIbUhrc2lLVnpPQjhyTkI5N01IVkRQZ0tWVjF1eU1jNi1PLUc0M29uaVZLbVJUdnZQLXdhcWlkSk4xT2Fpem9tM1ZIMDFZdm5zMUdRY19KRjQ0UXdjNFgtWkN1djMxYm8?oc=5",
             "published": "Mon, 22 Jun 2026 07:00:00 GMT",
             "score": 0,
@@ -481,7 +481,7 @@
         ]
       },
       "combined_score": 65.4,
-      "added_at": "2026-09-14T10:41:18.302826",
+      "added_at": "2026-09-14T11:10:53.060354",
       "first_seen_price": 391.8500061035156,
       "first_seen_at": "2026-09-14T09:42:06.634132"
     },
@@ -491,7 +491,7 @@
         "symbol": "MOIL",
         "price": 244.92999267578125,
         "day_change": -1.92993286255005,
-        "volume_ratio": 3.6404516278139436,
+        "volume_ratio": 2.7303387208604577,
         "market_cap": 4999.631634269999,
         "pct_from_low": 1.0533567343386996,
         "avg_volume": 971746.1428571428,
@@ -539,7 +539,7 @@
         "label": "Bullish",
         "headlines": [
           {
-            "title": "MOIL 125 Share Price - Upstox",
+            "title": "MOIL 125 Share Price - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvUlRlaE5JSVBnLVRVckJrVkRxWTdIM19iamp3TzJadmI3MkwwYjY2anAtOGhnalgxS0wzMTJUb1ZITTFVQlRicjM3akRmR1pGSkd6X01iSEFyWWRsQ29SMQ?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
@@ -576,7 +576,7 @@
         ]
       },
       "combined_score": 63.8,
-      "added_at": "2026-09-14T10:42:10.363557",
+      "added_at": "2026-09-14T11:11:47.757376",
       "first_seen_price": 244.92999267578125,
       "first_seen_at": "2026-09-14T09:43:20.125246"
     },
@@ -586,7 +586,7 @@
         "symbol": "MUTHOOTFIN",
         "price": 2792.10009765625,
         "day_change": -1.7385149513901108,
-        "volume_ratio": 4.773795486517688,
+        "volume_ratio": 3.580346614888266,
         "market_cap": 112094.01318395999,
         "pct_from_low": 4.337240550863633,
         "avg_volume": 916729.7142857143,
@@ -647,7 +647,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Muthoot Finance shares fall over 14% following weak sequential results in Q1; here\u2019s what analysts said - Upstox",
+            "title": "Muthoot Finance shares fall over 14% following weak sequential results in Q1; here\u2019s what analysts said - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUVYxLWtxNEI2dDFBUHpQb0JuTy1KaWZMNUJ3YjlWVU9sMFRZRUZqc25oWWd3emI0THFobzk0OGxBOTNzV3U3aTZSNUw4RHdrT3BpVk1OemFrSXlCcXVBR0F2LXZjck5zc2htOVctT1ZYUGxUZHZHRkdPTjUzSVQtRDNHQ3MyWnVFTGF6NTU0dGFpNFNFQ0l4SWF6aFctVDl5V2pydHNRSGc4SGxmZU1La0h1aGZtaUQyMWRqU3JHQ2FVLVRzSWVBUnBmRk44a004azVlTV9ldndFYW5TXzhWMDlBQmZwLVpscDdJeUUzak9CUQ?oc=5",
             "published": "Mon, 03 Aug 2026 07:00:00 GMT",
             "score": -4,
@@ -670,7 +670,7 @@
         ]
       },
       "combined_score": 60.4,
-      "added_at": "2026-09-14T10:42:11.954531",
+      "added_at": "2026-09-14T11:11:49.339681",
       "first_seen_price": 2792.10009765625,
       "first_seen_at": "2026-09-14T09:43:22.821835"
     },
@@ -680,7 +680,7 @@
         "symbol": "IRCTC",
         "price": 462.8999938964844,
         "day_change": -1.0580340157003267,
-        "volume_ratio": 3.587014202011222,
+        "volume_ratio": 2.6593381152841813,
         "market_cap": 37096.0,
         "pct_from_low": 0.16202203713308283,
         "avg_volume": 734585.3333333334,
@@ -737,14 +737,14 @@
             "label": "Neutral"
           },
           {
-            "title": "IRCTC Share Price - Upstox",
+            "title": "IRCTC Share Price - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JYVRubXc3ZG9zbTZyYkljWExnX3RmZGFDc0w2Uk0yeUVWWUlLS1pxX0dQaGViUGVOUlBtcDl2QlpxT2hveTZDeVl5MHc0MEdnU21TN0tQdzVuLUJ5elhqd0ZWdEQtU2dpcWtmaFd0eHozZw?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
           },
           {
-            "title": "IRCTC Forecast \u2014 Price Target \u2014 Prediction for 2027 - tradingview.com",
+            "title": "IRCTC Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lRDRZa3ZnWGlCYlhTNks5VjBJeERuV0oxb21iTFBWRHlORUVWT1lldGxxNUVjaWkwTVQ2Snc4SERYOW5YY1R3aTRMd0ZMTlM3Zi14ZkJhSzliWVJtU2k4UENyS1pKUE1GZktfb0NwUDIyOWFNc3JZ?oc=5",
             "published": "Thu, 25 Jun 2026 14:00:16 GMT",
             "score": 1,
@@ -767,7 +767,7 @@
         ]
       },
       "combined_score": 58.6,
-      "added_at": "2026-09-14T10:41:55.519849",
+      "added_at": "2026-09-14T11:11:31.412920",
       "first_seen_price": 462.8999938964844,
       "first_seen_at": "2026-09-14T09:42:58.953489"
     },
@@ -871,7 +871,7 @@
         "symbol": "HINDUNILVR",
         "price": 1927.0,
         "day_change": -0.7877283861139885,
-        "volume_ratio": 3.8678150226112353,
+        "volume_ratio": 2.8675180340048816,
         "market_cap": 452766.2361874,
         "pct_from_low": 0.04151784266346653,
         "avg_volume": 1240461.7142857143,
@@ -928,7 +928,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Hindustan Unilever Share Price - Live NSE: HINDUNILVR Stock Price & Chart - Upstox",
+            "title": "Hindustan Unilever Share Price - Live NSE: HINDUNILVR Stock Price & Chart - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00bURGcnlweERKTnRINldLZmR6b09TWm9SMDUzTkdvUlh3VDVoVGEtdkdFb1JYc2NtWEc1aExJUXJWZmZNc3NCVVhDNHJBNUxLdmVsMTJwZ1NLZWtZR3ZSd0Nhd2h6ZEk2UnJnMXFn?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
@@ -958,7 +958,7 @@
         ]
       },
       "combined_score": 57.6,
-      "added_at": "2026-09-14T10:41:50.532123",
+      "added_at": "2026-09-14T11:11:26.283504",
       "first_seen_price": 1927.0,
       "first_seen_at": "2026-09-14T09:42:51.802944"
     },
@@ -968,7 +968,7 @@
         "symbol": "ASTRAL",
         "price": 1411.4000244140625,
         "day_change": -3.262506894169808,
-        "volume_ratio": 2.283555634256811,
+        "volume_ratio": 1.7077024743137892,
         "market_cap": 37917.28400582,
         "pct_from_low": 7.0709966771863,
         "avg_volume": 1665408.857142857,
@@ -1018,7 +1018,7 @@
         "label": "Bullish",
         "headlines": [
           {
-            "title": "Astral shares rally 9% as Q1 profit soars 48% YoY; here\u2019s what analysts at CITI, UBS, CLSA said - Upstox",
+            "title": "Astral shares rally 9% as Q1 profit soars 48% YoY; here\u2019s what analysts at CITI, UBS, CLSA said - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWWhsZERmcHd2aU9YYWIyR21aN0liZWk2TDBBaThvUWJZOXpVdmpTQkxBUE5Nem1GdDkwVzdGS01nb3c0al9oTHJMY1o2bDJHOEtXWlQyR1ZIVkhKRUpNTEhURDhta21FUkdPSzVXTGRqOW5sWGVRVWRkbzVVdlpiZ0cyNUVZTDM0NVBrNzV5eDlnUU5LejRQaGUyS1doWFNfa0REdXZJRTIzZ0tJZGtIcko5N2d6LUhfTmloZ2xqMjlabXVpajE5eHlBU3VmUGZSUHc3d1VyUjc4aWEwVHJaM2VjMkU?oc=5",
             "published": "Thu, 13 Aug 2026 07:00:00 GMT",
             "score": 3,
@@ -1055,7 +1055,7 @@
         ]
       },
       "combined_score": 55.8,
-      "added_at": "2026-09-14T10:41:21.595290",
+      "added_at": "2026-09-14T11:10:56.660989",
       "first_seen_price": 1411.4000244140625,
       "first_seen_at": "2026-09-14T09:42:12.181604"
     },
@@ -1065,7 +1065,7 @@
         "symbol": "CSBBANK",
         "price": 305.70001220703125,
         "day_change": -0.6822533038402775,
-        "volume_ratio": 2.5329223851805116,
+        "volume_ratio": 1.8778562510821033,
         "market_cap": 5169.0664035,
         "pct_from_low": 0.5561047233063044,
         "avg_volume": 522514.38095238095,
@@ -1122,7 +1122,7 @@
             "label": "Neutral"
           },
           {
-            "title": "CSBBANK Forecast \u2014 Price Target \u2014 Prediction for 2027 - tradingview.com",
+            "title": "CSBBANK Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rVjA4dDdacVZJUDc5S3NURUc1NlRtcnB3VE5RQUxWM1o1cm1Ha1ZadVZqUEhPUDE0SzZQWnZaY2lXMmVtVTREaHdObHJBbjhKUnF4d2tMUzE3LVIxYzZreXJNOVpKcWg4RFVaU1hIcTJodjFxcXhWeGJR?oc=5",
             "published": "Fri, 26 Jun 2026 10:22:43 GMT",
             "score": 1,
@@ -1152,7 +1152,7 @@
         ]
       },
       "combined_score": 55.4,
-      "added_at": "2026-09-14T10:41:33.376684",
+      "added_at": "2026-09-14T11:11:09.131057",
       "first_seen_price": 305.70001220703125,
       "first_seen_at": "2026-09-14T09:42:29.539538"
     },
@@ -1162,7 +1162,7 @@
         "symbol": "LATENTVIEW",
         "price": 252.4499969482422,
         "day_change": -1.3096192586197095,
-        "volume_ratio": 2.7577821056503424,
+        "volume_ratio": 2.068336579237757,
         "market_cap": 5247.4890482,
         "pct_from_low": 1.7627241045895259,
         "avg_volume": 523763.90476190473,
@@ -1237,7 +1237,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Latent View Analytics shares surge most in nearly two years; here is why - Upstox",
+            "title": "Latent View Analytics shares surge most in nearly two years; here is why - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORWJCREhOWlJjQ1dWcE93R2daTkdLVWZReFNCNk1FTmd0NGhhLWpVclZzRVlBYVdOcTBJOTdzQlNST1lSVmd3dDFFUGdwUkVCV0dkUVl3UHBfTTZHaU5zS3FpSGFVbFpnZUVOQmhkRGo0S3lGSXBGdlk0SURoaFpEUnVGMUxwdDc2d2lvanMwdVk5YlJkZnVORVliVHlncEJRUEh4cXhKWHc2MWZ2d3BScWNEYUswZ1A3TTJIcjRVY0hpWEN5MlBqLXJB?oc=5",
             "published": "Mon, 02 Feb 2026 08:00:00 GMT",
             "score": 2,
@@ -1246,7 +1246,7 @@
         ]
       },
       "combined_score": 53.6,
-      "added_at": "2026-09-14T10:42:04.011164",
+      "added_at": "2026-09-14T11:11:40.781190",
       "first_seen_price": 252.4499969482422,
       "first_seen_at": "2026-09-14T09:43:11.297921"
     },
@@ -1256,7 +1256,7 @@
         "symbol": "RELIANCE",
         "price": 1257.5,
         "day_change": -1.2951334379905808,
-        "volume_ratio": 3.5352458713486623,
+        "volume_ratio": 2.6287725710028513,
         "market_cap": 1701708.43385125,
         "pct_from_low": 0.6123221607852882,
         "avg_volume": 10702245.42857143,
@@ -1319,7 +1319,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Meta- and Google-backed Indian telecom operator Jio Platforms gets regulatory nod for IPO - cnbc.com",
+            "title": "Meta- and Google-backed Indian telecom operator Jio Platforms gets regulatory nod for IPO - CNBC",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11UC1TUVNmSU85cGI4cmlTMldPak1pWm5YN18wbDlYNER3QTFRR2xxMk90cVVkXzhvTTV6bDc3S2YzclY5OVRtX3Zjdks2OVBBdzQ0NU5nQTZ0VklVc3libFJWUXdETFdVVlB1VElzLUs2UFgxYVNEMXdpenQ1Z9IBgwFBVV95cUxObzRqSDlkYzNRRjIwTkdOQ014TmdsR09oZV83TDgyb3IzQmloM0tOZGUzcDRyTnVIc1NlTlNIaEJyemlUQ1RSVUw3SDBObTFHMzBjbnYtNG93b3BDX1VVc0dzMUtyb3JyMUhXR3hjMFFRLTZjQVItWmFmaTR4OWtsTElxMA?oc=5",
             "published": "Sun, 30 Aug 2026 07:00:00 GMT",
             "score": 0,
@@ -1342,7 +1342,7 @@
         ]
       },
       "combined_score": 53.0,
-      "added_at": "2026-09-14T10:42:25.745765",
+      "added_at": "2026-09-14T11:12:03.468506",
       "first_seen_price": 1257.5,
       "first_seen_at": "2026-09-14T09:43:40.252264"
     },
@@ -1447,7 +1447,7 @@
         "symbol": "IREDA",
         "price": 111.70999908447266,
         "day_change": -1.4207559254212545,
-        "volume_ratio": 3.6838878962399653,
+        "volume_ratio": 2.7311582679020434,
         "market_cap": 31381.922494827995,
         "pct_from_low": 2.7392333575079943,
         "avg_volume": 3956273.095238095,
@@ -1507,14 +1507,14 @@
             "label": "Neutral"
           },
           {
-            "title": "IREDA Forecast \u2014 Price Target \u2014 Prediction for 2027 - tradingview.com",
+            "title": "IREDA Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uZXo0bld3WEZoY3R5a0p0S1d5cTJmQWszd285MHg4NW5JTjRjblFrbFpHYlBzQVhuUFVoUTBXWTByTHFOb3hKNEp2Q09JbVNFVWtDMFh1dHVOYjRWemwzdWk4aklCRVc0THhqV1ZSS0xEU3dxaXZF?oc=5",
             "published": "Thu, 25 Jun 2026 12:21:25 GMT",
             "score": 1,
             "label": "Neutral"
           },
           {
-            "title": "Stock market fall continues: ITC, IREDA, Tata Motors PV, Suzlon Energy among 741 stocks that hit 52-week low on NSE - Upstox",
+            "title": "Stock market fall continues: ITC, IREDA, Tata Motors PV, Suzlon Energy among 741 stocks that hit 52-week low on NSE - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObXVqZ25PZ25fLWNFYnNBY1ViRU5PZEZGS1czTVJuWDVfU1VGcnVOTDduaEhIdy1FQVg2VUtJUVNiRWN5N2hIYTFrRDVzMU5iWXVhZU5MYnV3WDJ2eVNkeVdyVG1Qdm0wQ1RqdTQwYjRRUTN0N1daUFoyS3pxdnZ2dzVlejljaXBOTnNZSEZYbkxwWnE2VUtOenNfdl9tLUlkY2lUbXBQeDEtRTY2YmNUZ2RVaU5hWjJ0V2pPRkNQLWw3NUw1VWMzUzNkWnc4UGZLQVotWDUyb25tbElFY09falcyX3EyMjdTSXJYXzA1Z21RbDVFUnRiWGdJVTVydzg?oc=5",
             "published": "Wed, 21 Jan 2026 08:00:00 GMT",
             "score": -2,
@@ -1530,7 +1530,7 @@
         ]
       },
       "combined_score": 51.0,
-      "added_at": "2026-09-14T10:41:55.858520",
+      "added_at": "2026-09-14T11:11:31.490017",
       "first_seen_price": 111.70999908447266,
       "first_seen_at": "2026-09-14T09:43:00.275593"
     },
@@ -1540,7 +1540,7 @@
         "symbol": "TATACONSUM",
         "price": 991.0,
         "day_change": -0.8603417162847004,
-        "volume_ratio": 3.6553140664092743,
+        "volume_ratio": 2.7180540493812555,
         "market_cap": 98078.2801892,
         "pct_from_low": 0.30272452068617556,
         "avg_volume": 1068306.4761904762,
@@ -1603,7 +1603,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Q1 earnings review: What Nestle India and Tata Consumer results say about FMCG demand - Upstox",
+            "title": "Q1 earnings review: What Nestle India and Tata Consumer results say about FMCG demand - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUlp3LUVqaWIyTV9mcERtelk3WDU5bnV4LWNoYkliejcxNmtTT3ZHb0U2bzBQeVBxOUFGRU5JTTRjSFQ2cVhjMDkxazhMZXljbE9yUEhzVG1LMHozSlo3anBXMWZfeG04OHFYbUQxaHBJZXVZNzAwS1d2LU5vU3REY3RWakpZazJsWDM5ODJsU3pwTklsR2dHOHdfTWdhWk1EVERoMTF3ck5zalRWN2ttWG9iQ0t1TjQwRHhEMWhVSzFZVlpXSmpvOHIxR0gtdnVFMlN6d1Q3QTZyV0liX2Z4MTlkUlJ4T3N2RVFn?oc=5",
             "published": "Tue, 28 Jul 2026 07:00:00 GMT",
             "score": 1,
@@ -1626,7 +1626,7 @@
         ]
       },
       "combined_score": 49.6,
-      "added_at": "2026-09-14T10:42:40.770425",
+      "added_at": "2026-09-14T11:12:19.429915",
       "first_seen_price": 991.0,
       "first_seen_at": "2026-09-14T09:43:59.554888"
     },
@@ -1729,7 +1729,7 @@
         "symbol": "GODREJCP",
         "price": 865.0,
         "day_change": -0.5632859267204876,
-        "volume_ratio": 2.1154525955602956,
+        "volume_ratio": 1.5683527863636673,
         "market_cap": 88515.8784345,
         "pct_from_low": 1.1387255012644508,
         "avg_volume": 1592962.761904762,
@@ -1789,7 +1789,7 @@
             "label": "Neutral"
           },
           {
-            "title": "GODREJCP Forecast \u2014 Price Target \u2014 Prediction for 2027 - tradingview.com",
+            "title": "GODREJCP Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
             "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nRGo4emdMbnl5bF95M0lpdkd3THRkcDNsaFd2Q3BJV0J2WXVsSG5NN2xuY0xPc3k2XzUzQzZVd2RWMFFuZ2RmakIxVEsyaDdVX0FGbXdvWklGYzdBdFNZaE5xTGRza1BrNVlhYm54ZzEtSHZJT0c4eE1sRQ?oc=5",
             "published": "Thu, 25 Jun 2026 15:02:19 GMT",
             "score": 1,
@@ -1803,7 +1803,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Upcoming dividends, stock splits and bonuses this week: SBI, Godrej Consumer Products, Manappuram Finance, IEX among others in focus - Upstox",
+            "title": "Upcoming dividends, stock splits and bonuses this week: SBI, Godrej Consumer Products, Manappuram Finance, IEX among others in focus - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNYTBnOEo3d3Boa1cwdGJ5TXRmX01fd0pTRl9UQ1NKcWVZUlF3djdXMFpsQWpnNWprbjdmZmdPMWZGcnpDZF9WemVIMVpvYThnWnlMZUhqNllfRnNqZ05mNWt2OTJfUlBGRnExU3NmOEYtZjkyTTlvTXVkbF9vYWVLSm9jX0QzZHVEYzlQcWhVNnZ6Um5RLUlaajJGQzcxZ1Q2Vk1DSXhuNV9HeWRVbGw0THRQM0xILWhtZzdSVXdiV296TUhCem5NMU9LU25OcXR5b1d2ODFmRDBsY092ZlFMZGluYmtGdENLdTI3M1pua2JSWkFXV0l2VWhkem0zSlNZMUlkZWx1UEVoaVVsNzBCOHk2LXM?oc=5",
             "published": "Sun, 10 May 2026 07:00:00 GMT",
             "score": 0,
@@ -1812,7 +1812,7 @@
         ]
       },
       "combined_score": 48.8,
-      "added_at": "2026-09-14T10:41:45.355147",
+      "added_at": "2026-09-14T11:11:21.130667",
       "first_seen_price": 865.0,
       "first_seen_at": "2026-09-14T09:42:45.291723"
     },
@@ -1822,7 +1822,7 @@
         "symbol": "CMSINFO",
         "price": 224.3800048828125,
         "day_change": -1.4537298621381256,
-        "volume_ratio": 2.264025745962555,
+        "volume_ratio": 1.6785018461446526,
         "market_cap": 3593.42366675,
         "pct_from_low": 0.3921939850532147,
         "avg_volume": 1025516.1904761905,
@@ -1892,7 +1892,7 @@
             "label": "Neutral"
           },
           {
-            "title": "CMS Info Systems share price rises nearly 7% on \u20b91,000 crore SBI integrated cash solutions contract for 5,000 ATMs - Upstox",
+            "title": "CMS Info Systems share price rises nearly 7% on \u20b91,000 crore SBI integrated cash solutions contract for 5,000 ATMs - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOWFp6bzlwdzVRX0p6OVN0QWk1MklfQktPRTZ0MGNrdDI5TEdnZEFNZUZNaDhNQmI4TDFRWkE0WUtTVklmUm92amhLT2lCS0lCOVUzdEo4S3dCSjA5XzlVUk9uNnFzcTRCWnZ6UG9YRk1qbG5DOEhqUFVzU0hwdUxlYUNtdUpCRFk0UHVWLVdnUkwwWThpdkcyOS1lclE4d1M3ZXRSaFlhLUhoN2p5bS1wbzd3ZWpMU3BxcmhXQ3dMUzI5ODFmQWU3Y3l4Rmt6NG9hRFBqUVdib1p6QzgxU3BvVER3cGlDaVdQVTNYT0NMX3JYODBveHM4MG00cklqdDJmYXc?oc=5",
             "published": "Tue, 06 Jan 2026 08:00:00 GMT",
             "score": 4,
@@ -1908,7 +1908,7 @@
         ]
       },
       "combined_score": 45.6,
-      "added_at": "2026-09-14T10:41:31.733983",
+      "added_at": "2026-09-14T11:11:07.727683",
       "first_seen_price": 224.3800048828125,
       "first_seen_at": "2026-09-14T09:42:27.667521"
     }
