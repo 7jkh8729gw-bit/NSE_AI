@@ -7,7 +7,7 @@
         "symbol": "IEX",
         "price": 113.87999725341797,
         "day_change": -2.35788396189764,
-        "volume_ratio": 28.67728275214636,
+        "volume_ratio": 13.12350227640596,
         "market_cap": 10132.213228331999,
         "pct_from_low": 0.7727408453125483,
         "avg_volume": 3224116.095238095,
@@ -85,7 +85,7 @@
             "label": "Neutral"
           },
           {
-            "title": "IEX Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+            "title": "IEX Forecast \u2014 Price Target \u2014 Prediction for 2027 - tradingview.com",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDSTA4ZzZVbVo4bkYxOW1xNFBDU0hKVFN1aGFMdzIwa0ZCYmNIZVZQZ2lfZEhvU3F1Y2pyb3l6MWc1SVpkdXoxdnd3TnhvYWxpbV8yMExmMDBqZnNYNEtOQTgxalJZcktPMDhNX1hBckNaMTVN?oc=5",
             "published": "Thu, 25 Jun 2026 13:52:26 GMT",
             "score": 1,
@@ -94,7 +94,7 @@
         ]
       },
       "combined_score": 73.8,
-      "added_at": "2026-09-14T09:42:55.583519",
+      "added_at": "2026-09-14T10:14:14.288473",
       "first_seen_price": 113.87999725341797,
       "first_seen_at": "2026-09-14T06:21:42.737405"
     },
@@ -104,7 +104,7 @@
         "symbol": "HDFCAMC",
         "price": 2403.89990234375,
         "day_change": -1.2285375086080683,
-        "volume_ratio": 11.176584101097466,
+        "volume_ratio": 5.114707978468331,
         "market_cap": 103081.76426826001,
         "pct_from_low": 8.249087430560733,
         "avg_volume": 842091.6666666666,
@@ -148,8 +148,8 @@
         "support_20d": 2366.1
       },
       "news": {
-        "score": 40,
-        "label": "Neutral",
+        "score": 30,
+        "label": "Bearish",
         "headlines": [
           {
             "title": "HDFC AMC Share Price - Live NSE: HDFCAMC Stock Price & Chart - Upstox",
@@ -166,6 +166,13 @@
             "label": "Neutral"
           },
           {
+            "title": "HDFC AMC Share Price +5.67% on Iran Deal Rate Cut Hopes - Univest",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZaXZaVmNQVFVPam9ZTEZSTHVQTTZRd1owa0ZQV0FJdU1oRjJqdFJ0QWhRa1lvX1dIRWNnbkIyd3FHbjczWVFLNUllR3BwVFJBYXZrLVlLR25yZnFGM2ozbkVBajZ0QVptYVdZaWNMSWQ?oc=5",
+            "published": "Mon, 15 Jun 2026 07:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
+          },
+          {
             "title": "HDFC AMC Stock Drops Nearly 4%: What\u2019s Driving the Capital Market Index Decline? - Outlook Money",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOGZfZm92MXFXc3hLSUdlSFcxYWg3WmFVdFpnWFlWUERqcC1KakpDSUNmMkJjWmlxNURjOTZKQWJQSGdkMVh4MUtNUzRBc0hkY1g0S0hJQUgyTXZiZnFhNDJ3d1BuenRER0FweDNZWGFhMUwwRXRNSUdJeVM3XzJIcXUwVVJtNW5fVDcxQ1QySWNEVDFLYUdUQ0hsakxzSFpaUXNLV1NoWktmcGlReFg3UTZB0gG_AUFVX3lxTE5KLVZBTEQyODZUV3M0dmQ4dkJIaS0zMkYydVlYZ2JRcVlVNVV1Y3ZLbEl1ekl4VVdQcG05NldUSUlYNUYxcDFtSVllbUFEaVIyOUFsa2pDQndRQ2pFdDJEY3EyOFVKSVV5V2xCVWxBQnd1RllOOExfTjZ2SlhGZEFWX1FMOHczcy1iLW5OM0pidzEtVjBoTllNbV8ycWNjWUtKREttUVlyVG9EVzRLc0pBaXl3QmZBRmNBblprQVRr?oc=5",
             "published": "Mon, 18 May 2026 07:00:00 GMT",
@@ -173,23 +180,16 @@
             "label": "Neutral"
           },
           {
-            "title": "HDFC AMC ESOP Grant Signals Alignment; Shares Rise 1.16% - hdfcsky.com",
+            "title": "HDFC AMC ESOP Grant Signals Alignment; Shares Rise 1.16% - HDFC Sky",
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcEliNmQ4Q2dwNWh0TUYwUmh4Ym1hVS13OWpJY3V1cHZjSXgwWjVtYmFqUFB4V2ZiaEs1T1FXV0VHTTI3bVlXaGt3WUc0c2VMeDlYNEt3Ymh6SG5BNzlUVTh6X1hpNFRQeUhDczlENkgzYUFtdURta3BOZGZvc08yZkxKUzFIRlpNUlBfbDZPdXE?oc=5",
             "published": "Thu, 16 Apr 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "HDFC AMC among 5 F&O stocks with a sharp rise in futures open interest - The Economic Times",
-            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeVRtRWNuamZZVjB6RmZGZzVIMlNMdE5OaEt2NUFIcnIxYzc3RE00N09RbXA1T29OQk00SEtlRUllOWVOY0l4akxjeHZEU1VJZVRhQVBIeENEaXB1UE04bFg3bm1SOHpseWVub21WOWpGeF9SdURNN1JxRDJZWjZmZUU3Sk5LSlhkMVhLNlhfdlJUWk10aEpJUjNjbUZSbEtBT0xCaVNZczc1aExNR2h1X3pKSzVTOERxQlhEdEFRa0dENGhuWlNHc3VsQWlKdjRIMjhOcHBYdWpnNzJBVUs1NHdLdnh2TE5udDRUYlY1aXAzUQ?oc=5",
-            "published": "Fri, 17 Jul 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
           }
         ]
       },
-      "combined_score": 68.8,
-      "added_at": "2026-09-14T09:42:50.136710",
+      "combined_score": 70.8,
+      "added_at": "2026-09-14T10:14:09.712427",
       "first_seen_price": 2403.89990234375,
       "first_seen_at": "2026-09-14T09:42:50.136710"
     },
@@ -199,7 +199,7 @@
         "symbol": "AFCONS",
         "price": 253.8000030517578,
         "day_change": -2.702703809391552,
-        "volume_ratio": 27.935273181909565,
+        "volume_ratio": 13.004351308819967,
         "market_cap": 9327.018242159998,
         "pct_from_low": 1.891254134768052,
         "avg_volume": 919611.9523809524,
@@ -257,7 +257,7 @@
             "label": "Neutral"
           },
           {
-            "title": "AFCONS Stock Price and Chart \u2014 NSE:AFCONS - TradingView",
+            "title": "AFCONS Stock Price and Chart \u2014 NSE:AFCONS - tradingview.com",
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Gc3UybUlsWGE3WE5WVnJ5RVVKdEtPSmp3TXRCRUIzM1UtS2oxRHJDOFA5N2NjcjdxMk4zVjlDNUJiaVd1d0hET0phRDZ2eTVIMVNEVjFjaG9nRFk?oc=5",
             "published": "Wed, 12 Aug 2026 07:00:00 GMT",
             "score": 0,
@@ -287,7 +287,7 @@
         ]
       },
       "combined_score": 68.4,
-      "added_at": "2026-09-14T09:42:04.342029",
+      "added_at": "2026-09-14T10:13:24.503348",
       "first_seen_price": 253.8000030517578,
       "first_seen_at": "2026-09-14T06:20:46.619631"
     },
@@ -297,7 +297,7 @@
         "symbol": "SBILIFE",
         "price": 1684.699951171875,
         "day_change": -0.9349655793440891,
-        "volume_ratio": 4.9632520378058675,
+        "volume_ratio": 2.316184284309405,
         "market_cap": 169034.30239484002,
         "pct_from_low": 0.8131982886534384,
         "avg_volume": 832811.0,
@@ -346,6 +346,13 @@
         "label": "Neutral",
         "headlines": [
           {
+            "title": "SBI Life Insurance Share Price - Live NSE: SBILIFE Stock Price & Chart - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTTmROWmpjYkFySUlmSWdDcV9uT08td00tU21ISjVVQk04TVVPeFdLRWlJQVctS2MzeVdLeEV6UFFzNUlvMEk5MGVlVk1mLWVwQ3VsMHl5MkdzRGdJNmV3YldpR3JHd0pmSGgwLW1IRThEQQ?oc=5",
+            "published": "Fri, 11 Sep 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
             "title": "3 Fundamentally Strong Life Insurance Stocks in India - Univest",
             "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xRGVRS0hpZzVwd1JORkhXVDQtQnJpNWZMZ2k2S2ctT1dickswUi03UWdDZVh4Mnd4LUNVWWdoUXlpLTFzcTlwdkJxNzJNV0tPck1mdUFLR2xiY0w4VC0zWDZtOEE?oc=5",
             "published": "Fri, 21 Aug 2026 07:00:00 GMT",
@@ -353,7 +360,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Top Gainers and Losers on September 4, 2026 at 12:00 PM - hdfcsky.com",
+            "title": "Top Gainers and Losers on September 4, 2026 at 12:00 PM - HDFC Sky",
             "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU1J2Y3ZRdGVpM1dYY1RTeWhYMlhsRUZJSXBua2xXUjNXMzJsMEhhMWlxWmx2NzdlTXlzYTFyRzUzVHJqeWFyX0psYmlqM0xSX3k1S19yWXFpSEpjQnZVSlRjdDNpcTRQVFVaaGNHX2F6LWZ3ZDFvSUVleDE3bDNPbE9n?oc=5",
             "published": "Fri, 04 Sep 2026 06:59:36 GMT",
             "score": 0,
@@ -367,13 +374,6 @@
             "label": "Neutral"
           },
           {
-            "title": "Stocks To Watch, April 23: Jio Financial, Trent, SBI Life, Tata Power, LTTS, Bandhan Bank, Adani Green - Upstox",
-            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWWp2WERyOW9sUmtVWW9jRHAzV3ZTNXM0aUpQMS1nRnZyT1F2YXd6N1o0VElOMk5FSzg0MmdGU2RDSmdiQUhySjZnWW0xZm9MNDZpTHBHVUJwbFhrZnZIZ3BqamxSWnZEckgxek0ybmZLbEtWZnRFNXJ4Y0hFMWlxVk5IMlp0Q0loWmx2MDFPNTRWVk5jMFpDZ1JqWUpBSDVub29OSS1MV0FfQ0xsT3oxMF93X0hyRzhMRTFmZXNjdWRaYXF4VFhwYWUzZ3hfd09VSjE3dkJPYTk3aWpKcEJsdHFjeUl2ajh2?oc=5",
-            "published": "Thu, 23 Apr 2026 03:06:07 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
             "title": "Stocks to Watch today, Apr 22: HCLTech, IHCL, SBI Life, Swiggy, BEML - Business Standard",
             "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMjdkd2RFaVdKSWxteUZ4TXo0Q0dOQVpQTFBLYkdxNm9sb1BUM25ybzNIWDMyODdlWDhGUU04c0ZkdmhxSDFRQVVRTTV6S012V1FCbmd2YjBrWUVSa2FFbmJRa1BJS3N5Wnd1QjViQVBDV0wtelFuRzFxTFVFNkVhdVJpNEJXNXdSOXlLaHlfRUVNblF3VThJMm5xOVpUSHhhSUgtQlRKSVNYOU1BZWtHSC1GcVl1SXRwTU5seXZScmtEMWY4el9HOHNxQ19MNWFVdS1HVzhKcXpDRlVzTmlDX2Y4OHVMTFRtRndxWnFyc2JobzZnNjByRHlJb9IBgAJBVV95cUxOLXp3aDZSSXFxLXRWalJwa1Z1M1c0WXdULVF0VURaNTlwWXMyckwzbE8yNGNnWEUtVnpJbEE1THNCaFhpWDJYTlJncUp1RF9pYlBhUVZoX3J3TkpNRm5TY1lId0FfUUp5bC1EaHdQNm1QbjdDd0JoZVZoQkg1OWJJSGNac0hFdzVCajhDNHRJSWVPdlZyTHljbFE1VXdfcmozUXF5MkY4bFhvaWN3dXRXdnFSWTF2R2xzZFMzTzhDNTl1RGdqNzI1cXNIT3MtRDdzaEVEeThzMjAycFVzUkx5NFBpY0g4cktxVzBSa2xWQXRETGYwdXZ5Y29IaXVBQk4z?oc=5",
             "published": "Wed, 22 Apr 2026 07:00:00 GMT",
@@ -383,7 +383,7 @@
         ]
       },
       "combined_score": 68.2,
-      "added_at": "2026-09-14T09:43:45.713802",
+      "added_at": "2026-09-14T10:15:08.714937",
       "first_seen_price": 1684.699951171875,
       "first_seen_at": "2026-09-14T09:43:45.713802"
     },
@@ -393,7 +393,7 @@
         "symbol": "AMBUJACEM",
         "price": 391.8500061035156,
         "day_change": -0.9479271845660051,
-        "volume_ratio": 9.363454951677715,
+        "volume_ratio": 4.3588497188844535,
         "market_cap": 97367.56143341001,
         "pct_from_low": 1.071841812329008,
         "avg_volume": 1944694.0952380951,
@@ -444,7 +444,7 @@
         "label": "Bullish",
         "headlines": [
           {
-            "title": "BHEL Share Price Today, BHEL Stock Price Live NSE/BSE Updates - The Economic Times",
+            "title": "BHEL Share Price Today, BHEL Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",
             "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVFBiSExfMWR6ZWdOOWduY0V3bG5xT2pxX1QtS3g0dThLUFpPSFVrbWVsUFRqRWJPSkxBc1RjVzg4NkJNdjJVWFZ4eEdXdG1CWEFVeGpIVkh6UzdIMFE2QjluMTN5RkJWMGxwVHQ1N2NjUzgwMEpESzVXc2pKLV8wSTdJOFZSdTFrd2NZMFNta2M5c19vZG1F?oc=5",
             "published": "Thu, 10 Sep 2026 21:59:00 GMT",
             "score": 0,
@@ -481,7 +481,7 @@
         ]
       },
       "combined_score": 65.4,
-      "added_at": "2026-09-14T09:42:06.634132",
+      "added_at": "2026-09-14T10:13:27.690326",
       "first_seen_price": 391.8500061035156,
       "first_seen_at": "2026-09-14T09:42:06.634132"
     },
@@ -491,7 +491,7 @@
         "symbol": "MOIL",
         "price": 244.92999267578125,
         "day_change": -1.92993286255005,
-        "volume_ratio": 11.31140327213618,
+        "volume_ratio": 5.368123586776494,
         "market_cap": 4999.631634269999,
         "pct_from_low": 1.0533567343386996,
         "avg_volume": 971746.1428571428,
@@ -535,7 +535,7 @@
         "support_20d": 244.36
       },
       "news": {
-        "score": 70,
+        "score": 65,
         "label": "Bullish",
         "headlines": [
           {
@@ -543,6 +543,13 @@
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvUlRlaE5JSVBnLVRVckJrVkRxWTdIM19iamp3TzJadmI3MkwwYjY2anAtOGhnalgxS0wzMTJUb1ZITTFVQlRicjM3akRmR1pGSkd6X01iSEFyWWRsQ29SMQ?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "MOIL Share Price Surges 20% On Growth Outlook Boost - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IN01Lbkc0dlNMTGRhQmFrSFIzNFh3QVV6MTBjQzRPdzdCemUyV1NvUHFWQzhHT1NZR0dyZTlhQVpJMjZVbzQyR1NfaXlENmFQWVY5aEJ6Qjc5Z0NNb0hBREFtT2VVbnhOeU1mWTN2SHZPeXhEcllYU3A0NmI?oc=5",
+            "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+            "score": 2,
             "label": "Neutral"
           },
           {
@@ -565,18 +572,11 @@
             "published": "Thu, 30 Apr 2026 07:00:00 GMT",
             "score": 1,
             "label": "Neutral"
-          },
-          {
-            "title": "The total return for MOIL (NSE:MOIL) investors has risen faster than earnings growth over the last five years - simplywall.st",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMXBjUFNaalprRHZPMW5ibHZld21xZFpFdDhHMXFaQkVzMnNoQTRXcXBORFg4VHJyaVRpYTRCeGpXVlc1Z0ZxbW1QZkliR05tdHFUWTVhN0FBampRNms5aFJMSU1OZDROdmlxNGR2d0Z6a043VEpEQ3diUXhBa0hhWEpzUmJpX21MQklZblc0Z3dabE5SSF9iSFpCLXpySjBZWEgxUmI4ZUdISjl1MzEycUF6SWp3dGhHaWhYMFZHRExyTEVuR1Rr0gHMAUFVX3lxTE9HRXlnYy1wTWE3SlZtNWpYdmI1a2hLZndNS2d1RE1XYnA4emdHSjhUVktYaHUwalNYM1RDYVhPV0xFUWVyQlV2YUJzanFRQ0lrOElYa3NRM0dCSm12NEZSZnllbUNVMV83UzdtY3FWMjFGOW8xMU1laGZTV1FnVjNfYUtRM3REVXJuUDBxbkZack5kLXpBeXhlRlVmQ3g1ZV9sOFdfSnAwLWJlMld4eXJZQkpGd3pBekFXdkVvYzBzNHJja2lBbEE0a015eA?oc=5",
-            "published": "Thu, 05 Feb 2026 08:00:00 GMT",
-            "score": 3,
-            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 62.8,
-      "added_at": "2026-09-14T09:43:20.125246",
+      "combined_score": 63.8,
+      "added_at": "2026-09-14T10:14:40.621466",
       "first_seen_price": 244.92999267578125,
       "first_seen_at": "2026-09-14T09:43:20.125246"
     },
@@ -586,7 +586,7 @@
         "symbol": "MUTHOOTFIN",
         "price": 2792.10009765625,
         "day_change": -1.7385149513901108,
-        "volume_ratio": 14.832864547394246,
+        "volume_ratio": 7.039325547915914,
         "market_cap": 112094.01318395999,
         "pct_from_low": 4.337240550863633,
         "avg_volume": 916729.7142857143,
@@ -670,7 +670,7 @@
         ]
       },
       "combined_score": 60.4,
-      "added_at": "2026-09-14T09:43:22.821835",
+      "added_at": "2026-09-14T10:14:42.640554",
       "first_seen_price": 2792.10009765625,
       "first_seen_at": "2026-09-14T09:43:22.821835"
     },
@@ -680,7 +680,7 @@
         "symbol": "IRCTC",
         "price": 462.8999938964844,
         "day_change": -1.0580340157003267,
-        "volume_ratio": 11.425304495295002,
+        "volume_ratio": 5.228529175812967,
         "market_cap": 37096.0,
         "pct_from_low": 0.16202203713308283,
         "avg_volume": 734585.3333333334,
@@ -730,7 +730,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "IRCTC Share Price Today, IRCTC Stock Price Live NSE/BSE Updates - The Economic Times",
+            "title": "IRCTC Share Price Today, IRCTC Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",
             "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZFpESmpra1p3STZRdmtybzhSYzc5aENGQU53TFVlaTVjbnNnZU9VSnh2Sml5SlhnNmlqLWVKMFRUUzM1bnpaRFlKS05YY1FrN1JtMktVZEh4WXpPUXNqeFlScXQ0dmpLV282eWNCdDdJWXNDWmZwbUpRdWVvdFpfcktmeGw3ZjU2emNHQml2anVIOG1BMXBnY1NFRjBNYkV1SmpGeWQ1czNCWl9JWXctVg?oc=5",
             "published": "Thu, 10 Sep 2026 21:59:00 GMT",
             "score": 0,
@@ -744,7 +744,7 @@
             "label": "Neutral"
           },
           {
-            "title": "IRCTC Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+            "title": "IRCTC Forecast \u2014 Price Target \u2014 Prediction for 2027 - tradingview.com",
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lRDRZa3ZnWGlCYlhTNks5VjBJeERuV0oxb21iTFBWRHlORUVWT1lldGxxNUVjaWkwTVQ2Snc4SERYOW5YY1R3aTRMd0ZMTlM3Zi14ZkJhSzliWVJtU2k4UENyS1pKUE1GZktfb0NwUDIyOWFNc3JZ?oc=5",
             "published": "Thu, 25 Jun 2026 14:00:16 GMT",
             "score": 1,
@@ -767,7 +767,7 @@
         ]
       },
       "combined_score": 58.6,
-      "added_at": "2026-09-14T09:42:58.953489",
+      "added_at": "2026-09-14T10:14:19.375533",
       "first_seen_price": 462.8999938964844,
       "first_seen_at": "2026-09-14T09:42:58.953489"
     },
@@ -777,7 +777,7 @@
         "symbol": "RCF",
         "price": 111.44999694824219,
         "day_change": -0.898099008049805,
-        "volume_ratio": 5.518628028784428,
+        "volume_ratio": 2.6190099119654917,
         "market_cap": 6151.322315,
         "pct_from_low": 4.8900826356892475,
         "avg_volume": 2072708.0,
@@ -845,7 +845,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Rashtriya Chemicals and Fertilizers (RCF) Plans to Raise Rs 1,500 Crore Via FPO - hdfcsky.com",
+            "title": "Rashtriya Chemicals and Fertilizers (RCF) Plans to Raise Rs 1,500 Crore Via FPO - HDFC Sky",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DX19DQ1o4bXEzc3FiYy1HdUtKX3BKSThJNzZ3MHUzS09PZnIzMjRSMXFzMjVFUW00YlhhS0U3X2dXWllMZVF4Wnl2ckJzMno1bWViV3drR0NyLUFTM2lyenhId2JRTUd1VUl3Y05VTWlILThnMFV3RHl2QWpQTjA?oc=5",
             "published": "Wed, 08 Jul 2026 07:00:00 GMT",
             "score": 0,
@@ -861,7 +861,7 @@
         ]
       },
       "combined_score": 58.6,
-      "added_at": "2026-09-14T09:43:39.145034",
+      "added_at": "2026-09-14T10:15:00.734287",
       "first_seen_price": 111.44999694824219,
       "first_seen_at": "2026-09-14T09:43:39.145034"
     },
@@ -871,7 +871,7 @@
         "symbol": "HINDUNILVR",
         "price": 1927.0,
         "day_change": -0.7877283861139885,
-        "volume_ratio": 12.31970710905801,
+        "volume_ratio": 5.637832066857055,
         "market_cap": 452766.2361874,
         "pct_from_low": 0.04151784266346653,
         "avg_volume": 1240461.7142857143,
@@ -921,7 +921,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "HUL Share Price Today, HUL Stock Price Live NSE/BSE Updates - The Economic Times",
+            "title": "HUL Share Price Today, HUL Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",
             "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUE9mc0I1c2JSMFMwWXVtb1FMbi0ybkJWdkN2V1hvSzdiRTFsbzhGZHoyZTE2LW5BZDhrWmtMa09tQmRHaEJTeVZuNGdKMGZPN29ETDdYQVduVnZuZU1saTZXOE56dkM1M09wU3ZxMUZRR1pTQ0wweWZLcFhPQUtoZVJ0TWpWc0tvT0FIeEFIOA?oc=5",
             "published": "Thu, 10 Sep 2026 22:08:00 GMT",
             "score": 0,
@@ -949,7 +949,7 @@
             "label": "Neutral"
           },
           {
-            "title": "HUL Profit Falls 3% in Q1; Shares Slump 3.16% in Early Session - hdfcsky.com",
+            "title": "HUL Profit Falls 3% in Q1; Shares Slump 3.16% in Early Session - HDFC Sky",
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tWFllUUxkZU1vVWM3V1NqVnZlTXhvUWlBcW1YTDlPT0NQQXRkZTNSSnVYTkpqMzdwdnRVMDRlQ0IyTndsN2Fyblg1b2ZiSXl1WEVUc0NJSy1XRGFjbGNzc3pXVkQ5OGo1Z3lqbTFhamF3dlF3ZkVUSVhqTzM?oc=5",
             "published": "Tue, 28 Jul 2026 07:00:00 GMT",
             "score": 1,
@@ -958,7 +958,7 @@
         ]
       },
       "combined_score": 57.6,
-      "added_at": "2026-09-14T09:42:51.802944",
+      "added_at": "2026-09-14T10:14:11.730840",
       "first_seen_price": 1927.0,
       "first_seen_at": "2026-09-14T09:42:51.802944"
     },
@@ -968,7 +968,7 @@
         "symbol": "ASTRAL",
         "price": 1411.4000244140625,
         "day_change": -3.262506894169808,
-        "volume_ratio": 7.273547575780953,
+        "volume_ratio": 3.3859618025187195,
         "market_cap": 37917.28400582,
         "pct_from_low": 7.0709966771863,
         "avg_volume": 1665408.857142857,
@@ -1055,7 +1055,7 @@
         ]
       },
       "combined_score": 55.8,
-      "added_at": "2026-09-14T09:42:12.181604",
+      "added_at": "2026-09-14T10:13:32.071946",
       "first_seen_price": 1411.4000244140625,
       "first_seen_at": "2026-09-14T09:42:12.181604"
     },
@@ -1065,7 +1065,7 @@
         "symbol": "CSBBANK",
         "price": 305.70001220703125,
         "day_change": -0.6822533038402775,
-        "volume_ratio": 8.06782685650089,
+        "volume_ratio": 3.7557125021642066,
         "market_cap": 5169.0664035,
         "pct_from_low": 0.5561047233063044,
         "avg_volume": 522514.38095238095,
@@ -1122,7 +1122,7 @@
             "label": "Neutral"
           },
           {
-            "title": "CSBBANK Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+            "title": "CSBBANK Forecast \u2014 Price Target \u2014 Prediction for 2027 - tradingview.com",
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rVjA4dDdacVZJUDc5S3NURUc1NlRtcnB3VE5RQUxWM1o1cm1Ha1ZadVZqUEhPUDE0SzZQWnZaY2lXMmVtVTREaHdObHJBbjhKUnF4d2tMUzE3LVIxYzZreXJNOVpKcWg4RFVaU1hIcTJodjFxcXhWeGJR?oc=5",
             "published": "Fri, 26 Jun 2026 10:22:43 GMT",
             "score": 1,
@@ -1152,7 +1152,7 @@
         ]
       },
       "combined_score": 55.4,
-      "added_at": "2026-09-14T09:42:29.539538",
+      "added_at": "2026-09-14T10:13:48.554498",
       "first_seen_price": 305.70001220703125,
       "first_seen_at": "2026-09-14T09:42:29.539538"
     },
@@ -1162,7 +1162,7 @@
         "symbol": "LATENTVIEW",
         "price": 252.4499969482422,
         "day_change": -1.3096192586197095,
-        "volume_ratio": 8.56882297112785,
+        "volume_ratio": 4.066560054094573,
         "market_cap": 5247.4890482,
         "pct_from_low": 1.7627241045895259,
         "avg_volume": 523763.90476190473,
@@ -1246,7 +1246,7 @@
         ]
       },
       "combined_score": 53.6,
-      "added_at": "2026-09-14T09:43:11.297921",
+      "added_at": "2026-09-14T10:14:31.158842",
       "first_seen_price": 252.4499969482422,
       "first_seen_at": "2026-09-14T09:43:11.297921"
     },
@@ -1256,7 +1256,7 @@
         "symbol": "RELIANCE",
         "price": 1257.5,
         "day_change": -1.2951334379905808,
-        "volume_ratio": 10.984513957404772,
+        "volume_ratio": 5.126106513455561,
         "market_cap": 1701708.43385125,
         "pct_from_low": 0.6123221607852882,
         "avg_volume": 10702245.42857143,
@@ -1312,7 +1312,14 @@
             "label": "Neutral"
           },
           {
-            "title": "Meta- and Google-backed Indian telecom operator Jio Platforms gets regulatory nod for IPO - CNBC",
+            "title": "As NSE, Reliance Jio eye listings, what are India's biggest share offerings? - BusinessLine",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOX2NsV3F1RXBpOUtPeTZEd0xHM2xNNkc0aHZVb2hOTkswcDM4RkJZY1Rlb1U0UW81QkVrUTFuMUlBSGpvLWpCVlhfMlZKeDk3NnBZMkx5aVM1LXlyUGxuaGhua1VyMWd5UC1hU3RjcmRKel9iRjlicGhwN3pZT2ptRjlUQUZtVldWTmEwS3Bya3dKX2VXRjRVd0I4aTNSanBqWTNKZmwwdmtsOU1GVjRLMFN4NE1NbkxxdnhSbTU5RkQ5cmJYbFhXdERrTnlJMk1nZHozMGE1eVliRDVXWUUyRXZvNlVZUdIB7AFBVV95cUxQVmtkbmVTTG1mS0RXc1hrUURtMk9sQlZ2STdwZ0NNV3dvM3Z1NE5ucDVxY1pTblotRDVlSFJxRmFuZ1BCLXpHNDhjUGxGRXdKZ2VCWlp5VGxla0RfSWJTc3loWGNlOENjZFRSX0djRDBxcmxzN2ozNUl4UzBJbnE3OWUxR0NmMkhZR05sekRMVHpyVjBnWGpzZ2xodUVVR0FqN3JMMS1ZR3FXVWVoWnFPVG9pOFdQcEZwd0N3M1Vvd0lNSUp1clpUaHBUbnUwYk9WeDRYQkhsMm92RTFQSE92Y09SbDA3My1QLU1uZg?oc=5",
+            "published": "Fri, 11 Sep 2026 08:37:47 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Meta- and Google-backed Indian telecom operator Jio Platforms gets regulatory nod for IPO - cnbc.com",
             "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11UC1TUVNmSU85cGI4cmlTMldPak1pWm5YN18wbDlYNER3QTFRR2xxMk90cVVkXzhvTTV6bDc3S2YzclY5OVRtX3Zjdks2OVBBdzQ0NU5nQTZ0VklVc3libFJWUXdETFdVVlB1VElzLUs2UFgxYVNEMXdpenQ1Z9IBgwFBVV95cUxObzRqSDlkYzNRRjIwTkdOQ014TmdsR09oZV83TDgyb3IzQmloM0tOZGUzcDRyTnVIc1NlTlNIaEJyemlUQ1RSVUw3SDBObTFHMzBjbnYtNG93b3BDX1VVc0dzMUtyb3JyMUhXR3hjMFFRLTZjQVItWmFmaTR4OWtsTElxMA?oc=5",
             "published": "Sun, 30 Aug 2026 07:00:00 GMT",
             "score": 0,
@@ -1326,23 +1333,16 @@
             "label": "Neutral"
           },
           {
-            "title": "NSE and Jio Eye Blockbuster Listings; Lessons Linger from Paytm, LIC and Reliance Power - hdfcsky.com",
+            "title": "NSE and Jio Eye Blockbuster Listings; Lessons Linger from Paytm, LIC and Reliance Power - HDFC Sky",
             "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT19OcDVxMUh4WE1rc290eVF2eTNEc1UweEt4Vk1FRmw4X3NMOGs3SU90T2VmMmhmRnNfMEVDZ1NTUU1oWlRGV0ljblZCVGU1NFpMV1hwTmFuVEl6Uy1IclB2WUJBajNlUGpTZG9TZEZTcmQxcmplVUl5V3BXdmtJbzBiYnhldThoMnFQYlA2cw?oc=5",
             "published": "Fri, 19 Jun 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "NSE files draft papers for IPO listing after a decade of regulatory delays - ThePrint",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTG9Pb2lpQmhuamhKN2w5TGZPQzF1VkE0ajdrbVh0UUNaQlpFeFVTaEhjUTM0S1BIeDUxQ2UtR0dJWEZmaGJVdnlkcHNtVzVhdzZ6RlJGV3lyUVRyM3ZSb05CYlE0ZUlZUlM0eXEzSlFiQV9YSkxtbGtlRnd5Si0wb0ZhSng1ZXBDV3dXM2hPWVJUcXNvVVJFaGVYNW1GZ3BXUzlpcWpOTmg0NGFvQkpqMtIBtgFBVV95cUxNamFNTHBqaVh0cmZIaEM0c0Y2Y1NETVIxOTJXOUl6QjNER2hLc3VVeThmVzktZXNvUmxYelBxdDh2WHlZclZCeXhHbGU2aGtUbEdjd0JqeVFqb1FhVlMtNGpwU1FFX2VZYWNsZ1U1TkhlZmhMZ2hZZTE0SUJNU0VBbllwNnRnOXpJQW5hVll2S3FwWmkwMzBIVDlaSVU3aGd6cDhoRlNmbEhOR1lNdEFWTlN3RVdkUQ?oc=5",
-            "published": "Thu, 18 Jun 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
           }
         ]
       },
       "combined_score": 53.0,
-      "added_at": "2026-09-14T09:43:40.252264",
+      "added_at": "2026-09-14T10:15:01.735371",
       "first_seen_price": 1257.5,
       "first_seen_at": "2026-09-14T09:43:40.252264"
     },
@@ -1352,7 +1352,7 @@
         "symbol": "CAMLINFINE",
         "price": 101.68000030517578,
         "day_change": -1.957379999245226,
-        "volume_ratio": 3.753503553341485,
+        "volume_ratio": 1.7473206196589668,
         "market_cap": 1957.7977196959998,
         "pct_from_low": 5.379623528998639,
         "avg_volume": 1438715.0952380951,
@@ -1437,7 +1437,7 @@
         ]
       },
       "combined_score": 51.6,
-      "added_at": "2026-09-14T09:42:24.058187",
+      "added_at": "2026-09-14T10:13:42.481274",
       "first_seen_price": 101.68000030517578,
       "first_seen_at": "2026-09-14T09:42:24.058187"
     },
@@ -1447,7 +1447,7 @@
         "symbol": "IREDA",
         "price": 111.70999908447266,
         "day_change": -1.4207559254212545,
-        "volume_ratio": 11.733865150986558,
+        "volume_ratio": 5.369734899604017,
         "market_cap": 31381.922494827995,
         "pct_from_low": 2.7392333575079943,
         "avg_volume": 3956273.095238095,
@@ -1500,10 +1500,17 @@
             "label": "Neutral"
           },
           {
-            "title": "IREDA Shares Slip 2% After Rebound as Volatility Persists - hdfcsky.com",
+            "title": "IREDA Shares Slip 2% After Rebound as Volatility Persists - HDFC Sky",
             "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOTRZS1hvbUpaMUVXUjBVXzdXNHlUalRSUGdLVzhOc3NvX0JPcTd4TzJ4XzlObGdNUnFOYzBRb1h2SGNFLUFpLV81WTJjekk3UjZzU3FCSG5HRVlpdFhoMzEydXRTVlFHaHpqSnpmV1ZOd0Jzc2tIdWYtdE15X2RaZkgxRXdGdGdjVDhZUTlQQWw1cndsR1JqUnd5ZEZBM1Vsb3c?oc=5",
             "published": "Thu, 23 Apr 2026 07:00:00 GMT",
             "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "IREDA Forecast \u2014 Price Target \u2014 Prediction for 2027 - tradingview.com",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uZXo0bld3WEZoY3R5a0p0S1d5cTJmQWszd285MHg4NW5JTjRjblFrbFpHYlBzQVhuUFVoUTBXWTByTHFOb3hKNEp2Q09JbVNFVWtDMFh1dHVOYjRWemwzdWk4aklCRVc0THhqV1ZSS0xEU3dxaXZF?oc=5",
+            "published": "Thu, 25 Jun 2026 12:21:25 GMT",
+            "score": 1,
             "label": "Neutral"
           },
           {
@@ -1511,13 +1518,6 @@
             "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObXVqZ25PZ25fLWNFYnNBY1ViRU5PZEZGS1czTVJuWDVfU1VGcnVOTDduaEhIdy1FQVg2VUtJUVNiRWN5N2hIYTFrRDVzMU5iWXVhZU5MYnV3WDJ2eVNkeVdyVG1Qdm0wQ1RqdTQwYjRRUTN0N1daUFoyS3pxdnZ2dzVlejljaXBOTnNZSEZYbkxwWnE2VUtOenNfdl9tLUlkY2lUbXBQeDEtRTY2YmNUZ2RVaU5hWjJ0V2pPRkNQLWw3NUw1VWMzUzNkWnc4UGZLQVotWDUyb25tbElFY09falcyX3EyMjdTSXJYXzA1Z21RbDVFUnRiWGdJVTVydzg?oc=5",
             "published": "Wed, 21 Jan 2026 08:00:00 GMT",
             "score": -2,
-            "label": "Neutral"
-          },
-          {
-            "title": "IREDA Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uZXo0bld3WEZoY3R5a0p0S1d5cTJmQWszd285MHg4NW5JTjRjblFrbFpHYlBzQVhuUFVoUTBXWTByTHFOb3hKNEp2Q09JbVNFVWtDMFh1dHVOYjRWemwzdWk4aklCRVc0THhqV1ZSS0xEU3dxaXZF?oc=5",
-            "published": "Thu, 25 Jun 2026 12:21:25 GMT",
-            "score": 1,
             "label": "Neutral"
           },
           {
@@ -1530,7 +1530,7 @@
         ]
       },
       "combined_score": 51.0,
-      "added_at": "2026-09-14T09:43:00.275593",
+      "added_at": "2026-09-14T10:14:19.115313",
       "first_seen_price": 111.70999908447266,
       "first_seen_at": "2026-09-14T09:43:00.275593"
     },
@@ -1540,7 +1540,7 @@
         "symbol": "TATACONSUM",
         "price": 991.0,
         "day_change": -0.8603417162847004,
-        "volume_ratio": 11.357582992057386,
+        "volume_ratio": 5.300205396293448,
         "market_cap": 98078.2801892,
         "pct_from_low": 0.30272452068617556,
         "avg_volume": 1068306.4761904762,
@@ -1589,7 +1589,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "Top Gainers and Losers, August 11, 2026, 3:30 PM IST: Dr Reddy's, Eternal in Focus - hdfcsky.com",
+            "title": "Top Gainers and Losers, August 11, 2026, 3:30 PM IST: Dr Reddy's, Eternal in Focus - HDFC Sky",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aY3JjbkFiNjM3YW5BeXd6akhnWVJtS3dPX2NSMENENHFoMlZLOFR0Y1dacjlXRm5YRVB6MjBkN2xWckM1MGVOTFhTTm9LQ0VwSFRXYUNfbDhhTFJlNHZVcnVLbXJzTkVqZ3p4UGZnOA?oc=5",
             "published": "Tue, 11 Aug 2026 07:00:00 GMT",
             "score": 0,
@@ -1626,7 +1626,7 @@
         ]
       },
       "combined_score": 49.6,
-      "added_at": "2026-09-14T09:43:59.554888",
+      "added_at": "2026-09-14T10:15:22.815060",
       "first_seen_price": 991.0,
       "first_seen_at": "2026-09-14T09:43:59.554888"
     },
@@ -1636,7 +1636,7 @@
         "symbol": "VMM",
         "price": 101.70999908447266,
         "day_change": -1.6344317373953587,
-        "volume_ratio": 5.863371837895893,
+        "volume_ratio": 2.8339630549830153,
         "market_cap": 47649.188667268994,
         "pct_from_low": 2.8905736583130883,
         "avg_volume": 17009845.95238095,
@@ -1719,7 +1719,7 @@
         ]
       },
       "combined_score": 49.0,
-      "added_at": "2026-09-14T09:44:10.773394",
+      "added_at": "2026-09-14T10:15:34.732643",
       "first_seen_price": 101.70999908447266,
       "first_seen_at": "2026-09-14T09:44:10.773394"
     },
@@ -1729,7 +1729,7 @@
         "symbol": "GODREJCP",
         "price": 865.0,
         "day_change": -0.5632859267204876,
-        "volume_ratio": 6.738108267340201,
+        "volume_ratio": 3.0835410714946683,
         "market_cap": 88515.8784345,
         "pct_from_low": 1.1387255012644508,
         "avg_volume": 1592962.761904762,
@@ -1782,14 +1782,14 @@
             "label": "Neutral"
           },
           {
-            "title": "Weekly Stock Market Review, August 10-14, 2026: Indian Stock Market Falls 0.8% as Tata Stocks, Oil and Earnings Drive Moves - hdfcsky.com",
+            "title": "Weekly Stock Market Review, August 10-14, 2026: Indian Stock Market Falls 0.8% as Tata Stocks, Oil and Earnings Drive Moves - HDFC Sky",
             "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU3BSU0VuWGdKVktYZTVmSkVwSDIwSmZESTZpVlRJNEF1Nk96X2RYbXhEVm1LNWRTX1R5TWhBclRIN19zX1VKMEZlclJ4clpCSEtGTVVjaG8xNEpRXzY3QXpuVk5RNUdyWGlMajdGQ1JEZlZpSzcyYTJndmpYMzdYWTJFM2V6MWNPOF9RLXJDdV9heHhaRDNxeXJLeElxZUJXUFlvcVdMZkZMMnRqQW8xdGZxeTZ0QlN0YmVmUGRpX2Nla1NpdzRrY0xFaXE?oc=5",
             "published": "Sat, 15 Aug 2026 07:00:00 GMT",
             "score": -1,
             "label": "Neutral"
           },
           {
-            "title": "GODREJCP Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+            "title": "GODREJCP Forecast \u2014 Price Target \u2014 Prediction for 2027 - tradingview.com",
             "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nRGo4emdMbnl5bF95M0lpdkd3THRkcDNsaFd2Q3BJV0J2WXVsSG5NN2xuY0xPc3k2XzUzQzZVd2RWMFFuZ2RmakIxVEsyaDdVX0FGbXdvWklGYzdBdFNZaE5xTGRza1BrNVlhYm54ZzEtSHZJT0c4eE1sRQ?oc=5",
             "published": "Thu, 25 Jun 2026 15:02:19 GMT",
             "score": 1,
@@ -1812,7 +1812,7 @@
         ]
       },
       "combined_score": 48.8,
-      "added_at": "2026-09-14T09:42:45.291723",
+      "added_at": "2026-09-14T10:14:05.481796",
       "first_seen_price": 865.0,
       "first_seen_at": "2026-09-14T09:42:45.291723"
     },
@@ -1822,7 +1822,7 @@
         "symbol": "CMSINFO",
         "price": 224.3800048828125,
         "day_change": -1.4537298621381256,
-        "volume_ratio": 7.211341264917768,
+        "volume_ratio": 3.357003692289305,
         "market_cap": 3593.42366675,
         "pct_from_low": 0.3921939850532147,
         "avg_volume": 1025516.1904761905,
@@ -1885,7 +1885,7 @@
             "label": "Neutral"
           },
           {
-            "title": "CMS Info Systems Wins HDFC ATM Deal; Shares Rise 3% - hdfcsky.com",
+            "title": "CMS Info Systems Wins HDFC ATM Deal; Shares Rise 3% - HDFC Sky",
             "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYXpYMF9rMkprRE9JT3ZMeF9FSVZJem9CcnZkMkhSSl9TOXlpVGJveDFjdjRjaDlDWFYwWlIwTXRYNkNKX1Z1THBtSU9JQVo1NjktVDRubE9rdk1MZDBQLUhTV1AzYk5Ga0swcDJJNkdCRF9TZUtXbjl5TV9McDB6Nno1bENNcjVlbVhKNEhBX2tKeGgt?oc=5",
             "published": "Mon, 11 May 2026 07:00:00 GMT",
             "score": 2,
@@ -1899,7 +1899,7 @@
             "label": "Neutral"
           },
           {
-            "title": "CMS Info Systems Balance Sheets, Financial Statements - The Economic Times",
+            "title": "CMS Info Systems Balance Sheets, Financial Statements - economictimes.indiatimes.com",
             "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVkNzUUFOY3ZIUWJvU0xCeUlNUTdzN3RJMUdPYjdSSDFpb0ZCRFlaUVppT0xmVk5aNkcxV05ySENHXzA0U1VyTjFaSlgwWTBRNmJIdkZ2Q0Y2WGhuMmI4TWhSVDJJWDdOVWVGQ1dzeWpOc25OVE5nZHpyS18xblpEUWFkMXNYT3gtVTA2dmFvSGo5MmZMaVJHY2E4bU9aNVF2RHJN?oc=5",
             "published": "Tue, 07 Jul 2026 08:08:00 GMT",
             "score": 0,
@@ -1908,7 +1908,7 @@
         ]
       },
       "combined_score": 45.6,
-      "added_at": "2026-09-14T09:42:27.667521",
+      "added_at": "2026-09-14T10:13:46.516335",
       "first_seen_price": 224.3800048828125,
       "first_seen_at": "2026-09-14T09:42:27.667521"
     }
