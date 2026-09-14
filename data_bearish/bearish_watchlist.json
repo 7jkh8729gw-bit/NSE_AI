@@ -7,7 +7,7 @@
         "symbol": "IEX",
         "price": 113.87999725341797,
         "day_change": -2.35788396189764,
-        "volume_ratio": 6.674884778516824,
+        "volume_ratio": 5.093991015183892,
         "market_cap": 10132.213228331999,
         "pct_from_low": 0.7727408453125483,
         "avg_volume": 3224116.095238095,
@@ -57,7 +57,7 @@
         "label": "Bearish",
         "headlines": [
           {
-            "title": "IEX Share Price - upstox.com",
+            "title": "IEX Share Price - Upstox",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yQ1ZkQXg0anVXWjI4WUMtQjdHanhIa1BtQ0pkVmVQNnlkdDhFMW9KX0Y1LTM3WGdQY1h4YnY5aW41cU1STmRzUGZTUHZJY1otSFd2UzJjalB1SE9jR1lheFhRZTdUXzloUHpJcg?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
@@ -94,7 +94,7 @@
         ]
       },
       "combined_score": 73.8,
-      "added_at": "2026-09-14T11:11:28.107997",
+      "added_at": "2026-09-14T11:47:57.326184",
       "first_seen_price": 113.87999725341797,
       "first_seen_at": "2026-09-14T06:21:42.737405"
     },
@@ -104,7 +104,7 @@
         "symbol": "HDFCAMC",
         "price": 2403.89990234375,
         "day_change": -1.2285375086080683,
-        "volume_ratio": 2.6014462993933756,
+        "volume_ratio": 1.9853142811159972,
         "market_cap": 103081.76426826001,
         "pct_from_low": 8.249087430560733,
         "avg_volume": 842091.6666666666,
@@ -152,7 +152,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "HDFC AMC Share Price - Live NSE: HDFCAMC Stock Price & Chart - upstox.com",
+            "title": "HDFC AMC Share Price - Live NSE: HDFCAMC Stock Price & Chart - Upstox",
             "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NSFdXUHpoeExRRExRT0lxVW9RMW9jVGhCQm5VMVpMam5EOC1nS09LYTU4Y2pqV0NDb2g0eHYycXl3OFJ2QTIxYjNoMmxwbEFkT3FsOE16MXBxNUthMlgzQTQ1aXo1dw?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
@@ -166,14 +166,14 @@
             "label": "Neutral"
           },
           {
-            "title": "HDFC AMC Stock Drops Nearly 4%: What\u2019s Driving the Capital Market Index Decline? - Outlook Money",
+            "title": "HDFC AMC Stock Drops Nearly 4%: What\u2019s Driving the Capital Market Index Decline? - outlookmoney.com",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOGZfZm92MXFXc3hLSUdlSFcxYWg3WmFVdFpnWFlWUERqcC1KakpDSUNmMkJjWmlxNURjOTZKQWJQSGdkMVh4MUtNUzRBc0hkY1g0S0hJQUgyTXZiZnFhNDJ3d1BuenRER0FweDNZWGFhMUwwRXRNSUdJeVM3XzJIcXUwVVJtNW5fVDcxQ1QySWNEVDFLYUdUQ0hsakxzSFpaUXNLV1NoWktmcGlReFg3UTZB0gG_AUFVX3lxTE5KLVZBTEQyODZUV3M0dmQ4dkJIaS0zMkYydVlYZ2JRcVlVNVV1Y3ZLbEl1ekl4VVdQcG05NldUSUlYNUYxcDFtSVllbUFEaVIyOUFsa2pDQndRQ2pFdDJEY3EyOFVKSVV5V2xCVWxBQnd1RllOOExfTjZ2SlhGZEFWX1FMOHczcy1iLW5OM0pidzEtVjBoTllNbV8ycWNjWUtKREttUVlyVG9EVzRLc0pBaXl3QmZBRmNBblprQVRr?oc=5",
             "published": "Mon, 18 May 2026 07:00:00 GMT",
             "score": -2,
             "label": "Neutral"
           },
           {
-            "title": "HDFC AMC ESOP Grant Signals Alignment; Shares Rise 1.16% - HDFC Sky",
+            "title": "HDFC AMC ESOP Grant Signals Alignment; Shares Rise 1.16% - hdfcsky.com",
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcEliNmQ4Q2dwNWh0TUYwUmh4Ym1hVS13OWpJY3V1cHZjSXgwWjVtYmFqUFB4V2ZiaEs1T1FXV0VHTTI3bVlXaGt3WUc0c2VMeDlYNEt3Ymh6SG5BNzlUVTh6X1hpNFRQeUhDczlENkgzYUFtdURta3BOZGZvc08yZkxKUzFIRlpNUlBfbDZPdXE?oc=5",
             "published": "Thu, 16 Apr 2026 07:00:00 GMT",
             "score": 0,
@@ -189,7 +189,7 @@
         ]
       },
       "combined_score": 68.8,
-      "added_at": "2026-09-14T11:11:24.440690",
+      "added_at": "2026-09-14T11:47:52.512781",
       "first_seen_price": 2403.89990234375,
       "first_seen_at": "2026-09-14T09:42:50.136710"
     },
@@ -199,7 +199,7 @@
         "symbol": "AFCONS",
         "price": 253.8000030517578,
         "day_change": -2.702703809391552,
-        "volume_ratio": 6.558716312274419,
+        "volume_ratio": 4.962186683628672,
         "market_cap": 9327.018242159998,
         "pct_from_low": 1.891254134768052,
         "avg_volume": 919611.9523809524,
@@ -250,7 +250,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "AFCONS INFRASTRUCTURE LTD Share Price - upstox.com",
+            "title": "AFCONS INFRASTRUCTURE LTD Share Price - Upstox",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TeXZ3Sm8yYU0wQkpCUUhXN0NtNy15cmw0OFlmSGFRVGxLSUxteVZzWVFqb0wxdWxhb0tSNkVOSmN0UXhPWFIyUkJmNF9wd2NpQXc2TU9wSGR5cHRYZmJUcjYwc3N1N1VWdHVkODJZWER0UQ?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
@@ -287,7 +287,7 @@
         ]
       },
       "combined_score": 68.4,
-      "added_at": "2026-09-14T11:10:50.487460",
+      "added_at": "2026-09-14T11:47:08.174747",
       "first_seen_price": 253.8000030517578,
       "first_seen_at": "2026-09-14T06:20:46.619631"
     },
@@ -393,7 +393,7 @@
         "symbol": "AMBUJACEM",
         "price": 391.8500061035156,
         "day_change": -0.9479271845660051,
-        "volume_ratio": 2.198376379959116,
+        "volume_ratio": 1.6632452874690677,
         "market_cap": 97367.56143341001,
         "pct_from_low": 1.071841812329008,
         "avg_volume": 1944694.0952380951,
@@ -451,7 +451,7 @@
             "label": "Neutral"
           },
           {
-            "title": "BHEL Share Price - upstox.com",
+            "title": "BHEL Share Price - Upstox",
             "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82NlR3TGFGUVl3bXBURmlHaklBdDhROTVtQS1lRU5fem1qWmw2LXNPVzlOXzFLdEM2MlFUUlFqTElBOHlOd3dRWllfV2FRUVF5Y0RRS3dn?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
@@ -472,7 +472,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Ambuja Cements shares rise over 1% on partnering with UK firm for commercial-scale low-carbon cement project in Gujarat - upstox.com",
+            "title": "Ambuja Cements shares rise over 1% on partnering with UK firm for commercial-scale low-carbon cement project in Gujarat - Upstox",
             "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNODZVZkhkNlVONnU0NFRBNEp4NDBhRlIxel9MemIteGF4bDFvblJDRlVwQUtaZHQ4MmVkaDVGR2lKVU5BeWQ1cER1NWhxQTVMTi1IazhLU2VSNWtSTGttOThMZDdlZkVFNnFjSzlTVWNKUUFrVkZSZURBYlhSVU5pV2N0VlVvYW03eEVWNmh2b0tpNHU3bDdXQVZwVHQ4cDhIbUhrc2lLVnpPQjhyTkI5N01IVkRQZ0tWVjF1eU1jNi1PLUc0M29uaVZLbVJUdnZQLXdhcWlkSk4xT2Fpem9tM1ZIMDFZdm5zMUdRY19KRjQ0UXdjNFgtWkN1djMxYm8?oc=5",
             "published": "Mon, 22 Jun 2026 07:00:00 GMT",
             "score": 0,
@@ -481,7 +481,7 @@
         ]
       },
       "combined_score": 65.4,
-      "added_at": "2026-09-14T11:10:53.060354",
+      "added_at": "2026-09-14T11:47:11.640479",
       "first_seen_price": 391.8500061035156,
       "first_seen_at": "2026-09-14T09:42:06.634132"
     },
@@ -491,7 +491,7 @@
         "symbol": "MOIL",
         "price": 244.92999267578125,
         "day_change": -1.92993286255005,
-        "volume_ratio": 2.7303387208604577,
+        "volume_ratio": 2.0700607295412623,
         "market_cap": 4999.631634269999,
         "pct_from_low": 1.0533567343386996,
         "avg_volume": 971746.1428571428,
@@ -546,7 +546,7 @@
             "label": "Neutral"
           },
           {
-            "title": "MOIL Share Price Surges 20% On Growth Outlook Boost - HDFC Sky",
+            "title": "MOIL Share Price Surges 20% On Growth Outlook Boost - hdfcsky.com",
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IN01Lbkc0dlNMTGRhQmFrSFIzNFh3QVV6MTBjQzRPdzdCemUyV1NvUHFWQzhHT1NZR0dyZTlhQVpJMjZVbzQyR1NfaXlENmFQWVY5aEJ6Qjc5Z0NNb0hBREFtT2VVbnhOeU1mWTN2SHZPeXhEcllYU3A0NmI?oc=5",
             "published": "Tue, 17 Mar 2026 07:00:00 GMT",
             "score": 2,
@@ -576,7 +576,7 @@
         ]
       },
       "combined_score": 63.8,
-      "added_at": "2026-09-14T11:11:47.757376",
+      "added_at": "2026-09-14T11:48:22.061016",
       "first_seen_price": 244.92999267578125,
       "first_seen_at": "2026-09-14T09:43:20.125246"
     },
@@ -586,7 +586,7 @@
         "symbol": "MUTHOOTFIN",
         "price": 2792.10009765625,
         "day_change": -1.7385149513901108,
-        "volume_ratio": 3.580346614888266,
+        "volume_ratio": 2.714511159000254,
         "market_cap": 112094.01318395999,
         "pct_from_low": 4.337240550863633,
         "avg_volume": 916729.7142857143,
@@ -670,7 +670,7 @@
         ]
       },
       "combined_score": 60.4,
-      "added_at": "2026-09-14T11:11:49.339681",
+      "added_at": "2026-09-14T11:48:23.913538",
       "first_seen_price": 2792.10009765625,
       "first_seen_at": "2026-09-14T09:43:22.821835"
     },
@@ -680,7 +680,7 @@
         "symbol": "IRCTC",
         "price": 462.8999938964844,
         "day_change": -1.0580340157003267,
-        "volume_ratio": 2.6593381152841813,
+        "volume_ratio": 2.0162302050520595,
         "market_cap": 37096.0,
         "pct_from_low": 0.16202203713308283,
         "avg_volume": 734585.3333333334,
@@ -737,7 +737,7 @@
             "label": "Neutral"
           },
           {
-            "title": "IRCTC Share Price - upstox.com",
+            "title": "IRCTC Share Price - Upstox",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JYVRubXc3ZG9zbTZyYkljWExnX3RmZGFDc0w2Uk0yeUVWWUlLS1pxX0dQaGViUGVOUlBtcDl2QlpxT2hveTZDeVl5MHc0MEdnU21TN0tQdzVuLUJ5elhqd0ZWdEQtU2dpcWtmaFd0eHozZw?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
@@ -767,7 +767,7 @@
         ]
       },
       "combined_score": 58.6,
-      "added_at": "2026-09-14T11:11:31.412920",
+      "added_at": "2026-09-14T11:48:01.565440",
       "first_seen_price": 462.8999938964844,
       "first_seen_at": "2026-09-14T09:42:58.953489"
     },
@@ -871,7 +871,7 @@
         "symbol": "HINDUNILVR",
         "price": 1927.0,
         "day_change": -0.7877283861139885,
-        "volume_ratio": 2.8675180340048816,
+        "volume_ratio": 2.188369025951094,
         "market_cap": 452766.2361874,
         "pct_from_low": 0.04151784266346653,
         "avg_volume": 1240461.7142857143,
@@ -928,7 +928,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Hindustan Unilever Share Price - Live NSE: HINDUNILVR Stock Price & Chart - upstox.com",
+            "title": "Hindustan Unilever Share Price - Live NSE: HINDUNILVR Stock Price & Chart - Upstox",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00bURGcnlweERKTnRINldLZmR6b09TWm9SMDUzTkdvUlh3VDVoVGEtdkdFb1JYc2NtWEc1aExJUXJWZmZNc3NCVVhDNHJBNUxLdmVsMTJwZ1NLZWtZR3ZSd0Nhd2h6ZEk2UnJnMXFn?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
@@ -949,7 +949,7 @@
             "label": "Neutral"
           },
           {
-            "title": "HUL Profit Falls 3% in Q1; Shares Slump 3.16% in Early Session - HDFC Sky",
+            "title": "HUL Profit Falls 3% in Q1; Shares Slump 3.16% in Early Session - hdfcsky.com",
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tWFllUUxkZU1vVWM3V1NqVnZlTXhvUWlBcW1YTDlPT0NQQXRkZTNSSnVYTkpqMzdwdnRVMDRlQ0IyTndsN2Fyblg1b2ZiSXl1WEVUc0NJSy1XRGFjbGNzc3pXVkQ5OGo1Z3lqbTFhamF3dlF3ZkVUSVhqTzM?oc=5",
             "published": "Tue, 28 Jul 2026 07:00:00 GMT",
             "score": 1,
@@ -958,7 +958,7 @@
         ]
       },
       "combined_score": 57.6,
-      "added_at": "2026-09-14T11:11:26.283504",
+      "added_at": "2026-09-14T11:47:54.397851",
       "first_seen_price": 1927.0,
       "first_seen_at": "2026-09-14T09:42:51.802944"
     },
@@ -1162,7 +1162,7 @@
         "symbol": "LATENTVIEW",
         "price": 252.4499969482422,
         "day_change": -1.3096192586197095,
-        "volume_ratio": 2.068336579237757,
+        "volume_ratio": 1.5681506090952928,
         "market_cap": 5247.4890482,
         "pct_from_low": 1.7627241045895259,
         "avg_volume": 523763.90476190473,
@@ -1246,7 +1246,7 @@
         ]
       },
       "combined_score": 53.6,
-      "added_at": "2026-09-14T11:11:40.781190",
+      "added_at": "2026-09-14T11:48:13.111242",
       "first_seen_price": 252.4499969482422,
       "first_seen_at": "2026-09-14T09:43:11.297921"
     },
@@ -1256,7 +1256,7 @@
         "symbol": "RELIANCE",
         "price": 1257.5,
         "day_change": -1.2951334379905808,
-        "volume_ratio": 2.6287725710028513,
+        "volume_ratio": 2.010237848413946,
         "market_cap": 1701708.43385125,
         "pct_from_low": 0.6123221607852882,
         "avg_volume": 10702245.42857143,
@@ -1333,7 +1333,7 @@
             "label": "Neutral"
           },
           {
-            "title": "NSE and Jio Eye Blockbuster Listings; Lessons Linger from Paytm, LIC and Reliance Power - HDFC Sky",
+            "title": "NSE and Jio Eye Blockbuster Listings; Lessons Linger from Paytm, LIC and Reliance Power - hdfcsky.com",
             "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT19OcDVxMUh4WE1rc290eVF2eTNEc1UweEt4Vk1FRmw4X3NMOGs3SU90T2VmMmhmRnNfMEVDZ1NTUU1oWlRGV0ljblZCVGU1NFpMV1hwTmFuVEl6Uy1IclB2WUJBajNlUGpTZG9TZEZTcmQxcmplVUl5V3BXdmtJbzBiYnhldThoMnFQYlA2cw?oc=5",
             "published": "Fri, 19 Jun 2026 07:00:00 GMT",
             "score": 0,
@@ -1342,7 +1342,7 @@
         ]
       },
       "combined_score": 53.0,
-      "added_at": "2026-09-14T11:12:03.468506",
+      "added_at": "2026-09-14T11:48:41.679490",
       "first_seen_price": 1257.5,
       "first_seen_at": "2026-09-14T09:43:40.252264"
     },
@@ -1447,7 +1447,7 @@
         "symbol": "IREDA",
         "price": 111.70999908447266,
         "day_change": -1.4207559254212545,
-        "volume_ratio": 2.7311582679020434,
+        "volume_ratio": 2.0706820854682157,
         "market_cap": 31381.922494827995,
         "pct_from_low": 2.7392333575079943,
         "avg_volume": 3956273.095238095,
@@ -1500,7 +1500,7 @@
             "label": "Neutral"
           },
           {
-            "title": "IREDA Shares Slip 2% After Rebound as Volatility Persists - HDFC Sky",
+            "title": "IREDA Shares Slip 2% After Rebound as Volatility Persists - hdfcsky.com",
             "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOTRZS1hvbUpaMUVXUjBVXzdXNHlUalRSUGdLVzhOc3NvX0JPcTd4TzJ4XzlObGdNUnFOYzBRb1h2SGNFLUFpLV81WTJjekk3UjZzU3FCSG5HRVlpdFhoMzEydXRTVlFHaHpqSnpmV1ZOd0Jzc2tIdWYtdE15X2RaZkgxRXdGdGdjVDhZUTlQQWw1cndsR1JqUnd5ZEZBM1Vsb3c?oc=5",
             "published": "Thu, 23 Apr 2026 07:00:00 GMT",
             "score": 0,
@@ -1514,14 +1514,14 @@
             "label": "Neutral"
           },
           {
-            "title": "Stock market fall continues: ITC, IREDA, Tata Motors PV, Suzlon Energy among 741 stocks that hit 52-week low on NSE - upstox.com",
+            "title": "Stock market fall continues: ITC, IREDA, Tata Motors PV, Suzlon Energy among 741 stocks that hit 52-week low on NSE - Upstox",
             "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObXVqZ25PZ25fLWNFYnNBY1ViRU5PZEZGS1czTVJuWDVfU1VGcnVOTDduaEhIdy1FQVg2VUtJUVNiRWN5N2hIYTFrRDVzMU5iWXVhZU5MYnV3WDJ2eVNkeVdyVG1Qdm0wQ1RqdTQwYjRRUTN0N1daUFoyS3pxdnZ2dzVlejljaXBOTnNZSEZYbkxwWnE2VUtOenNfdl9tLUlkY2lUbXBQeDEtRTY2YmNUZ2RVaU5hWjJ0V2pPRkNQLWw3NUw1VWMzUzNkWnc4UGZLQVotWDUyb25tbElFY09falcyX3EyMjdTSXJYXzA1Z21RbDVFUnRiWGdJVTVydzg?oc=5",
             "published": "Wed, 21 Jan 2026 08:00:00 GMT",
             "score": -2,
             "label": "Neutral"
           },
           {
-            "title": "Indian Renewable Energy Development Agency Ltd. Share Price Live Today - CNBC TV18",
+            "title": "Indian Renewable Energy Development Agency Ltd. Share Price Live Today - cnbctv18.com",
             "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFZseUNhZlU3bzZEclZVRzdmb0pJdTVGTU5mTWVuaklBdEtYeU9waGo2RWNsbVZNTXN4RnpkT1hnRkRSUTBvanNubXJwZUFUR3JESHpFXzJ4Q2tyc1dMNl9xQy01d3RsRk5MZzR2dE9oRjc0WllwWW1BbTkzR1R1QmctRDc1Rm5XbVgtWC1YNmVIeXg1d2w1M0RJU3lvYnhfeWNQWE5HZkw?oc=5",
             "published": "Sat, 03 Jan 2026 16:22:10 GMT",
             "score": 0,
@@ -1530,7 +1530,7 @@
         ]
       },
       "combined_score": 51.0,
-      "added_at": "2026-09-14T11:11:31.490017",
+      "added_at": "2026-09-14T11:48:01.629708",
       "first_seen_price": 111.70999908447266,
       "first_seen_at": "2026-09-14T09:43:00.275593"
     },
@@ -1540,7 +1540,7 @@
         "symbol": "TATACONSUM",
         "price": 991.0,
         "day_change": -0.8603417162847004,
-        "volume_ratio": 2.7180540493812555,
+        "volume_ratio": 2.0650150894649797,
         "market_cap": 98078.2801892,
         "pct_from_low": 0.30272452068617556,
         "avg_volume": 1068306.4761904762,
@@ -1589,7 +1589,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "Top Gainers and Losers, August 11, 2026, 3:30 PM IST: Dr Reddy's, Eternal in Focus - HDFC Sky",
+            "title": "Top Gainers and Losers, August 11, 2026, 3:30 PM IST: Dr Reddy's, Eternal in Focus - hdfcsky.com",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aY3JjbkFiNjM3YW5BeXd6akhnWVJtS3dPX2NSMENENHFoMlZLOFR0Y1dacjlXRm5YRVB6MjBkN2xWckM1MGVOTFhTTm9LQ0VwSFRXYUNfbDhhTFJlNHZVcnVLbXJzTkVqZ3p4UGZnOA?oc=5",
             "published": "Tue, 11 Aug 2026 07:00:00 GMT",
             "score": 0,
@@ -1626,7 +1626,7 @@
         ]
       },
       "combined_score": 49.6,
-      "added_at": "2026-09-14T11:12:19.429915",
+      "added_at": "2026-09-14T11:49:01.962754",
       "first_seen_price": 991.0,
       "first_seen_at": "2026-09-14T09:43:59.554888"
     },
