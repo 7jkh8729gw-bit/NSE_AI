@@ -7,7 +7,7 @@
         "symbol": "IEX",
         "price": 113.87999725341797,
         "day_change": -2.35788396189764,
-        "volume_ratio": 2.598277296335408,
+        "volume_ratio": 2.353454815525689,
         "market_cap": 10132.213228331999,
         "pct_from_low": 0.7727408453125483,
         "avg_volume": 3224116.095238095,
@@ -57,7 +57,7 @@
         "label": "Bearish",
         "headlines": [
           {
-            "title": "IEX Share Price - Upstox",
+            "title": "IEX Share Price - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yQ1ZkQXg0anVXWjI4WUMtQjdHanhIa1BtQ0pkVmVQNnlkdDhFMW9KX0Y1LTM3WGdQY1h4YnY5aW41cU1STmRzUGZTUHZJY1otSFd2UzJjalB1SE9jR1lheFhRZTdUXzloUHpJcg?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
@@ -94,7 +94,7 @@
         ]
       },
       "combined_score": 73.8,
-      "added_at": "2026-09-14T14:13:59.519187",
+      "added_at": "2026-09-14T14:44:35.683965",
       "first_seen_price": 113.87999725341797,
       "first_seen_at": "2026-09-14T06:21:42.737405"
     },
@@ -199,7 +199,7 @@
         "symbol": "AFCONS",
         "price": 253.8000030517578,
         "day_change": -2.702703809391552,
-        "volume_ratio": 2.5310482413139535,
+        "volume_ratio": 2.2995499265596284,
         "market_cap": 9327.018242159998,
         "pct_from_low": 1.891254134768052,
         "avg_volume": 919611.9523809524,
@@ -250,7 +250,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "AFCONS INFRASTRUCTURE LTD Share Price - Upstox",
+            "title": "AFCONS INFRASTRUCTURE LTD Share Price - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TeXZ3Sm8yYU0wQkpCUUhXN0NtNy15cmw0OFlmSGFRVGxLSUxteVZzWVFqb0wxdWxhb0tSNkVOSmN0UXhPWFIyUkJmNF9wd2NpQXc2TU9wSGR5cHRYZmJUcjYwc3N1N1VWdHVkODJZWER0UQ?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
@@ -278,7 +278,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Volumes jump at Afcons Infrastructure Ltd counter - Business Standard",
+            "title": "Volumes jump at Afcons Infrastructure Ltd counter - business-standard.com",
             "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYWszTjdqQm5EXzk2YTFZaXBxX2F5eExNTktWZnpKckJ5ZEVSY0FDX21KYnhMT1QtdTJmcllCUFpuaHpwbjB0N0luYnRvUElYb1dPMkJsdnR4enlsY212X21ESmlVOFQ1YkVCeExFNVU5YjFsTmhtZU5QaXpETDBLc0ZpdnNuR04yWkZReVBQSG5BVFdLdHdoNmxLV0pJVldITHMySzNZS3VQeWs3bndwQUJsWUxYcnNiM0piQ1gybXZqRWMtaHBBckRzc9IB0AFBVV95cUxNMTZMd29XUVhjel9waVFrLUNZV0JJU0FsN2h4ZzI1VXM3WXI2d2plbVpKeGxRSDM0VWpLZk1XNkxGOUI0VDR6QW5fR3RBRUlpV1hKLWNEczZUMy1OYWg4MTJtNTB0emJPMTNrWmNfSHFudEdxZDJfREhQdmNLQkU4bUV1MC14T0E0dG5sa0hDV1BLXzF4SV9MY3AxUGJiMm15U1hjZHdSSlFDVVdCNFZHNzE3cnRPUHA1ZUxFZ0hhYW9UMllhbUN1RWVXZzhhZjk1?oc=5",
             "published": "Wed, 15 Apr 2026 07:00:00 GMT",
             "score": 0,
@@ -287,7 +287,7 @@
         ]
       },
       "combined_score": 68.4,
-      "added_at": "2026-09-14T14:13:05.316809",
+      "added_at": "2026-09-14T14:44:00.364947",
       "first_seen_price": 253.8000030517578,
       "first_seen_at": "2026-09-14T06:20:46.619631"
     },
