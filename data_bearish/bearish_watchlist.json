@@ -7,7 +7,7 @@
         "symbol": "IEX",
         "price": 113.87999725341797,
         "day_change": -2.35788396189764,
-        "volume_ratio": 4.254322166527207,
+        "volume_ratio": 3.7225318957113065,
         "market_cap": 10132.213228331999,
         "pct_from_low": 0.7727408453125483,
         "avg_volume": 3224116.095238095,
@@ -57,7 +57,7 @@
         "label": "Bearish",
         "headlines": [
           {
-            "title": "IEX Share Price - upstox.com",
+            "title": "IEX Share Price - Upstox",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yQ1ZkQXg0anVXWjI4WUMtQjdHanhIa1BtQ0pkVmVQNnlkdDhFMW9KX0Y1LTM3WGdQY1h4YnY5aW41cU1STmRzUGZTUHZJY1otSFd2UzJjalB1SE9jR1lheFhRZTdUXzloUHpJcg?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
@@ -94,7 +94,7 @@
         ]
       },
       "combined_score": 73.8,
-      "added_at": "2026-09-14T12:17:37.862317",
+      "added_at": "2026-09-14T12:43:33.849658",
       "first_seen_price": 113.87999725341797,
       "first_seen_at": "2026-09-14T06:21:42.737405"
     },
@@ -199,7 +199,7 @@
         "symbol": "AFCONS",
         "price": 253.8000030517578,
         "day_change": -2.702703809391552,
-        "volume_ratio": 4.167140198406398,
+        "volume_ratio": 3.6437312845968988,
         "market_cap": 9327.018242159998,
         "pct_from_low": 1.891254134768052,
         "avg_volume": 919611.9523809524,
@@ -250,7 +250,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "AFCONS INFRASTRUCTURE LTD Share Price - upstox.com",
+            "title": "AFCONS INFRASTRUCTURE LTD Share Price - Upstox",
             "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TeXZ3Sm8yYU0wQkpCUUhXN0NtNy15cmw0OFlmSGFRVGxLSUxteVZzWVFqb0wxdWxhb0tSNkVOSmN0UXhPWFIyUkJmNF9wd2NpQXc2TU9wSGR5cHRYZmJUcjYwc3N1N1VWdHVkODJZWER0UQ?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
@@ -287,7 +287,7 @@
         ]
       },
       "combined_score": 68.4,
-      "added_at": "2026-09-14T12:16:49.147220",
+      "added_at": "2026-09-14T12:42:56.145032",
       "first_seen_price": 253.8000030517578,
       "first_seen_at": "2026-09-14T06:20:46.619631"
     },
@@ -491,7 +491,7 @@
         "symbol": "MOIL",
         "price": 244.92999267578125,
         "day_change": -1.92993286255005,
-        "volume_ratio": 1.7307065115836784,
+        "volume_ratio": 1.5226889020183323,
         "market_cap": 4999.631634269999,
         "pct_from_low": 1.0533567343386996,
         "avg_volume": 971746.1428571428,
@@ -535,21 +535,14 @@
         "support_20d": 244.36
       },
       "news": {
-        "score": 65,
+        "score": 70,
         "label": "Bullish",
         "headlines": [
           {
-            "title": "MOIL 125 Share Price - upstox.com",
+            "title": "MOIL 125 Share Price - Upstox",
             "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvUlRlaE5JSVBnLVRVckJrVkRxWTdIM19iamp3TzJadmI3MkwwYjY2anAtOGhnalgxS0wzMTJUb1ZITTFVQlRicjM3akRmR1pGSkd6X01iSEFyWWRsQ29SMQ?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "MOIL Share Price Surges 20% On Growth Outlook Boost - HDFC Sky",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IN01Lbkc0dlNMTGRhQmFrSFIzNFh3QVV6MTBjQzRPdzdCemUyV1NvUHFWQzhHT1NZR0dyZTlhQVpJMjZVbzQyR1NfaXlENmFQWVY5aEJ6Qjc5Z0NNb0hBREFtT2VVbnhOeU1mWTN2SHZPeXhEcllYU3A0NmI?oc=5",
-            "published": "Tue, 17 Mar 2026 07:00:00 GMT",
-            "score": 2,
             "label": "Neutral"
           },
           {
@@ -560,7 +553,7 @@
             "label": "Neutral"
           },
           {
-            "title": "MOIL Fined Rs 18 Lakh By NSE, BSE For Board Composition Non-Compliance - businessworld.in",
+            "title": "MOIL Fined Rs 18 Lakh By NSE, BSE For Board Composition Non-Compliance - BW Businessworld",
             "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLU96LVdYRTBRVGVWdU83US1RSnhNOUYtNHdaR3BtcXN1Rm94WG1vMm1ZZTNDVEhyUERibGVjdy1Sd09nd0NhTEIxMlU1SWR2S05RWmVFRU9QUzQ5RFFPRS04b1dELUdwNGxrYi1ldmh1c1AxVHNwOTVpcU0td0Vzc1VxaTlxaE45UXRvTzlZWkcxWHNGTkpQV3hpbkZqSmhYRXROSVFYV3RfRVJoQmlLaU5XQQ?oc=5",
             "published": "Thu, 27 Aug 2026 07:00:00 GMT",
             "score": 0,
@@ -572,11 +565,18 @@
             "published": "Thu, 30 Apr 2026 07:00:00 GMT",
             "score": 1,
             "label": "Neutral"
+          },
+          {
+            "title": "The total return for MOIL (NSE:MOIL) investors has risen faster than earnings growth over the last five years - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMXBjUFNaalprRHZPMW5ibHZld21xZFpFdDhHMXFaQkVzMnNoQTRXcXBORFg4VHJyaVRpYTRCeGpXVlc1Z0ZxbW1QZkliR05tdHFUWTVhN0FBampRNms5aFJMSU1OZDROdmlxNGR2d0Z6a043VEpEQ3diUXhBa0hhWEpzUmJpX21MQklZblc0Z3dabE5SSF9iSFpCLXpySjBZWEgxUmI4ZUdISjl1MzEycUF6SWp3dGhHaWhYMFZHRExyTEVuR1Rr0gHMAUFVX3lxTE9HRXlnYy1wTWE3SlZtNWpYdmI1a2hLZndNS2d1RE1XYnA4emdHSjhUVktYaHUwalNYM1RDYVhPV0xFUWVyQlV2YUJzanFRQ0lrOElYa3NRM0dCSm12NEZSZnllbUNVMV83UzdtY3FWMjFGOW8xMU1laGZTV1FnVjNfYUtRM3REVXJuUDBxbkZack5kLXpBeXhlRlVmQ3g1ZV9sOFdfSnAwLWJlMld4eXJZQkpGd3pBekFXdkVvYzBzNHJja2lBbEE0a015eA?oc=5",
+            "published": "Thu, 05 Feb 2026 08:00:00 GMT",
+            "score": 3,
+            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 63.8,
-      "added_at": "2026-09-14T12:18:03.105530",
+      "combined_score": 62.8,
+      "added_at": "2026-09-14T12:43:53.400863",
       "first_seen_price": 244.92999267578125,
       "first_seen_at": "2026-09-14T09:43:20.125246"
     },
@@ -586,7 +586,7 @@
         "symbol": "MUTHOOTFIN",
         "price": 2792.10009765625,
         "day_change": -1.7385149513901108,
-        "volume_ratio": 2.2695093296559503,
+        "volume_ratio": 1.9967317659953794,
         "market_cap": 112094.01318395999,
         "pct_from_low": 4.337240550863633,
         "avg_volume": 916729.7142857143,
@@ -647,7 +647,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Muthoot Finance shares fall over 14% following weak sequential results in Q1; here\u2019s what analysts said - upstox.com",
+            "title": "Muthoot Finance shares fall over 14% following weak sequential results in Q1; here\u2019s what analysts said - Upstox",
             "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUVYxLWtxNEI2dDFBUHpQb0JuTy1KaWZMNUJ3YjlWVU9sMFRZRUZqc25oWWd3emI0THFobzk0OGxBOTNzV3U3aTZSNUw4RHdrT3BpVk1OemFrSXlCcXVBR0F2LXZjck5zc2htOVctT1ZYUGxUZHZHRkdPTjUzSVQtRDNHQ3MyWnVFTGF6NTU0dGFpNFNFQ0l4SWF6aFctVDl5V2pydHNRSGc4SGxmZU1La0h1aGZtaUQyMWRqU3JHQ2FVLVRzSWVBUnBmRk44a004azVlTV9ldndFYW5TXzhWMDlBQmZwLVpscDdJeUUzak9CUQ?oc=5",
             "published": "Mon, 03 Aug 2026 07:00:00 GMT",
             "score": -4,
@@ -670,7 +670,7 @@
         ]
       },
       "combined_score": 60.4,
-      "added_at": "2026-09-14T12:18:06.182258",
+      "added_at": "2026-09-14T12:43:54.723754",
       "first_seen_price": 2792.10009765625,
       "first_seen_at": "2026-09-14T09:43:22.821835"
     },
@@ -871,7 +871,7 @@
         "symbol": "HINDUNILVR",
         "price": 1927.0,
         "day_change": -0.7877283861139885,
-        "volume_ratio": 1.827648856838276,
+        "volume_ratio": 1.5991927497334917,
         "market_cap": 452766.2361874,
         "pct_from_low": 0.04151784266346653,
         "avg_volume": 1240461.7142857143,
@@ -921,14 +921,14 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "HUL Share Price Today, HUL Stock Price Live NSE/BSE Updates - economictimes.indiatimes.com",
+            "title": "HUL Share Price Today, HUL Stock Price Live NSE/BSE Updates - The Economic Times",
             "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUE9mc0I1c2JSMFMwWXVtb1FMbi0ybkJWdkN2V1hvSzdiRTFsbzhGZHoyZTE2LW5BZDhrWmtMa09tQmRHaEJTeVZuNGdKMGZPN29ETDdYQVduVnZuZU1saTZXOE56dkM1M09wU3ZxMUZRR1pTQ0wweWZLcFhPQUtoZVJ0TWpWc0tvT0FIeEFIOA?oc=5",
             "published": "Thu, 10 Sep 2026 22:08:00 GMT",
             "score": 0,
             "label": "Neutral"
           },
           {
-            "title": "Hindustan Unilever Share Price - Live NSE: HINDUNILVR Stock Price & Chart - upstox.com",
+            "title": "Hindustan Unilever Share Price - Live NSE: HINDUNILVR Stock Price & Chart - Upstox",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00bURGcnlweERKTnRINldLZmR6b09TWm9SMDUzTkdvUlh3VDVoVGEtdkdFb1JYc2NtWEc1aExJUXJWZmZNc3NCVVhDNHJBNUxLdmVsMTJwZ1NLZWtZR3ZSd0Nhd2h6ZEk2UnJnMXFn?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
@@ -958,7 +958,7 @@
         ]
       },
       "combined_score": 57.6,
-      "added_at": "2026-09-14T12:17:36.675629",
+      "added_at": "2026-09-14T12:43:31.880713",
       "first_seen_price": 1927.0,
       "first_seen_at": "2026-09-14T09:42:51.802944"
     },
@@ -1447,7 +1447,7 @@
         "symbol": "IREDA",
         "price": 111.70999908447266,
         "day_change": -1.4207559254212545,
-        "volume_ratio": 1.7407382366848188,
+        "volume_ratio": 1.5231459570992165,
         "market_cap": 31381.922494827995,
         "pct_from_low": 2.7392333575079943,
         "avg_volume": 3956273.095238095,
@@ -1514,7 +1514,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Stock market fall continues: ITC, IREDA, Tata Motors PV, Suzlon Energy among 741 stocks that hit 52-week low on NSE - upstox.com",
+            "title": "Stock market fall continues: ITC, IREDA, Tata Motors PV, Suzlon Energy among 741 stocks that hit 52-week low on NSE - Upstox",
             "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObXVqZ25PZ25fLWNFYnNBY1ViRU5PZEZGS1czTVJuWDVfU1VGcnVOTDduaEhIdy1FQVg2VUtJUVNiRWN5N2hIYTFrRDVzMU5iWXVhZU5MYnV3WDJ2eVNkeVdyVG1Qdm0wQ1RqdTQwYjRRUTN0N1daUFoyS3pxdnZ2dzVlejljaXBOTnNZSEZYbkxwWnE2VUtOenNfdl9tLUlkY2lUbXBQeDEtRTY2YmNUZ2RVaU5hWjJ0V2pPRkNQLWw3NUw1VWMzUzNkWnc4UGZLQVotWDUyb25tbElFY09falcyX3EyMjdTSXJYXzA1Z21RbDVFUnRiWGdJVTVydzg?oc=5",
             "published": "Wed, 21 Jan 2026 08:00:00 GMT",
             "score": -2,
@@ -1530,7 +1530,7 @@
         ]
       },
       "combined_score": 51.0,
-      "added_at": "2026-09-14T12:17:43.774163",
+      "added_at": "2026-09-14T12:43:37.437462",
       "first_seen_price": 111.70999908447266,
       "first_seen_at": "2026-09-14T09:43:00.275593"
     },
@@ -1540,7 +1540,7 @@
         "symbol": "TATACONSUM",
         "price": 991.0,
         "day_change": -0.8603417162847004,
-        "volume_ratio": 1.7377722610798192,
+        "volume_ratio": 1.5215900659215642,
         "market_cap": 98078.2801892,
         "pct_from_low": 0.30272452068617556,
         "avg_volume": 1068306.4761904762,
@@ -1603,7 +1603,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Q1 earnings review: What Nestle India and Tata Consumer results say about FMCG demand - upstox.com",
+            "title": "Q1 earnings review: What Nestle India and Tata Consumer results say about FMCG demand - Upstox",
             "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUlp3LUVqaWIyTV9mcERtelk3WDU5bnV4LWNoYkliejcxNmtTT3ZHb0U2bzBQeVBxOUFGRU5JTTRjSFQ2cVhjMDkxazhMZXljbE9yUEhzVG1LMHozSlo3anBXMWZfeG04OHFYbUQxaHBJZXVZNzAwS1d2LU5vU3REY3RWakpZazJsWDM5ODJsU3pwTklsR2dHOHdfTWdhWk1EVERoMTF3ck5zalRWN2ttWG9iQ0t1TjQwRHhEMWhVSzFZVlpXSmpvOHIxR0gtdnVFMlN6d1Q3QTZyV0liX2Z4MTlkUlJ4T3N2RVFn?oc=5",
             "published": "Tue, 28 Jul 2026 07:00:00 GMT",
             "score": 1,
@@ -1626,7 +1626,7 @@
         ]
       },
       "combined_score": 49.6,
-      "added_at": "2026-09-14T12:18:45.481328",
+      "added_at": "2026-09-14T12:44:25.504635",
       "first_seen_price": 991.0,
       "first_seen_at": "2026-09-14T09:43:59.554888"
     },
