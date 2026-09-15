@@ -195,6 +195,193 @@
       "added_at": "2026-09-15T06:21:02.626725",
       "first_seen_price": 253.8000030517578,
       "first_seen_at": "2026-09-15T06:21:02.626725"
+    },
+    {
+      "symbol": "BANKBARODA",
+      "base": {
+        "symbol": "BANKBARODA",
+        "price": 236.27999877929688,
+        "day_change": -0.7768891217324931,
+        "volume_ratio": 3.569836459298966,
+        "market_cap": 122188.94493414222,
+        "pct_from_low": 0.9437936935246241,
+        "avg_volume": 7745098.80952381,
+        "volume": 1990709.0
+      },
+      "technical": {
+        "symbol": "BANKBARODA",
+        "close": 236.27999877929688,
+        "rsi": 40.31,
+        "adx": 20.12,
+        "atr": 4.25,
+        "volume_ratio": 0.26,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": true,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "HEAD & SHOULDERS",
+        "score": 57,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Head & Shoulders",
+          "Near Breakdown",
+          "Weak RSI",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "OBV Distribution"
+        ],
+        "support_20d": 234.05
+      },
+      "news": {
+        "score": 50,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Bank of Baroda Share Price - Live NSE: BANKBARODA Stock Price & Chart - upstox.com",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kMkkzR1p5aVA1NFZxUnNWWnVHdWpRMlZmMkYwNEVWUU1NcnhJbnBVdWFqVDV6d2ZURkxtV0VhYlI4X1BUbjZyd19kZGYtSklkendYamc4ZDNsZkNqb0RDVFlWNA?oc=5",
+            "published": "Fri, 11 Sep 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "NSE IPO: No more India's biggest! From DRHP to RHP | Price, size to stake sale - Top 5 changes to know for investors - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYmZUbUpxOS1CZERYb2lPSkZwZWx3QjhTWVRNM1JaN0NQSXNiUE41dUtVd1g1WGlBSFlTMTRhSkNuMGpKd0I4bTFYUVpBUkxsam5GSEtNdUxuVmxOWjFUZktTeE5QV2tTckxZZFczd0luU0FlRjRmb3dlTE1PbHpocWd6N2FVWkhoSU9ac0VpQm1rSEdyMGhabDUwS0ZtQ1lOS3o3Y2FQRzA3MDRQSE93MGJLdlphOTZ6V1FBdzBhLVdhcUoycUtKaGNDUzJXOUNDNHVCVkZoTWVSWG5WT3N5cVdaV0ptcTdjY1E2RUY2TXp1b0I0aUFmdXFR?oc=5",
+            "published": "Sat, 12 Sep 2026 11:32:48 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Bank of Baroda Share Pros and Cons 2026: PSU Bank at 7x PE Analysed - Univest",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4cTJsQWNoalVTN1JIdDBySTZtaUFOZ1RVQjNPelk3YjA0UGNNaXM5UVF2ZEVBeTZ0MEstV3RVYnprSXdkd3VHYUtQZ2pMMi1mTlFTV1NCVU5reWo1czVJZDJyOVhCVmdvS1FEd0xR?oc=5",
+            "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "FIIs Exit Financial Stocks: Why Bank of Baroda\u2019s 7x P/E Is Getting Attention - NiftyTrader",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaHRncWw4bC1yNzNMcXI2SDdURTc1b2ctRWdLVjB5dllNZjIzOXRoeEVacktwSm1FbWNNVXdYMllJVU1kNGVWY01Sa1g5aXFoTmNjRkFsVWg1bE1vZzV4VzlHdllPcm1OaWxMakN5WTVBdndqTDFiV0hVQndlb2l1YQ?oc=5",
+            "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Bank of Baroda (NSE:BANKBARODA) Q1 FY27 Business Update - Kalkine India",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3FOVmxTM0Z2Wm5DdndUR2tGaWdleXdNLVQ5cjQ2TFVpc090YkhlQl91QjU2NVBuTUxTbVBmTjNxSU9kNUxaNDdscUMzMVpXbEJTVFVuYm45NU1BN2dWTl9Rbm5oZzluaWM3UUlpV3FkekR1Z1R1aWhtMEdqeTJkZFlpVkp4Q2wyWDBwRmg2VG5JRF9mcFFnUWxoWDRwX1FBUllJSmNvUlNNd296Sk9obzF1dWxGdm5jUllZc1pR?oc=5",
+            "published": "Thu, 09 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 55.6,
+      "added_at": "2026-09-15T09:42:44.495579",
+      "first_seen_price": 236.27999877929688,
+      "first_seen_at": "2026-09-15T09:42:44.495579"
+    },
+    {
+      "symbol": "BEL",
+      "base": {
+        "symbol": "BEL",
+        "price": 395.20001220703125,
+        "day_change": -2.2628895161045035,
+        "volume_ratio": 3.8107961577848437,
+        "market_cap": 288882.4682451499,
+        "pct_from_low": 3.7322873341089373,
+        "avg_volume": 9383741.952380951,
+        "volume": 2574686.0
+      },
+      "technical": {
+        "symbol": "BEL",
+        "close": 395.20001220703125,
+        "rsi": 37.86,
+        "adx": 10.23,
+        "atr": 7.15,
+        "volume_ratio": 0.27,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DEATH CROSS",
+        "score": 50,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Near Breakdown",
+          "Weak RSI",
+          "MACD Bearish",
+          "OBV Distribution"
+        ],
+        "support_20d": 393.6
+      },
+      "news": {
+        "score": 70,
+        "label": "Bullish",
+        "headlines": [
+          {
+            "title": "3 Fundamentally Strong PSU Stocks in India (August 2026) - Univest",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96YlZ3c0RUeHBaVzM5bjlUazBDV3dNczFRU2phbEgxUU1zUTlPRU5ZRUlGakw4c0lHdkVtOTdFUnZRbktFVHZZODE1a1dFcWhTMkpNVFBvSFY1RTdtbmJjaW9pS0ZRTFhsTEFPX25wYw?oc=5",
+            "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "BEL Shares Fall Despite Q4 Beat on Profit Booking - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVTdYaHNsMnRKaDNUVkhBbnpOOTNuR1FfWnprVWVEbUs0VUM3aFp2eU9wX0RaMmhZQnFHTkJIZk9zOUc5ajVlZXpCOEIwR0RJRzRkaFg2eHRpcXpGeG8wZWtrMGVqUGpRZmtURmgwOFR6ckZkbE1XRFhjdXh6b09yVURydlg?oc=5",
+            "published": "Wed, 20 May 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "NSE-BSE Closing Price Gaps Spark Debate Over SEBI Auction - Sarkaritel.com",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFRMSFFxaUlTVHhGSkRpZ2xzVU9ZU3FHdUxDQnBEb3pYRU4wVF9VNWoxRkhBT2hQRk50OU9xVmxIV0lPWEtFXzdJOWxRVV9GNWNocDhOT2hGNWxTRUR4U1hmM1NjU1lUN0o2QUZ5TUhZdkJQNjUwa1o5NktHbUtnbThWdlhEb2lmdmNCYldn?oc=5",
+            "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "HAL vs BEL vs BDL vs Mazagon Dock Shipbuilders: Which defence stock to buy after Q1 results 2026? - Livemint",
+            "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOd0VfUGdtbllkSWY1eEdYbVg0Wm4wa0hwOHBZUDNxcWJpWE9qX3BYTzg1ekpOY0hWUWlZN1ZtdFM3cENmc2dBVGdqcUVYbklGTmk5aVFJS2xxMmFGTHdnR1ZnSU9MLUlwa1dydWtETmRYM1BCMF9CbGNsN0JyRHlZRS1mb25qYktkdzFDMlYzWXN4T3psTlRoazlpWXBMYXdWMlFVd2pjVHp2TlJldmV0NFFhQW15SHllem1QTW5xeDlrOTd0TFp1cDFnUmFsQzVVY1pOaXhLRFJnOXVsQXJhN1BxUFdwekNjaG0zWkwtcWJrOG5WVFVkOdIB_gFBVV95cUxOZXNSeTVTYXRMYXNsMmRmb0lPOW9BSW5iVHZhZjB5WnR4UWJwOWtBbkZ6QV9IS2xEU09vS0E0a3owaUhYMXpjd250ODZjV0dkdklYaklYc0RCQTNRbW93T1E5WUZkalBDRkFPQlIwdENHa1FURzE0RG5IZXJERHFQZGt0YWJfYk5wU2p2eHl6TkhfNlNlbFEweVVBS2pnNFUzZlp1cEUxWVEwaUlxWFVXbTBMaWExUEx3QkRrRy1rZV9PV2Y1WUkzMGc5eGJ3S2FBUE9STE5WM2gxa2NvOG9BUHdmQ0EzMktaZXBQNXhNS1BqRmlSM3k3ek5JR2JaQQ?oc=5",
+            "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+            "score": 2,
+            "label": "Neutral"
+          },
+          {
+            "title": "BEL secures orders worth \u20b91,081 crore; shares end flat - upstox.com",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTFNUTVxR0xvZmRlTHZja0NNNmdjMVdoUmQ3OUNrelMxYnI5amt0Q0dQQy04MTRFRzVQLV9xV2hVdHdNUzItVTJSeFJDNHZKWkpmZ2hid2Z4N2hEeWcyZk1jOUJUeGxFRWRPblBVVnhwMml6Sy1Sd1FQeTJTanJxNllSOXpPdlhYWTBXRjYyQWlXVWJaZmVpSFhxOTBxcGJ3RmJJcmoxVnBTTXBGWFA0QQ?oc=5",
+            "published": "Mon, 22 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 46.0,
+      "added_at": "2026-09-15T09:42:45.185171",
+      "first_seen_price": 395.20001220703125,
+      "first_seen_at": "2026-09-15T09:42:45.185171"
     }
   ]
 }
