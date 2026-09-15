@@ -200,21 +200,21 @@
       "symbol": "BANKBARODA",
       "base": {
         "symbol": "BANKBARODA",
-        "price": 235.82000732421875,
-        "day_change": -0.9700573263459747,
-        "volume_ratio": 1.7819045253972896,
-        "market_cap": 121951.06669279678,
-        "pct_from_low": 0.7505742589632927,
-        "avg_volume": 7803929.761904762,
-        "volume": 3226159.0
+        "price": 234.91000366210938,
+        "day_change": -1.3522030633173412,
+        "volume_ratio": 1.5050677726168384,
+        "market_cap": 121480.47084069838,
+        "pct_from_low": 0.366097908537166,
+        "avg_volume": 7825284.380952381,
+        "volume": 3674606.0
       },
       "technical": {
         "symbol": "BANKBARODA",
-        "close": 235.82000732421875,
-        "rsi": 39.67,
+        "close": 234.91000366210938,
+        "rsi": 38.48,
         "adx": 20.12,
         "atr": 4.31,
-        "volume_ratio": 0.41,
+        "volume_ratio": 0.47,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -228,15 +228,18 @@
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": true,
-        "patterns": [],
+        "patterns": [
+          "Bearish Engulfing"
+        ],
         "setup": "HEAD & SHOULDERS",
-        "score": 57,
+        "score": 62,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
           "Head & Shoulders",
           "Near Breakdown",
+          "Bearish Engulfing",
           "Weak RSI",
           "MACD Bearish",
           "ADX Trend Strength",
@@ -285,8 +288,8 @@
           }
         ]
       },
-      "combined_score": 55.6,
-      "added_at": "2026-09-15T10:42:34.202352",
+      "combined_score": 59.6,
+      "added_at": "2026-09-15T11:12:44.244921",
       "first_seen_price": 236.27999877929688,
       "first_seen_at": "2026-09-15T09:42:44.495579"
     },
@@ -294,21 +297,21 @@
       "symbol": "BEL",
       "base": {
         "symbol": "BEL",
-        "price": 392.1000061035156,
-        "day_change": -3.0295535588205085,
-        "volume_ratio": 2.1177885670768197,
-        "market_cap": 286616.43234662496,
-        "pct_from_low": 2.971179218346847,
-        "avg_volume": 9483007.238095239,
-        "volume": 4659257.0
+        "price": 388.75,
+        "day_change": -3.858045225185911,
+        "volume_ratio": 2.287102584534905,
+        "market_cap": 284167.651977375,
+        "pct_from_low": 2.135045091438907,
+        "avg_volume": 9586898.857142856,
+        "volume": 6840981.0
       },
       "technical": {
         "symbol": "BEL",
-        "close": 392.1000061035156,
-        "rsi": 35.64,
-        "adx": 10.45,
-        "atr": 7.25,
-        "volume_ratio": 0.49,
+        "close": 388.75,
+        "rsi": 33.51,
+        "adx": 10.95,
+        "atr": 7.54,
+        "volume_ratio": 0.71,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -336,10 +339,10 @@
           "MACD Bearish",
           "OBV Distribution"
         ],
-        "support_20d": 392.1
+        "support_20d": 388.1
       },
       "news": {
-        "score": 65,
+        "score": 70,
         "label": "Bullish",
         "headlines": [
           {
@@ -357,6 +360,13 @@
             "label": "Neutral"
           },
           {
+            "title": "NSE-BSE Closing Price Gaps Spark Debate Over SEBI Auction - Sarkaritel.com",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFRMSFFxaUlTVHhGSkRpZ2xzVU9ZU3FHdUxDQnBEb3pYRU4wVF9VNWoxRkhBT2hQRk50OU9xVmxIV0lPWEtFXzdJOWxRVV9GNWNocDhOT2hGNWxTRUR4U1hmM1NjU1lUN0o2QUZ5TUhZdkJQNjUwa1o5NktHbUtnbThWdlhEb2lmdmNCYldn?oc=5",
+            "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
             "title": "HAL vs BEL vs BDL vs Mazagon Dock Shipbuilders: Which defence stock to buy after Q1 results 2026? - Livemint",
             "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOd0VfUGdtbllkSWY1eEdYbVg0Wm4wa0hwOHBZUDNxcWJpWE9qX3BYTzg1ekpOY0hWUWlZN1ZtdFM3cENmc2dBVGdqcUVYbklGTmk5aVFJS2xxMmFGTHdnR1ZnSU9MLUlwa1dydWtETmRYM1BCMF9CbGNsN0JyRHlZRS1mb25qYktkdzFDMlYzWXN4T3psTlRoazlpWXBMYXdWMlFVd2pjVHp2TlJldmV0NFFhQW15SHllem1QTW5xeDlrOTd0TFp1cDFnUmFsQzVVY1pOaXhLRFJnOXVsQXJhN1BxUFdwekNjaG0zWkwtcWJrOG5WVFVkOdIB_gFBVV95cUxOZXNSeTVTYXRMYXNsMmRmb0lPOW9BSW5iVHZhZjB5WnR4UWJwOWtBbkZ6QV9IS2xEU09vS0E0a3owaUhYMXpjd250ODZjV0dkdklYaklYc0RCQTNRbW93T1E5WUZkalBDRkFPQlIwdENHa1FURzE0RG5IZXJERHFQZGt0YWJfYk5wU2p2eHl6TkhfNlNlbFEweVVBS2pnNFUzZlp1cEUxWVEwaUlxWFVXbTBMaWExUEx3QkRrRy1rZV9PV2Y1WUkzMGc5eGJ3S2FBUE9STE5WM2gxa2NvOG9BUHdmQ0EzMktaZXBQNXhNS1BqRmlSM3k3ek5JR2JaQQ?oc=5",
             "published": "Mon, 17 Aug 2026 07:00:00 GMT",
@@ -369,18 +379,11 @@
             "published": "Mon, 22 Jun 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
-          },
-          {
-            "title": "Buzzing Stocks: Coal India, Godfrey Phillips, BEL, Tata Chemicals fall 3-5% after Q1 earnings - Moneycontrol.com",
-            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM3hTWXhXdTVtQzNqeVYtTGJmVXBiSXJmdXB1WktLZWNnRkNrclFuM2VoRUd6TjlFYnpHVWlVZmx4ZEZKSXREQlhGd0lfTU1rSXdqODZuR3lSMGRCb25xM1IyZjUzT1dnRUdmNXNleXpXZDF5eDRaN3JoY1FPWUlzMkVYYXBWSFVDZHhvOGU1YU1UZFJ4c1phZGR0TVhiVUZqY2N0akw1S0FKSnotV1NkaGRvV09adXFEYzdYWDBPRDBZYklIeHByamFGMHoyaWwyLXpScWdMMVJBNDFKV3VtTUZnS0Y4Zmxh0gHuAUFVX3lxTE5kS2VlVlp0R1hHZjdYcmhsY0RGRERTMzRIak9teGc5YVJZcjBCRkxwLXNUa0x2NVVkV21INUJQdWlvMDN4UzBfWjRSVUNkRHBRQUJFNlpMdWV5S2xCYTFvRzcxV1RscDAyU0VZOXk0SlJuTndjX2xlbExkYmxLMlUtTFk1NXF0Ukk1elFQVTliOXhkOG9sa1hCZmJXTktpSm9kZVBEblRtOXJFSU1HUWkxTWE2S3ZyNzVOaGh0WmxnN0V0dldsUDcxNW81RWpoLUdZaW9RcWRrVGt3R19kanBOUzFsYXFkMzJwbzVXZ0E?oc=5",
-            "published": "Tue, 28 Jul 2026 07:00:00 GMT",
-            "score": -1,
-            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 55.0,
-      "added_at": "2026-09-15T10:42:35.122714",
+      "combined_score": 54.0,
+      "added_at": "2026-09-15T11:12:45.151618",
       "first_seen_price": 395.20001220703125,
       "first_seen_at": "2026-09-15T09:42:45.185171"
     },
@@ -483,21 +486,21 @@
       "symbol": "CANBK",
       "base": {
         "symbol": "CANBK",
-        "price": 123.11000061035156,
-        "day_change": -0.717741443264869,
-        "volume_ratio": 2.118066259809517,
-        "market_cap": 111668.78821548862,
-        "pct_from_low": 9.666153413111354,
-        "avg_volume": 11518958.857142856,
-        "volume": 5660317.0
+        "price": 123.08999633789062,
+        "day_change": -0.7338739210559475,
+        "volume_ratio": 1.7632618931775346,
+        "market_cap": 111650.64303756831,
+        "pct_from_low": 9.651472586615851,
+        "avg_volume": 11552049.38095238,
+        "volume": 6355218.0
       },
       "technical": {
         "symbol": "CANBK",
-        "close": 123.11000061035156,
-        "rsi": 36.08,
+        "close": 123.08999633789062,
+        "rsi": 36.03,
         "adx": 9.89,
         "atr": 2.37,
-        "volume_ratio": 0.49,
+        "volume_ratio": 0.55,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -571,7 +574,7 @@
         ]
       },
       "combined_score": 54.0,
-      "added_at": "2026-09-15T10:42:38.728108",
+      "added_at": "2026-09-15T11:12:50.044707",
       "first_seen_price": 123.36000061035156,
       "first_seen_at": "2026-09-15T10:13:31.261459"
     },
