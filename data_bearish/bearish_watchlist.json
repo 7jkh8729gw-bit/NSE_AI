@@ -297,21 +297,21 @@
       "symbol": "BEL",
       "base": {
         "symbol": "BEL",
-        "price": 388.75,
-        "day_change": -3.858045225185911,
-        "volume_ratio": 2.287102584534905,
-        "market_cap": 284167.651977375,
-        "pct_from_low": 2.135045091438907,
-        "avg_volume": 9586898.857142856,
-        "volume": 6840981.0
+        "price": 390.8999938964844,
+        "day_change": -3.3263291712645553,
+        "volume_ratio": 2.2072378742322276,
+        "market_cap": 285739.24996407505,
+        "pct_from_low": 2.6733133416779795,
+        "avg_volume": 9670418.095238095,
+        "volume": 8594885.0
       },
       "technical": {
         "symbol": "BEL",
-        "close": 388.75,
-        "rsi": 33.51,
-        "adx": 10.95,
-        "atr": 7.54,
-        "volume_ratio": 0.71,
+        "close": 390.8999938964844,
+        "rsi": 34.85,
+        "adx": 11.01,
+        "atr": 7.58,
+        "volume_ratio": 0.88,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -339,7 +339,7 @@
           "MACD Bearish",
           "OBV Distribution"
         ],
-        "support_20d": 388.1
+        "support_20d": 387.6
       },
       "news": {
         "score": 70,
@@ -383,7 +383,7 @@
         ]
       },
       "combined_score": 54.0,
-      "added_at": "2026-09-15T11:12:45.151618",
+      "added_at": "2026-09-15T11:46:40.635115",
       "first_seen_price": 395.20001220703125,
       "first_seen_at": "2026-09-15T09:42:45.185171"
     },
@@ -764,6 +764,190 @@
       "added_at": "2026-09-15T10:43:28.800438",
       "first_seen_price": 244.80999755859375,
       "first_seen_at": "2026-09-15T10:43:28.800438"
+    },
+    {
+      "symbol": "IOC",
+      "base": {
+        "symbol": "IOC",
+        "price": 134.0800018310547,
+        "day_change": -0.7623408886417848,
+        "volume_ratio": 1.575299152837231,
+        "market_cap": 189337.56682493998,
+        "pct_from_low": 2.878878697522165,
+        "avg_volume": 7144108.285714285,
+        "volume": 4561665.0
+      },
+      "technical": {
+        "symbol": "IOC",
+        "close": 134.0800018310547,
+        "rsi": 38.64,
+        "adx": 19.51,
+        "atr": 2.41,
+        "volume_ratio": 0.64,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DOUBLE TOP",
+        "score": 53,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Double Top",
+          "Near Breakdown",
+          "Weak RSI",
+          "MACD Bearish",
+          "OBV Distribution"
+        ],
+        "support_20d": 133.02
+      },
+      "news": {
+        "score": 40,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Here's What We Like About Indian Oil's (NSE:IOC) Upcoming Dividend - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdU9sS0xTQzc0LXZ5b2NDaHgwbm9zTzBHYTRGckdHaUpWZTl1WWlBd0VZSmxDQzdFbmp6RklhZWhfWS1jNTZFaW5lZXUxOEFHc1A4d0lGT3dyX3BjaEo1cXZNc2ZYUGI2SmRiVm8yd25Gd2tsRWotZU01Y2ZLQXVlWGVoNk9sZlNLRlYyVDd5bG81cnk2TXpUUm9PSkgtMkJBZmIyR1RHVWhHWHJteENTSllxWWFlYWE3enBXQzlTbnJ0Q1FsaHhSVnVB0gHPAUFVX3lxTFBFV1VtOVpkVmJnY2R0czVaMXZDQ1J5b2JDLUVIM2doT2RWaVdUMkQ5NHN0VEV6NDBUdDVNU1VGSURvU3ZuUXdfM1NhMUJmV2FjcEg4c045eGFpQWtYV0JyX0xFLTZPWUVLbHRFUlU4Qk5RaDVPMW1KcTFSWC01WFhBRkVNVGg4cXVtWG1rWUlMQ0ttblBwR1JIdm5fZXAwRlVnSkVTVTlkVWFUckFHXzZWVi1IZVItcGtsdWkybGZNczd2N08xX2lMZXBUY1RjZw?oc=5",
+            "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "IOC Share Pros and Cons 2026: India's Largest PSU OMC at 6x PE - Univest",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xUlB5QkpvZFB3MDBIOHRSb29PbGNMVGRpSS1ZSDhEdDNKNVRQTmRFcmpFQjFJRjJYampqYjV5LVVvUlV3bEdvankyeV82T25iZTdVN1BzUFVHYUxDcGFhZlNEbGY?oc=5",
+            "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "OMCs rally: IOC, BPCL, HPCL gain up to 4% as oil retreat boosts sentiment - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMTRoZWltcExvOTF3UW05TDRBMVI5aDBiR1VpS2hpSHk3YzhqVTlyUFBZX19PZG1tMzJ5NzFJdy1NaW9ubXhRMFVkWHBNOXhlbm5PRG0walozRHp6TzBrbUdkMlJKQlY0WUN0WTNlSHJta25xU1lncXVnN2kweWhFTTJpd2lWVVpjbnRCSEQwM3RhaGd1RnBEa3JoRUtzNnJ4elNnbXRmZWRpbmNuOFQtZy1JZ3NoR1RtekctNXh6OU5zUGUtYkszd0c4QjE2cU1jd0dPS1IzU0c3d9IB3wFBVV95cUxQM3lVSnlqVUdHcWUxSVVZUFVHVERNWFRFQ1Z0NXNZeU5EWXd6V1ZlLVhrcHJrTGo1MmItSlVTRXRza05XUkp6NmJndE8zTnZSMVg3S3NxUG9uUGI4dDB2LWVJX0R0eTNpU3lIVXN4dHM3SV83T0NZWTAwODFjT2E3RWVnM1NJV0hjSnpJX09Pc1ZvNzVpcFZNN1dkT0NndktMVGY5OV9yYnpCYTY2V3pCTDNZaVU2ZFpLdkZWdjhZVzFTaWhaR2hOTFRZM3ZNcU1TZmxjQkR1a2hFTm1ZZWVn?oc=5",
+            "published": "Mon, 15 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Oil-linked stocks split: HPCL, Indian Oil, Asian Paints, IndiGo decline; ONGC, OIL gain as crude jumps - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbEJCU0JCUWJFeFZBSk91NXVySHFyaWFzbUFweXlkU1FQSUNrdUg1SC1CRDI0dU1kOVJIRXNmd1RWd0N4RnlpLXBqSWZsaU55NkVpS1VGU2kzRXpkVS13TzUyZnNOendScXQ3WEtSdXRUd0RhLU5PRy13QXY0YWVqQm1iWnFmUVl5RElfb2Z5NDdsVm1Hb0FJR2hQZ1R3U1puY2d5N2JwSUl2czQyQ3IzUXVybm9KQ1Rxc0tHTnB3Wl9vcWdCMndyVWNHand0VlZjMDdNNXhuS18yRVVGYUJUTVJpaVY2Z2lRYkQ3Zg?oc=5",
+            "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
+          },
+          {
+            "title": "Indian Oil Corporation Ltd. Share Price Today - Indian Oil Corporation Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjZxUGRXSVdjNDZDakRKS1VWdWNFak4tcDJncGwzWlV1Qkt5SUIzeGZCektTUmtTOXZHcU9VNXNkbUFlWnZ2UTZkZUQxN0s4UTI4djloS1hEWmhrTDRtLXE0Ymh0Y1REeWtRemhHZzhmQmx1dU1XZnQyQ0tFTlhSc2V3a1ZYTXFFY1E?oc=5",
+            "published": "Sat, 03 Jan 2026 15:32:33 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 54.4,
+      "added_at": "2026-09-15T11:47:10.779546",
+      "first_seen_price": 134.0800018310547,
+      "first_seen_at": "2026-09-15T11:47:10.779546"
+    },
+    {
+      "symbol": "DRREDDY",
+      "base": {
+        "symbol": "DRREDDY",
+        "price": 1153.4000244140625,
+        "day_change": -1.038178943452381,
+        "volume_ratio": 2.1215122285660346,
+        "market_cap": 96076.91004116363,
+        "pct_from_low": 4.543092015338059,
+        "avg_volume": 1168081.5714285714,
+        "volume": 997848.0
+      },
+      "technical": {
+        "symbol": "DRREDDY",
+        "close": 1153.4000244140625,
+        "rsi": 43.63,
+        "adx": 29.39,
+        "atr": 20.86,
+        "volume_ratio": 0.89,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": false,
+        "breakdown": false,
+        "macd_bearish": false,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DEATH CROSS",
+        "score": 37,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Weak RSI",
+          "ADX Trend Strength",
+          "OBV Distribution"
+        ],
+        "support_20d": 1130.0
+      },
+      "news": {
+        "score": 75,
+        "label": "Bullish",
+        "headlines": [
+          {
+            "title": "Top 14 Pharma Stocks To Buy In India September 2026 - Samco",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSmxaNUxpT2wtdzdBOEMwZ18tbzhmM3NVOXN1RXlaTy1wR1N2SmZRb0RKSlZPSUpvRnhxaTlHQnBpYXV5X2RhNHNlYnEtYjctblphSkpUbWJHRDRoRWZwY3ZXMmMwRlBYZWR2TFhMcUhHU0lOd19VVmY4a0pxYUF2djNyOWp0TE9Rc0E?oc=5",
+            "published": "Mon, 14 Sep 2026 06:50:56 GMT",
+            "score": 2,
+            "label": "Neutral"
+          },
+          {
+            "title": "Dr Reddy\u2019s Shares Tumble Nearly 9% To Hit 52-Week Low Post-Q1 Earnings Announcement - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQXItMXpYbHgyQUVRam9kYnFOVTh0bmw0MkJodWhkVHpSRXJVVWpnTnVFaUU2T1ZSUG5UMmFvbWdMTm43bGJGaWE2Q1NlQ3lWQjMxSUFqdHdfdjVEdzVMUEY0d1JiTEszV2YtZFdTN2syZlZpYlhRUVZhb1A2dzlBZ25qUjN3TzNo?oc=5",
+            "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Dr. Reddy's Lab jumps 2%: Why is this pharma stock rising? - India Infoline",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRmE5UmVUZUZQdGt1S1VCQ0ZtZWRGZENuT0EwRldoNEQxd29FN3FVcGw4SzNKYS1rUUtwSWhzSWhCLW0wRS1BbHNfdlgtVU9pTG1FQzNzbldseFQ2bXNMTnZENXU0WkNPSEdaTEw2UzF5Sms0Wi11eWZlTXk4cnhteGJwQzJZOGJwR3U0VjZiLUFKSHRyMjVZSy1DQTV3VEE?oc=5",
+            "published": "Fri, 03 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "5 Pharma Stocks India 2026: Future Roadmaps - Univest",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NVng4cjVrRzZiSTRETnUxam1NSlVGM3lNZEZOa2JyOTcxRXZSMFlNZnUwTlNpYk9zRDRBQjJKb2pKZVRuNkFDTWhPVGF6WVZtN2pOOWhoVVdiMktpYUtCNE9rVXBXVHcweEVWbUxpR2Etc3M?oc=5",
+            "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Dr Reddy's shares tumble 6.5% as quality issue delays commercial launch of semaglutide- all you need to know - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPclVGb19mZV9ualM1aC1IRGlsRmJjLVB6S1NjOFN1VnlpZjM4eEZJYXF5SzZzaEdaRGVwTEdiME9kbTVTdmJuV1IzdlVlVzJWSzRuS1ZNUllTcFhIR1pNcXQzZE1ZVWNTeVFGN1ZhR1pZVDZYZHNNNzVqbVNYYU9RMnMzQ19yZ2tOdVowVUotTWZxSGNTTFczdTB4M3YyVXl5UU9MdlJGUXhHYkJiU2ZBQ004b285Zm9MM0R0cURuS1IwUXVhN193OHV1czVIN0h6TGUzaWdrWEY0N0NzVHh3a1RDUjhZYnJwZ2hLUHVRWVBFZEdOYnc?oc=5",
+            "published": "Thu, 09 Jul 2026 07:00:00 GMT",
+            "score": 2,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 34.6,
+      "added_at": "2026-09-15T11:46:53.423675",
+      "first_seen_price": 1153.4000244140625,
+      "first_seen_at": "2026-09-15T11:46:53.423675"
     }
   ]
 }
