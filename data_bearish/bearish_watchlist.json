@@ -297,21 +297,21 @@
       "symbol": "BEL",
       "base": {
         "symbol": "BEL",
-        "price": 387.5,
-        "day_change": -4.167183343432901,
-        "volume_ratio": 1.5077786097906247,
-        "market_cap": 283253.92962375,
-        "pct_from_low": 1.8193516885080645,
-        "avg_volume": 9881711.047619049,
-        "volume": 13032037.0
+        "price": 385.0,
+        "day_change": -4.785459579926883,
+        "volume_ratio": 1.6770936650631074,
+        "market_cap": 281426.4849165,
+        "pct_from_low": 1.1818150111607144,
+        "avg_volume": 10030118.333333334,
+        "volume": 16148590.0
       },
       "technical": {
         "symbol": "BEL",
-        "close": 387.5,
-        "rsi": 32.78,
-        "adx": 11.12,
-        "atr": 7.65,
-        "volume_ratio": 1.3,
+        "close": 385.0,
+        "rsi": 31.42,
+        "adx": 11.33,
+        "atr": 7.8,
+        "volume_ratio": 1.59,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -321,13 +321,13 @@
         "bear_flag": false,
         "ll_lh": true,
         "near_breakdown": true,
-        "breakdown": false,
+        "breakdown": true,
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": true,
         "patterns": [],
-        "setup": "DOUBLE TOP",
-        "score": 60,
+        "setup": "DEATH CROSS + BREAKDOWN",
+        "score": 68,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -335,18 +335,19 @@
           "Lower High / Lower Low",
           "Double Top",
           "Near Breakdown",
-          "Weak RSI",
+          "Confirmed Breakdown",
           "MACD Bearish",
+          "Volume Expansion",
           "OBV Distribution"
         ],
-        "support_20d": 386.6
+        "support_20d": 384.5
       },
       "news": {
         "score": 65,
         "label": "Bullish",
         "headlines": [
           {
-            "title": "3 Fundamentally Strong PSU Stocks in India (August 2026) - univest.in",
+            "title": "3 Fundamentally Strong PSU Stocks in India (August 2026) - Univest",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96YlZ3c0RUeHBaVzM5bjlUazBDV3dNczFRU2phbEgxUU1zUTlPRU5ZRUlGakw4c0lHdkVtOTdFUnZRbktFVHZZODE1a1dFcWhTMkpNVFBvSFY1RTdtbmJjaW9pS0ZRTFhsTEFPX25wYw?oc=5",
             "published": "Thu, 20 Aug 2026 07:00:00 GMT",
             "score": 1,
@@ -382,8 +383,8 @@
           }
         ]
       },
-      "combined_score": 55.0,
-      "added_at": "2026-09-15T14:43:42.722811",
+      "combined_score": 61.4,
+      "added_at": "2026-09-15T15:15:34.326446",
       "first_seen_price": 395.20001220703125,
       "first_seen_at": "2026-09-15T09:42:45.185171"
     },
@@ -953,21 +954,21 @@
       "symbol": "HDFCLIFE",
       "base": {
         "symbol": "HDFCLIFE",
-        "price": 525.2000122070312,
-        "day_change": -0.9056580741450472,
-        "volume_ratio": 1.524908409455083,
-        "market_cap": 114076.02385186718,
-        "pct_from_low": 3.141660246857683,
-        "avg_volume": 3055511.380952381,
-        "volume": 2261350.0
+        "price": 520.0999755859375,
+        "day_change": -1.8679291347287736,
+        "volume_ratio": 1.544769570825925,
+        "market_cap": 112968.27083261563,
+        "pct_from_low": 2.1918792374606837,
+        "avg_volume": 3171815.4285714286,
+        "volume": 4703735.0
       },
       "technical": {
         "symbol": "HDFCLIFE",
-        "close": 525.2000122070312,
-        "rsi": 41.8,
-        "adx": 16.22,
-        "atr": 11.89,
-        "volume_ratio": 0.74,
+        "close": 520.0999755859375,
+        "rsi": 39.57,
+        "adx": 16.24,
+        "atr": 12.08,
+        "volume_ratio": 1.48,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -980,16 +981,20 @@
         "breakdown": false,
         "macd_bearish": true,
         "macd_cross_down": false,
-        "obv_distribution": false,
-        "patterns": [],
+        "obv_distribution": true,
+        "patterns": [
+          "Bearish Engulfing"
+        ],
         "setup": "DEATH CROSS",
-        "score": 32,
+        "score": 42,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
+          "Bearish Engulfing",
           "Weak RSI",
-          "MACD Bearish"
+          "MACD Bearish",
+          "OBV Distribution"
         ],
         "support_20d": 508.7
       },
@@ -1034,8 +1039,8 @@
           }
         ]
       },
-      "combined_score": 34.6,
-      "added_at": "2026-09-15T12:17:05.407425",
+      "combined_score": 42.6,
+      "added_at": "2026-09-15T15:15:59.325695",
       "first_seen_price": 525.2000122070312,
       "first_seen_at": "2026-09-15T12:17:05.407425"
     }
