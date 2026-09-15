@@ -297,21 +297,21 @@
       "symbol": "BEL",
       "base": {
         "symbol": "BEL",
-        "price": 389.95001220703125,
-        "day_change": -3.5612696127418646,
-        "volume_ratio": 1.8888728269868942,
-        "market_cap": 285044.83435992483,
-        "pct_from_low": 2.436209694220059,
-        "avg_volume": 9747439.857142856,
-        "volume": 10212342.0
+        "price": 390.75,
+        "day_change": -3.363424235990726,
+        "volume_ratio": 1.7365979893490153,
+        "market_cap": 285629.607743175,
+        "pct_from_low": 2.635953369921625,
+        "avg_volume": 9774121.38095238,
+        "volume": 10772654.0
       },
       "technical": {
         "symbol": "BEL",
-        "close": 389.95001220703125,
-        "rsi": 34.25,
+        "close": 390.75,
+        "rsi": 34.75,
         "adx": 11.01,
         "atr": 7.58,
-        "volume_ratio": 1.04,
+        "volume_ratio": 1.09,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -346,7 +346,7 @@
         "label": "Bullish",
         "headlines": [
           {
-            "title": "3 Fundamentally Strong PSU Stocks in India (August 2026) - univest.in",
+            "title": "3 Fundamentally Strong PSU Stocks in India (August 2026) - Univest",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96YlZ3c0RUeHBaVzM5bjlUazBDV3dNczFRU2phbEgxUU1zUTlPRU5ZRUlGakw4c0lHdkVtOTdFUnZRbktFVHZZODE1a1dFcWhTMkpNVFBvSFY1RTdtbmJjaW9pS0ZRTFhsTEFPX25wYw?oc=5",
             "published": "Thu, 20 Aug 2026 07:00:00 GMT",
             "score": 1,
@@ -383,7 +383,7 @@
         ]
       },
       "combined_score": 54.0,
-      "added_at": "2026-09-15T12:43:56.530875",
+      "added_at": "2026-09-15T13:13:29.720060",
       "first_seen_price": 395.20001220703125,
       "first_seen_at": "2026-09-15T09:42:45.185171"
     },
@@ -862,21 +862,21 @@
       "symbol": "DRREDDY",
       "base": {
         "symbol": "DRREDDY",
-        "price": 1151.5999755859375,
-        "day_change": -1.1926232873498497,
-        "volume_ratio": 1.7800252106250993,
-        "market_cap": 95926.96802133636,
-        "pct_from_low": 4.393884739376803,
-        "avg_volume": 1176126.761904762,
-        "volume": 1166797.0
+        "price": 1152.300048828125,
+        "day_change": -1.132556943103818,
+        "volume_ratio": 1.6291290300479981,
+        "market_cap": 95985.28332607727,
+        "pct_from_low": 4.451969682748562,
+        "avg_volume": 1178594.142857143,
+        "volume": 1218612.0
       },
       "technical": {
         "symbol": "DRREDDY",
-        "close": 1151.5999755859375,
-        "rsi": 43.08,
+        "close": 1152.300048828125,
+        "rsi": 43.29,
         "adx": 29.39,
-        "atr": 20.99,
-        "volume_ratio": 1.04,
+        "atr": 21.03,
+        "volume_ratio": 1.08,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -929,7 +929,7 @@
             "label": "Neutral"
           },
           {
-            "title": "5 Pharma Stocks India 2026: Future Roadmaps - univest.in",
+            "title": "5 Pharma Stocks India 2026: Future Roadmaps - Univest",
             "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NVng4cjVrRzZiSTRETnUxam1NSlVGM3lNZEZOa2JyOTcxRXZSMFlNZnUwTlNpYk9zRDRBQjJKb2pKZVRuNkFDTWhPVGF6WVZtN2pOOWhoVVdiMktpYUtCNE9rVXBXVHcweEVWbUxpR2Etc3M?oc=5",
             "published": "Tue, 25 Aug 2026 07:00:00 GMT",
             "score": 0,
@@ -945,7 +945,7 @@
         ]
       },
       "combined_score": 34.6,
-      "added_at": "2026-09-15T12:44:10.623951",
+      "added_at": "2026-09-15T13:13:41.460757",
       "first_seen_price": 1153.4000244140625,
       "first_seen_at": "2026-09-15T11:46:53.423675"
     },
