@@ -200,21 +200,21 @@
       "symbol": "BANKBARODA",
       "base": {
         "symbol": "BANKBARODA",
-        "price": 235.61000061035156,
-        "day_change": -1.058247268630037,
-        "volume_ratio": 2.453899909384402,
-        "market_cap": 121842.4646150539,
-        "pct_from_low": 0.6621100779052462,
-        "avg_volume": 7791113.238095238,
-        "volume": 2957012.0
+        "price": 235.82000732421875,
+        "day_change": -0.9700573263459747,
+        "volume_ratio": 1.7819045253972896,
+        "market_cap": 121951.06669279678,
+        "pct_from_low": 0.7505742589632927,
+        "avg_volume": 7803929.761904762,
+        "volume": 3226159.0
       },
       "technical": {
         "symbol": "BANKBARODA",
-        "close": 235.61000061035156,
-        "rsi": 39.39,
+        "close": 235.82000732421875,
+        "rsi": 39.67,
         "adx": 20.12,
         "atr": 4.31,
-        "volume_ratio": 0.38,
+        "volume_ratio": 0.41,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -286,7 +286,7 @@
         ]
       },
       "combined_score": 55.6,
-      "added_at": "2026-09-15T10:13:26.453562",
+      "added_at": "2026-09-15T10:42:34.202352",
       "first_seen_price": 236.27999877929688,
       "first_seen_at": "2026-09-15T09:42:44.495579"
     },
@@ -294,21 +294,21 @@
       "symbol": "BEL",
       "base": {
         "symbol": "BEL",
-        "price": 392.8500061035156,
-        "day_change": -2.844070687872314,
-        "volume_ratio": 2.704241973821596,
-        "market_cap": 287164.66575879994,
-        "pct_from_low": 3.156419423146703,
-        "avg_volume": 9449339.952380951,
-        "volume": 3952244.0
+        "price": 392.1000061035156,
+        "day_change": -3.0295535588205085,
+        "volume_ratio": 2.1177885670768197,
+        "market_cap": 286616.43234662496,
+        "pct_from_low": 2.971179218346847,
+        "avg_volume": 9483007.238095239,
+        "volume": 4659257.0
       },
       "technical": {
         "symbol": "BEL",
-        "close": 392.8500061035156,
-        "rsi": 36.15,
-        "adx": 10.44,
+        "close": 392.1000061035156,
+        "rsi": 35.64,
+        "adx": 10.45,
         "atr": 7.25,
-        "volume_ratio": 0.41,
+        "volume_ratio": 0.49,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -336,10 +336,10 @@
           "MACD Bearish",
           "OBV Distribution"
         ],
-        "support_20d": 392.15
+        "support_20d": 392.1
       },
       "news": {
-        "score": 70,
+        "score": 65,
         "label": "Bullish",
         "headlines": [
           {
@@ -357,13 +357,6 @@
             "label": "Neutral"
           },
           {
-            "title": "NSE-BSE Closing Price Gaps Spark Debate Over SEBI Auction - Sarkaritel.com",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFRMSFFxaUlTVHhGSkRpZ2xzVU9ZU3FHdUxDQnBEb3pYRU4wVF9VNWoxRkhBT2hQRk50OU9xVmxIV0lPWEtFXzdJOWxRVV9GNWNocDhOT2hGNWxTRUR4U1hmM1NjU1lUN0o2QUZ5TUhZdkJQNjUwa1o5NktHbUtnbThWdlhEb2lmdmNCYldn?oc=5",
-            "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
             "title": "HAL vs BEL vs BDL vs Mazagon Dock Shipbuilders: Which defence stock to buy after Q1 results 2026? - Livemint",
             "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOd0VfUGdtbllkSWY1eEdYbVg0Wm4wa0hwOHBZUDNxcWJpWE9qX3BYTzg1ekpOY0hWUWlZN1ZtdFM3cENmc2dBVGdqcUVYbklGTmk5aVFJS2xxMmFGTHdnR1ZnSU9MLUlwa1dydWtETmRYM1BCMF9CbGNsN0JyRHlZRS1mb25qYktkdzFDMlYzWXN4T3psTlRoazlpWXBMYXdWMlFVd2pjVHp2TlJldmV0NFFhQW15SHllem1QTW5xeDlrOTd0TFp1cDFnUmFsQzVVY1pOaXhLRFJnOXVsQXJhN1BxUFdwekNjaG0zWkwtcWJrOG5WVFVkOdIB_gFBVV95cUxOZXNSeTVTYXRMYXNsMmRmb0lPOW9BSW5iVHZhZjB5WnR4UWJwOWtBbkZ6QV9IS2xEU09vS0E0a3owaUhYMXpjd250ODZjV0dkdklYaklYc0RCQTNRbW93T1E5WUZkalBDRkFPQlIwdENHa1FURzE0RG5IZXJERHFQZGt0YWJfYk5wU2p2eHl6TkhfNlNlbFEweVVBS2pnNFUzZlp1cEUxWVEwaUlxWFVXbTBMaWExUEx3QkRrRy1rZV9PV2Y1WUkzMGc5eGJ3S2FBUE9STE5WM2gxa2NvOG9BUHdmQ0EzMktaZXBQNXhNS1BqRmlSM3k3ek5JR2JaQQ?oc=5",
             "published": "Mon, 17 Aug 2026 07:00:00 GMT",
@@ -376,11 +369,18 @@
             "published": "Mon, 22 Jun 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
+          },
+          {
+            "title": "Buzzing Stocks: Coal India, Godfrey Phillips, BEL, Tata Chemicals fall 3-5% after Q1 earnings - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM3hTWXhXdTVtQzNqeVYtTGJmVXBiSXJmdXB1WktLZWNnRkNrclFuM2VoRUd6TjlFYnpHVWlVZmx4ZEZKSXREQlhGd0lfTU1rSXdqODZuR3lSMGRCb25xM1IyZjUzT1dnRUdmNXNleXpXZDF5eDRaN3JoY1FPWUlzMkVYYXBWSFVDZHhvOGU1YU1UZFJ4c1phZGR0TVhiVUZqY2N0akw1S0FKSnotV1NkaGRvV09adXFEYzdYWDBPRDBZYklIeHByamFGMHoyaWwyLXpScWdMMVJBNDFKV3VtTUZnS0Y4Zmxh0gHuAUFVX3lxTE5kS2VlVlp0R1hHZjdYcmhsY0RGRERTMzRIak9teGc5YVJZcjBCRkxwLXNUa0x2NVVkV21INUJQdWlvMDN4UzBfWjRSVUNkRHBRQUJFNlpMdWV5S2xCYTFvRzcxV1RscDAyU0VZOXk0SlJuTndjX2xlbExkYmxLMlUtTFk1NXF0Ukk1elFQVTliOXhkOG9sa1hCZmJXTktpSm9kZVBEblRtOXJFSU1HUWkxTWE2S3ZyNzVOaGh0WmxnN0V0dldsUDcxNW81RWpoLUdZaW9RcWRrVGt3R19kanBOUzFsYXFkMzJwbzVXZ0E?oc=5",
+            "published": "Tue, 28 Jul 2026 07:00:00 GMT",
+            "score": -1,
+            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 54.0,
-      "added_at": "2026-09-15T10:13:27.404419",
+      "combined_score": 55.0,
+      "added_at": "2026-09-15T10:42:35.122714",
       "first_seen_price": 395.20001220703125,
       "first_seen_at": "2026-09-15T09:42:45.185171"
     },
@@ -483,21 +483,21 @@
       "symbol": "CANBK",
       "base": {
         "symbol": "CANBK",
-        "price": 123.36000061035156,
-        "day_change": -0.5161285400390625,
-        "volume_ratio": 2.923099866671893,
-        "market_cap": 111895.55449698863,
-        "pct_from_low": 9.849222978083674,
-        "avg_volume": 11496935.904761905,
-        "volume": 5197835.0
+        "price": 123.11000061035156,
+        "day_change": -0.717741443264869,
+        "volume_ratio": 2.118066259809517,
+        "market_cap": 111668.78821548862,
+        "pct_from_low": 9.666153413111354,
+        "avg_volume": 11518958.857142856,
+        "volume": 5660317.0
       },
       "technical": {
         "symbol": "CANBK",
-        "close": 123.36000061035156,
-        "rsi": 36.77,
+        "close": 123.11000061035156,
+        "rsi": 36.08,
         "adx": 9.89,
         "atr": 2.37,
-        "volume_ratio": 0.45,
+        "volume_ratio": 0.49,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -511,9 +511,11 @@
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": false,
-        "patterns": [],
+        "patterns": [
+          "Evening Star"
+        ],
         "setup": "DOUBLE TOP",
-        "score": 55,
+        "score": 60,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -521,6 +523,7 @@
           "Lower High / Lower Low",
           "Double Top",
           "Near Breakdown",
+          "Evening Star",
           "Weak RSI",
           "MACD Bearish"
         ],
@@ -567,10 +570,197 @@
           }
         ]
       },
-      "combined_score": 50.0,
-      "added_at": "2026-09-15T10:13:31.261459",
+      "combined_score": 54.0,
+      "added_at": "2026-09-15T10:42:38.728108",
       "first_seen_price": 123.36000061035156,
       "first_seen_at": "2026-09-15T10:13:31.261459"
+    },
+    {
+      "symbol": "RVNL",
+      "base": {
+        "symbol": "RVNL",
+        "price": 203.2899932861328,
+        "day_change": -0.7857494672083475,
+        "volume_ratio": 1.5676819507447768,
+        "market_cap": 42386.37221304519,
+        "pct_from_low": 0.6148851597631821,
+        "avg_volume": 3809396.3333333335,
+        "volume": 1401411.0
+      },
+      "technical": {
+        "symbol": "RVNL",
+        "close": 203.2899932861328,
+        "rsi": 30.27,
+        "adx": 25.54,
+        "atr": 4.93,
+        "volume_ratio": 0.36,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [
+          "Bearish Engulfing"
+        ],
+        "setup": "DEATH CROSS",
+        "score": 52,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Near Breakdown",
+          "Bearish Engulfing",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "OBV Distribution"
+        ],
+        "support_20d": 202.04
+      },
+      "news": {
+        "score": 33,
+        "label": "Bearish",
+        "headlines": [
+          {
+            "title": "Stock market fall: RVNL, ITC, Swiggy, Britannia among 70 stocks that hit 52-week low on NSE - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSHV6WmZtV2xTUkVzR0ZDY2IwZUJoMTluRmJwMVVBZDI5ZmNBaU9YS1J0YmVmRW5heTluWXE0YmZjNmlrMmVTSFRVVTUzMmlYaHZjcTJJY0lqandOaWZpaFNURlN3eVVILWktWTdmY0ZpejhUYUl0OHlmajh3dDZINXFPUUFtMmVNTVRmS0xKWk5TX1VtX21nYTJYYmJyMXNETEtpZmRGeG13MFFtcGdhQ2Z1cnlUOC11NmVvX211aUx4WGNGNUtmcWJZXzI0djJsaDZRV2tyU0phelNyc2ZR?oc=5",
+            "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
+          },
+          {
+            "title": "RVNL Share Price Fall Nearly 4% So far, As Railway Stocks Extend Broad Market Decline - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KMEhHSnk3clZ3ZXJlWmRudmR0TU1WNlNxV1NXcnlRQ1pXWnFNaWdSSXZsX3FlQzFuM3AtUWRaVEpBdlZUQWNXQWgtOUk4WElNTUFPX0o2eHptQ2hVQ1JOaF8tRzRRdVRhX3hBRWNpc1o?oc=5",
+            "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+            "score": -4,
+            "label": "Bearish"
+          },
+          {
+            "title": "3 Fundamentally Strong Railway Stocks in India (August 2026) - Univest",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uNTl4cGRFSlNZbXFKZkVhSE1TaWRvQVZmZ3RuTmp3aTI0YUE2Z2JMYUU4VGJPTm0xY1BCNkR1blJybGdjWVk1NXVFSEdlT1licjBKdGpLdkYySnB4eVZBT1pCcmpjeEpfcEYwZG9UeEtIckQx?oc=5",
+            "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Rail Vikas Nigam Limited's (NSE:RVNL) Shares May Have Run Too Fast Too Soon - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRTBqYjNZTjBNWGhqNEd6RnFkRmRpSzJ2OFdVTldMbUJUd2RDakVjYTZZY2ZQcTZqcDBxOGVqYy11Um8xeWxXRGtDZ01SX0hjVGVENGU1UThrTG9BVlVyWEx3NXQ5eTBTaVVsMmsyQzlrdjlOd0ZsMDlYQzlNWEpYSDNjWUNjTlBjZ1RPcF85M2V0aEMyTURKcFNmRlI2UmRPU0ZiY2F1WDRycnc5anhZY1hSZDJCUl82U3o3NFZVVTVnVWNzaGF4dExtRFdJZ2dsMWNuUVBldWdnOUhUNzdn0gHkAUFVX3lxTE0zUGlMMTh3d3UwNUMxWGN1aDVWVEZGbU51VE81RFRpMlV5TWJ6NEI4T3QxQU8xMU10bnFyaXg3VENCTDNjZGhHOTVDYnNFbkhxb2YxbEtFdjgzcEk0aEt4V041MnM0VHJGWHViaTlTMHNFTlZIRnhGNkpZODVYMXdYaWthUFl6QkxIYjVRcmZsT1VwdWE2U0pYR253M2dnbW9RZ2lkU0pEa09tV1B3SEVFclRSOFkwWGhva0g2YUcyRTZjVm5yT0NMYk5obl9HSkJ0U2ZsRlA1UEFGTDgtbHdWOGFTag?oc=5",
+            "published": "Mon, 12 Jan 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Railtel shares zooms 14% after bagging \u20b9255 crore order from RVNL - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYkRGaE5WQUQ4YUdiTXVvOFlCbDZuMzM3QWlQU3JNVkdNbFdINTRFVXhhQTg5bnpkaEE1UlVyQnVlTVNoa3BHUHQ3aVM5Si1HZXZpTkNQSldhSzZKcXpvR0FicmpBQ184aUtZaGdFWmFwT09TYnRyS2VHeGJ5MUZwek0wbHRUWl8za0luYVktWkhGdDNsb3hCOF9LRndSVzg0a3dQS2pLM281ZnRSWDFOaXh3X3g0QVJubFExNTJrM3RJZjhkWU5aQUpxdWFpRnV6Rjl4WtIB2gFBVV95cUxNNENmMW1EMXJUdEY5Vm5EbW45TWRSU1hHQ25wU2plLUw0Y0pOaUtzUEdLWWhNT3pMbXdzMFdyWHJzamp1VElkMGJueUtxczJianQtN1ozTEMweGJvM2VMZVVVYmVXbWRXdklfOWg2RW5KSU5PejdQSjJQV3YxbndYUGZ3cnYzbWZoMEpDbDJCMHF1S0hINHFENWxSdXJBWXZQckYtdG1EekFsYzh0UklOMG5vNGQxNnNtMG05WEhkdUt4clU5QTM4blc1SzE0SlpsVGtiVzdYa0RJdw?oc=5",
+            "published": "Wed, 15 Apr 2026 07:00:00 GMT",
+            "score": 3,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 55.0,
+      "added_at": "2026-09-15T10:43:40.507417",
+      "first_seen_price": 203.2899932861328,
+      "first_seen_at": "2026-09-15T10:43:40.507417"
+    },
+    {
+      "symbol": "ORIENTTECH",
+      "base": {
+        "symbol": "ORIENTTECH",
+        "price": 244.80999755859375,
+        "day_change": -1.2862913070186492,
+        "volume_ratio": 1.6567513907929243,
+        "market_cap": 1121.374618412915,
+        "pct_from_low": 9.807603752411826,
+        "avg_volume": 524761.380952381,
+        "volume": 204019.0
+      },
+      "technical": {
+        "symbol": "ORIENTTECH",
+        "close": 244.80999755859375,
+        "rsi": 49.91,
+        "adx": 15.87,
+        "atr": 10.25,
+        "volume_ratio": 0.37,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": true,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": false,
+        "breakdown": false,
+        "macd_bearish": false,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [],
+        "setup": "HEAD & SHOULDERS",
+        "score": 50,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Double Top",
+          "Head & Shoulders",
+          "Weak RSI"
+        ],
+        "support_20d": 229.0
+      },
+      "news": {
+        "score": 50,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "ORIENT TECHNOLOGIES LTD Share Price - Live NSE: ORIENTTECH Stock Price & Chart - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ud0RDalY5UnZBQk9abG1rWjZmY2FWYzd3cVk4VXZ3ZC1Mc0RGaF9BOFowTldvZU1pMEhSb0VNeTVCZzVUOXp3cFZTQ2l1SDZvaHdYWmJwbWhGY2tVZUszV3lzVjRjTk84TVdmY1MwYw?oc=5",
+            "published": "Fri, 11 Sep 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Paytm, Orient Tech, Milky Mist among buzzing stocks as SENSEX drops over 400 pts; NIFTY trades below 23,400 - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYWZRVlRhRy0yd2ZxbDBpQnprSEItN1RDVjZZek5ON3M5eGhrRkhFeDdERm5pNU1rQndGY2pzU3IwN1FIRW5KNlNpT2YtTmtXTzRsNVl2b2ZMSHpTdlJoZUVYS2o4OEpSWHpkS3pINTZhZXlOMm5WeVpiajkwSkFMeEFwRlE3OUtyeFQ2M0cyQnJxQ2dCdkpLeXVIMUZ3LWpsV3I5Vl9abUtnX1JKcXZrdEdtQmFrcHJMaG9MaWxBd2NHLWpMeXUxcGpiZUFfZEctNDFlT1N0eUNGaFBGRkwxTjdTcUs4SWEtRmVPTG90ZU1CbFFOMmc?oc=5",
+            "published": "Fri, 11 Sep 2026 07:58:41 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Orient Technologies (NSE:ORIENTTECH) Will Want To Turn Around Its Return Trends - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORFlsR3Q1UjRwejFOcUtrRmpNbEQwTU9OWHd4Tzl1ZjQ3RHhTUHdGd3RfRC1Cb3VLenZCMm94d2gxYktpN3poRUtSa1ZoRkU4cUhtV0w5SnJUd3RMOXA3bm1KckVZQnF1RVJDNFRZNlBXX3FDQmVBa2MzME9BYjBSU2ZNbnFkNElNTWx6ZEJvZkFEZE5OOXJGWl9ja1lRYk80eGpLM3Q3UnVvOXluVTRXcXJKaGdEdW8tSXh6VUc3STZRN1EteWJVNlJ5emNPYnJFWW0zcXNfckpaZjFHWW82WXBn0gHnAUFVX3lxTE5sZ0RhSGxmU1lJS2twa09Bdy1zanhRaHNpeU5jU2NOTHA0WTI0SkFDU1hyX3JXRFRjRzBacjBiVnJDZ0hmMDh4eEFyd1ZOb2hZeXQ3NDZzWHRMY0RRMG00MUZ2SmxRaXhoTVNHUDNEMjh3N2t0bU5uZ05FVTFGUjdma01xMTBoU2NnaXM4LW1XU3FaRHExSXpiQlM2VmpQS3ZsQThuQ2JZZERBYmZoVFIyai1mT2lJY0g2eHQtamNCandQS1BrVVNPVzRRdGMwclJoZklkLXl3Y3NBZmhLVVdLNHNwa1ZWOA?oc=5",
+            "published": "Mon, 26 Jan 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Orient Technologies Announces 1:10 Bonus Share Issue - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcm1iN3RDbXBmdWJ0UkJRTmlsR0ZUSnFTNUM1M2FrNXJILTVxdmV3c3FuaTNkVHE2bFF4SFNYNnF0NXltMmxhRlBXc2JrcXI1YzZQc3ZpMEN2V082cjJkZG54R3ItaDN3UkptQmh0ajFRN1dlRF9waUNTdnFiczVwRWZDamNaXzJRRDJPYW82Q1c?oc=5",
+            "published": "Mon, 05 Jan 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Orient Technologies Stock Prediction 2026: Expert Analysis, Forecast Scenarios and Full Stock Review - Univest",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YVWdNaklnNVIxMktEQXktendwWTl5NThTSGZJbWJncHRUcFQycWRTTC0yLWg5dHlBcWlGOEE0NmJidGNvMDhyUHh3X2s2LWp3UVBzMDUwdUhpcC1zaWRpMEcwMVMzcTRqUXQ2YVZ5RHhVTmI3?oc=5",
+            "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 50.0,
+      "added_at": "2026-09-15T10:43:28.800438",
+      "first_seen_price": 244.80999755859375,
+      "first_seen_at": "2026-09-15T10:43:28.800438"
     }
   ]
 }
