@@ -297,21 +297,21 @@
       "symbol": "BEL",
       "base": {
         "symbol": "BEL",
-        "price": 389.20001220703125,
-        "day_change": -3.7467524836900585,
-        "volume_ratio": 1.5924354679919368,
-        "market_cap": 284496.60094774986,
-        "pct_from_low": 2.248201368335395,
-        "avg_volume": 9793881.666666666,
-        "volume": 11187620.0
+        "price": 388.70001220703125,
+        "day_change": -3.870407730988855,
+        "volume_ratio": 1.500272996389239,
+        "market_cap": 284131.11200629984,
+        "pct_from_low": 2.1224594136636776,
+        "avg_volume": 9820542.952380951,
+        "volume": 11747507.0
       },
       "technical": {
         "symbol": "BEL",
-        "close": 389.20001220703125,
-        "rsi": 33.78,
+        "close": 388.70001220703125,
+        "rsi": 33.48,
         "adx": 11.01,
         "atr": 7.58,
-        "volume_ratio": 1.13,
+        "volume_ratio": 1.18,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -346,7 +346,7 @@
         "label": "Bullish",
         "headlines": [
           {
-            "title": "3 Fundamentally Strong PSU Stocks in India (August 2026) - univest.in",
+            "title": "3 Fundamentally Strong PSU Stocks in India (August 2026) - Univest",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96YlZ3c0RUeHBaVzM5bjlUazBDV3dNczFRU2phbEgxUU1zUTlPRU5ZRUlGakw4c0lHdkVtOTdFUnZRbktFVHZZODE1a1dFcWhTMkpNVFBvSFY1RTdtbmJjaW9pS0ZRTFhsTEFPX25wYw?oc=5",
             "published": "Thu, 20 Aug 2026 07:00:00 GMT",
             "score": 1,
@@ -367,7 +367,7 @@
             "label": "Neutral"
           },
           {
-            "title": "HAL vs BEL vs BDL vs Mazagon Dock Shipbuilders: Which defence stock to buy after Q1 results 2026? - livemint.com",
+            "title": "HAL vs BEL vs BDL vs Mazagon Dock Shipbuilders: Which defence stock to buy after Q1 results 2026? - Livemint",
             "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOd0VfUGdtbllkSWY1eEdYbVg0Wm4wa0hwOHBZUDNxcWJpWE9qX3BYTzg1ekpOY0hWUWlZN1ZtdFM3cENmc2dBVGdqcUVYbklGTmk5aVFJS2xxMmFGTHdnR1ZnSU9MLUlwa1dydWtETmRYM1BCMF9CbGNsN0JyRHlZRS1mb25qYktkdzFDMlYzWXN4T3psTlRoazlpWXBMYXdWMlFVd2pjVHp2TlJldmV0NFFhQW15SHllem1QTW5xeDlrOTd0TFp1cDFnUmFsQzVVY1pOaXhLRFJnOXVsQXJhN1BxUFdwekNjaG0zWkwtcWJrOG5WVFVkOdIB_gFBVV95cUxOZXNSeTVTYXRMYXNsMmRmb0lPOW9BSW5iVHZhZjB5WnR4UWJwOWtBbkZ6QV9IS2xEU09vS0E0a3owaUhYMXpjd250ODZjV0dkdklYaklYc0RCQTNRbW93T1E5WUZkalBDRkFPQlIwdENHa1FURzE0RG5IZXJERHFQZGt0YWJfYk5wU2p2eHl6TkhfNlNlbFEweVVBS2pnNFUzZlp1cEUxWVEwaUlxWFVXbTBMaWExUEx3QkRrRy1rZV9PV2Y1WUkzMGc5eGJ3S2FBUE9STE5WM2gxa2NvOG9BUHdmQ0EzMktaZXBQNXhNS1BqRmlSM3k3ek5JR2JaQQ?oc=5",
             "published": "Mon, 17 Aug 2026 07:00:00 GMT",
             "score": 2,
@@ -383,7 +383,7 @@
         ]
       },
       "combined_score": 54.0,
-      "added_at": "2026-09-15T13:44:03.945961",
+      "added_at": "2026-09-15T14:14:25.390366",
       "first_seen_price": 395.20001220703125,
       "first_seen_at": "2026-09-15T09:42:45.185171"
     },
