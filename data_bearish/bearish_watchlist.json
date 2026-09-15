@@ -297,21 +297,21 @@
       "symbol": "BEL",
       "base": {
         "symbol": "BEL",
-        "price": 388.70001220703125,
-        "day_change": -3.870407730988855,
-        "volume_ratio": 1.500272996389239,
-        "market_cap": 284131.11200629984,
-        "pct_from_low": 2.1224594136636776,
-        "avg_volume": 9820542.952380951,
-        "volume": 11747507.0
+        "price": 387.5,
+        "day_change": -4.167183343432901,
+        "volume_ratio": 1.5077786097906247,
+        "market_cap": 283253.92962375,
+        "pct_from_low": 1.8193516885080645,
+        "avg_volume": 9881711.047619049,
+        "volume": 13032037.0
       },
       "technical": {
         "symbol": "BEL",
-        "close": 388.70001220703125,
-        "rsi": 33.48,
-        "adx": 11.01,
-        "atr": 7.58,
-        "volume_ratio": 1.18,
+        "close": 387.5,
+        "rsi": 32.78,
+        "adx": 11.12,
+        "atr": 7.65,
+        "volume_ratio": 1.3,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -339,14 +339,14 @@
           "MACD Bearish",
           "OBV Distribution"
         ],
-        "support_20d": 387.6
+        "support_20d": 386.6
       },
       "news": {
-        "score": 70,
+        "score": 65,
         "label": "Bullish",
         "headlines": [
           {
-            "title": "3 Fundamentally Strong PSU Stocks in India (August 2026) - Univest",
+            "title": "3 Fundamentally Strong PSU Stocks in India (August 2026) - univest.in",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96YlZ3c0RUeHBaVzM5bjlUazBDV3dNczFRU2phbEgxUU1zUTlPRU5ZRUlGakw4c0lHdkVtOTdFUnZRbktFVHZZODE1a1dFcWhTMkpNVFBvSFY1RTdtbmJjaW9pS0ZRTFhsTEFPX25wYw?oc=5",
             "published": "Thu, 20 Aug 2026 07:00:00 GMT",
             "score": 1,
@@ -357,13 +357,6 @@
             "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVTdYaHNsMnRKaDNUVkhBbnpOOTNuR1FfWnprVWVEbUs0VUM3aFp2eU9wX0RaMmhZQnFHTkJIZk9zOUc5ajVlZXpCOEIwR0RJRzRkaFg2eHRpcXpGeG8wZWtrMGVqUGpRZmtURmgwOFR6ckZkbE1XRFhjdXh6b09yVURydlg?oc=5",
             "published": "Wed, 20 May 2026 07:00:00 GMT",
             "score": 1,
-            "label": "Neutral"
-          },
-          {
-            "title": "NSE-BSE Closing Price Gaps Spark Debate Over SEBI Auction - Sarkaritel.com",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFRMSFFxaUlTVHhGSkRpZ2xzVU9ZU3FHdUxDQnBEb3pYRU4wVF9VNWoxRkhBT2hQRk50OU9xVmxIV0lPWEtFXzdJOWxRVV9GNWNocDhOT2hGNWxTRUR4U1hmM1NjU1lUN0o2QUZ5TUhZdkJQNjUwa1o5NktHbUtnbThWdlhEb2lmdmNCYldn?oc=5",
-            "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-            "score": 0,
             "label": "Neutral"
           },
           {
@@ -379,11 +372,18 @@
             "published": "Mon, 22 Jun 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
+          },
+          {
+            "title": "Buzzing Stocks: Coal India, Godfrey Phillips, BEL, Tata Chemicals fall 3-5% after Q1 earnings - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNM3hTWXhXdTVtQzNqeVYtTGJmVXBiSXJmdXB1WktLZWNnRkNrclFuM2VoRUd6TjlFYnpHVWlVZmx4ZEZKSXREQlhGd0lfTU1rSXdqODZuR3lSMGRCb25xM1IyZjUzT1dnRUdmNXNleXpXZDF5eDRaN3JoY1FPWUlzMkVYYXBWSFVDZHhvOGU1YU1UZFJ4c1phZGR0TVhiVUZqY2N0akw1S0FKSnotV1NkaGRvV09adXFEYzdYWDBPRDBZYklIeHByamFGMHoyaWwyLXpScWdMMVJBNDFKV3VtTUZnS0Y4Zmxh0gHuAUFVX3lxTE5kS2VlVlp0R1hHZjdYcmhsY0RGRERTMzRIak9teGc5YVJZcjBCRkxwLXNUa0x2NVVkV21INUJQdWlvMDN4UzBfWjRSVUNkRHBRQUJFNlpMdWV5S2xCYTFvRzcxV1RscDAyU0VZOXk0SlJuTndjX2xlbExkYmxLMlUtTFk1NXF0Ukk1elFQVTliOXhkOG9sa1hCZmJXTktpSm9kZVBEblRtOXJFSU1HUWkxTWE2S3ZyNzVOaGh0WmxnN0V0dldsUDcxNW81RWpoLUdZaW9RcWRrVGt3R19kanBOUzFsYXFkMzJwbzVXZ0E?oc=5",
+            "published": "Tue, 28 Jul 2026 07:00:00 GMT",
+            "score": -1,
+            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 54.0,
-      "added_at": "2026-09-15T14:14:25.390366",
+      "combined_score": 55.0,
+      "added_at": "2026-09-15T14:43:42.722811",
       "first_seen_price": 395.20001220703125,
       "first_seen_at": "2026-09-15T09:42:45.185171"
     },
