@@ -297,21 +297,21 @@
       "symbol": "BEL",
       "base": {
         "symbol": "BEL",
-        "price": 390.8999938964844,
-        "day_change": -3.3263291712645553,
-        "volume_ratio": 2.2072378742322276,
-        "market_cap": 285739.24996407505,
-        "pct_from_low": 2.6733133416779795,
-        "avg_volume": 9670418.095238095,
-        "volume": 8594885.0
+        "price": 390.6499938964844,
+        "day_change": -3.3881567949139533,
+        "volume_ratio": 2.000755093459802,
+        "market_cap": 285556.50549335004,
+        "pct_from_low": 2.611028247489477,
+        "avg_volume": 9707545.238095239,
+        "volume": 9374555.0
       },
       "technical": {
         "symbol": "BEL",
-        "close": 390.8999938964844,
-        "rsi": 34.85,
+        "close": 390.6499938964844,
+        "rsi": 34.69,
         "adx": 11.01,
         "atr": 7.58,
-        "volume_ratio": 0.88,
+        "volume_ratio": 0.95,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -383,7 +383,7 @@
         ]
       },
       "combined_score": 54.0,
-      "added_at": "2026-09-15T11:46:40.635115",
+      "added_at": "2026-09-15T12:16:37.540361",
       "first_seen_price": 395.20001220703125,
       "first_seen_at": "2026-09-15T09:42:45.185171"
     },
@@ -862,21 +862,21 @@
       "symbol": "DRREDDY",
       "base": {
         "symbol": "DRREDDY",
-        "price": 1153.4000244140625,
-        "day_change": -1.038178943452381,
-        "volume_ratio": 2.1215122285660346,
-        "market_cap": 96076.91004116363,
-        "pct_from_low": 4.543092015338059,
-        "avg_volume": 1168081.5714285714,
-        "volume": 997848.0
+        "price": 1152.699951171875,
+        "day_change": -1.0982452876984126,
+        "volume_ratio": 1.925770014003965,
+        "market_cap": 96018.59473642273,
+        "pct_from_low": 4.485117841751882,
+        "avg_volume": 1172460.619047619,
+        "volume": 1089808.0
       },
       "technical": {
         "symbol": "DRREDDY",
-        "close": 1153.4000244140625,
-        "rsi": 43.63,
+        "close": 1152.699951171875,
+        "rsi": 43.41,
         "adx": 29.39,
-        "atr": 20.86,
-        "volume_ratio": 0.89,
+        "atr": 20.99,
+        "volume_ratio": 0.97,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -945,9 +945,99 @@
         ]
       },
       "combined_score": 34.6,
-      "added_at": "2026-09-15T11:46:53.423675",
+      "added_at": "2026-09-15T12:16:51.614278",
       "first_seen_price": 1153.4000244140625,
       "first_seen_at": "2026-09-15T11:46:53.423675"
+    },
+    {
+      "symbol": "HDFCLIFE",
+      "base": {
+        "symbol": "HDFCLIFE",
+        "price": 525.2000122070312,
+        "day_change": -0.9056580741450472,
+        "volume_ratio": 1.524908409455083,
+        "market_cap": 114076.02385186718,
+        "pct_from_low": 3.141660246857683,
+        "avg_volume": 3055511.380952381,
+        "volume": 2261350.0
+      },
+      "technical": {
+        "symbol": "HDFCLIFE",
+        "close": 525.2000122070312,
+        "rsi": 41.8,
+        "adx": 16.22,
+        "atr": 11.89,
+        "volume_ratio": 0.74,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": false,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [],
+        "setup": "DEATH CROSS",
+        "score": 32,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Weak RSI",
+          "MACD Bearish"
+        ],
+        "support_20d": 508.7
+      },
+      "news": {
+        "score": 55,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "HDFC Bank, HDFC Life at 52-wk lows, down 30% in 2026; analyst flags worries - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYXdVWTVqRE0tTWtUSVFXTE5aMmVmZDRfc3FIZTh0UnlTSzVoNVBfTGFEdUpHR0hUNXlkZ0c4dE9MN0pZUlFwcFI4Z1BkOEpxZ3BKS2dNd2JBWFlDMmZtejFLZTFoY19CMkw5VXc1ME5nQmJFTlRhQmxOSlFSdkh0YXhoVi1halhLc01KRkc3T0xkbzFiYjg1OG1Cd3VJc0c4aVg0ZVpGRXJ0YkhUVzZVeWlLNDlqS1ZkQzNaWFVCN29NNlR6Rk1pWDNjN2U4SnRJ0gHWAUFVX3lxTE5MWU9aWU9sMWhwQ2N2UjhpaDBBTmtLM1gtMlJrTEZQTWxsQzZPZV9XZVNmY0JDS2JSTlByTnA1TFlHQTF3cjlRTkZCQVlTSThkVUE4UWZJRmE4Wm1Db19QUjVwM0MwM2owenYtMnFhYzYzTl9OanVlN3FlXzJPZ05xNHptY0s1Y1lVMGFvcHB6OF9tYWpFdmNMT0RYM1JPVnM3Z0dNbzI5Q3dLVWhtOWN1TTVtbU5sUHpKczJJZ2FBVHdKUlFWV2xxYm16WVlXUzdXRlNDWGc?oc=5",
+            "published": "Wed, 09 Sep 2026 05:48:03 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "3 Fundamentally Strong Life Insurance Stocks in India - Univest",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xRGVRS0hpZzVwd1JORkhXVDQtQnJpNWZMZ2k2S2ctT1dickswUi03UWdDZVh4Mnd4LUNVWWdoUXlpLTFzcTlwdkJxNzJNV0tPck1mdUFLR2xiY0w4VC0zWDZtOEE?oc=5",
+            "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Nifty Top Gainers & Losers, July 30, 2026, 3:30 PM IST: M&M Leads - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XZ1ZjQ0d1dV9WdzlEQWNOX1c3UlhWZ0dJai1Xc1JVYlVtUnY0VHE0Z1JVdVpDOEMwWjhDYkxMVHNyNTkwX01KM0E3Y0x5RlNnWnNNclQzYWRPVTVmRkg4UWM0N2FoQWsyOGFJSS1OMA?oc=5",
+            "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to Watch Today: HDFC Life, Adani Power, TVS Holdings, NTPC Green, Laser Power, India Pesticides,... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOa1FGdFBQZXFaZFN3SzRrQUU4UVNKZnd1dTZjX1FkbWdBNjNtVFpvSGpaNGhKSGxoM0tPajFBeWtvaGlNcWNoN2NoUjlTamUybXpEQnRmNWhuVjN3OEhZZGZYdE1OVmR3U3BLMHREcHVvbFYxamFYSy1sWVpqVllvaEtsMFlqdTFaRVQwUW9jeEUxUG82MlFpemFCZF96Nkx6Wll6NFczNFVIeEx0ckFYeG1xODhvTU1tN3VmUVFMY3p6QjdEVFF3b2oyTERYU0R3enNDd2EzY1J0elpjZ0JIc2U2Q09YMXdxa3VlY0NEdEQtZWRZcklXR3BZN3pfN19xb1pfbFBhRUNiLWFfOHJhaVdRQWQyWDdQbk1uWEtJLWdIVWhFdnhkTGZoa1ZwZTBrQnZIRWFaSXHSAb4CQVVfeXFMTXJmNFBfNUVpaEhmc0NwdVhwNk1ZYXI3cmQwT0FEZkYtYWExXzJqazAtbC1YRlA4WmwzUHIwS19NcTJMVHphbGRaNW84MGo4S2MweEh5blZ0SjJZUlJ1SzBfUl92emZ0N2dndnZ4Z2VTLWM0YlB2STkxTFV2aG0tYlE5VFUzWUk4M3hNSDFqNFN1N2NnQXlhMVM1bmNTU3NXSm1zVmNKM2ZuMkhsR0dDM2RaMWxOSFNZV3A2Z3c0S3BJTy13SEY0M1ozTnVweWdlclFWUVlOeGloT1B1OGU2RlV1WmYyOVBWTXdvZWdVWDRjWW8xS2c2Ti1KbmRzQm1PSzZlN2xlczBRTGZnS3ZGdTJTWERfcmt2a2NVTER1dy1YY3NocHFRTHUwcjZUeVJjb3R2ZC1DaWdlWXUydmx3?oc=5",
+            "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Wipro, HDFC Life among buzzing stocks as SENSEX jumps over 200 pts, NIFTY above 24,200 in noon deals - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOTFuMFZjeFpvX0NTR2hEcVpWNmxKV1ZGa082RDFqVVI2S1N5REt0enAwUGVYRlk4TWtfNmI0UDdpZkVpNWdSN20wOWJHWmgzOG4yMk9Gd09IU0VfSGVIbEpzZXMzYkFmZ19yeFV2blV4UWZyU19EMG80aTIwUVVJaWg1anRpTlM3Tk5lWWZEOURjT1RtSTdmNE4yT2xBSVdLamVvc2tqVmxBWTdoSThNbE40UXQtYmRFUnFuX0VmY0d3dDhtZ05Wd1JTcEZWQ1lfWV84WERlUGJqV2lFRU9TazQ0TUUtdmZ3c3g2c0VB?oc=5",
+            "published": "Fri, 17 Apr 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 34.6,
+      "added_at": "2026-09-15T12:17:05.407425",
+      "first_seen_price": 525.2000122070312,
+      "first_seen_at": "2026-09-15T12:17:05.407425"
     }
   ]
 }
