@@ -5,21 +5,21 @@
       "symbol": "IEX",
       "base": {
         "symbol": "IEX",
-        "price": 113.87999725341797,
-        "day_change": -2.35788396189764,
-        "volume_ratio": 2.064764358154538,
-        "market_cap": 10132.213228331999,
-        "pct_from_low": 0.7727408453125483,
-        "avg_volume": 3224116.095238095,
-        "volume": 6657040.0
+        "price": 113.30000305175781,
+        "day_change": -0.5093029642154724,
+        "volume_ratio": 1.7565820302734136,
+        "market_cap": 10080.60932289319,
+        "pct_from_low": 0.2647864463170092,
+        "avg_volume": 3206227.8095238097,
+        "volume": 871083.0
       },
       "technical": {
         "symbol": "IEX",
-        "close": 113.87999725341797,
-        "rsi": 26.71,
-        "adx": 26.84,
-        "atr": 2.42,
-        "volume_ratio": 2.0,
+        "close": 113.30000305175781,
+        "rsi": 25.72,
+        "adx": 27.77,
+        "atr": 2.33,
+        "volume_ratio": 0.26,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -29,13 +29,15 @@
         "bear_flag": false,
         "ll_lh": true,
         "near_breakdown": true,
-        "breakdown": true,
+        "breakdown": false,
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": true,
-        "patterns": [],
-        "setup": "DEATH CROSS + BREAKDOWN",
-        "score": 76,
+        "patterns": [
+          "3 Black Crows"
+        ],
+        "setup": "DOUBLE TOP",
+        "score": 62,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -43,12 +45,10 @@
           "Lower High / Lower Low",
           "Double Top",
           "Near Breakdown",
-          "Confirmed Breakdown",
+          "3 Black Crows",
           "MACD Bearish",
           "ADX Trend Strength",
-          "Volume Expansion",
-          "OBV Distribution",
-          "Strong Volume"
+          "OBV Distribution"
         ],
         "support_20d": 113.0
       },
@@ -78,7 +78,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Indian Energy Exchange (IEX) shares fall on report of CERC proposing rules for market coupling - upstox.com",
+            "title": "Indian Energy Exchange (IEX) shares fall on report of CERC proposing rules for market coupling - Upstox",
             "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPY3d1clpFR1ZzMTZCZjZGZF9qV01mNksxRHZjU0pMcXFycml6NVRlQUIzVzZRdHV1U1ByVjJ4WENmZkpPdTExZHFMdElqZjJjRG5OMnVGRk5wNHZSZUhNU2pMMXh4cWdReFBZaVFUdklLV3d5TVpZaHBVRlppVUNCLW9lRmFyNWV5M1NTNkdYU1c2WTJfemJVUmVJakZkMVVzdlc1Yms1TlVkWjBNNGxMZmU3YnE2bkVjM1JKZHFhWTlOMlZ3ck9fTFU3TWRLLUxjdVBRUUNMTFJVYlgxZ0FSSjh4eUhjUQ?oc=5",
             "published": "Sun, 19 Apr 2026 07:00:00 GMT",
             "score": -2,
@@ -93,8 +93,8 @@
           }
         ]
       },
-      "combined_score": 76.8,
-      "added_at": "2026-09-15T06:21:40.667126",
+      "combined_score": 65.6,
+      "added_at": "2026-09-15T10:13:54.492818",
       "first_seen_price": 113.87999725341797,
       "first_seen_at": "2026-09-15T06:21:40.667126"
     },
@@ -200,21 +200,21 @@
       "symbol": "BANKBARODA",
       "base": {
         "symbol": "BANKBARODA",
-        "price": 236.27999877929688,
-        "day_change": -0.7768891217324931,
-        "volume_ratio": 3.569836459298966,
-        "market_cap": 122188.94493414222,
-        "pct_from_low": 0.9437936935246241,
-        "avg_volume": 7745098.80952381,
-        "volume": 1990709.0
+        "price": 235.61000061035156,
+        "day_change": -1.058247268630037,
+        "volume_ratio": 2.453899909384402,
+        "market_cap": 121842.4646150539,
+        "pct_from_low": 0.6621100779052462,
+        "avg_volume": 7791113.238095238,
+        "volume": 2957012.0
       },
       "technical": {
         "symbol": "BANKBARODA",
-        "close": 236.27999877929688,
-        "rsi": 40.31,
+        "close": 235.61000061035156,
+        "rsi": 39.39,
         "adx": 20.12,
-        "atr": 4.25,
-        "volume_ratio": 0.26,
+        "atr": 4.31,
+        "volume_ratio": 0.38,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -249,7 +249,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "Bank of Baroda Share Price - Live NSE: BANKBARODA Stock Price & Chart - upstox.com",
+            "title": "Bank of Baroda Share Price - Live NSE: BANKBARODA Stock Price & Chart - Upstox",
             "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kMkkzR1p5aVA1NFZxUnNWWnVHdWpRMlZmMkYwNEVWUU1NcnhJbnBVdWFqVDV6d2ZURkxtV0VhYlI4X1BUbjZyd19kZGYtSklkendYamc4ZDNsZkNqb0RDVFlWNA?oc=5",
             "published": "Fri, 11 Sep 2026 07:00:00 GMT",
             "score": 0,
@@ -277,7 +277,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Bank of Baroda (NSE:BANKBARODA) Q1 FY27 Business Update - Kalkine India",
+            "title": "Bank of Baroda (NSE:BANKBARODA) Q1 FY27 Business Update - kalkine.co.in",
             "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3FOVmxTM0Z2Wm5DdndUR2tGaWdleXdNLVQ5cjQ2TFVpc090YkhlQl91QjU2NVBuTUxTbVBmTjNxSU9kNUxaNDdscUMzMVpXbEJTVFVuYm45NU1BN2dWTl9Rbm5oZzluaWM3UUlpV3FkekR1Z1R1aWhtMEdqeTJkZFlpVkp4Q2wyWDBwRmg2VG5JRF9mcFFnUWxoWDRwX1FBUllJSmNvUlNNd296Sk9obzF1dWxGdm5jUllZc1pR?oc=5",
             "published": "Thu, 09 Jul 2026 07:00:00 GMT",
             "score": 0,
@@ -286,7 +286,7 @@
         ]
       },
       "combined_score": 55.6,
-      "added_at": "2026-09-15T09:42:44.495579",
+      "added_at": "2026-09-15T10:13:26.453562",
       "first_seen_price": 236.27999877929688,
       "first_seen_at": "2026-09-15T09:42:44.495579"
     },
@@ -294,25 +294,25 @@
       "symbol": "BEL",
       "base": {
         "symbol": "BEL",
-        "price": 395.20001220703125,
-        "day_change": -2.2628895161045035,
-        "volume_ratio": 3.8107961577848437,
-        "market_cap": 288882.4682451499,
-        "pct_from_low": 3.7322873341089373,
-        "avg_volume": 9383741.952380951,
-        "volume": 2574686.0
+        "price": 392.8500061035156,
+        "day_change": -2.844070687872314,
+        "volume_ratio": 2.704241973821596,
+        "market_cap": 287164.66575879994,
+        "pct_from_low": 3.156419423146703,
+        "avg_volume": 9449339.952380951,
+        "volume": 3952244.0
       },
       "technical": {
         "symbol": "BEL",
-        "close": 395.20001220703125,
-        "rsi": 37.86,
-        "adx": 10.23,
-        "atr": 7.15,
-        "volume_ratio": 0.27,
+        "close": 392.8500061035156,
+        "rsi": 36.15,
+        "adx": 10.44,
+        "atr": 7.25,
+        "volume_ratio": 0.41,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
-        "double_top": false,
+        "double_top": true,
         "head_shoulders": false,
         "rounding_top": false,
         "bear_flag": false,
@@ -323,19 +323,20 @@
         "macd_cross_down": false,
         "obv_distribution": true,
         "patterns": [],
-        "setup": "DEATH CROSS",
-        "score": 50,
+        "setup": "DOUBLE TOP",
+        "score": 60,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
           "Lower High / Lower Low",
+          "Double Top",
           "Near Breakdown",
           "Weak RSI",
           "MACD Bearish",
           "OBV Distribution"
         ],
-        "support_20d": 393.6
+        "support_20d": 392.15
       },
       "news": {
         "score": 70,
@@ -370,7 +371,7 @@
             "label": "Neutral"
           },
           {
-            "title": "BEL secures orders worth \u20b91,081 crore; shares end flat - upstox.com",
+            "title": "BEL secures orders worth \u20b91,081 crore; shares end flat - Upstox",
             "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTFNUTVxR0xvZmRlTHZja0NNNmdjMVdoUmQ3OUNrelMxYnI5amt0Q0dQQy04MTRFRzVQLV9xV2hVdHdNUzItVTJSeFJDNHZKWkpmZ2hid2Z4N2hEeWcyZk1jOUJUeGxFRWRPblBVVnhwMml6Sy1Sd1FQeTJTanJxNllSOXpPdlhYWTBXRjYyQWlXVWJaZmVpSFhxOTBxcGJ3RmJJcmoxVnBTTXBGWFA0QQ?oc=5",
             "published": "Mon, 22 Jun 2026 07:00:00 GMT",
             "score": 0,
@@ -378,10 +379,198 @@
           }
         ]
       },
-      "combined_score": 46.0,
-      "added_at": "2026-09-15T09:42:45.185171",
+      "combined_score": 54.0,
+      "added_at": "2026-09-15T10:13:27.404419",
       "first_seen_price": 395.20001220703125,
       "first_seen_at": "2026-09-15T09:42:45.185171"
+    },
+    {
+      "symbol": "JSWCEMENT",
+      "base": {
+        "symbol": "JSWCEMENT",
+        "price": 117.97000122070312,
+        "day_change": -0.5731144512690676,
+        "volume_ratio": 1.5608836399224433,
+        "market_cap": 15908.414350945923,
+        "pct_from_low": 9.595659555556244,
+        "avg_volume": 1042837.4285714285,
+        "volume": 256099.0
+      },
+      "technical": {
+        "symbol": "JSWCEMENT",
+        "close": 117.97000122070312,
+        "rsi": 25.62,
+        "adx": 32.98,
+        "atr": 2.4,
+        "volume_ratio": 0.25,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": true,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DOUBLE TOP",
+        "score": 65,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Rounding Top",
+          "Near Breakdown",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "OBV Distribution"
+        ],
+        "support_20d": 117.5
+      },
+      "news": {
+        "score": 50,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "JSW Cement IPO allotment finalised: How to check status online on NSE, BSE, KFin Technologies; listing date here - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPMjk2dXllV1Z0Z0tSUE9oR1pUcjdQVmp0ZVNYcEIwM3QtOXhhTldwWWFYbEdnbk5hcldvM1B4NXdjMUxMbWJHWGJlLW9CdU9kc25yTkMxQ2lsSGx4QkstZ1VEZzhkbzNWZFZGY0NiTUM4V0pEWG9kNTZQZV80eno2N096RGlHd25rMldxX2VnbEI4TWdBUzB6ZXJIdEVCc2Z2aWIwMGw3R2p4aFhTQnZEcm9GanlBTFEyR2pZOC1IMGlWTmVBazZvcWpvc1YzanJMVWZpTUVnTUlsVjlBWHJZS0VCbzM5YnJxOTEzMXR2QUh6RkQ0dVA1OVE1eWhCR25yRkJoMTBSTm9iVC1ydnFvSQ?oc=5",
+            "published": "Fri, 03 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Vodafone Idea, JSW Cement, Ola Electric, Central Bank of India among most traded stocks on NSE today, 22 May 2026 - Livemint",
+            "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPU0drSFZVRWJxWUExWlFYdldwX2RlYkJKX3FoZ21DRnZVVVVTMHQ5VU1oNGREV1pLTzRKeHFXeXQwam1KMmVJcHBOWEd1OV9mYTF4WHpLV1ZRbnJjVnhqbzFvemNjRFA3eWw2em9zNG5mdElwcnVFT1VDV0dmOXVESE1EU2JqWFhxSC1DdllRVTZGVzZaQlMydU9TLWhmejdSNV9GS0otYmlPVm1rTDFRTF9iSTNpczNZVmdHUk9xQnEzdXVnOUM0bS1jQkpwbThUYks4a09VM3ktVHZ4TW1oaThEek5rUjY5VHdQaDExN0h1Z292X0ppLTFkUXFmS08xTnlTcF9aUWhxZUHSAZACQVVfeXFMUGFGOV8wZ29vX1hiY25ieFFIVjBKNjZBZkx4aERJZkZfX2VobWNTWlZrY1VVdGlwNDZKV09MX1FYY2pQUm82ekpteUpnRDlRZkpqbFRlZTc3c3ZEd2xYWU1PYjJXZmpRZkpuZ3NzNXpGVzF0alk4S3FsODZ3RE8wRXZIMXpfdXJ4NW5UOUMyQ3k0RVVYeGhPMS0tZ2pWZDU3cGZURFlIUGx6TWpOQnpoTGFOTENqUWRwWjBrVWpoZ3g5bnF4dUJScE5rY25JSDZHWVdsR0Z1TE1xY3ktaUVCQjBYOW0tRzBUS2F5LTZLaS1iNFZ5cEJpUHRlQjVjcHZibXBOT2RBUHpNZHVjZzQ2US0?oc=5",
+            "published": "Fri, 22 May 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Trending Stocks May 22: Vodafone Idea, JSW Cement - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRkZvU0R4TzZxaUxxb1p0dUJhMTN6aWFmaTlWdkZ2dElkY3JGZlg5UVJhYVo2UVVkYVJKOUlzbGYzNHhKQ1ZUc3NTOEtiWWRyNVBYVEpkZTZwQS1EMmxLeXVIdlJ0SkM4LVduNkZ2aEVZc1lyZk9EaHBOU0M3TTNrZWNISVVQSWo4b1VZX1J0QjV1MFFKVk1UdVVENWtiMjZrRXN0Qm1n?oc=5",
+            "published": "Fri, 22 May 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Block Deals: AP Asia Opportunistic Holdings sells 3.4% stake in JSW Cement; Madison India pares 2.2% shares in Pine Labs - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUEhmbklRaGJTSU1qMHVKNWhJcDlpVDlBQXNjcE1tZ1lod3JvN05vdHM4VC1EMTVFNjExU3dMMkdYWThwNG5RRGJ0UldoRUVCSG1lN1QtNmRvYm5WWC1yeDQ5NHZSVkgzMjJmNEowUzByLUtTWnlKWlg1SjMyQ1Z5cjE4NG1YaWVLX3IzUWxLakp6MFJYWWhYdE1EU1dvcm41VER1Tk1NOG5IYS1CeVZKV2p4Q01yNXZTT21yX0VkUWFtb1piUm9hUHJMMDV6Z2dVSXJRdmNpR2hwRFJoMklZVmxWRWcxelVOMzhjbnpBNGNndDZqY0dabHE1RUNnQWpnMVZ3MTRhd0FVVmZrMXc?oc=5",
+            "published": "Fri, 22 May 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "JSW Cement stock jumps 9% on Q3 turnaround; trades at 2-month high - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeHdRd2ktMldfYmhEYmVKNDdjVEFlZWNvdm02ZGZDRUtiYUtoZHlxbVFQUmJyc0tiQS1LTlF6NWxYNUNzb0R4U083UU1JTkpsR29OVEJRaFhQNHF2bGNZS0lHaVBna082NzJwdDRYU09lZFk5YnlFRnNMeG1JeF9teW1RaGNubVY4bkE4TTNNSk4tSXJiTmxDUWhFbFdJNVBXY0VMOThDbVZ1NGVfX3dLdC1JUU9wUlY3Unk1WWs5bWNHZ1VtaHJvREJwONIB0AFBVV95cUxNbThBS3VJZHlBU0RpVGhKUEkwX1BHVl9YVVp5UTJfQ2hlMWs4R3RJNF9CR0RMTXUzeDRiSGtObk5aeVprWHF3UkNlZmM3UnIwTndQY2pmSHI1TEwtcmdTS0M0ZEU2TEhnOXNVZ2JPa203RHpxUmNXMkMza0M5a3pSYWtZYlBmRjJNNk9XV29pN0RNS0xNRnRhNDFqd0lYSm1JMURfMzhOU0IwbkozOEEwcDR2bXNpWVQxR0RIZjk1MXRDQzZ4NERXNHFkZDhRSzZI?oc=5",
+            "published": "Thu, 05 Feb 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 62.0,
+      "added_at": "2026-09-15T10:14:00.953634",
+      "first_seen_price": 117.97000122070312,
+      "first_seen_at": "2026-09-15T10:14:00.953634"
+    },
+    {
+      "symbol": "CANBK",
+      "base": {
+        "symbol": "CANBK",
+        "price": 123.36000061035156,
+        "day_change": -0.5161285400390625,
+        "volume_ratio": 2.923099866671893,
+        "market_cap": 111895.55449698863,
+        "pct_from_low": 9.849222978083674,
+        "avg_volume": 11496935.904761905,
+        "volume": 5197835.0
+      },
+      "technical": {
+        "symbol": "CANBK",
+        "close": 123.36000061035156,
+        "rsi": 36.77,
+        "adx": 9.89,
+        "atr": 2.37,
+        "volume_ratio": 0.45,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [],
+        "setup": "DOUBLE TOP",
+        "score": 55,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Near Breakdown",
+          "Weak RSI",
+          "MACD Bearish"
+        ],
+        "support_20d": 122.65
+      },
+      "news": {
+        "score": 70,
+        "label": "Bullish",
+        "headlines": [
+          {
+            "title": "Canara Bank Share Price Today, Canara Bank Stock Price Live NSE/BSE Updates - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vN1ltcXJpMGJtU0Y2UlMwc1dTaVpfbkVNaTZGcUY1WmR6R1JsZUl6VWtOem9BVFhKT0FwMFBhUnFBdnA0bzdhUG95ZElaa2ZtcGMtX1B2aFZVTjZaazcwLWkwS0dBVkFPVW0xN19PeHY1RTd5cVdaeklEVVQyS1E?oc=5",
+            "published": "Thu, 10 Sep 2026 22:08:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "CANBK Share Price Today - Canara Bank Stock Price Live NSE/BSE - Univest",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xRkd6dFdldUZfYVVNRG9zMFZjd1dWTTFrODZ2SXh3dmZvbkYzMU5MT0xEc3l2RlotY0VsZlVmdUZPNHh1eVFiRDVFRVBEanZ1RDVlRE14SFdOd2tiNEM5WmtWaHJMRGtwZWtRNlpR?oc=5",
+            "published": "Wed, 09 Sep 2026 06:25:09 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "With EPS Growth And More, Canara Bank (NSE:CANBK) Makes An Interesting Case - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ0c1OWEwSFRfa2hjUkVfS1JRdkVfVG5pSlR6aUxwN1VGb2poR2U2S0hCLWdSWW1FdW9fZjJmZzY2c0UzanQzeERkNWlOTzczbGZFU0xhWnU5U2pKMDFzYnd4M1AxUTFYbFFRR0RyNU9wcFZGUkFzTGdzTVdSTmZtMTA5LUk5RG9peW9ZbUN2c0NxMWJnT1gwdmdHTnJOaTk1dmtjSEJBU05teVNGLU9lRW9nTHpUSFJKYks5eS1WYzZmdGx5ZnBPSTYzN2JWZkHSAdQBQVVfeXFMTUZWdXZZRG5iUF9kMHRQZlRSdF9xWG0wMkNXZ3puY25HeGlCb0VzVjZpMjdfV0hfVE5HS01uMkNsSUVIMnJlR3ZjVWF3R29kLXJNaWpzSEZqdGRvVF85bFZBblVwREx2Y2U2SVNMNzJzNzJfTEhUUHZXbUs3bGFOUmN5V2dmRFJpSjI4NmVwanJWMUZ1Z01YTV9WcklmMnR5M2YteDQyMVNVb3pNQ3pLcmRGeHprLUZPbWxVeUpkQUlkVm9vS1ZKdlR2bnhucWMtT092UzI?oc=5",
+            "published": "Fri, 08 May 2026 07:00:00 GMT",
+            "score": 2,
+            "label": "Neutral"
+          },
+          {
+            "title": "Canara Bank Stock Price Surge on Leadership Updates & PSU Rally - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX2xubjZhYWRPUWFBdDhpckI1V282S192SHJTSkg4ekFsOXVaQ0FMbUdkenhuc0plM095SDYxamFhaDE1Ty1XWFNMZ0NtUld2UlNGTE9YNWJIemtRY0YtU01UaFU0Q1hUWlNZQTZkd3Y0N0JDWHlrRFJ1VUpLUWhEcjdOMi1aTHNlY1VLWngzbTQyb0VHdUdtRkIwSjhpcTFtZWhmSG8yS29zR2JPNkZJb1dBOTJaQ3ZuajZkSVR0Yjd3VHM?oc=5",
+            "published": "Thu, 18 Dec 2025 08:00:00 GMT",
+            "score": 2,
+            "label": "Neutral"
+          },
+          {
+            "title": "Bank of Baroda, Canara Bank, Federal Bank shares rally; NIFTY Bank surges most in two months, here\u2019s why - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcUdyQTZNOVdTbFJQWWhyRHh3WElFUnhfQ1pQMDRTbl8wM3doMVF4TDloN2dBOU1LUW1uZDJzSVZ0YlRMeHpjU0NnZmNWSzhMRHprV1RfdTNmYk1sQ245ZC1hOVptYXcyUXh2UW9CUkVxOXdnLU4xYkFzWnc1WTV3U2NsVmdPYXpMU3puMzh0c2VsUVhPTktWUjI0SFhOOEwyUTlxb2I0VElDcVRRY3hnblR2RFFVUklUZi1oTzE1Y2FBVzFsUWIySy1UZjE4b3YwYmNvYzJhVGpudHpXcFEwd0FzQVlrSXp6TGhmOG12My0?oc=5",
+            "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 50.0,
+      "added_at": "2026-09-15T10:13:31.261459",
+      "first_seen_price": 123.36000061035156,
+      "first_seen_at": "2026-09-15T10:13:31.261459"
     }
   ]
 }
