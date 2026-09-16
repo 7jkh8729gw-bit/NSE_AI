@@ -97,21 +97,21 @@
       "symbol": "WIPRO",
       "base": {
         "symbol": "WIPRO",
-        "price": 166.7899932861328,
-        "day_change": -1.8882392434512867,
-        "volume_ratio": 1.9779261194679947,
-        "market_cap": 165005.83877650814,
-        "pct_from_low": 0.9772706335128544,
-        "avg_volume": 8460002.476190476,
-        "volume": 6782548.0
+        "price": 167.0800018310547,
+        "day_change": -1.717645981732537,
+        "volume_ratio": 1.7424060102511398,
+        "market_cap": 165292.74509663187,
+        "pct_from_low": 1.1491489992241837,
+        "avg_volume": 8478441.857142856,
+        "volume": 7169775.0
       },
       "technical": {
         "symbol": "WIPRO",
-        "close": 166.7899932861328,
-        "rsi": 34.66,
+        "close": 167.0800018310547,
+        "rsi": 35.01,
         "adx": 16.58,
         "atr": 3.62,
-        "volume_ratio": 0.79,
+        "volume_ratio": 0.83,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -159,14 +159,14 @@
             "label": "Neutral"
           },
           {
-            "title": "BSE replaces Wipro in Nifty 50: What drove the index reshuffle? - firstpost.com",
+            "title": "BSE replaces Wipro in Nifty 50: What drove the index reshuffle? - Firstpost",
             "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTV4aXNrSlBhaXFiMzVwem1xdURTd1FrNDFUQndfd2JKaEpLbHNMdE15R0xWZVlfaWpCSXRCc1Y3VW9Jd1BuZHBBcDJkbUVlSndLbTFCYm1TWUVvaGRjQ0ZLVE03bjVMU3IwRTVNU2pScUtvcWgxY1plRkd4OEFlS01INnBFQXdDdGd5QnFEbUo0UdIBlwFBVV95cUxOMEZvNWFpLTZqaVAtMWxnZ3hzWEwxRWVYZVZNTUtTdXl1X0g4bHdubFFiREFRUmNqVFl6NEZCWUZqZHV4RlN5YUdOMjlIT0xaTUtxckhHc01RbVJzSk5VMzgwR0RENGNxeXhGZE5RSkF6bmFKUjd6QUpUQkJRWmJZNEE4ZmZQMG54UjFsWmVJU3dzZVl4TlQ0?oc=5",
             "published": "Tue, 11 Aug 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
           },
           {
-            "title": "BSE enters Nifty50, Wipro exits: What changes from September 30 - timesofindia.indiatimes.com",
+            "title": "BSE enters Nifty50, Wipro exits: What changes from September 30 - The Times of India",
             "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbHBKZWg5Q3ctOU1ZMVNTYlBEb0dEWUJmRkRkaC01S0VjVGEyallKVkVqUmVMTDhxRXg5U1RiNDRKVnY4TDNxSkpIcXJfUFh2d3NVRklzVGhndmZReFQ4Z29RM3dMczhNUFlkU3NpN3dJQ0hkS3FaSWdTMDQ1cHRkN2tLa0d0empCZk9iZEZ6S3FFVHFELUI3dkd2MlFXalotQURidXRwUlJTb0dJRVFpSXByYy1IU3E2WGU3LTFhYkxVNnZCaHNhTzdsRFNORmhzcl9qb01OSGZzd0htdHVoetIB5gFBVV95cUxOdkF3elNTUW9mWm45SGNJRzA4d1ZNelJzMEdhTG5uR3pqXzJmWW5nZWJIcTdmM19MYVVaREQ2U1dZODZoVXkwSjA4MWpwNGh6cy1CWHMyODhDQmNuNFBNX1EwNGd0YUdCNTJrMlB1NnVYUXdBbzZlS2kxUmtpTXVuQ0JoQkNaanRYU1FNUW51cVN5NXNyeVNuRjEwbmhsYTBYR29rZUFaMVJzTWNhNWVTdllsemo0NUlvcWdta1ZWeHA4c2M0U2R2eEpwTURHYllTdERiSE53ZWt0aVFIMDBzVklQWkZYUQ?oc=5",
             "published": "Mon, 10 Aug 2026 07:00:00 GMT",
             "score": 0,
@@ -182,7 +182,7 @@
         ]
       },
       "combined_score": 57.2,
-      "added_at": "2026-09-16T11:47:25.036591",
+      "added_at": "2026-09-16T12:17:52.432710",
       "first_seen_price": 168.85000610351562,
       "first_seen_at": "2026-09-16T09:44:03.611048"
     },
@@ -1115,21 +1115,21 @@
       "symbol": "REDTAPE",
       "base": {
         "symbol": "REDTAPE",
-        "price": 117.12000274658203,
-        "day_change": -3.999997748703253,
-        "volume_ratio": 2.064690956539489,
-        "market_cap": 6474.482763033142,
-        "pct_from_low": 8.18818625545586,
-        "avg_volume": 1964845.9523809524,
-        "volume": 1633538.0
+        "price": 117.5199966430664,
+        "day_change": -3.6721338991258965,
+        "volume_ratio": 1.739764268020124,
+        "market_cap": 6496.594729626159,
+        "pct_from_low": 8.500679160255007,
+        "avg_volume": 1966111.619047619,
+        "volume": 1660117.0
       },
       "technical": {
         "symbol": "REDTAPE",
-        "close": 117.12000274658203,
-        "rsi": 41.87,
+        "close": 117.5199966430664,
+        "rsi": 42.42,
         "adx": 17.42,
         "atr": 5.17,
-        "volume_ratio": 0.8,
+        "volume_ratio": 0.81,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1197,7 +1197,7 @@
         ]
       },
       "combined_score": 38.2,
-      "added_at": "2026-09-16T11:46:57.313875",
+      "added_at": "2026-09-16T12:17:23.786646",
       "first_seen_price": 117.37999725341797,
       "first_seen_at": "2026-09-16T10:13:46.611169"
     },
@@ -1205,21 +1205,21 @@
       "symbol": "JWL",
       "base": {
         "symbol": "JWL",
-        "price": 228.3800048828125,
-        "day_change": -1.206901115296895,
-        "volume_ratio": 2.180046461329114,
-        "market_cap": 9760.285152658947,
-        "pct_from_low": 1.1953809124966792,
-        "avg_volume": 632611.9047619047,
-        "volume": 555327.0
+        "price": 228.5,
+        "day_change": -1.1549933772089254,
+        "volume_ratio": 1.9339268648854386,
+        "market_cap": 9765.41338865,
+        "pct_from_low": 1.247267441363512,
+        "avg_volume": 634365.0476190476,
+        "volume": 592143.0
       },
       "technical": {
         "symbol": "JWL",
-        "close": 228.3800048828125,
-        "rsi": 25.19,
+        "close": 228.5,
+        "rsi": 25.27,
         "adx": 11.32,
         "atr": 6.62,
-        "volume_ratio": 0.89,
+        "volume_ratio": 0.95,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1263,7 +1263,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Jupiter Wagons (JWL): Rail and Mobility Business Signals - Kalkine India",
+            "title": "Jupiter Wagons (JWL): Rail and Mobility Business Signals - kalkine.co.in",
             "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMVhWNlNJV3JqS0RiaktQZ0w5UmRnYkVPRy1rVDRCRURUQWRNaGtmUUhCbVR1Z2tONUFXOElwZ2l2d0IwS081X0x3LXVRdXRaSEtmdENOMHJaUlRHanV4aFYxZl9hVnRyZGN2RV91VEhPMWVPLVhNTHBBeWdmOUQyV0RNQnVBSDU2NWVNSE54RUVvOUlJQVJHcHZwbnNzeWtPVm1iYzR3SWZnb2psMUFIb09NRUQtbWdMNlEyblladlBzMjhK?oc=5",
             "published": "Wed, 09 Sep 2026 12:45:00 GMT",
             "score": 0,
@@ -1293,7 +1293,7 @@
         ]
       },
       "combined_score": 53.2,
-      "added_at": "2026-09-16T11:46:20.358360",
+      "added_at": "2026-09-16T12:16:55.030572",
       "first_seen_price": 229.83999633789062,
       "first_seen_at": "2026-09-16T10:41:49.610128"
     },
@@ -1301,21 +1301,21 @@
       "symbol": "RVNL",
       "base": {
         "symbol": "RVNL",
-        "price": 197.27000427246094,
-        "day_change": -0.8693445867030464,
-        "volume_ratio": 1.932727535915693,
-        "market_cap": 41131.192403516696,
-        "pct_from_low": 1.0746744715676562,
-        "avg_volume": 3840564.5714285714,
-        "volume": 2988900.0
+        "price": 197.22999572753906,
+        "day_change": -0.8894493831461998,
+        "volume_ratio": 1.7300182800285089,
+        "market_cap": 41122.850541483305,
+        "pct_from_low": 1.0546072484471787,
+        "avg_volume": 3852259.523809524,
+        "volume": 3234494.0
       },
       "technical": {
         "symbol": "RVNL",
-        "close": 197.27000427246094,
-        "rsi": 25.29,
+        "close": 197.22999572753906,
+        "rsi": 25.26,
         "adx": 28.89,
         "atr": 4.95,
-        "volume_ratio": 0.76,
+        "volume_ratio": 0.82,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1386,7 +1386,7 @@
         ]
       },
       "combined_score": 51.0,
-      "added_at": "2026-09-16T11:47:00.528939",
+      "added_at": "2026-09-16T12:17:27.322063",
       "first_seen_price": 197.38999938964844,
       "first_seen_at": "2026-09-16T10:42:20.087357"
     }
