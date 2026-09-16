@@ -652,21 +652,21 @@
       "symbol": "FIRSTCRY",
       "base": {
         "symbol": "FIRSTCRY",
-        "price": 170.0500030517578,
-        "day_change": -0.8628203451708375,
-        "volume_ratio": 1.689749173248368,
-        "market_cap": 8251.444858002393,
-        "pct_from_low": 2.9638391381785842,
-        "avg_volume": 4507021.095238095,
-        "volume": 4792836.0
+        "price": 169.63999938964844,
+        "day_change": -1.1018477252368257,
+        "volume_ratio": 1.5180597296878338,
+        "market_cap": 8231.549988559522,
+        "pct_from_low": 2.729312013364123,
+        "avg_volume": 4511884.80952381,
+        "volume": 4894974.0
       },
       "technical": {
         "symbol": "FIRSTCRY",
-        "close": 170.0500030517578,
-        "rsi": 27.75,
+        "close": 169.63999938964844,
+        "rsi": 27.43,
         "adx": 31.28,
         "atr": 6.95,
-        "volume_ratio": 1.05,
+        "volume_ratio": 1.07,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -694,7 +694,7 @@
         "support_20d": 165.01
       },
       "news": {
-        "score": 65,
+        "score": 70,
         "label": "Bullish",
         "headlines": [
           {
@@ -705,17 +705,17 @@
             "label": "Neutral"
           },
           {
-            "title": "Tears of joy: Firstcry shares soar 20% but stock still 47% lower from IPO price - economictimes.com",
+            "title": "Tears of joy: Firstcry shares soar 20% but stock still 47% lower from IPO price - The Economic Times",
             "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ2hHVmRHQVFJM010dXgxRFZiNm9yTXVOTUhwdkU2MUNoT2d4a3RrT1FGQXZlUktLTXhqSXkwbTdWNk5rRE0zd01UYmtCNUJrVE1fdUdwWmZyNjNDVG5XclpiVEZYOXBpc0pLaGRraVBvZEJmdHR0X2V3VEVBelZ1QVVuQnJVMmFHY3EyclRmNTloQnRobXZCb1U2d1QzRjZCN0ljYUd5dEZQYTJJQjhfd3hKbW12bkI5WEFMOHRIajRodUtyWFdCSXlrZi1oc0NhVmJRUU1ZVmNHS3BBRHEtV0xoOWXSAeoBQVVfeXFMTkJsek1odUdmTE5LNWo3Q2hwNmRIdmRpWWdObnFXSDNmOTJBcVZSNGZmNE9FMldNY09TbmxyeS1wbmxQeVhjOXR0R0ZQQ0VOUnZaeUhPZjNEOGFOZFJEcG56NmpPNnppYldmemlWYWJEUVpSWXJIREdORFBzZlo3eHdZeklpU2NFQzQ2YkVMUlozN19OUjRpVFZneVFDTXh5Ty1UZnAyby1xVkJKb1ZPSS1VdDMtTXJjUE0yZXMzcTgtWkxfY3kyWjB2Qy1aU05jb1BFS1dVOVdtazBoMlI5anpUZGIwQU1rbzFR?oc=5",
             "published": "Fri, 20 Mar 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
           },
           {
-            "title": "FirstCry share price slumps 12% to record low after Q3 net loss widens - Business Standard",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON0xrVGVXZUkydmR6MzIzeEEwUDFmRWdGTU5DZ2Z4YWRJTVh5Q1hycDlMV25RS19RQ0VGQmxaQTNyV1otZEhzajhIU3VhMlh3R2hWZnNRM0pNR190ZWlzMzB4aU95emxGWnhuNTFzazZ4SFZlNzVzOXpJOWJXempHTlF4R0laVW0tV2thbExmbXdTeE5XZVQ2WWMyd2haUGx0emZoT294Ukd5QU5IVUFfa3ZRTVNHblBDZmx1Y25pR1ozWVlTVnJjUV9ScXp3OVhVR0HSAdcBQVVfeXFMTjFZREsxTzh1a1NJMkYta2NfcmJGc0JqVlBEZkhpTmtJZ3l2RTYxU2pKUF90LVlsbUVIdFNoSzV6bHF6MklTLWFRbkNVa0ZZcmRQcVAwaTZxXzNhSk9weFlIY0hqakZyV2I0NjJiV1Nva3NCRWloM2RTSThnOGVJdVVMTVZYVmRmN0R5YTJaZktBdDJUcm1kQmRkM0lZdFZ4UEs1Q25CUzNDNmpVdVFlTVFpUTdIQ0phcjVtV0ctZEtST3RFUDNwaXJ3RXpsNThCeVZpTWE0X1k?oc=5",
-            "published": "Mon, 16 Feb 2026 08:00:00 GMT",
-            "score": -1,
+            "title": "Firstcry parent Brainbees Solutions hits 20% upper circuit on heavy volumes - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM29JWlpFVHVPS1JHaXQ4QURWVU1LcVZwV04wLU80WHhWN2dqTEdkLWxJXzBpWUZzUnRrOERndllHdksyNzBmZEN6UGVGRDdLeThuQ1pvOHVyYmZMaUhWTDNhMkpMMWd0blhsZHBPYXRwZUg3QVVTQU5vZ29DRVBQVzIyWEE1QnNZcVEyOHkxcXRJSFJ5dmJCMkFiV0hNWFRMVG95OTZrS29hRnVCbDJVd1hRMmxoMkFKYzk2QVZmTWNBcEliWXQ1Wkc3N3RsZk54dEVLUEZFNTXSAd4BQVVfeXFMT2g0cWx3MExZaHB6bXRPNmltVGpZdlA2dDZyZXYtSmlrRWpXXzBXWThSeTZBb0xRUXhUelRjOFhid2VXbzVUS1Bkay1mdEQwbFRCQlFQaFRxaWJFMFJxMkdoRDNrVk1ZYTNSVDdsQUdFa09zZWsyTFg2TTVWUlNLX0Zlb0dkel85Q2ZNaFJ4akZ4bTE5dUhpNnA5Y05NbklPTFZnMmpIVHdaTFluNUJOQUV1NVBpcDZUSThRZkJnRFJIWUx3eXQwdGFJejZOUXh3UWVoeS00SFZNckMxQVNB?oc=5",
+            "published": "Fri, 20 Mar 2026 07:00:00 GMT",
+            "score": 0,
             "label": "Neutral"
           },
           {
@@ -734,8 +734,8 @@
           }
         ]
       },
-      "combined_score": 35.8,
-      "added_at": "2026-09-16T13:12:00.826716",
+      "combined_score": 34.8,
+      "added_at": "2026-09-16T13:43:15.406278",
       "first_seen_price": 166.11000061035156,
       "first_seen_at": "2026-09-16T09:42:30.082444"
     },
