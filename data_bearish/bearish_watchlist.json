@@ -652,21 +652,21 @@
       "symbol": "FIRSTCRY",
       "base": {
         "symbol": "FIRSTCRY",
-        "price": 166.11000061035156,
-        "day_change": -3.159796075040542,
-        "volume_ratio": 4.423997602386735,
-        "market_cap": 8060.261604240479,
-        "pct_from_low": 0.24080061104969278,
-        "avg_volume": 4344691.047619048,
-        "volume": 1383905.0
+        "price": 170.0500030517578,
+        "day_change": -0.8628203451708375,
+        "volume_ratio": 1.689749173248368,
+        "market_cap": 8251.444858002393,
+        "pct_from_low": 2.9638391381785842,
+        "avg_volume": 4507021.095238095,
+        "volume": 4792836.0
       },
       "technical": {
         "symbol": "FIRSTCRY",
-        "close": 166.11000061035156,
-        "rsi": 25.0,
-        "adx": 31.38,
-        "atr": 6.77,
-        "volume_ratio": 0.31,
+        "close": 170.0500030517578,
+        "rsi": 27.75,
+        "adx": 31.28,
+        "atr": 6.95,
+        "volume_ratio": 1.05,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -675,27 +675,26 @@
         "rounding_top": false,
         "bear_flag": false,
         "ll_lh": true,
-        "near_breakdown": true,
+        "near_breakdown": false,
         "breakdown": false,
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": false,
         "patterns": [],
         "setup": "DEATH CROSS",
-        "score": 42,
+        "score": 36,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
           "Lower High / Lower Low",
-          "Near Breakdown",
           "MACD Bearish",
           "ADX Trend Strength"
         ],
-        "support_20d": 165.71
+        "support_20d": 165.01
       },
       "news": {
-        "score": 70,
+        "score": 65,
         "label": "Bullish",
         "headlines": [
           {
@@ -706,17 +705,17 @@
             "label": "Neutral"
           },
           {
-            "title": "Tears of joy: Firstcry shares soar 20% but stock still 47% lower from IPO price - The Economic Times",
+            "title": "Tears of joy: Firstcry shares soar 20% but stock still 47% lower from IPO price - economictimes.com",
             "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ2hHVmRHQVFJM010dXgxRFZiNm9yTXVOTUhwdkU2MUNoT2d4a3RrT1FGQXZlUktLTXhqSXkwbTdWNk5rRE0zd01UYmtCNUJrVE1fdUdwWmZyNjNDVG5XclpiVEZYOXBpc0pLaGRraVBvZEJmdHR0X2V3VEVBelZ1QVVuQnJVMmFHY3EyclRmNTloQnRobXZCb1U2d1QzRjZCN0ljYUd5dEZQYTJJQjhfd3hKbW12bkI5WEFMOHRIajRodUtyWFdCSXlrZi1oc0NhVmJRUU1ZVmNHS3BBRHEtV0xoOWXSAeoBQVVfeXFMTkJsek1odUdmTE5LNWo3Q2hwNmRIdmRpWWdObnFXSDNmOTJBcVZSNGZmNE9FMldNY09TbmxyeS1wbmxQeVhjOXR0R0ZQQ0VOUnZaeUhPZjNEOGFOZFJEcG56NmpPNnppYldmemlWYWJEUVpSWXJIREdORFBzZlo3eHdZeklpU2NFQzQ2YkVMUlozN19OUjRpVFZneVFDTXh5Ty1UZnAyby1xVkJKb1ZPSS1VdDMtTXJjUE0yZXMzcTgtWkxfY3kyWjB2Qy1aU05jb1BFS1dVOVdtazBoMlI5anpUZGIwQU1rbzFR?oc=5",
             "published": "Fri, 20 Mar 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
           },
           {
-            "title": "Firstcry parent Brainbees Solutions hits 20% upper circuit on heavy volumes - Business Standard",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM29JWlpFVHVPS1JHaXQ4QURWVU1LcVZwV04wLU80WHhWN2dqTEdkLWxJXzBpWUZzUnRrOERndllHdksyNzBmZEN6UGVGRDdLeThuQ1pvOHVyYmZMaUhWTDNhMkpMMWd0blhsZHBPYXRwZUg3QVVTQU5vZ29DRVBQVzIyWEE1QnNZcVEyOHkxcXRJSFJ5dmJCMkFiV0hNWFRMVG95OTZrS29hRnVCbDJVd1hRMmxoMkFKYzk2QVZmTWNBcEliWXQ1Wkc3N3RsZk54dEVLUEZFNTXSAd4BQVVfeXFMT2g0cWx3MExZaHB6bXRPNmltVGpZdlA2dDZyZXYtSmlrRWpXXzBXWThSeTZBb0xRUXhUelRjOFhid2VXbzVUS1Bkay1mdEQwbFRCQlFQaFRxaWJFMFJxMkdoRDNrVk1ZYTNSVDdsQUdFa09zZWsyTFg2TTVWUlNLX0Zlb0dkel85Q2ZNaFJ4akZ4bTE5dUhpNnA5Y05NbklPTFZnMmpIVHdaTFluNUJOQUV1NVBpcDZUSThRZkJnRFJIWUx3eXQwdGFJejZOUXh3UWVoeS00SFZNckMxQVNB?oc=5",
-            "published": "Fri, 20 Mar 2026 07:00:00 GMT",
-            "score": 0,
+            "title": "FirstCry share price slumps 12% to record low after Q3 net loss widens - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON0xrVGVXZUkydmR6MzIzeEEwUDFmRWdGTU5DZ2Z4YWRJTVh5Q1hycDlMV25RS19RQ0VGQmxaQTNyV1otZEhzajhIU3VhMlh3R2hWZnNRM0pNR190ZWlzMzB4aU95emxGWnhuNTFzazZ4SFZlNzVzOXpJOWJXempHTlF4R0laVW0tV2thbExmbXdTeE5XZVQ2WWMyd2haUGx0emZoT294Ukd5QU5IVUFfa3ZRTVNHblBDZmx1Y25pR1ozWVlTVnJjUV9ScXp3OVhVR0HSAdcBQVVfeXFMTjFZREsxTzh1a1NJMkYta2NfcmJGc0JqVlBEZkhpTmtJZ3l2RTYxU2pKUF90LVlsbUVIdFNoSzV6bHF6MklTLWFRbkNVa0ZZcmRQcVAwaTZxXzNhSk9weFlIY0hqakZyV2I0NjJiV1Nva3NCRWloM2RTSThnOGVJdVVMTVZYVmRmN0R5YTJaZktBdDJUcm1kQmRkM0lZdFZ4UEs1Q25CUzNDNmpVdVFlTVFpUTdIQ0phcjVtV0ctZEtST3RFUDNwaXJ3RXpsNThCeVZpTWE0X1k?oc=5",
+            "published": "Mon, 16 Feb 2026 08:00:00 GMT",
+            "score": -1,
             "label": "Neutral"
           },
           {
@@ -735,8 +734,8 @@
           }
         ]
       },
-      "combined_score": 39.6,
-      "added_at": "2026-09-16T09:42:30.082444",
+      "combined_score": 35.8,
+      "added_at": "2026-09-16T13:12:00.826716",
       "first_seen_price": 166.11000061035156,
       "first_seen_at": "2026-09-16T09:42:30.082444"
     },
@@ -1205,21 +1204,21 @@
       "symbol": "JWL",
       "base": {
         "symbol": "JWL",
-        "price": 229.35000610351562,
-        "day_change": -0.7872959639423398,
-        "volume_ratio": 1.7160302051650922,
-        "market_cap": 9801.740132561185,
-        "pct_from_low": 1.6132601301790566,
-        "avg_volume": 634946.7142857143,
-        "volume": 604358.0
+        "price": 229.57000732421875,
+        "day_change": -0.6921273769951954,
+        "volume_ratio": 1.551243772681597,
+        "market_cap": 9811.142333288422,
+        "pct_from_low": 1.7075459784248692,
+        "avg_volume": 635852.5714285715,
+        "volume": 623381.0
       },
       "technical": {
         "symbol": "JWL",
-        "close": 229.35000610351562,
-        "rsi": 25.86,
+        "close": 229.57000732421875,
+        "rsi": 26.02,
         "adx": 11.32,
         "atr": 6.62,
-        "volume_ratio": 0.97,
+        "volume_ratio": 1.0,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1252,7 +1251,7 @@
         "support_20d": 225.65
       },
       "news": {
-        "score": 70,
+        "score": 85,
         "label": "Bullish",
         "headlines": [
           {
@@ -1263,7 +1262,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Jupiter Wagons (JWL): Rail and Mobility Business Signals - kalkine.co.in",
+            "title": "Jupiter Wagons (JWL): Rail and Mobility Business Signals - Kalkine India",
             "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMVhWNlNJV3JqS0RiaktQZ0w5UmRnYkVPRy1rVDRCRURUQWRNaGtmUUhCbVR1Z2tONUFXOElwZ2l2d0IwS081X0x3LXVRdXRaSEtmdENOMHJaUlRHanV4aFYxZl9hVnRyZGN2RV91VEhPMWVPLVhNTHBBeWdmOUQyV0RNQnVBSDU2NWVNSE54RUVvOUlJQVJHcHZwbnNzeWtPVm1iYzR3SWZnb2psMUFIb09NRUQtbWdMNlEyblladlBzMjhK?oc=5",
             "published": "Wed, 09 Sep 2026 12:45:00 GMT",
             "score": 0,
@@ -1284,16 +1283,16 @@
             "label": "Neutral"
           },
           {
-            "title": "Jupiter Wagons shares drop nearly 5% after profit slumps in December quarter - Upstox",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNczJoRjNHNGFjWjVXeG1YN3FVd2RfcFVzcks3djFTV0tRUTlGTndWQzBHUGl2c0FldVlqNVYySGQ1LUQ0LWZsempCZnJQMjZOSTYxR3FwLXgyTjVoZG1iZ0U2cDBTSWFEYzRFM2dnSlE2RmNONEliZ1ZBdDBFU3YwTjVFbElwNEx4eXp1ZmRVaUpmNDUxQk5NMHFlemV0aXRMYlJxQVF6d01DYU9EWk1sRWVPM0pvX1N3dXdTSndVUW9IRGU4bjdCRnZ2cDBYZ1k?oc=5",
-            "published": "Wed, 11 Feb 2026 08:00:00 GMT",
-            "score": 3,
-            "label": "Neutral"
+            "title": "Jupiter Wagons shares jump 6% after firm secures long-term European export supply order - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMTNkNHRxMnRZWmE0TV9Vc0JGZGw5WGd1MDNlblVBZUVkRW9uVTl2YXdmZE1DOWxoNS1raDhmbnBIVXRkRWNxYlBKendvRlVMVjhrLTBtV1VGRGRmY0x3eUJTZDBqdU1CcEk1WjFCWl9tdW14SUFaUTBrcTdNM281XzR3bmd5cDJZWW9USzVIbm0zTm0ycjdZTmVpb2pnR09WUGdtSkVrb2twUngtVFpFeVhFMGRNM3d6Qk9udndsVnJuQmdCTlFadWtYcmY1UWxjeXM2N2Zpd3VNdk9PQXc?oc=5",
+            "published": "Wed, 27 May 2026 07:00:00 GMT",
+            "score": 5,
+            "label": "Bullish"
           }
         ]
       },
-      "combined_score": 53.2,
-      "added_at": "2026-09-16T12:43:35.711719",
+      "combined_score": 50.2,
+      "added_at": "2026-09-16T13:12:15.684945",
       "first_seen_price": 229.83999633789062,
       "first_seen_at": "2026-09-16T10:41:49.610128"
     },
