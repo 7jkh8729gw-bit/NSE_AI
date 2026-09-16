@@ -5,21 +5,21 @@
       "symbol": "CHAMBLFERT",
       "base": {
         "symbol": "CHAMBLFERT",
-        "price": 410.0,
-        "day_change": -1.5960624010321116,
-        "volume_ratio": 2.4720034262770914,
-        "market_cap": 16426.744177,
-        "pct_from_low": 2.5,
-        "avg_volume": 593389.3333333334,
-        "volume": 336400.0
+        "price": 410.54998779296875,
+        "day_change": -1.4640600486918898,
+        "volume_ratio": 1.9908830669673758,
+        "market_cap": 16448.77956425749,
+        "pct_from_low": 2.630614569257993,
+        "avg_volume": 594813.8095238095,
+        "volume": 366314.0
       },
       "technical": {
         "symbol": "CHAMBLFERT",
-        "close": 410.0,
-        "rsi": 30.96,
+        "close": 410.54998779296875,
+        "rsi": 31.36,
         "adx": 17.25,
         "atr": 7.92,
-        "volume_ratio": 0.56,
+        "volume_ratio": 0.6,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -88,7 +88,7 @@
         ]
       },
       "combined_score": 46.8,
-      "added_at": "2026-09-16T10:41:20.632681",
+      "added_at": "2026-09-16T11:11:32.958567",
       "first_seen_price": 403.79998779296875,
       "first_seen_at": "2026-09-16T09:42:14.463789"
     },
@@ -1113,21 +1113,21 @@
       "symbol": "REDTAPE",
       "base": {
         "symbol": "REDTAPE",
-        "price": 117.68000030517578,
-        "day_change": -3.540983356413294,
-        "volume_ratio": 3.1637891012356145,
-        "market_cap": 6505.439853670349,
-        "pct_from_low": 8.625086250473514,
-        "avg_volume": 1955404.380952381,
-        "volume": 1435265.0
+        "price": 117.48999786376953,
+        "day_change": -3.6967230624839904,
+        "volume_ratio": 2.4950531545176298,
+        "market_cap": 6494.936374307556,
+        "pct_from_low": 8.477316593384693,
+        "avg_volume": 1959703.380952381,
+        "volume": 1525544.0
       },
       "technical": {
         "symbol": "REDTAPE",
-        "close": 117.68000030517578,
-        "rsi": 42.64,
+        "close": 117.48999786376953,
+        "rsi": 42.38,
         "adx": 17.42,
         "atr": 5.17,
-        "volume_ratio": 0.71,
+        "volume_ratio": 0.75,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1179,23 +1179,23 @@
             "label": "Neutral"
           },
           {
-            "title": "REDTAPE Stock Price and Chart \u2014 NSE:REDTAPE - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OT25NOURNOEZhOHQ5LTJ2VWkwNm9XU3lYRUU4akdxQkJsRmIwV29qNG1fMUtZdW9kRlNzVXZTeDhyNFVWUkIxQWlGN19EVXVQN25GWFFrYXE0M2Q3?oc=5",
-            "published": "Thu, 01 Jan 1970 00:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
             "title": "Is REDTAPE (NSE:REDTAPE) A Risky Investment? - simplywall.st",
             "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV08wMVlmV19QcHJ0T0dMTV9VMFZESEdabTY0YThsWElGV2xsNHBqalFzUlI1Wi10MllzNWMxUU1CbzR1RnA4R1E2WVhPTHZCa09yRnltYnZqcDFieTRQM3ptWGZMQ3IyVVZSN3o4UlRYamVyc1Ffa2wzcUVMelpDbW9vS0NXcXFHYUxXbU5yZE5hbkZSbk9YbjlYRGpxRzFGX3pyU254a1NpRVUxdm91RtIBtgFBVV95cUxPNW1DM3BiSXE3aGxpWVN4LUItc1pGY2s2WDhqLUxoazZGNHZpOS1BX0NIc2pvcTVyXzhqZDJXb05pSW1MVGpKek1ZT2JFcXRuSmMtRXlXSHVHd3RuUlNneWJUZlY0NkRuNDYxZldnVTNlSUJ4dENQdVdNUFBNU3lqSEFvU0RtMDBPUDlsMzRGWUxoVVFveUpEbkhSbGJHNzJGdFEwLTFuZzdUdXRQOTEzYjZwZGVnQQ?oc=5",
             "published": "Sat, 14 Feb 2026 08:00:00 GMT",
             "score": 2,
             "label": "Neutral"
+          },
+          {
+            "title": "Why Is Redtape Share Price Falling Key Reasons 2026 - Univest",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1waUlydUl6NzZiY1BmVjlqUzJfRGVRZjh5SzJPOVJ2S0hveHFJT0ZqWWt0U3pyYy1QajA1RzV4WEVJZWdZQzJRdUlBazRyNG5kcHU2NzZDTER5d0xXeVdscU01dDByOUVnaERR?oc=5",
+            "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
           }
         ]
       },
       "combined_score": 38.2,
-      "added_at": "2026-09-16T10:42:16.677344",
+      "added_at": "2026-09-16T11:12:37.693184",
       "first_seen_price": 117.37999725341797,
       "first_seen_at": "2026-09-16T10:13:46.611169"
     },
