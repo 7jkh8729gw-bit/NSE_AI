@@ -1388,6 +1388,101 @@
       "added_at": "2026-09-16T12:17:27.322063",
       "first_seen_price": 197.38999938964844,
       "first_seen_at": "2026-09-16T10:42:20.087357"
+    },
+    {
+      "symbol": "NLCINDIA",
+      "base": {
+        "symbol": "NLCINDIA",
+        "price": 255.25,
+        "day_change": -2.221792018457612,
+        "volume_ratio": 2.0376220712839865,
+        "market_cap": 35393.899444725,
+        "pct_from_low": 9.892262487757101,
+        "avg_volume": 1452578.3333333333,
+        "volume": 2817735.0
+      },
+      "technical": {
+        "symbol": "NLCINDIA",
+        "close": 255.25,
+        "rsi": 27.53,
+        "adx": 25.43,
+        "atr": 6.97,
+        "volume_ratio": 1.99,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": true,
+        "macd_bearish": true,
+        "macd_cross_down": true,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DEATH CROSS + BREAKDOWN",
+        "score": 64,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Near Breakdown",
+          "Confirmed Breakdown",
+          "MACD Bearish Crossover",
+          "ADX Trend Strength",
+          "Volume Expansion",
+          "OBV Distribution"
+        ],
+        "support_20d": 254.3
+      },
+      "news": {
+        "score": 45,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "NLC India Share Price - Live NSE: NLCINDIA Stock Price & Chart - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqN2ltd2FZbEtLOV83WFpfU25YOWxuTVJJd3pWU3U4TnhZSlVJbU5SS2VoSXU3bHNvbnVQZGwwcmxST1dzRGZiOXRnQmNONUtRVU1Jbm9ieTlTVjFpRFhQSTdLLXc5NG8?oc=5",
+            "published": "Fri, 11 Sep 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "NLC India shares decline 5.68% to Rs 287.10 - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdzU4NWhTdzl5VTE2YmxfcG9ZNkJhX2Nuc0FJYmI3NDB3aDlNM090LS11UXhubGM2YnM4Vkd5eXA1VW9HYnMtNnphaXk0c216VTV2TVFaYWgwdDc2RjRpRmVDamVwdkRRWnJHNGtUeHB3bTEzc1hqYm03VHBDQlN4blR1dlYxT2NyN1Y2emtSajgxX0U3ZFpQSGc5OHo2WFRDVnZLdXByMzJ0YVpoNUFSOHM3ZW4tRk8tYTMwMNIBwgFBVV95cUxPSzhNX0NDaHdmXzFIaUNHSUJWN2F0cDhybTg0WTgtOWswRkFFVjBSUXlIam5SeWE1bW5BUXMyc3BDbG5RRFZ6VUVZLWtfSS1vNE1qT1FIbEtGeWU0YWMzSl9IZmpRcjY5dl9sdUk3VWJ0VGprM24xSmVJM0lESDlWdy1oZTl2QUw4Y0kzbjloWGZ0WFNoZVFNSXgxYjFPbjBjRWM1YUt5a2VyMnYzMklKWDRxbHhiZWpUSWhpbTE3OHEtdw?oc=5",
+            "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
+          },
+          {
+            "title": "NLC India fined \u20b914.31 lakh each by BSE, NSE for board compliance lapses - scanx.trade",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY1RhUEJmT1cwUHJSX1RMVFlmdE1mMEhoclhxTDVzaTREVWMwVkRsLUh4WGdTSU93WS1ZUmJfVWYzY3JIeGxBekFHMVZabjhodHU5aXIzRUpUUGt5UXg0azZCR3R6TXVTMjBXdjBtckpSbVFveWhvM3l3MVRLeFhLUUdvY3l0VW43bVBHYkxQem5GdXpkZHVWNFk2SVgtbHhQZ2NKTnd3b0FtbWxFS1h1N1kyUXlFQ1pQSlZMRg?oc=5",
+            "published": "Wed, 26 Aug 2026 14:21:33 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "5 Under the Radar Utility Stocks in India - Univest",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5EckZyMmVaTTg4bnpLaE8xSWRxQWNNZFYtbjJuN2RwSWVSU082UElLcURwM3YwMzhQdGtRWlM0LUxOVi1wV2pHY0ZDWHpFUHp2RVJYdlpzM3draERYaHlZZTZqQmlmZ1Jp?oc=5",
+            "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "NLCINDIA Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxazFGd3lQeS1zdk9sWm9sMlhfSVd0X2I2aHBrNW05MFB5OGdmRlhRSVFPSkM2WFo0bHV0aHQwTzJCZTJyMWkxeWtRLUtQdm9JTEdsZ2lDdjlwZm01Mi1XcGxpcUtUTmVUd2tsZW90WDR6eGpEYUJlSVhLOA?oc=5",
+            "published": "Thu, 25 Jun 2026 13:36:14 GMT",
+            "score": 1,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 62.2,
+      "added_at": "2026-09-16T15:12:49.338107",
+      "first_seen_price": 255.25,
+      "first_seen_at": "2026-09-16T15:12:49.338107"
     }
   ]
 }
