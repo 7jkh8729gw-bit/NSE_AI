@@ -97,21 +97,21 @@
       "symbol": "WIPRO",
       "base": {
         "symbol": "WIPRO",
-        "price": 167.0800018310547,
-        "day_change": -1.717645981732537,
-        "volume_ratio": 1.7424060102511398,
-        "market_cap": 165292.74509663187,
-        "pct_from_low": 1.1491489992241837,
-        "avg_volume": 8478441.857142856,
-        "volume": 7169775.0
+        "price": 167.36000061035156,
+        "day_change": -1.5529408174402575,
+        "volume_ratio": 1.5765481037419438,
+        "market_cap": 165569.7487257106,
+        "pct_from_low": 1.3145297204941053,
+        "avg_volume": 8492353.285714285,
+        "volume": 7461915.0
       },
       "technical": {
         "symbol": "WIPRO",
-        "close": 167.0800018310547,
-        "rsi": 35.01,
+        "close": 167.36000061035156,
+        "rsi": 35.36,
         "adx": 16.58,
         "atr": 3.62,
-        "volume_ratio": 0.83,
+        "volume_ratio": 0.87,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -159,6 +159,13 @@
             "label": "Neutral"
           },
           {
+            "title": "Stocks to Watch Today: IRB Infrastructure, Shakti Pumps, Dilip Buildcon, Indian Bank, Khadim India, ICICI... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNeFhyRmMxbzVhTkxFUVNNOVJuUlZGUjNvLVUtSHBEOWgtZUNXTk5wZ0xPNEVrdHliRUtDZDM3UEhmQWRadnJoRncyZDlFemFhYlFBYjVFUmJTay1YbmVBcGYxVlkwVEJONG83b3NzckdaTEYyUlVjOVNJVnB1al9FMVhrc3hrQkdfVG9xUzhwOVFPTllXSGxoRUxRV3BlejFkek5VMmd2UVVnOUJvR3NZQ01PR2Qyd3VzT0s0azh0eVgxUy1faVlyUWtHMDJJTVBBTG1vMGkyb0pTejFfYUdsYkVabUhHclpSSVZIN0pPaG5TUGlGWDBkdzVtdWpqMmcwTzVSSEpoMVhZcFNXSm5YTnBVSlpqRGVCT0xiRmttMGplODB5Qm440gGsAkFVX3lxTE5IOWJxN1RaT2U0S3lOV0N5c0JXaDIyeFhGdW44RHdBODNXeE5DNmNlX2thdWtjQWJnRDBtYUNucVIwbjZJU25aWGlsWFp4dGF6Y2VtZDlxMFl4NGM1bXhaZXUtc3ZfbVY2c1ZJMzlQNEU2X25SaVZWNkoxLUkwX2NidVduNDJmREUxdlN4WUg0VXhYNG92VjdOenp3WENDZVRtZnJRMlZRekdRRXQyRTl1WjJFVHJCNzdkcmtxUWdmUGFfVkhTQ2RxUlBSLVFOSG1PNFBCVTk0N2NzakxnOVhDYkl2NVYxVFBDc3c0TnVlNzc0eUJZTHZVSDNWR3lNMnZKZktNSjRxTHVuSGtfX0FHSlRPVFU0SUNIeW9UaGdFc3JnUEI5VG54dEo0VQ?oc=5",
+            "published": "Thu, 10 Sep 2026 01:06:54 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
             "title": "BSE replaces Wipro in Nifty 50: What drove the index reshuffle? - Firstpost",
             "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTV4aXNrSlBhaXFiMzVwem1xdURTd1FrNDFUQndfd2JKaEpLbHNMdE15R0xWZVlfaWpCSXRCc1Y3VW9Jd1BuZHBBcDJkbUVlSndLbTFCYm1TWUVvaGRjQ0ZLVE03bjVMU3IwRTVNU2pScUtvcWgxY1plRkd4OEFlS01INnBFQXdDdGd5QnFEbUo0UdIBlwFBVV95cUxOMEZvNWFpLTZqaVAtMWxnZ3hzWEwxRWVYZVZNTUtTdXl1X0g4bHdubFFiREFRUmNqVFl6NEZCWUZqZHV4RlN5YUdOMjlIT0xaTUtxckhHc01RbVJzSk5VMzgwR0RENGNxeXhGZE5RSkF6bmFKUjd6QUpUQkJRWmJZNEE4ZmZQMG54UjFsWmVJU3dzZVl4TlQ0?oc=5",
             "published": "Tue, 11 Aug 2026 07:00:00 GMT",
@@ -171,18 +178,11 @@
             "published": "Mon, 10 Aug 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
-          },
-          {
-            "title": "Wipro ESOP Allotment Weighs Slightly; Shares Dip 0.38% - HDFC Sky",
-            "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JYUxTLTNvb3c2bUpKelFfUmNaeVowLWF3aVhPY1pxUWllSHI3VzZvaXFfNUpWS0lyeEdWcWlULXhyTTdDRlQ2bXRNa25ISlNkd1Zwek1aUjAzb2gweWxuNWxLME9fWDltV0UwU2lEUHVzbXUxNGpDUQ?oc=5",
-            "published": "Wed, 08 Apr 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
           }
         ]
       },
       "combined_score": 57.2,
-      "added_at": "2026-09-16T12:17:52.432710",
+      "added_at": "2026-09-16T12:44:43.848579",
       "first_seen_price": 168.85000610351562,
       "first_seen_at": "2026-09-16T09:44:03.611048"
     },
@@ -1115,21 +1115,21 @@
       "symbol": "REDTAPE",
       "base": {
         "symbol": "REDTAPE",
-        "price": 117.5199966430664,
-        "day_change": -3.6721338991258965,
-        "volume_ratio": 1.739764268020124,
-        "market_cap": 6496.594729626159,
-        "pct_from_low": 8.500679160255007,
-        "avg_volume": 1966111.619047619,
-        "volume": 1660117.0
+        "price": 117.12000274658203,
+        "day_change": -3.999997748703253,
+        "volume_ratio": 1.5347227732449615,
+        "market_cap": 6474.482763033142,
+        "pct_from_low": 8.18818625545586,
+        "avg_volume": 1967183.9047619049,
+        "volume": 1682635.0
       },
       "technical": {
         "symbol": "REDTAPE",
-        "close": 117.5199966430664,
-        "rsi": 42.42,
+        "close": 117.12000274658203,
+        "rsi": 41.87,
         "adx": 17.42,
         "atr": 5.17,
-        "volume_ratio": 0.81,
+        "volume_ratio": 0.82,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1197,7 +1197,7 @@
         ]
       },
       "combined_score": 38.2,
-      "added_at": "2026-09-16T12:17:23.786646",
+      "added_at": "2026-09-16T12:44:09.681575",
       "first_seen_price": 117.37999725341797,
       "first_seen_at": "2026-09-16T10:13:46.611169"
     },
@@ -1205,21 +1205,21 @@
       "symbol": "JWL",
       "base": {
         "symbol": "JWL",
-        "price": 228.5,
-        "day_change": -1.1549933772089254,
-        "volume_ratio": 1.9339268648854386,
-        "market_cap": 9765.41338865,
-        "pct_from_low": 1.247267441363512,
-        "avg_volume": 634365.0476190476,
-        "volume": 592143.0
+        "price": 229.35000610351562,
+        "day_change": -0.7872959639423398,
+        "volume_ratio": 1.7160302051650922,
+        "market_cap": 9801.740132561185,
+        "pct_from_low": 1.6132601301790566,
+        "avg_volume": 634946.7142857143,
+        "volume": 604358.0
       },
       "technical": {
         "symbol": "JWL",
-        "close": 228.5,
-        "rsi": 25.27,
+        "close": 229.35000610351562,
+        "rsi": 25.86,
         "adx": 11.32,
         "atr": 6.62,
-        "volume_ratio": 0.95,
+        "volume_ratio": 0.97,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1293,7 +1293,7 @@
         ]
       },
       "combined_score": 53.2,
-      "added_at": "2026-09-16T12:16:55.030572",
+      "added_at": "2026-09-16T12:43:35.711719",
       "first_seen_price": 229.83999633789062,
       "first_seen_at": "2026-09-16T10:41:49.610128"
     },
