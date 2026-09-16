@@ -5,21 +5,21 @@
       "symbol": "CHAMBLFERT",
       "base": {
         "symbol": "CHAMBLFERT",
-        "price": 403.79998779296875,
-        "day_change": -3.084124875016361,
-        "volume_ratio": 4.757782566272698,
-        "market_cap": 16178.339263782489,
-        "pct_from_low": 1.0029687754832743,
-        "avg_volume": 586944.7619047619,
-        "volume": 201064.0
+        "price": 408.20001220703125,
+        "day_change": -2.0280767582472357,
+        "volume_ratio": 3.341007646780378,
+        "market_cap": 16354.62725261751,
+        "pct_from_low": 2.0700666228166513,
+        "avg_volume": 591678.5714285715,
+        "volume": 300474.0
       },
       "technical": {
         "symbol": "CHAMBLFERT",
-        "close": 403.79998779296875,
-        "rsi": 27.12,
-        "adx": 17.09,
-        "atr": 7.77,
-        "volume_ratio": 0.34,
+        "close": 408.20001220703125,
+        "rsi": 29.74,
+        "adx": 17.25,
+        "atr": 7.92,
+        "volume_ratio": 0.5,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -45,7 +45,7 @@
           "Rounding Top",
           "Near Breakdown"
         ],
-        "support_20d": 403.55
+        "support_20d": 401.4
       },
       "news": {
         "score": 50,
@@ -89,7 +89,7 @@
         ]
       },
       "combined_score": 53.2,
-      "added_at": "2026-09-16T09:42:14.463789",
+      "added_at": "2026-09-16T10:12:27.733336",
       "first_seen_price": 403.79998779296875,
       "first_seen_at": "2026-09-16T09:42:14.463789"
     },
@@ -97,21 +97,21 @@
       "symbol": "WIPRO",
       "base": {
         "symbol": "WIPRO",
-        "price": 168.85000610351562,
-        "day_change": -0.6764669979319853,
-        "volume_ratio": 2.2453494799974334,
-        "market_cap": 167043.81561268124,
-        "pct_from_low": 2.1853729985322286,
-        "avg_volume": 8204866.666666667,
-        "volume": 1424696.0
+        "price": 168.8800048828125,
+        "day_change": -0.6588206571691176,
+        "volume_ratio": 1.5766722823693258,
+        "market_cap": 167073.493494685,
+        "pct_from_low": 2.2027481721619266,
+        "avg_volume": 8234291.80952381,
+        "volume": 2042624.0
       },
       "technical": {
         "symbol": "WIPRO",
-        "close": 168.85000610351562,
-        "rsi": 37.33,
+        "close": 168.8800048828125,
+        "rsi": 37.37,
         "adx": 16.17,
         "atr": 3.5,
-        "volume_ratio": 0.17,
+        "volume_ratio": 0.24,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -181,7 +181,7 @@
         ]
       },
       "combined_score": 52.4,
-      "added_at": "2026-09-16T09:44:03.611048",
+      "added_at": "2026-09-16T10:14:23.923967",
       "first_seen_price": 168.85000610351562,
       "first_seen_at": "2026-09-16T09:44:03.611048"
     },
@@ -375,21 +375,21 @@
       "symbol": "SAMMAANCAP",
       "base": {
         "symbol": "SAMMAANCAP",
-        "price": 140.52999877929688,
-        "day_change": -1.035212127255722,
-        "volume_ratio": 2.357598349153702,
-        "market_cap": 16142.496078511438,
-        "pct_from_low": 8.204653013200975,
-        "avg_volume": 6103559.19047619,
-        "volume": 1074434.0
+        "price": 140.82000732421875,
+        "day_change": -0.8309807575924295,
+        "volume_ratio": 2.017977462329152,
+        "market_cap": 16175.808978531371,
+        "pct_from_low": 8.393698842100472,
+        "avg_volume": 6143706.904761905,
+        "volume": 1917536.0
       },
       "technical": {
         "symbol": "SAMMAANCAP",
-        "close": 140.52999877929688,
-        "rsi": 31.61,
+        "close": 140.82000732421875,
+        "rsi": 31.9,
         "adx": 14.47,
         "atr": 4.51,
-        "volume_ratio": 0.2,
+        "volume_ratio": 0.36,
         "ema_alignment_bearish": false,
         "dema_alignment_bearish": true,
         "death_cross": false,
@@ -458,7 +458,7 @@
         ]
       },
       "combined_score": 46.2,
-      "added_at": "2026-09-16T09:43:34.168798",
+      "added_at": "2026-09-16T10:13:51.874272",
       "first_seen_price": 140.52999877929688,
       "first_seen_at": "2026-09-16T09:43:34.168798"
     },
@@ -466,21 +466,21 @@
       "symbol": "IREDA",
       "base": {
         "symbol": "IREDA",
-        "price": 107.7699966430664,
-        "day_change": -1.1284434467280677,
-        "volume_ratio": 3.061331464883711,
-        "market_cap": 30275.084432195716,
-        "pct_from_low": 0.04639085452407111,
-        "avg_volume": 3738809.8095238097,
-        "volume": 824093.0
+        "price": 108.30999755859375,
+        "day_change": -0.6330297627580276,
+        "volume_ratio": 2.0969211424936125,
+        "market_cap": 30426.78317786052,
+        "pct_from_low": 0.840177318093422,
+        "avg_volume": 3757599.619047619,
+        "volume": 1218679.0
       },
       "technical": {
         "symbol": "IREDA",
-        "close": 107.7699966430664,
-        "rsi": 27.97,
-        "adx": 19.2,
-        "atr": 2.1,
-        "volume_ratio": 0.22,
+        "close": 108.30999755859375,
+        "rsi": 28.93,
+        "adx": 19.3,
+        "atr": 2.13,
+        "volume_ratio": 0.32,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -506,7 +506,7 @@
           "MACD Bearish",
           "OBV Distribution"
         ],
-        "support_20d": 107.72
+        "support_20d": 107.4
       },
       "news": {
         "score": 55,
@@ -550,7 +550,7 @@
         ]
       },
       "combined_score": 44.2,
-      "added_at": "2026-09-16T09:42:49.320013",
+      "added_at": "2026-09-16T10:13:05.069379",
       "first_seen_price": 107.7699966430664,
       "first_seen_at": "2026-09-16T09:42:49.320013"
     },
@@ -828,6 +828,377 @@
       "added_at": "2026-09-16T09:42:28.639164",
       "first_seen_price": 370.45001220703125,
       "first_seen_at": "2026-09-16T09:42:28.639164"
+    },
+    {
+      "symbol": "MOIL",
+      "base": {
+        "symbol": "MOIL",
+        "price": 235.66000366210938,
+        "day_change": -1.2073403643341436,
+        "volume_ratio": 1.7128237904922161,
+        "market_cap": 4795.33255694451,
+        "pct_from_low": 0.6789468211201943,
+        "avg_volume": 948837.7142857143,
+        "volume": 251363.0
+      },
+      "technical": {
+        "symbol": "MOIL",
+        "close": 235.66000366210938,
+        "rsi": 26.83,
+        "adx": 19.17,
+        "atr": 6.63,
+        "volume_ratio": 0.29,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": true,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "HEAD & SHOULDERS",
+        "score": 65,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Head & Shoulders",
+          "Near Breakdown",
+          "MACD Bearish",
+          "OBV Distribution"
+        ],
+        "support_20d": 234.06
+      },
+      "news": {
+        "score": 75,
+        "label": "Bullish",
+        "headlines": [
+          {
+            "title": "MOIL Fined Rs 18 Lakh By NSE, BSE For Board Composition Non-Compliance - BW Businessworld",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLU96LVdYRTBRVGVWdU83US1RSnhNOUYtNHdaR3BtcXN1Rm94WG1vMm1ZZTNDVEhyUERibGVjdy1Sd09nd0NhTEIxMlU1SWR2S05RWmVFRU9QUzQ5RFFPRS04b1dELUdwNGxrYi1ldmh1c1AxVHNwOTVpcU0td0Vzc1VxaTlxaE45UXRvTzlZWkcxWHNGTkpQV3hpbkZqSmhYRXROSVFYV3RfRVJoQmlLaU5XQQ?oc=5",
+            "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "MOIL share price slips 6% on posting 20% YoY decline in Q4 net profit - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOW5WUm83R3dEYmN6endRMldNUGNoYnV6bGN0WWpTVDdMaDBGNUMyaDJ5OTVwVHE0LWk3aWZQYU9ndXlmMFQ0SFlmaE9ZVlpaZ1hQa3RXSHZaWXFCVE9RcnlqWEIzZXIxVGFtSFE5MUlycTlma0F6QVZIZ0hsUHBvRXN1X0ZLTWRhRXN6TkxtTHZzaXRfekV6NlZ6MFZSeFVpSXlDQkpGOGtkZkJUdDVHTXU1djhSVTRROGROb21DcDRQNWlWdTlKdERZbTJ4MkpzZmxVTEFfczBBR2lydDRMWjE5NjLSAeoBQVVfeXFMTnV2S3ZiSnZpcUUwQm12MnVzd05VblI5TDNxUlhvalU2QXlUcEdDTFRLOTA0ZXVudTYzSlJrdGxWV3hCTGlUeDhLTlVPV0pqT0hCQS03eDBOUEdnRHJheVRhUFk2TVFFSXFzQkx6cTdGZGdWckdSWV9kVXg1RWhnUFl5cUVJcUE4T21PeS10dG1rb2V4NWx0NnV4NjlQampVa0dPQnZGazhOaTgzLS1VWTZrUk53Y2ZKVkxQQlNEOXpFR0t2SUpOWkNya3d1QU5vQnF0Q1BYOHBSX0RsWWpPZVFTc2t1eVBEdG9R?oc=5",
+            "published": "Thu, 30 Apr 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "MOIL Declares \u20b93.53 Interim Dividend; Stock Slips 3.08% - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbGZWQnpYazBWcU5YXzNLbm93U1RPdlZBcG90SXFuMmFwYUY5R3VpV0Ntc1M0UGJqTGlESWxBM3lhbThCWGh2M1Jyc3ZFVWx1bTFYVWhjVjc1SVRtTmUtQ0tRTkREbDM2YzJ0elI4TmdvM3dVbmtnUi1SeXotQzNfQ0dR?oc=5",
+            "published": "Thu, 05 Feb 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "The total return for MOIL (NSE:MOIL) investors has risen faster than earnings growth over the last five years - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMXBjUFNaalprRHZPMW5ibHZld21xZFpFdDhHMXFaQkVzMnNoQTRXcXBORFg4VHJyaVRpYTRCeGpXVlc1Z0ZxbW1QZkliR05tdHFUWTVhN0FBampRNms5aFJMSU1OZDROdmlxNGR2d0Z6a043VEpEQ3diUXhBa0hhWEpzUmJpX21MQklZblc0Z3dabE5SSF9iSFpCLXpySjBZWEgxUmI4ZUdISjl1MzEycUF6SWp3dGhHaWhYMFZHRExyTEVuR1Rr0gHMAUFVX3lxTE9HRXlnYy1wTWE3SlZtNWpYdmI1a2hLZndNS2d1RE1XYnA4emdHSjhUVktYaHUwalNYM1RDYVhPV0xFUWVyQlV2YUJzanFRQ0lrOElYa3NRM0dCSm12NEZSZnllbUNVMV83UzdtY3FWMjFGOW8xMU1laGZTV1FnVjNfYUtRM3REVXJuUDBxbkZack5kLXpBeXhlRlVmQ3g1ZV9sOFdfSnAwLWJlMld4eXJZQkpGd3pBekFXdkVvYzBzNHJja2lBbEE0a015eA?oc=5",
+            "published": "Thu, 05 Feb 2026 08:00:00 GMT",
+            "score": 3,
+            "label": "Neutral"
+          },
+          {
+            "title": "5 Non Ferrous non ferrous metal stocks India 2026: Strong Future Roadmaps - Univest",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYWNNXzNDZmVCMzQtc2hhSF93aDZpUGxFbEYtb1VjQ3dIdDFlbXdPYk9Eb1l2Y2pGVzEydnVaWGd5SUk0MWRXU3UtLXNFWTQ0QkhXdkRLWnJDaEw3NGhBRnFreHpfZWM1TEFQWEpBVV84c1lVcGZYNVZ3YzZQQjJjVktn?oc=5",
+            "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 57.0,
+      "added_at": "2026-09-16T10:13:24.336869",
+      "first_seen_price": 235.66000366210938,
+      "first_seen_at": "2026-09-16T10:13:24.336869"
+    },
+    {
+      "symbol": "UPL",
+      "base": {
+        "symbol": "UPL",
+        "price": 551.5,
+        "day_change": -1.658343080492726,
+        "volume_ratio": 2.952237297113403,
+        "market_cap": 46617.42158945,
+        "pct_from_low": 0.04533091568449683,
+        "avg_volume": 1937878.1904761905,
+        "volume": 900116.0
+      },
+      "technical": {
+        "symbol": "UPL",
+        "close": 551.5,
+        "rsi": 35.35,
+        "adx": 12.17,
+        "atr": 10.7,
+        "volume_ratio": 0.47,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DEATH CROSS",
+        "score": 50,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Near Breakdown",
+          "Weak RSI",
+          "MACD Bearish",
+          "OBV Distribution"
+        ],
+        "support_20d": 551.25
+      },
+      "news": {
+        "score": 65,
+        "label": "Bullish",
+        "headlines": [
+          {
+            "title": "UPL Ltd (NSE: UPL): Agrochemical Recovery Signals to Watch - kalkine.co.in",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUUVEcV9UUU9YWG5MWkxGMGRwc0IyUWttbFVCdTNHVHJDNXlSOUR6Snpvd201OWhIQk9lZWxDNnBYbnZtMGVSZThNSm9jOHJ5dFgzbkMzb3A2alczXzJFeEpoa0tqeGdYU0R4RmJtQnp0Y2Z2dFNESTdwNVd0LVVkcHpLbGtYanJqd25Fcmc3TEczSFREQnM3NjJyVkR6M3ROdmwxUG9iZVFhR2NhM0UxSjRzNXVYcS1sdWVUNDJDZ29iTmNQeXVXTFdlcDRrSGpKYkE?oc=5",
+            "published": "Mon, 14 Sep 2026 10:24:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "UPL Share Pros and Cons 2026: Global Agrochemical Company at Cheap 21x PE - Univest",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UOVE0U3RRSkFEdXotQ2VYNUx6TFI5UTIwRG93TnFKWkhzeVJQTmxHcS03TnVHd1JFakh4VXptY3FNazNTeUtIM3Y2VDZZcnhjX2VUMzNXNmRQeXNqeGVuelNpQ2Q?oc=5",
+            "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "UPL share price tanks 14% following the company's reorganisation plan; finer details and what analysts said - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcnlQb1ZkWDdRZ3p6cFk5dno1QndLcFZybzludjUzRmFFNF9rZGtrSWVuNl94T3JVYVk3eGluVERLdU1tVEZET1F5eG5qX0VWRDMzZFhGd2V2R01SRmtUdG5ITzU1bkhjWkdzeUY1VktMZWhNYXJLUVhWYjBfLTlDX0QzcVZ1UExnS3ljdzNhRmx3N0JRMVNzcGZjRzJhbDZEUzdvdzlPNnh1NzBlT0tRVlYxc0taajRGMlJvc0JrLWZUT05VcGxmczAxeW5oZmM0d3Zoa2t2SEt3R285MWxIcXVRSENGTmZnQUV2V2E3S3Y?oc=5",
+            "published": "Sun, 22 Feb 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "UPL Becomes First Indian Company to Secure Secondary GDR Listing on NSE International Exchange - Global Agriculture",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeEhqcXFpdjBpOGM0dWJoUzNST3RtQm1xVDFqdVZUUjF1d1ZVSm9vMW1sd203V1gxemhiaU1MRXFuUUxVTVpMdXFDUlJpWWQ3WmNKR1dmS3lSNHpqcUotVEh0eTBkSnJLeXlMMlVNRU0zVmRZTkE4N0pjU3JKOHAzZDdMd1hmaTJrdjNyVlpBVVhLWEdObGw0RWpobXBleE5kdDhndVpCdldYMnl1Zk5td0ZiWlU3SlY4ei1XTGxXMlAyMHJ3VWlRNFI5QVZhVEFvLWhhN0Nzak0xMC1PaXYw?oc=5",
+            "published": "Tue, 17 Feb 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "UPL Ltd. Share Price, Stock Price - NSE/BSE Live - NDTV Profit",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPN3FFN2swQ21peURIM2tvSExnZGZmVnZGUF9FdGQ4Y3JicktQOC1YTnhWVE1RVDZlclJ6SnBfUG93Yk5sSFZIM2ZUT0gtLUt1VUpzVDRRaEpKZkdiTl9UOU5UZ1lMMFJI?oc=5",
+            "published": "Wed, 20 May 2026 17:40:34 GMT",
+            "score": 3,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 47.0,
+      "added_at": "2026-09-16T10:14:16.081160",
+      "first_seen_price": 551.5,
+      "first_seen_at": "2026-09-16T10:14:16.081160"
+    },
+    {
+      "symbol": "KEC",
+      "base": {
+        "symbol": "KEC",
+        "price": 403.5,
+        "day_change": -0.5790331571206717,
+        "volume_ratio": 1.9553424265941441,
+        "market_cap": 10741.17,
+        "pct_from_low": 3.5563831731141575,
+        "avg_volume": 1013473.380952381,
+        "volume": 306501.0
+      },
+      "technical": {
+        "symbol": "KEC",
+        "close": 403.5,
+        "rsi": 37.3,
+        "adx": 52.04,
+        "atr": 12.1,
+        "volume_ratio": 0.3,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": false,
+        "breakdown": false,
+        "macd_bearish": false,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [
+          "Evening Star"
+        ],
+        "setup": "DEATH CROSS",
+        "score": 42,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Evening Star",
+          "Weak RSI",
+          "ADX Trend Strength",
+          "OBV Distribution"
+        ],
+        "support_20d": 389.15
+      },
+      "news": {
+        "score": 70,
+        "label": "Bullish",
+        "headlines": [
+          {
+            "title": "3 Fundamentally Strong Power Infrastructure Stocks in India (2026) - Univest",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHZFZmtnY0M4MVdaVGxGbW1kNy01d0JmM0Rtd1NRNUlGSjRveEJWZVQ3ZHVfU1ptWUgzS2pGZ0JuRDhKMW8ycUJjMXd3M2J4NFRPNkV4c0RsR3RHaGVxQ191dDFUX1hLVmN1aWpKZEZDaWwxdjFnVDBNMFVkaHN6OTEyLS13dw?oc=5",
+            "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "KEC International shares climb 5% on bagging new orders worth \u20b91,180 crore across businesses - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdGh0NWN3MGYzbTltQk43OVJQUndITGczZWVKOHNualhHbEFVQ1lYbGNSV3YyWEhOaFd4bEI1S3FYWXNGWk5yOThvamZDeGthcmVPUHY1SVA2SzJzOWdrZmpqalpSdlphWmI2TUVSc254eFhNS1BIQjU3WlVraUM1TDJDTHY1UUxLN0ozTDlqX2dJMUtrNWx6amdEaXNFVHRrenh3X2VYTHh6b2NQQTREVHRBZEZNc1lPRWRFRDFodnJ4REMwSTZtZDZta19ycVBGNjdudmhmbWJjTDM0MXc1NVRwZw?oc=5",
+            "published": "Tue, 14 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Volumes jump at KEC International Ltd counter - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVUJUXzFlWUNkQzFOTWI5cF9KQUZ0YTA4Nng0aERMSHltYVJBU3dPS3pjZ01mV2I4Q1hGWFM5dk9oV05XTFdzek9mM0hHYmNxdUhMczJ3d3h1RkRjbXhQei00SndiYlF5NnJ3UW9KQzB4bTVtbllkaDJpSHFReG0wbDhSblhWeFllaUhRMm16RUs3aFIzZTBBVXhjempBYTRhQ3lDdkZZVTRNRkF2ZUxUaVNWRDRrWXo1MnBkQUV1SWViSHVrU3fSAcsBQVVfeXFMTl9XNGFkWkIwMW9GSU9BNnBlV25UVFR6Z2Y5SXBoZXRzMjM3WHZvQTJoYjVtZUNNQXREMk9mbzdZeUZ5OHdkelZKVksxdmtPMDV5cnB5R0o1a1Brd1JBdnd6MS1UWmd0SkQ0TDBQRGZSTEMzV0d4eHBZMEI4SGRKVUNXWlVzb2NKZER0bTBtZUtqLXNtbnZFeWhoc3dIZml3Y2FfOGI1OGY2RW5VYU1fM3EtUHRJS1pLRE9nY29TZjhYMXRmQ3JWQkV0bEE?oc=5",
+            "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to Watch Today: Info Edge, KEC International, RITES, NHPC, NTPC, NPST, Poonawalla Fincorp, Uflex,... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNSm44aDFqUXU1QmgzeVpWbE1Ud3Bqbks0UlZIbzZ6dk5zTXp6RElTTlZrVEZkMnMwN3dtOXJENGhHdWlGV0J4RHpQMUo0QTZhYkxBbFpPMlVKT1J1RXYtWEp5Q3RwNzNpYUdPYWFObXZCOVdsVnRQWlVRTFlmTWY4a1VxX0tuQnprZkpLeVRWVU1ldGc3VUVodjB1N3JnSmluSGxGZnlnMjM1NFlJaTNSZk5oZllkUmtPLTc4UUJfM2oxRk9XZTNkRGc2S2k1YkREYy0tNE8xVGkteHFlREhWbTVndmZvdkg3S1NPNGhHRk1wRGtDWTVqVnlnUWxaZU0xdUh4SEM2cy1OcXFlT09hNjdLcnVRemluYVBpX2N4YUpPYm5aMkHSAasCQVVfeXFMTjVHeWx0aThaTjU3NFhUbmpMNHJ2aTluQVZZaGtFZFhVd0R2Rkw0VUlrR1VWSzFSSnd2YVp0SEVPUmdWV1JLazloTzBOY1FwNE9PZ3FGbDBQWDRGcEhSdi1pemtldFI3ODFHYndUSnM2LWhRVjBrZmlnTDZUZ0pqSVpuQmJQQ3A0S1dsSmZucUxJWjJwUkphRTI0V0U1WmhWM0JFUlRLWWM0dlZQVDlYUllXLURQUjN2MFU0d0lENGdyMllRdTFLTGVUa25ZVDlOZmxLV3hWeUgtQmt5cHA3MVU4RlQ1MFl1dUtxekdUZ1EtWkh2dldqTU9sOVlmd3hFWXBWanV6UXprc2NQVDc1MXRWdW1HZU9rVm5TTmFuaVdzY1JnS0FwajBEdGs?oc=5",
+            "published": "Thu, 09 Apr 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "KEC International (NSE:KEC) stock performs better than its underlying earnings growth over last five years - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMFpVRVJPOHAtSWlXdHlHQThQanc2LXlWRGpFREtTNmlKMjVINjh4bERfNHFwU0I2bWsyYktIY2ROQTFOd29uVmEtNHk4RjVRTWc5YkxSMHp4ZXVPa3B4QTB6X2dWTHdzd2h3YVhkVXhBU25GNy1NeGcyczlWeXJDbFljeUctSW03amJZX1U2T01KMTlJYXI0T2tTYm90MnZlNlBtUnpRMnJESFdYS1ZSVzBvOE5KZlk2RUp5Zll5SGpvX195WVRIYkhoTVdxLUJMTkRHcDNHSkJiRTZi0gHiAUFVX3lxTFAyTFlXUWtWNkU2SEFiX2YwX0NpMHhuVURfc3dRLWdQaEVPYlJ4YkNQelZpNy1od1FCT0t0cFA5XzQwblVuX3dhSXBzeGY2MHNQU0EyNjdNRDBGdlNMUlZOQ281aTJ1S2kzaUp5cDFNWlBnRTdXM3I3aG4wb1RLUkg5NU84bkhUNERueW5OdktaUDA0R3FNVXh4alpubHNjMmtoTS10bnJJcHpRVVJIbDJwSHo2YmJMWVF4M3ZrSUZNSE93XzBhSzVtWlZPMU9KSEVRZ3VjQWxOWHNkZ3pIcmNRamc?oc=5",
+            "published": "Tue, 23 Dec 2025 08:00:00 GMT",
+            "score": 3,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 39.6,
+      "added_at": "2026-09-16T10:13:11.102635",
+      "first_seen_price": 403.5,
+      "first_seen_at": "2026-09-16T10:13:11.102635"
+    },
+    {
+      "symbol": "REDTAPE",
+      "base": {
+        "symbol": "REDTAPE",
+        "price": 117.37999725341797,
+        "day_change": -3.7868874971983866,
+        "volume_ratio": 4.409329470445558,
+        "market_cap": 6488.855456966858,
+        "pct_from_low": 8.391547712218296,
+        "avg_volume": 1950397.7142857143,
+        "volume": 1330125.0
+      },
+      "technical": {
+        "symbol": "REDTAPE",
+        "close": 117.37999725341797,
+        "rsi": 42.23,
+        "adx": 17.42,
+        "atr": 5.17,
+        "volume_ratio": 0.66,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": false,
+        "breakdown": false,
+        "macd_bearish": false,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [],
+        "setup": "DOUBLE TOP",
+        "score": 39,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Double Top",
+          "Weak RSI"
+        ],
+        "support_20d": 113.1
+      },
+      "news": {
+        "score": 65,
+        "label": "Bullish",
+        "headlines": [
+          {
+            "title": "Here's Why REDTAPE (NSE:REDTAPE) Has Caught The Eye Of Investors - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUzluekRkMnlDV2FfY2NQczVValFnYXduVDMyOFkxbFdfcWlSM0syeEhmNXVFQkxDQmFKeDVBc2Y0akhQYzlSTXQzdGdiZEdna05SeHpua1pia2xTMHJqRFFQTy1OZXR5aVJTUG41bDhjeTF0MUNsZlkzWHdvNlQzSmwwQjBDT3hITEVZYUR0M0VXMC1DVFB6ZzZRbjJVTEZoNzZWZG5NUjhWenRNN2thSkR0WWlhSkNGRXRCZlFDQmE4cHY4QjU3S3EzONIB0AFBVV95cUxQZGtqaUVnb3NjVndfZktIZ29HNGhMOFNvLUtVbzJMNzlLZVJOSXc0b0RYQUMweGhtVXYwd3VlWERBUWs1UW1nclNTNVZydm5SOGdpazVjVlF0OVRlM3dXbHhlTURrWkp5QmlFNmVvbmRWU0o0ekc0VFppZkV5bVlLckltOWszNHhad2Z5Y1piU0x6emxBR1BqeVJhamJHWXA2b3NJN1Vab0RXaHBXYl9ndFl0blQzamlvQXdHazhjOEhlUV8zMG1BOGJFT3c0TmRy?oc=5",
+            "published": "Wed, 03 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Redtape Share Price Target 2026: Bull Case Rs 165, Bear Case Rs 1 - Univest",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQV2FyemQtT1NBbW1KMGp6Zm9GWW9UYlpVRUx6aXZzUUVVakM2V0NLR0dSaDdEWWt1VUpvRnRzZ0daeEN1aHpVc1JxQnl1SDM1bjROeXlGSXU0ck4wWEFlQjFzVmtIek0?oc=5",
+            "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Footwear firm RedTape shares settle 10% higher as report says founders eye stake sale, tap Blackstone, KKR - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUm9rbEx5V2plUDlkUkFkMVF5T0RHZGNIY0Fhd0Q3Z215SURLTndNVEhiMzFvTzFjalJVMzF5cXhXSkRJTkxRdTVDbVc4RnhuY3dOejI0THd3VlBYTFo4WWhxMDRUcFJuZWJ1TEdTdFJmSWdVSFlUTlZaclRHZEtkVXNQaE55ZzU5Mmk4YlQyUHlYcTkySUJHMWk4eWNnd1YwMlk4S1IzQXlWRExDUGV1X1MweW5ZSVJTT3NleGFQQ3BTdXVXMXJ2RnZNV2RWRmFoNzVZNm5sb2puQmM5US14UklhbTRENVVQWURYakRuRdIB9AFBVV95cUxOek5WNTQyZlNiSjdYMVFPdjFnZmpkd0Y4SGVNY3FJNDN0Qi1BRFNVZElDODl6VXlHRG5QM19FVVBOdTd0dEEwcVpBNkJrZ3NiaklJMEdLV0ttWEpObEljVEhwbVVmWEpjbVNrX1F4UGhHMU1YbURRWWxTY2tVbEo4TlBlMFZ1R0t1WC1Malprd01BRjNnbDNOSWRQY1dhankwOENqLXhwQUFMaVBwc29ya2hQRGp5Y3ZQUXJ1M3NESnpncm1QRTd6bHpfZ1FOMXB1MS1NUEs2Z2R4SHIzcUcxaERGaVVpcU5kRWRJMzJhR3dLQ3l6?oc=5",
+            "published": "Tue, 13 Jan 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Is REDTAPE (NSE:REDTAPE) A Risky Investment? - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV08wMVlmV19QcHJ0T0dMTV9VMFZESEdabTY0YThsWElGV2xsNHBqalFzUlI1Wi10MllzNWMxUU1CbzR1RnA4R1E2WVhPTHZCa09yRnltYnZqcDFieTRQM3ptWGZMQ3IyVVZSN3o4UlRYamVyc1Ffa2wzcUVMelpDbW9vS0NXcXFHYUxXbU5yZE5hbkZSbk9YbjlYRGpxRzFGX3pyU254a1NpRVUxdm91RtIBtgFBVV95cUxPNW1DM3BiSXE3aGxpWVN4LUItc1pGY2s2WDhqLUxoazZGNHZpOS1BX0NIc2pvcTVyXzhqZDJXb05pSW1MVGpKek1ZT2JFcXRuSmMtRXlXSHVHd3RuUlNneWJUZlY0NkRuNDYxZldnVTNlSUJ4dENQdVdNUFBNU3lqSEFvU0RtMDBPUDlsMzRGWUxoVVFveUpEbkhSbGJHNzJGdFEwLTFuZzdUdXRQOTEzYjZwZGVnQQ?oc=5",
+            "published": "Sat, 14 Feb 2026 08:00:00 GMT",
+            "score": 2,
+            "label": "Neutral"
+          },
+          {
+            "title": "Why Is Redtape Share Price Falling Key Reasons 2026 - Univest",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1waUlydUl6NzZiY1BmVjlqUzJfRGVRZjh5SzJPOVJ2S0hveHFJT0ZqWWt0U3pyYy1QajA1RzV4WEVJZWdZQzJRdUlBazRyNG5kcHU2NzZDTER5d0xXeVdscU01dDByOUVnaERR?oc=5",
+            "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 38.2,
+      "added_at": "2026-09-16T10:13:46.611169",
+      "first_seen_price": 117.37999725341797,
+      "first_seen_at": "2026-09-16T10:13:46.611169"
     }
   ]
 }
