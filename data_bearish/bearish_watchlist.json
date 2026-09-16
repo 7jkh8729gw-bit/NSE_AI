@@ -5,27 +5,27 @@
       "symbol": "CHAMBLFERT",
       "base": {
         "symbol": "CHAMBLFERT",
-        "price": 408.20001220703125,
-        "day_change": -2.0280767582472357,
-        "volume_ratio": 3.341007646780378,
-        "market_cap": 16354.62725261751,
-        "pct_from_low": 2.0700666228166513,
-        "avg_volume": 591678.5714285715,
-        "volume": 300474.0
+        "price": 410.0,
+        "day_change": -1.5960624010321116,
+        "volume_ratio": 2.4720034262770914,
+        "market_cap": 16426.744177,
+        "pct_from_low": 2.5,
+        "avg_volume": 593389.3333333334,
+        "volume": 336400.0
       },
       "technical": {
         "symbol": "CHAMBLFERT",
-        "close": 408.20001220703125,
-        "rsi": 29.74,
+        "close": 410.0,
+        "rsi": 30.96,
         "adx": 17.25,
         "atr": 7.92,
-        "volume_ratio": 0.5,
+        "volume_ratio": 0.56,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
         "double_top": true,
         "head_shoulders": false,
-        "rounding_top": true,
+        "rounding_top": false,
         "bear_flag": false,
         "ll_lh": true,
         "near_breakdown": true,
@@ -35,14 +35,13 @@
         "obv_distribution": false,
         "patterns": [],
         "setup": "DOUBLE TOP",
-        "score": 54,
+        "score": 46,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
           "Lower High / Lower Low",
           "Double Top",
-          "Rounding Top",
           "Near Breakdown"
         ],
         "support_20d": 401.4
@@ -88,8 +87,8 @@
           }
         ]
       },
-      "combined_score": 53.2,
-      "added_at": "2026-09-16T10:12:27.733336",
+      "combined_score": 46.8,
+      "added_at": "2026-09-16T10:41:20.632681",
       "first_seen_price": 403.79998779296875,
       "first_seen_at": "2026-09-16T09:42:14.463789"
     },
@@ -927,21 +926,21 @@
       "symbol": "UPL",
       "base": {
         "symbol": "UPL",
-        "price": 551.5,
-        "day_change": -1.658343080492726,
-        "volume_ratio": 2.952237297113403,
-        "market_cap": 46617.42158945,
-        "pct_from_low": 0.04533091568449683,
-        "avg_volume": 1937878.1904761905,
-        "volume": 900116.0
+        "price": 555.0,
+        "day_change": -1.0342346503598605,
+        "volume_ratio": 2.7077087110887863,
+        "market_cap": 46913.2710465,
+        "pct_from_low": 0.7207207207207207,
+        "avg_volume": 1953450.5238095238,
+        "volume": 1227135.0
       },
       "technical": {
         "symbol": "UPL",
-        "close": 551.5,
-        "rsi": 35.35,
-        "adx": 12.17,
-        "atr": 10.7,
-        "volume_ratio": 0.47,
+        "close": 555.0,
+        "rsi": 36.86,
+        "adx": 12.19,
+        "atr": 10.72,
+        "volume_ratio": 0.64,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -968,14 +967,14 @@
           "MACD Bearish",
           "OBV Distribution"
         ],
-        "support_20d": 551.25
+        "support_20d": 551.0
       },
       "news": {
         "score": 65,
         "label": "Bullish",
         "headlines": [
           {
-            "title": "UPL Ltd (NSE: UPL): Agrochemical Recovery Signals to Watch - kalkine.co.in",
+            "title": "UPL Ltd (NSE: UPL): Agrochemical Recovery Signals to Watch - Kalkine India",
             "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUUVEcV9UUU9YWG5MWkxGMGRwc0IyUWttbFVCdTNHVHJDNXlSOUR6Snpvd201OWhIQk9lZWxDNnBYbnZtMGVSZThNSm9jOHJ5dFgzbkMzb3A2alczXzJFeEpoa0tqeGdYU0R4RmJtQnp0Y2Z2dFNESTdwNVd0LVVkcHpLbGtYanJqd25Fcmc3TEczSFREQnM3NjJyVkR6M3ROdmwxUG9iZVFhR2NhM0UxSjRzNXVYcS1sdWVUNDJDZ29iTmNQeXVXTFdlcDRrSGpKYkE?oc=5",
             "published": "Mon, 14 Sep 2026 10:24:00 GMT",
             "score": 0,
@@ -989,14 +988,14 @@
             "label": "Neutral"
           },
           {
-            "title": "UPL share price tanks 14% following the company's reorganisation plan; finer details and what analysts said - Upstox",
+            "title": "UPL share price tanks 14% following the company's reorganisation plan; finer details and what analysts said - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcnlQb1ZkWDdRZ3p6cFk5dno1QndLcFZybzludjUzRmFFNF9rZGtrSWVuNl94T3JVYVk3eGluVERLdU1tVEZET1F5eG5qX0VWRDMzZFhGd2V2R01SRmtUdG5ITzU1bkhjWkdzeUY1VktMZWhNYXJLUVhWYjBfLTlDX0QzcVZ1UExnS3ljdzNhRmx3N0JRMVNzcGZjRzJhbDZEUzdvdzlPNnh1NzBlT0tRVlYxc0taajRGMlJvc0JrLWZUT05VcGxmczAxeW5oZmM0d3Zoa2t2SEt3R285MWxIcXVRSENGTmZnQUV2V2E3S3Y?oc=5",
             "published": "Sun, 22 Feb 2026 08:00:00 GMT",
             "score": 0,
             "label": "Neutral"
           },
           {
-            "title": "UPL Becomes First Indian Company to Secure Secondary GDR Listing on NSE International Exchange - Global Agriculture",
+            "title": "UPL Becomes First Indian Company to Secure Secondary GDR Listing on NSE International Exchange - global-agriculture.com",
             "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeEhqcXFpdjBpOGM0dWJoUzNST3RtQm1xVDFqdVZUUjF1d1ZVSm9vMW1sd203V1gxemhiaU1MRXFuUUxVTVpMdXFDUlJpWWQ3WmNKR1dmS3lSNHpqcUotVEh0eTBkSnJLeXlMMlVNRU0zVmRZTkE4N0pjU3JKOHAzZDdMd1hmaTJrdjNyVlpBVVhLWEdObGw0RWpobXBleE5kdDhndVpCdldYMnl1Zk5td0ZiWlU3SlY4ei1XTGxXMlAyMHJ3VWlRNFI5QVZhVEFvLWhhN0Nzak0xMC1PaXYw?oc=5",
             "published": "Tue, 17 Feb 2026 08:00:00 GMT",
             "score": 0,
@@ -1012,7 +1011,7 @@
         ]
       },
       "combined_score": 47.0,
-      "added_at": "2026-09-16T10:14:16.081160",
+      "added_at": "2026-09-16T10:42:40.026484",
       "first_seen_price": 551.5,
       "first_seen_at": "2026-09-16T10:14:16.081160"
     },
@@ -1114,21 +1113,21 @@
       "symbol": "REDTAPE",
       "base": {
         "symbol": "REDTAPE",
-        "price": 117.37999725341797,
-        "day_change": -3.7868874971983866,
-        "volume_ratio": 4.409329470445558,
-        "market_cap": 6488.855456966858,
-        "pct_from_low": 8.391547712218296,
-        "avg_volume": 1950397.7142857143,
-        "volume": 1330125.0
+        "price": 117.68000030517578,
+        "day_change": -3.540983356413294,
+        "volume_ratio": 3.1637891012356145,
+        "market_cap": 6505.439853670349,
+        "pct_from_low": 8.625086250473514,
+        "avg_volume": 1955404.380952381,
+        "volume": 1435265.0
       },
       "technical": {
         "symbol": "REDTAPE",
-        "close": 117.37999725341797,
-        "rsi": 42.23,
+        "close": 117.68000030517578,
+        "rsi": 42.64,
         "adx": 17.42,
         "atr": 5.17,
-        "volume_ratio": 0.66,
+        "volume_ratio": 0.71,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1180,25 +1179,214 @@
             "label": "Neutral"
           },
           {
+            "title": "REDTAPE Stock Price and Chart \u2014 NSE:REDTAPE - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OT25NOURNOEZhOHQ5LTJ2VWkwNm9XU3lYRUU4akdxQkJsRmIwV29qNG1fMUtZdW9kRlNzVXZTeDhyNFVWUkIxQWlGN19EVXVQN25GWFFrYXE0M2Q3?oc=5",
+            "published": "Thu, 01 Jan 1970 00:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
             "title": "Is REDTAPE (NSE:REDTAPE) A Risky Investment? - simplywall.st",
             "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV08wMVlmV19QcHJ0T0dMTV9VMFZESEdabTY0YThsWElGV2xsNHBqalFzUlI1Wi10MllzNWMxUU1CbzR1RnA4R1E2WVhPTHZCa09yRnltYnZqcDFieTRQM3ptWGZMQ3IyVVZSN3o4UlRYamVyc1Ffa2wzcUVMelpDbW9vS0NXcXFHYUxXbU5yZE5hbkZSbk9YbjlYRGpxRzFGX3pyU254a1NpRVUxdm91RtIBtgFBVV95cUxPNW1DM3BiSXE3aGxpWVN4LUItc1pGY2s2WDhqLUxoazZGNHZpOS1BX0NIc2pvcTVyXzhqZDJXb05pSW1MVGpKek1ZT2JFcXRuSmMtRXlXSHVHd3RuUlNneWJUZlY0NkRuNDYxZldnVTNlSUJ4dENQdVdNUFBNU3lqSEFvU0RtMDBPUDlsMzRGWUxoVVFveUpEbkhSbGJHNzJGdFEwLTFuZzdUdXRQOTEzYjZwZGVnQQ?oc=5",
             "published": "Sat, 14 Feb 2026 08:00:00 GMT",
             "score": 2,
             "label": "Neutral"
-          },
-          {
-            "title": "Why Is Redtape Share Price Falling Key Reasons 2026 - Univest",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1waUlydUl6NzZiY1BmVjlqUzJfRGVRZjh5SzJPOVJ2S0hveHFJT0ZqWWt0U3pyYy1QajA1RzV4WEVJZWdZQzJRdUlBazRyNG5kcHU2NzZDTER5d0xXeVdscU01dDByOUVnaERR?oc=5",
-            "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
           }
         ]
       },
       "combined_score": 38.2,
-      "added_at": "2026-09-16T10:13:46.611169",
+      "added_at": "2026-09-16T10:42:16.677344",
       "first_seen_price": 117.37999725341797,
       "first_seen_at": "2026-09-16T10:13:46.611169"
+    },
+    {
+      "symbol": "JWL",
+      "base": {
+        "symbol": "JWL",
+        "price": 229.83999633789062,
+        "day_change": -0.5753349662972641,
+        "volume_ratio": 2.627459809271481,
+        "market_cap": 9822.68086426829,
+        "pct_from_low": 1.8230084006991003,
+        "avg_volume": 624074.6666666666,
+        "volume": 376045.0
+      },
+      "technical": {
+        "symbol": "JWL",
+        "close": 229.83999633789062,
+        "rsi": 26.21,
+        "adx": 11.32,
+        "atr": 6.62,
+        "volume_ratio": 0.61,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [
+          "3 Black Crows"
+        ],
+        "setup": "DOUBLE TOP",
+        "score": 59,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Near Breakdown",
+          "3 Black Crows",
+          "MACD Bearish",
+          "OBV Distribution"
+        ],
+        "support_20d": 225.65
+      },
+      "news": {
+        "score": 70,
+        "label": "Bullish",
+        "headlines": [
+          {
+            "title": "JWL Stock Price and Chart \u2014 NSE:JWL - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yZ1Y5VmlwWjVpUG1qenlqNnZsVmM5UHNXRmowT25PUnZzT0pMTGt0QXN3ZjhpRlVPeEFBNVNfZlNxMGJGOWFwUGRIcGpQOW5UUVlRV1daUQ?oc=5",
+            "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Jupiter Wagons (JWL): Rail and Mobility Business Signals - Kalkine India",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMVhWNlNJV3JqS0RiaktQZ0w5UmRnYkVPRy1rVDRCRURUQWRNaGtmUUhCbVR1Z2tONUFXOElwZ2l2d0IwS081X0x3LXVRdXRaSEtmdENOMHJaUlRHanV4aFYxZl9hVnRyZGN2RV91VEhPMWVPLVhNTHBBeWdmOUQyV0RNQnVBSDU2NWVNSE54RUVvOUlJQVJHcHZwbnNzeWtPVm1iYzR3SWZnb2psMUFIb09NRUQtbWdMNlEyblladlBzMjhK?oc=5",
+            "published": "Wed, 09 Sep 2026 12:45:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Jupiter Wagons Limited's (NSE:JWL) Fundamentals Look Pretty Strong: Could The Market Be Wrong About The Stock? - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdUNYRlFsOGJtWE5HTGNTV0ZPeE4wUjd1bWRxWmVxNTNET1Z6T0t2czJaOUhVWk5SWFRmYTh3WVFrbWZLRlJQUUZTbzFSaGZJbGdJUVBrUlRVTnpmRlZoOGpEcFRnSllGVjNobzJVYVdoeDM1d3JSaFFjLUlOTE9EN2tkQWdjWFhpYURWVUtzbzBvS2htTW5MdHpQUTFrVzk1S1JMUmZ5NmlRQkQ1aEdYMV9FU3cxYlRZWFB2LTlBanJIWkNEamRTUVZtUjhOd21SYjFlY2thU0NmakXSAeABQVVfeXFMTUZlRWhyYVd6SkczNE5fR21TTnVfTDhEOTFmWjFLZHgwX3VORGlTSXRocjRqa2ZpVEI1bjUzbkxzaVlCclAzZlBPTW5ySUdPNE80UlRCUk43enp6WWFoNFY0NnRmYVlXOW9kRzVNUDlKTksyRUpVQUszSHRFNmRzM2xERlhJbjVyNkxDcEp5SWpaUnFOb0ZBa2RMSGg5Qk54bVRrYThGcU9YRlFLdTJXTG44MU1QRTVlczg0UkhsejUyaUZBUHZwUFlPWjdNSmtRbTZLdHhtS2lYa2dBVnN2aHQ?oc=5",
+            "published": "Mon, 16 Feb 2026 08:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Jupiter Wagons, Lucchini RS Form Railwheel JV - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jQ0xXZmVqaUsyOUgtTXdHTXF4c1ZDMlBBT2tBNF9MdDRkenpOTkZ6RHFLWE8tWEtZVGV1S0lmbWZOZzNRb2RxdFV5MEJPU1Fwd1lTaEpBWHlfRWcyU0FHeXp2eHQ?oc=5",
+            "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Jupiter Wagons shares drop nearly 5% after profit slumps in December quarter - upstox.com",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNczJoRjNHNGFjWjVXeG1YN3FVd2RfcFVzcks3djFTV0tRUTlGTndWQzBHUGl2c0FldVlqNVYySGQ1LUQ0LWZsempCZnJQMjZOSTYxR3FwLXgyTjVoZG1iZ0U2cDBTSWFEYzRFM2dnSlE2RmNONEliZ1ZBdDBFU3YwTjVFbElwNEx4eXp1ZmRVaUpmNDUxQk5NMHFlemV0aXRMYlJxQVF6d01DYU9EWk1sRWVPM0pvX1N3dXdTSndVUW9IRGU4bjdCRnZ2cDBYZ1k?oc=5",
+            "published": "Wed, 11 Feb 2026 08:00:00 GMT",
+            "score": 3,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 53.2,
+      "added_at": "2026-09-16T10:41:49.610128",
+      "first_seen_price": 229.83999633789062,
+      "first_seen_at": "2026-09-16T10:41:49.610128"
+    },
+    {
+      "symbol": "RVNL",
+      "base": {
+        "symbol": "RVNL",
+        "price": 197.38999938964844,
+        "day_change": -0.8090455328399813,
+        "volume_ratio": 2.6673452959977313,
+        "market_cap": 41156.21162664047,
+        "pct_from_low": 1.1348120472619716,
+        "avg_volume": 3810523.8095238097,
+        "volume": 2358044.0
+      },
+      "technical": {
+        "symbol": "RVNL",
+        "close": 197.38999938964844,
+        "rsi": 25.38,
+        "adx": 28.89,
+        "atr": 4.95,
+        "volume_ratio": 0.61,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DEATH CROSS",
+        "score": 47,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Near Breakdown",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "OBV Distribution"
+        ],
+        "support_20d": 195.15
+      },
+      "news": {
+        "score": 33,
+        "label": "Bearish",
+        "headlines": [
+          {
+            "title": "Stock market fall: RVNL, ITC, Swiggy, Britannia among 70 stocks that hit 52-week low on NSE - upstox.com",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSHV6WmZtV2xTUkVzR0ZDY2IwZUJoMTluRmJwMVVBZDI5ZmNBaU9YS1J0YmVmRW5heTluWXE0YmZjNmlrMmVTSFRVVTUzMmlYaHZjcTJJY0lqandOaWZpaFNURlN3eVVILWktWTdmY0ZpejhUYUl0OHlmajh3dDZINXFPUUFtMmVNTVRmS0xKWk5TX1VtX21nYTJYYmJyMXNETEtpZmRGeG13MFFtcGdhQ2Z1cnlUOC11NmVvX211aUx4WGNGNUtmcWJZXzI0djJsaDZRV2tyU0phelNyc2ZR?oc=5",
+            "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
+          },
+          {
+            "title": "RVNL Share Price Fall Nearly 4% So far, As Railway Stocks Extend Broad Market Decline - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KMEhHSnk3clZ3ZXJlWmRudmR0TU1WNlNxV1NXcnlRQ1pXWnFNaWdSSXZsX3FlQzFuM3AtUWRaVEpBdlZUQWNXQWgtOUk4WElNTUFPX0o2eHptQ2hVQ1JOaF8tRzRRdVRhX3hBRWNpc1o?oc=5",
+            "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+            "score": -4,
+            "label": "Bearish"
+          },
+          {
+            "title": "3 Fundamentally Strong Railway Stocks in India (August 2026) - Univest",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uNTl4cGRFSlNZbXFKZkVhSE1TaWRvQVZmZ3RuTmp3aTI0YUE2Z2JMYUU4VGJPTm0xY1BCNkR1blJybGdjWVk1NXVFSEdlT1licjBKdGpLdkYySnB4eVZBT1pCcmpjeEpfcEYwZG9UeEtIckQx?oc=5",
+            "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Rail Vikas Nigam Limited's (NSE:RVNL) Shares May Have Run Too Fast Too Soon - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRTBqYjNZTjBNWGhqNEd6RnFkRmRpSzJ2OFdVTldMbUJUd2RDakVjYTZZY2ZQcTZqcDBxOGVqYy11Um8xeWxXRGtDZ01SX0hjVGVENGU1UThrTG9BVlVyWEx3NXQ5eTBTaVVsMmsyQzlrdjlOd0ZsMDlYQzlNWEpYSDNjWUNjTlBjZ1RPcF85M2V0aEMyTURKcFNmRlI2UmRPU0ZiY2F1WDRycnc5anhZY1hSZDJCUl82U3o3NFZVVTVnVWNzaGF4dExtRFdJZ2dsMWNuUVBldWdnOUhUNzdn0gHkAUFVX3lxTE0zUGlMMTh3d3UwNUMxWGN1aDVWVEZGbU51VE81RFRpMlV5TWJ6NEI4T3QxQU8xMU10bnFyaXg3VENCTDNjZGhHOTVDYnNFbkhxb2YxbEtFdjgzcEk0aEt4V041MnM0VHJGWHViaTlTMHNFTlZIRnhGNkpZODVYMXdYaWthUFl6QkxIYjVRcmZsT1VwdWE2U0pYR253M2dnbW9RZ2lkU0pEa09tV1B3SEVFclRSOFkwWGhva0g2YUcyRTZjVm5yT0NMYk5obl9HSkJ0U2ZsRlA1UEFGTDgtbHdWOGFTag?oc=5",
+            "published": "Mon, 12 Jan 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Railtel shares zooms 14% after bagging \u20b9255 crore order from RVNL - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYkRGaE5WQUQ4YUdiTXVvOFlCbDZuMzM3QWlQU3JNVkdNbFdINTRFVXhhQTg5bnpkaEE1UlVyQnVlTVNoa3BHUHQ3aVM5Si1HZXZpTkNQSldhSzZKcXpvR0FicmpBQ184aUtZaGdFWmFwT09TYnRyS2VHeGJ5MUZwek0wbHRUWl8za0luYVktWkhGdDNsb3hCOF9LRndSVzg0a3dQS2pLM281ZnRSWDFOaXh3X3g0QVJubFExNTJrM3RJZjhkWU5aQUpxdWFpRnV6Rjl4WtIB2gFBVV95cUxNNENmMW1EMXJUdEY5Vm5EbW45TWRSU1hHQ25wU2plLUw0Y0pOaUtzUEdLWWhNT3pMbXdzMFdyWHJzamp1VElkMGJueUtxczJianQtN1ozTEMweGJvM2VMZVVVYmVXbWRXdklfOWg2RW5KSU5PejdQSjJQV3YxbndYUGZ3cnYzbWZoMEpDbDJCMHF1S0hINHFENWxSdXJBWXZQckYtdG1EekFsYzh0UklOMG5vNGQxNnNtMG05WEhkdUt4clU5QTM4blc1SzE0SlpsVGtiVzdYa0RJdw?oc=5",
+            "published": "Wed, 15 Apr 2026 07:00:00 GMT",
+            "score": 3,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 51.0,
+      "added_at": "2026-09-16T10:42:20.087357",
+      "first_seen_price": 197.38999938964844,
+      "first_seen_at": "2026-09-16T10:42:20.087357"
     }
   ]
 }
