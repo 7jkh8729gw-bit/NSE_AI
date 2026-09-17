@@ -190,6 +190,96 @@
       "added_at": "2026-09-17T09:44:18.207528",
       "first_seen_price": 165.97000122070312,
       "first_seen_at": "2026-09-17T09:44:18.207528"
+    },
+    {
+      "symbol": "IPL",
+      "base": {
+        "symbol": "IPL",
+        "price": 137.00999450683594,
+        "day_change": -0.5516511156680857,
+        "volume_ratio": 1.7033293868615846,
+        "market_cap": 1577.8551598467957,
+        "pct_from_low": 8.765779861582809,
+        "avg_volume": 1443444.619047619,
+        "volume": 380273.0
+      },
+      "technical": {
+        "symbol": "IPL",
+        "close": 137.00999450683594,
+        "rsi": 45.18,
+        "adx": 31.12,
+        "atr": 3.97,
+        "volume_ratio": 0.25,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": false,
+        "breakdown": false,
+        "macd_bearish": false,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [],
+        "setup": "DEATH CROSS",
+        "score": 32,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Weak RSI",
+          "ADX Trend Strength"
+        ],
+        "support_20d": 132.01
+      },
+      "news": {
+        "score": 65,
+        "label": "Bullish",
+        "headlines": [
+          {
+            "title": "Volume Gainers as of 3:54 PM IST: India Pesticides, Godavari Biorefineries and NPST Lead - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxTGM2RzdqVWdiZ1pBaVIwOFd1RzN5c29yUHZZemI0LU9vRnRnUndkRU5yaVRSSDF0dVAwZS1pWklJTVNjeDFiZ2xudlkzZnBjcFdtcU1oYzdIbzRBc1NRODltcVViaWlT?oc=5",
+            "published": "Wed, 16 Sep 2026 11:15:09 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "NSE Closing Auction Session, Yen intervention, Q1 results, $20 billion IPL Business and more - LinkedIn",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEpUZ2xWZ2l3MGV1TjY5bmpocmFpcnFuSl9LaTNKQmtCMVZLa0tvaGpvTjNXRGMzN09LVjFYSVVhZHpFX2RUcEVaZjlMdE9qeFNhdUtFMGtBTUxBT09LcGNPLWtmcTMySWdyS1h1bFBDOVA4bGtqeG5mMmNjZldpUV9sVmh3cUdWNFZ1Mmw5dFhncndfT0k3bVM2aXRodXRxLXh5ZVpn?oc=5",
+            "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Benign Growth For India Pesticides Limited (NSE:IPL) Underpins Its Share Price - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRXg4ampsRHBqQ0M1V3I3d2JNWFItMlExaFF0Tld3X0ZuVlZKWGUxb1N3aUFwS05Pd0RzV0pfQ19yOGdnS2c1NG5CTUdmVnc1b3NTejVmVklMUHFPY2lNUmJpc1JydlNBV01BVjVxbGloS0g2Nm5wZl9vV1E3UElBZWMzQmd4cmlNU3JJVFNaWUNMcEIzUXpUVU1VZ3N2akc3TjlldTMtZGxEbUdsLWJoOHltOEZrSTEtQUtEOTN4SXhPLVlSc3B0c25BcGxtbFZtTEc3UNIB2gFBVV95cUxPRTU0Q2gzLWxuenUzSXRBcFh1M0VmbmljaG0yRE81OFBNWFJKV1ZVSm5VRmhZdmVjaVNyTUNvM3M2MVBicTZ3cUtnbE1ySjRyOU9XQmRaek5nR0ZOa1pPMXRZSGljaGRTUHZNOHJmaVBtZmFJS25XSTd1a205cUFXZzBoeFU3STc5UGZpbHY4WXpBNzhUNGhlUDB2X2dtZm91Y2ZRdHNzN3hLdGtGVWU4cU9ZNklhVlZEdmsyTTFmbnJDMXBXc3FIajRfZ3p5TkE2dlpkZkxQbVdJZw?oc=5",
+            "published": "Tue, 10 Feb 2026 08:00:00 GMT",
+            "score": 2,
+            "label": "Neutral"
+          },
+          {
+            "title": "India Pesticides Share Price Target 2026: Rs 190 Analyst Forecast - Univest",
+            "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEZHlnaFhBWEdBN0F4WlZfU1VsQUdZakF2Q0ZuWFFrVjV4V1VJam9LLXVnUkx1aDRKRmVuTzhZaF9Bc2FTaTRVRml6amlTUnpTY1lRQm1MR243X3c3dHdBWGlZN3JMOV9jNlBkM2c4VHRlbDg?oc=5",
+            "published": "Tue, 23 Jun 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stock market holiday on Ambedkar Jayanti? Are NSE, BSE open or closed on April 14 - check details - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNX2t4MnVkaUtxWFJXNUZNV1JQdVp3UEVRZ2tjcE9PcmprRTgyR1hSRTBPNExYWEVjcTBXbUFyR044S2pUVk96Tk5WdlpsNk9BV3RKeW02VkFvdFdvTHo4UGJXRzJlRHNjTjM1WTdlSnZyTjlENVVIWUZvU2RCQWhuenZKQ2d4VWJoMGhUY3VsWkM0S1pTT3VHdWt5bHNzblFzcXE2SGMtTWNWY0NMYUJUMjJONy1IQTIxVE1IMXJwcWtZamRJTHNWT1lRd1VxZzlFbXNNWjFuQzlCS08zV1I5dE9LdzNMODZtaVNiWFZsc2EzclpOY0hsOElOMHd1dHpYRUM4LVUxVmJWbkXSAZACQVVfeXFMTnpoYWZjeWV4M3d1WmpQYkJPT3ZKc0tBYWxETllheG9DeVY5YURqWURpQXFDS3pPOFYtanFOdmcxUVdXWWpxcHdOWno0UmN0WUR6a2g3VkRscFlDSC0tTXpjRWlicmFfUWFYUDl4RUV4S3BFME5HNVRnVnhtc2ZUNElPWUM3QXJwSG5wWGNFZElvbXhOV1VFUGZUbHJXOFJOTGZERjFyZnYwZHRvQmxWVlFMM3phcHhIYm9nTmpIcExfaHBVWHl1cGVGWHFQRlc5c1k3SWM0SHlzOTFHTFBLcGNSMjNVN1Zwb0huMUVXcTYzN29Cc0lhVmE5dGM3angwTlpDV2NBUVlRamVpOURwU04?oc=5",
+            "published": "Tue, 14 Apr 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 32.6,
+      "added_at": "2026-09-17T10:13:04.440074",
+      "first_seen_price": 137.00999450683594,
+      "first_seen_at": "2026-09-17T10:13:04.440074"
     }
   ]
 }
