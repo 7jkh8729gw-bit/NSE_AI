@@ -96,6 +96,100 @@
       "added_at": "2026-09-17T06:22:13.894410",
       "first_seen_price": 255.35000610351562,
       "first_seen_at": "2026-09-17T06:22:13.894410"
+    },
+    {
+      "symbol": "WIPRO",
+      "base": {
+        "symbol": "WIPRO",
+        "price": 165.97000122070312,
+        "day_change": -0.551260214698267,
+        "volume_ratio": 2.2103035049039605,
+        "market_cap": 164194.61817579623,
+        "pct_from_low": 0.5723907581219472,
+        "avg_volume": 8447024.142857144,
+        "volume": 1443851.0
+      },
+      "technical": {
+        "symbol": "WIPRO",
+        "close": 165.97000122070312,
+        "rsi": 33.62,
+        "adx": 16.75,
+        "atr": 3.53,
+        "volume_ratio": 0.17,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": true,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [],
+        "setup": "HEAD & SHOULDERS",
+        "score": 66,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Head & Shoulders",
+          "Near Breakdown",
+          "Weak RSI",
+          "MACD Bearish"
+        ],
+        "support_20d": 165.02
+      },
+      "news": {
+        "score": 50,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Wipro Share Price - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KdElZR3B2X3pjUm1GemQyR3d5VktiaGR0OUVqYkgtMEtmS25BbGhDMS01MTg5d2hCQ3pLLVZjR3hLMlVPTXRuVkdhMDBtenZUUGFlb2VjbC1uQkFa?oc=5",
+            "published": "Tue, 15 Sep 2026 21:32:15 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "BSE to replace Wipro in India's benchmark Nifty 50 index - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeGhIN19pS1ZwOUhZbGZZcVV1LW5DaGxLcHEtdHpGVk9qVGdqaEx5NG9Xbm5XWkN4M0c3NmRJS2xkVUhsTmppMlZSeFVtV3pPbnVTdU8xNVZxSC1sUTVHSnhQdE9LQzhOLXhCOHdWTXVhcjJUNE96V2hqeGMya2pQblNIQTEtUEhUSllQUWRuYThadnFqNTBuVUdham9PQQ?oc=5",
+            "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "BSE replaces Wipro in Nifty 50: What drove the index reshuffle? - firstpost.com",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTV4aXNrSlBhaXFiMzVwem1xdURTd1FrNDFUQndfd2JKaEpLbHNMdE15R0xWZVlfaWpCSXRCc1Y3VW9Jd1BuZHBBcDJkbUVlSndLbTFCYm1TWUVvaGRjQ0ZLVE03bjVMU3IwRTVNU2pScUtvcWgxY1plRkd4OEFlS01INnBFQXdDdGd5QnFEbUo0UdIBlwFBVV95cUxOMEZvNWFpLTZqaVAtMWxnZ3hzWEwxRWVYZVZNTUtTdXl1X0g4bHdubFFiREFRUmNqVFl6NEZCWUZqZHV4RlN5YUdOMjlIT0xaTUtxckhHc01RbVJzSk5VMzgwR0RENGNxeXhGZE5RSkF6bmFKUjd6QUpUQkJRWmJZNEE4ZmZQMG54UjFsWmVJU3dzZVl4TlQ0?oc=5",
+            "published": "Tue, 11 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "BSE enters Nifty50, Wipro exits: What changes from September 30 - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbHBKZWg5Q3ctOU1ZMVNTYlBEb0dEWUJmRkRkaC01S0VjVGEyallKVkVqUmVMTDhxRXg5U1RiNDRKVnY4TDNxSkpIcXJfUFh2d3NVRklzVGhndmZReFQ4Z29RM3dMczhNUFlkU3NpN3dJQ0hkS3FaSWdTMDQ1cHRkN2tLa0d0empCZk9iZEZ6S3FFVHFELUI3dkd2MlFXalotQURidXRwUlJTb0dJRVFpSXByYy1IU3E2WGU3LTFhYkxVNnZCaHNhTzdsRFNORmhzcl9qb01OSGZzd0htdHVoetIB5gFBVV95cUxOdkF3elNTUW9mWm45SGNJRzA4d1ZNelJzMEdhTG5uR3pqXzJmWW5nZWJIcTdmM19MYVVaREQ2U1dZODZoVXkwSjA4MWpwNGh6cy1CWHMyODhDQmNuNFBNX1EwNGd0YUdCNTJrMlB1NnVYUXdBbzZlS2kxUmtpTXVuQ0JoQkNaanRYU1FNUW51cVN5NXNyeVNuRjEwbmhsYTBYR29rZUFaMVJzTWNhNWVTdllsemo0NUlvcWdta1ZWeHA4c2M0U2R2eEpwTURHYllTdERiSE53ZWt0aVFIMDBzVklQWkZYUQ?oc=5",
+            "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "NSE indices rejig: Vodafone Idea, Wipro part of major changes in Nifty Next 50 and Nifty 100. Check full l - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbE5OX0J4cnJpdUs3cXFiaDhWNzg2c3dsRHgwUC1yeU81VldLNGFnb0VEUWE1YUEtZmNIam5GcThyWnc3cS1ITDdVY3NoNWRlRGdYMmVlX2Q4eDgydmQtZzFpenZYcHhlcGZwRXBmbm5IeTdnU3ExYlg5OFdTSVlRUGNOZ082UTJRNGx0bzlFS0hPdElFNmpuRElrQ0RnUkxqOTREMkN5OEFscUJNQ3A2MFltMXU4WmNlOWxVQnByQTJZNURQSl9kRkEyU19FVmNzSXlTMVZQbVd1OUc1UUFrTHNlal9wY19id0YwQTk3STNmbnF1aE1HTDJySzY0Sll2c1c5WEtBTkg3NjBo0gGSAkFVX3lxTE84UVBvSEdjQ0xaVW5nOVF2RF96ck9lX2w0MUlfWjNYQ2RqVjRXYUxYWjRORW02MTFhRGdmWGVwWGtBRVUtaWlWTGRhdlZTSmtLRnBIb2xGbk1VRTQ0dUdiQTJBUkkxUV9NQ1ZBcUZ2RnJQdi16dGtORHpTWFFEakVOSGp3LThUR0Nya3RUOHBfd0FHRXFJN3dHaGNWbmF0bmp5N3hncFJKNF9tR1M2UW93M2tTQUZxb090X0VLVzJPUE5rcVYwd3Q1TXJzd0ZPcWdxSG9JeFQwTnFud0J4UXppemFqY1NrTU9YeUdZUkwwb1I1VU00Nlg0UER4MXJrTXhCTDBNTlRJLXA0a2MwYXpPaFE?oc=5",
+            "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 62.8,
+      "added_at": "2026-09-17T09:44:18.207528",
+      "first_seen_price": 165.97000122070312,
+      "first_seen_at": "2026-09-17T09:44:18.207528"
     }
   ]
 }
