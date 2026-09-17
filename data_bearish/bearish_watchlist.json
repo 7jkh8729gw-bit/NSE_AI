@@ -280,6 +280,97 @@
       "added_at": "2026-09-17T10:13:04.440074",
       "first_seen_price": 137.00999450683594,
       "first_seen_at": "2026-09-17T10:13:04.440074"
+    },
+    {
+      "symbol": "CSBBANK",
+      "base": {
+        "symbol": "CSBBANK",
+        "price": 326.0,
+        "day_change": -0.6097560975609756,
+        "volume_ratio": 1.8241633953181202,
+        "market_cap": 5524.9693362,
+        "pct_from_low": 9.509202453987731,
+        "avg_volume": 979536.0,
+        "volume": 1558119.0
+      },
+      "technical": {
+        "symbol": "CSBBANK",
+        "close": 326.0,
+        "rsi": 51.07,
+        "adx": 23.72,
+        "atr": 12.2,
+        "volume_ratio": 1.52,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": false,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [],
+        "setup": "DEATH CROSS",
+        "score": 34,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "Volume Expansion"
+        ],
+        "support_20d": 295.0
+      },
+      "news": {
+        "score": 50,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Is Now The Time To Put CSB Bank (NSE:CSBBANK) On Your Watchlist? - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOclBneFhpREFXM1F0MFZkVkRSUWtrRHptMU5UVG5HdmRzWWliQXVCMjE4YnRZV3FfWGNmNHlrWTNCQXpvd0htREtxQjByaFYwM3hWQVlLemNhdHR5S2xFbFpLeG1mYU0yWEcyZ1BOS0lXSkpweVlYbWg2bU1xNWdxNUJrTl80d2J3SHZMMjVMTzUxY2hleFNQQlh1cDhpQ044WFJOSFF6bEwwYzNDcDk3SE0wQTNjZGxSMmVHMkRTMlBKbGNQR21mckF1SdIB0AFBVV95cUxNdDZERW13b3hsTEx4bGpINjZZZzRNbjROcndTQS1qNlFlcUYzRE5lSmEyeVRpYkJtNmJYR3VuWUM1SGJFendlM2xoS01OejFnUklDclpsQlhEd3Z3U0pqRGFodERuZmlkdXZHbVVzMjZSWU9DRmROR2pqLTEyUlZCM1hveGwtd3VwejNYMXNXWXFHcklBRGJMMnY2ajNYRTF3RGlYeldkOS1PakpuOTBGcjF3LVZIcWZKaWk3RnJuWEk1OHI3a2IzVzItLWVCcmtR?oc=5",
+            "published": "Fri, 26 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stock Alert: KP Energy, Bank of Baroda, Innovision, TCS, CSB Bank - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQalRtWnpIYkdvcm5SNTlNZFNXd2FXbWxQZFc2elF0ZkViR0c0ek1PMVYxMzNwZzMyVHR6RHFIWnZldXpBRVpFeGI0NnRMcWRZRkJ4cHdUZXdUcE9lQnFndVVmNEI2S0lfUVZIUVdBOXRTaG1EU21WdUxPeC1NclVHX05xSDlxdmJiVVltSlEzak5XNktFTmphS0trcF85dURYT3dTMkVVdVVqQ2FxSlRLcUthSjctYW1xLW1sQy1XLV9iempOQ2lBa2FRdGJhTlEzOXcyNERsSnoxd9IB3wFBVV95cUxPMEhJUzNFNFFRVE04Vm5UZTRaRVo4TmJ6Wlo4VFh4SF9pdzFlOHNnWjVMcEhhR0R6cjBNeWJrNXNVSGtWQkVNbHlJN0FKTW5HZ0pSVkJORGV5c21PRWRCVXliQVVLeGxMUmVCcnVDTlN6cklDZm9CYTBKTnBENWFWTXZkX3ZiNzYtQ0dxT0VRNGM5SXdyazAtZzJNUmkwQy1IX3Jod1QwMjUxS1JkWW5ma2FXSGpQV2NHVFlSZElxcEIwR1oyQ2d0ZW1VbThNa204MW1ET0ZPSjlRM0kxR1ZV?oc=5",
+            "published": "Wed, 09 Sep 2026 03:34:02 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to Watch Today: PB Fintech, Bajaj Finance, CSB Bank, Ujjivan SFB, Marico, Titagarh Rail, BLS... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPQ1VhdU84WTA3NWU2RjF1TGpXaXNxRVVfd1h3OUVmNjZ4aVYybnM4dW1iX3hPTXdBLW5NRXlmOHRLcnlrVTBweEhTQl93YnlKaG9HYzZLc3pEUEJZdDBUVkktLWZZeGQ4aVViTXh5UHhSd0EtNDV1SlNFM2pURXZKckZwQmJfRnlHNzVVVTczdEh3MmdDMlBVdTNMdHRqNHpOUnFBc1ZpelZVMENIc2VFVTctb0tsWm81OHUybVdGZEYySlpuU3dEQ2JXRWlaVGpSQ19aOVhHc2pESGtXWnZTSjBqcEVreGJlbHgzWWpnVFZBY3NNbVJSU0lhRHFDYTBXYWtRajU3Vi16dWJCUHVZUi1XVlIyb2pYQy1aM2xFcXlnTlBaVHhubnhlUlVOM0HSAbQCQVVfeXFMUDh4R1RXeVZTQ3NHdmljby16c3pBNDZrV2pST3NIYW1ZT09NWGhkdlI0T2MyUjc2SlhpN3ZNZzZudG5FSUpiV2w3c3NBZU5jamdqLWRKSEw1S0ExOE50UTRydXRCaUJYeW5CZjJPMmx2OVNRc2hETmJvWllub3E5dWxsM1VNRWxlLUtKTUtiUHdRYTM5QWtuRzI2UTUxcUI3cGVURjI4dnNsQkhQMzhiejEyR3VZaWtTR00xaC16YTc5ZGExY3ZNOHRYYl91V1JyTHZTcVVIWDNScFhwMWpHeDM5RTNOYURqN1RFR2Y2SnV2MTZVbDhESkhtcG5HQVlscjF6QmluZU81aU9qNklac3pkRkd4RmZXZGdJMjV3WUFvNWVEdmUwQzlCYkZOX3pBZldZbVI?oc=5",
+            "published": "Fri, 03 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Key Reasons Why CSB Bank Share Price Is Falling in 2026 - Univest",
+            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYlplYmVwZ24tMHdUQ2R3cXZZVHI4SnhWekExQlVQTkxqTlJaLXZKZXl0bDI0aGNNWUZHeUUybzRRRHNHWFFrbUxTVHBjUGptWDFqcElhQ1RWVl9CSmtiV1JheUpYajJ3cTFCTWF5cm9Tem5HMUdIVlBjcDVaV2VxNGl3?oc=5",
+            "published": "Tue, 05 May 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "CSB Bank files FY26 sustainability report, discloses 32,854 customer complaints - scanx.trade",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM09IM1lDbzhUcFJFTk1JVW82SG1ITk5HYXdpeFNvX2NWa2lzN3c2elZKOE9sOUp5clhhNlY5VWVXa0c2dmNyWVFhQjhSTDY0MTNJM0dyWjVONnV1XzEzWVo4RHFWcWNpT1RuNXR6NEhfcGtORklxNDNCQk1oLWhMczNuQmEtNC00RVY3RHBJQmlPTkNET0FEeTdnaTVOUDRSczJ5a2RmVFdsRWpFSG1UYUV3NnR1VDV0UW0xT0l3MnRUZUFVZXN1YXYwYVBRNnBM?oc=5",
+            "published": "Mon, 27 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 37.2,
+      "added_at": "2026-09-17T14:42:40.828537",
+      "first_seen_price": 326.0,
+      "first_seen_at": "2026-09-17T14:42:40.828537"
     }
   ]
 }
