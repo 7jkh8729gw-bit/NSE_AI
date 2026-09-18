@@ -5,21 +5,21 @@
       "symbol": "WIPRO",
       "base": {
         "symbol": "WIPRO",
-        "price": 165.0500030517578,
-        "day_change": -0.8112926047139023,
-        "volume_ratio": 1.995903434315219,
-        "market_cap": 163284.46123802813,
-        "pct_from_low": 0.3938255942168035,
-        "avg_volume": 8750520.523809524,
-        "volume": 4051925.0
+        "price": 164.5,
+        "day_change": -1.141823296980612,
+        "volume_ratio": 1.8001701760455113,
+        "market_cap": 162740.34157535,
+        "pct_from_low": 0.1458999958444149,
+        "avg_volume": 8790672.142857144,
+        "volume": 4895109.0
       },
       "technical": {
         "symbol": "WIPRO",
-        "close": 165.0500030517578,
-        "rsi": 32.42,
-        "adx": 16.93,
-        "atr": 3.51,
-        "volume_ratio": 0.45,
+        "close": 164.5,
+        "rsi": 31.76,
+        "adx": 16.96,
+        "atr": 3.52,
+        "volume_ratio": 0.54,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -37,7 +37,7 @@
           "Bearish Engulfing"
         ],
         "setup": "HEAD & SHOULDERS",
-        "score": 76,
+        "score": 70,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -47,11 +47,10 @@
           "Head & Shoulders",
           "Near Breakdown",
           "Bearish Engulfing",
-          "Weak RSI",
           "MACD Bearish",
           "OBV Distribution"
         ],
-        "support_20d": 164.4
+        "support_20d": 164.26
       },
       "news": {
         "score": 50,
@@ -86,7 +85,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Wipro share price up 2% as IT major to mull buyback next week - Business Standard",
+            "title": "Wipro share price up 2% as IT major to mull buyback next week - business-standard.com",
             "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSzhhcnE4SmJUMEJNby1WN01JWmluT0thZ2prSjE0TWV4cXRhdWlVYzk0b09sZklXVGNHMjRGb1FOLWFNT0JUZ3U1eHdwYzdobGRCcFV5UnBBRzI3bFFWLV9KYjlLenFIVU1VY2FZMEhRVHRSTldhMVcwSEdaa3BwY0FKRGJKdVU1dW1NRHA5Vy1zS0RRQkl1eTJoTmR4N3VqYURzV2ZaYzBRTkx1cDlfTUNJMUIxakxMV3ktb2p3b1ZVVE5YdFHSAcsBQVVfeXFMTzBTaExNWGt3OGR5anRPZk5HXy12UUdmWXR6OFRLeTR5eTI0SUNFQno3T2pqYTJJT1lZXzJvMFJQRG13aFFRcEpmYTlNbFBvTDFNRjFyT1l3N09aamtxbnlmcUVYMkxfUy1iQVdhekJGeGYyczljVXVYcllfcFl4QjJIdUlsRlBnOTN0WF9seW03WXU2cVJVREdmRU8yWnpCSXpzdmxUVmZUZ2lKeWlSbnQ4OTRHWnBxUE1fWHBXZTJEV1ZYX1FnUU4wd1U?oc=5",
             "published": "Fri, 10 Apr 2026 07:00:00 GMT",
             "score": 0,
@@ -94,8 +93,8 @@
           }
         ]
       },
-      "combined_score": 70.8,
-      "added_at": "2026-09-18T10:42:46.222005",
+      "combined_score": 66.0,
+      "added_at": "2026-09-18T11:11:45.035752",
       "first_seen_price": 164.74000549316406,
       "first_seen_at": "2026-09-18T09:43:47.038679"
     },
