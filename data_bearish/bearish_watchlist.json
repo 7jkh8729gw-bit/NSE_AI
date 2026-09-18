@@ -5,21 +5,21 @@
       "symbol": "WIPRO",
       "base": {
         "symbol": "WIPRO",
-        "price": 163.8300018310547,
-        "day_change": -1.5444664421252634,
-        "volume_ratio": 1.6139788417418197,
-        "market_cap": 162077.5103846569,
-        "pct_from_low": 0.13428628349158866,
-        "avg_volume": 8994460.333333334,
-        "volume": 9174661.0
+        "price": 163.7100067138672,
+        "day_change": -1.616578895003205,
+        "volume_ratio": 1.506621362922926,
+        "market_cap": 161958.79885664186,
+        "pct_from_low": 0.0671923558978419,
+        "avg_volume": 9021876.0,
+        "volume": 9750390.0
       },
       "technical": {
         "symbol": "WIPRO",
-        "close": 163.8300018310547,
-        "rsi": 30.99,
+        "close": 163.7100067138672,
+        "rsi": 30.86,
         "adx": 17.1,
         "atr": 3.56,
-        "volume_ratio": 1.0,
+        "volume_ratio": 1.06,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -50,7 +50,7 @@
           "MACD Bearish",
           "OBV Distribution"
         ],
-        "support_20d": 163.61
+        "support_20d": 163.6
       },
       "news": {
         "score": 50,
@@ -94,7 +94,7 @@
         ]
       },
       "combined_score": 66.0,
-      "added_at": "2026-09-18T13:12:43.456588",
+      "added_at": "2026-09-18T13:44:45.242352",
       "first_seen_price": 164.74000549316406,
       "first_seen_at": "2026-09-18T09:43:47.038679"
     },
@@ -568,21 +568,21 @@
       "symbol": "SYNGENE",
       "base": {
         "symbol": "SYNGENE",
-        "price": 373.8500061035156,
-        "day_change": -1.6701751445651822,
-        "volume_ratio": 1.992747913924958,
-        "market_cap": 15047.58080749843,
-        "pct_from_low": 0.6018456501982765,
-        "avg_volume": 520813.3333333333,
-        "volume": 655921.0
+        "price": 374.3999938964844,
+        "day_change": -1.5255176550043288,
+        "volume_ratio": 1.8815958688072822,
+        "market_cap": 15069.717989851568,
+        "pct_from_low": 0.7478599996299418,
+        "avg_volume": 523207.04761904763,
+        "volume": 706189.0
       },
       "technical": {
         "symbol": "SYNGENE",
-        "close": 373.8500061035156,
-        "rsi": 30.23,
+        "close": 374.3999938964844,
+        "rsi": 30.53,
         "adx": 20.79,
         "atr": 9.37,
-        "volume_ratio": 1.24,
+        "volume_ratio": 1.33,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -654,7 +654,7 @@
         ]
       },
       "combined_score": 57.6,
-      "added_at": "2026-09-18T13:12:29.479257",
+      "added_at": "2026-09-18T13:44:31.389776",
       "first_seen_price": 373.8500061035156,
       "first_seen_at": "2026-09-18T11:47:02.081934"
     },
@@ -662,21 +662,21 @@
       "symbol": "EMAMILTD",
       "base": {
         "symbol": "EMAMILTD",
-        "price": 369.3500061035156,
-        "day_change": -1.7947354135756564,
-        "volume_ratio": 1.934987419094614,
-        "market_cap": 16122.127766418456,
-        "pct_from_low": 2.22011968905534,
-        "avg_volume": 1729749.0,
-        "volume": 2097480.0
+        "price": 368.25,
+        "day_change": -2.0872124371503027,
+        "volume_ratio": 1.7519701539785295,
+        "market_cap": 16074.1125,
+        "pct_from_low": 1.9280396750891038,
+        "avg_volume": 1733207.3333333333,
+        "volume": 2170105.0
       },
       "technical": {
         "symbol": "EMAMILTD",
-        "close": 369.3500061035156,
-        "rsi": 41.53,
+        "close": 368.25,
+        "rsi": 40.86,
         "adx": 22.98,
         "atr": 10.7,
-        "volume_ratio": 1.2,
+        "volume_ratio": 1.24,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -689,16 +689,20 @@
         "breakdown": false,
         "macd_bearish": false,
         "macd_cross_down": false,
-        "obv_distribution": false,
-        "patterns": [],
+        "obv_distribution": true,
+        "patterns": [
+          "3 Black Crows"
+        ],
         "setup": "DEATH CROSS",
-        "score": 32,
+        "score": 42,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
+          "3 Black Crows",
           "Weak RSI",
-          "ADX Trend Strength"
+          "ADX Trend Strength",
+          "OBV Distribution"
         ],
         "support_20d": 361.15
       },
@@ -743,10 +747,105 @@
           }
         ]
       },
-      "combined_score": 34.6,
-      "added_at": "2026-09-18T13:10:57.950575",
+      "combined_score": 42.6,
+      "added_at": "2026-09-18T13:43:19.186189",
       "first_seen_price": 369.6499938964844,
       "first_seen_at": "2026-09-18T12:15:07.243895"
+    },
+    {
+      "symbol": "KPITTECH",
+      "base": {
+        "symbol": "KPITTECH",
+        "price": 543.9000244140625,
+        "day_change": -2.753435314682453,
+        "volume_ratio": 1.523357773343846,
+        "market_cap": 14806.439106027234,
+        "pct_from_low": 0.24821411297933468,
+        "avg_volume": 1434610.0952380951,
+        "volume": 1561850.0
+      },
+      "technical": {
+        "symbol": "KPITTECH",
+        "close": 543.9000244140625,
+        "rsi": 34.52,
+        "adx": 16.39,
+        "atr": 14.63,
+        "volume_ratio": 1.07,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [
+          "Bearish Engulfing"
+        ],
+        "setup": "DEATH CROSS",
+        "score": 50,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Near Breakdown",
+          "Bearish Engulfing",
+          "Weak RSI",
+          "MACD Bearish"
+        ],
+        "support_20d": 542.55
+      },
+      "news": {
+        "score": 40,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "KPIT Tech cracks 15% on Q1 earnings warning; stock down 57% from 52-wk high - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZzBUVTZtYjR1NXdmUTJYNVpBcWRzbFpOWWxEWmpOSFotSUhXa3g3S252MUE5RmxybHNqMWFYYk9sUkc1cXpBeFctd2FvTk1jTHhiV2J3VUlZOHdEQ1VObWxMLXR3eTZ2WWx5bFAxNkE4WWtYYnJrcHNPZC1BTlhOdzFRZmtoTHdDWjNMVFRfcnVZVnhIZFV6WFlweTZQeXMxZHEwMGRkRHNkY28wLTg2bEZFdHR0c2gxbTB2cDlTdzNyLVJ1SGtSbnFUZkVneF9ydEJ4dlJZY2xiMkFxc2N0OWliaE5zZXR10gHuAUFVX3lxTFBlUDk1SENJQW1RY21zdHlQWEx1M2YzSndNdFA5dF9xTFk5UjVrdGJtb0NpczljdlNiend1UjBYc0tGcGlFWDFzQ1VsVk9ER1lCZXUwZU1EUG12VEV1RVZEdjVLZjFtSEZKZGowZFMzQ2k4R1dvWFdFVFRES3N0UlZzOTBtYjdfNmxEcGxBR0JxSVNaZlgyMXNRNDFKWG1ZZjVyVzd3ZHQtMnVUU1k4eXdvQkhRcFZQUlFQSnhCeXRnM00wVDJWMUNxczNqV2dPM0VZaEd4OXRqbkZYTGtrM3hLQXJmN01Udko0dmMxZ0E?oc=5",
+            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+            "score": -1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to watch, July 1: RIL, Nestle India, Paras Defence, KPIT Tech, HUL, Kotak Bank, Unimech Aerospace - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMVBXQnpKLVFYSUNhekg1WHhfeWpzek1KVEJtQ3pzSFRvVEtqNkJjX3QyREFfWG8wbWl1ZHN4VnpFb0dIdldyOURDU3dvSUE3b1VTTWpFTFU2Zkd1bkFZcHI1b0pYSWFUaXV5bjNlMTVndG5pVVBzckVvZGdVakFxZVdxT253emdNTzNkdnpDcDA2b1J2VU1zb3lWbV85cWN2c0JEeVVUc0l4U1Y0U0JXMndYSjhJYmsxN09qTE5HdEVHTW1yc29qMlhjVHhCN012aVVIYkVQeXBEOW40dTNDU2VkQ2FKWV9YSmpPMkZCVWU?oc=5",
+            "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to Watch Today: Kotak Bank, KPIT Tech, Waterways Leisure, Advit Jewels, Genus Power, Ivalue Info,... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQT2tCc3RSR2hhaGx2c1VoQWNlNVlqenloZXhMRnFsc0J4S3RGeW83QktCbnhtMXdLWU5YZ1hxZ0kxNmxkWEJQTmF0VE8xVm9mcUFnTm5CYXFjRWNpaXRKSnc2NURVSHU1ZGV4MElsX0dpMS0yb3dIWElqbDhjbm5zbkg4YVk0TENTWllvQlRhVVdISS1QYmFETFZQVnl6TzRQT2t6Y2dwcFVvV0g5MlJCYkU3YWFEb0JwU0FjMUgtMGtGX09mZDl2cnF3UWNmdkp3QWJEbzhNb3JPS213MmtYcW9Jd052d2w2ZWJFNVBoRG1ud1MxdDRuenVxYTluNjU0Rk5wZ2IzUGlwTTUtNkFsWHQtejVlM1BjTzlyYUsxcVBuekZYZkJnLW1DN2Uyc2N6VGfSAbcCQVVfeXFMT2t0WVdxa1YxVGVjVS1tS3drMzN1MWJkajFZN2JuWEQteTFfckd6dDRHUFBjdFE1WGZEY3cwcm5XbWY2MC1Fbmd5VTZaZzJCLWJaSWVVZTBNWXN2TDdQWHdzNWJ2eWVYakFhcUxDQ3ZiQjdibUVrdUVScF9zeGJneFZNNzRqdEU0eGhCa2dKVGttT3lMc3JLd2xydnJzQnp0N3pjVmRtT2JHV3NiUjhyQnZvSlJ0RWdLN2t5QzNtN3ZoQlNhNXZNY2Q2WHhKTDJxLVZvQ0lTM2pYaXUzNzZYbW9ZdW94SXRLdzR0NzlLTDVSeTFURER6aFE1UVJmZ3hleHNUNTR3Rkl3ei11eUZDb19DWFkyc1dWTVZ3Z3EwY3lKZDlfZUxqOFpGT2lnQmt3Wnh0RXVPY0k?oc=5",
+            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "KPIT Technologies slips 5.69%, extends one\u2011month fall to 28.34% - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BWlZjR0Y4c1M3cGQ0bXZrWjRPY3JuNFRiRFByR2JBQVRDd0Q4SDJWcHNCREpRVDhtMUtjQVJrQzFWd3FSWnF5OVhPaVZMWFVadVhydy1neWFqNzdBbzN5TGMxdmxITExudXZSLQ?oc=5",
+            "published": "Fri, 13 Feb 2026 08:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
+          },
+          {
+            "title": "KPIT Technologies Limited's (NSE:KPITTECH) Stock Has Been Sliding But Fundamentals Look Strong: Is The Market Wrong? - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLWtocFV5a3gzOUpYSmJtb1UxbWFmYjVoZ19yQXFqajdQWVJrTldvN0NGVkJLeVJZOGItd2dWazJ0MVNOVHdVUWpEWFpBSVAya0ZTZWVZbmUweTdUWWZ3NGxSS1lxTkVFaV9OX2JQbm9HQ3VUclk2N01HYndEd2U4RlVrMkppQmhid3BBcEVzVDlWcXBjUmVBT0J1clo4Rjh1bDQ3cDh2YTQyYWFybDdYVU9yamNFdGFBODFGY1F3c1NfYzhwRlZjd0NXVUUwMjdZYU54T2w1MlFLM1d10gHiAUFVX3lxTFBXZ2tEenUxM1R6eHNEZFV5V0ZXb0lPUWZ2MnN4bzd0RzYxekNJRlZRQTlFRGxNcVh6UmRMaWoyZkMxY1dxc0F3SXNEZXNvSzE0emlJcEV6ZldpLUpKR2Q0S0RDeDdURERGMExWLUFoV256aTdUQzkzaktsYUhfaHlQN1d1TWQ3TFVnYUQtS1pyZkJTRkN6ejE4UDhTbmlrZTMtSFhwTGw2ajR2RVhoWlNqczVzdnkwSnk3WkdmWjNJYWQ5dDR3MFQzQkhCZFA3dU1GNDFnUzE4bzh3MXhVOHZoc1E?oc=5",
+            "published": "Fri, 02 Jan 2026 08:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 52.0,
+      "added_at": "2026-09-18T13:43:45.988852",
+      "first_seen_price": 543.9000244140625,
+      "first_seen_at": "2026-09-18T13:43:45.988852"
     }
   ]
 }
