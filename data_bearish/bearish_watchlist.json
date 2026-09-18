@@ -5,21 +5,21 @@
       "symbol": "WIPRO",
       "base": {
         "symbol": "WIPRO",
-        "price": 164.92999267578125,
-        "day_change": -0.8834142275375302,
-        "volume_ratio": 2.5307666988800936,
-        "market_cap": 163165.73461444752,
-        "pct_from_low": 0.3213477249942917,
-        "avg_volume": 8717253.761904761,
-        "volume": 3353323.0
+        "price": 165.0500030517578,
+        "day_change": -0.8112926047139023,
+        "volume_ratio": 1.995903434315219,
+        "market_cap": 163284.46123802813,
+        "pct_from_low": 0.3938255942168035,
+        "avg_volume": 8750520.523809524,
+        "volume": 4051925.0
       },
       "technical": {
         "symbol": "WIPRO",
-        "close": 164.92999267578125,
-        "rsi": 32.27,
+        "close": 165.0500030517578,
+        "rsi": 32.42,
         "adx": 16.93,
         "atr": 3.51,
-        "volume_ratio": 0.38,
+        "volume_ratio": 0.45,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -58,7 +58,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "Wipro Share Price - upstox.com",
+            "title": "Wipro Share Price - Upstox",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KdElZR3B2X3pjUm1GemQyR3d5VktiaGR0OUVqYkgtMEtmS25BbGhDMS01MTg5d2hCQ3pLLVZjR3hLMlVPTXRuVkdhMDBtenZUUGFlb2VjbC1uQkFa?oc=5",
             "published": "Thu, 17 Sep 2026 09:15:14 GMT",
             "score": 0,
@@ -72,7 +72,7 @@
             "label": "Neutral"
           },
           {
-            "title": "BSE enters Nifty50, Wipro exits: What changes from September 30 - timesofindia.indiatimes.com",
+            "title": "BSE enters Nifty50, Wipro exits: What changes from September 30 - The Times of India",
             "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbHBKZWg5Q3ctOU1ZMVNTYlBEb0dEWUJmRkRkaC01S0VjVGEyallKVkVqUmVMTDhxRXg5U1RiNDRKVnY4TDNxSkpIcXJfUFh2d3NVRklzVGhndmZReFQ4Z29RM3dMczhNUFlkU3NpN3dJQ0hkS3FaSWdTMDQ1cHRkN2tLa0d0empCZk9iZEZ6S3FFVHFELUI3dkd2MlFXalotQURidXRwUlJTb0dJRVFpSXByYy1IU3E2WGU3LTFhYkxVNnZCaHNhTzdsRFNORmhzcl9qb01OSGZzd0htdHVoetIB5gFBVV95cUxOdkF3elNTUW9mWm45SGNJRzA4d1ZNelJzMEdhTG5uR3pqXzJmWW5nZWJIcTdmM19MYVVaREQ2U1dZODZoVXkwSjA4MWpwNGh6cy1CWHMyODhDQmNuNFBNX1EwNGd0YUdCNTJrMlB1NnVYUXdBbzZlS2kxUmtpTXVuQ0JoQkNaanRYU1FNUW51cVN5NXNyeVNuRjEwbmhsYTBYR29rZUFaMVJzTWNhNWVTdllsemo0NUlvcWdta1ZWeHA4c2M0U2R2eEpwTURHYllTdERiSE53ZWt0aVFIMDBzVklQWkZYUQ?oc=5",
             "published": "Mon, 10 Aug 2026 07:00:00 GMT",
             "score": 0,
@@ -95,7 +95,7 @@
         ]
       },
       "combined_score": 70.8,
-      "added_at": "2026-09-18T10:12:24.085130",
+      "added_at": "2026-09-18T10:42:46.222005",
       "first_seen_price": 164.74000549316406,
       "first_seen_at": "2026-09-18T09:43:47.038679"
     },
@@ -199,21 +199,21 @@
       "symbol": "INFY",
       "base": {
         "symbol": "INFY",
-        "price": 1047.300048828125,
-        "day_change": -1.0674406781048682,
-        "volume_ratio": 1.6637805898491638,
-        "market_cap": 424187.8804422428,
-        "pct_from_low": 6.196889276065852,
-        "avg_volume": 7583473.857142857,
-        "volume": 1884174.0
+        "price": 1049.0999755859375,
+        "day_change": -0.8974116964948662,
+        "volume_ratio": 1.6010659994702818,
+        "market_cap": 424898.454679983,
+        "pct_from_low": 6.357826015068022,
+        "avg_volume": 7627108.666666667,
+        "volume": 2800505.0
       },
       "technical": {
         "symbol": "INFY",
-        "close": 1047.300048828125,
-        "rsi": 38.46,
+        "close": 1049.0999755859375,
+        "rsi": 38.79,
         "adx": 17.3,
         "atr": 27.46,
-        "volume_ratio": 0.25,
+        "volume_ratio": 0.36,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -247,7 +247,7 @@
         "label": "Bearish",
         "headlines": [
           {
-            "title": "Infosys share price today: Stock falls around 4% after Q4 numbers; what\u2019s the outlook? Brokerages share r - timesofindia.indiatimes.com",
+            "title": "Infosys share price today: Stock falls around 4% after Q4 numbers; what\u2019s the outlook? Brokerages share r - The Times of India",
             "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQOG04dUhZUUlXMHllbjNmOG1RSkwyQ3o0VnlGTE85TXIwQVh4enV0UXZLVVI0cWRvZ0dVQl9hbmo5WFVNRDRxRXdNbE8tUmZlcC1ZUU1GOWdiN1FyaVBpRWpGcFB3Y21ndFp5aDlZNC13QkFVTjBHeFgtaW0ySGVxTlVJTi1IZ2dpNzNRVjlkanpiOWVXLTRrRy1jajFFWG81S1pzSUVCNzNxdDlZLUtFVlB5VDRTSFZORlNOSjc4bnE0eWlpV2VJLTdZYjZNN19yc0pTZ1B2RXZ5XzBMZnZ5UFhNeU1lVXJkaUNDMUgwS1BhMjRKazF0SUhqRjM3SmkwbEJ5ZGVzb3ZPaUNrU0VwSFVvNk90VnRUaHYzNNIBogJBVV95cUxPQVRIeGtjWkRMckRrQkVMcThZamhVV19CblM5VmhDaFFxa2JYc1l4NDFERTN4a01iYzhmek9RU3JVUXVKSDg5bjdYTWxLX0tEY0VpV1lRX0NOSTM3Q1F0YkNGVk1nSXR0RGlUa0xEMFMyVFBqVU1MOTh5b1phb2k0ZHZVWnlXcWQzM2VIYXo1X0FSYll5a01iV3BZTmp3VV9nOFhhQmtiSk14dFdhalA1SnU4T0NNVUVzNE8zajA3N0lwZmJsVnFIdjdoNDVYUWhCOUJ6QmkxWXZnZzRuWThwUkg4WFJIcDRxXzM2aXNEdUMyaHBUOG1YMnRNdW5EYkFUMXV6YWpGM1Ytdm1PZXFEb0dNVHlIUUtrVDlRdFMzQ2xrZw?oc=5",
             "published": "Fri, 24 Apr 2026 07:00:00 GMT",
             "score": -2,
@@ -284,7 +284,7 @@
         ]
       },
       "combined_score": 45.6,
-      "added_at": "2026-09-18T10:11:27.451569",
+      "added_at": "2026-09-18T10:41:47.834212",
       "first_seen_price": 1044.800048828125,
       "first_seen_at": "2026-09-18T09:42:40.232109"
     },
@@ -292,21 +292,21 @@
       "symbol": "PTC",
       "base": {
         "symbol": "PTC",
-        "price": 154.4600067138672,
-        "day_change": -0.9871751834184695,
-        "volume_ratio": 2.0980718662846893,
-        "market_cap": 4572.144724902056,
-        "pct_from_low": 3.152926430333594,
-        "avg_volume": 1522686.3333333333,
-        "volume": 477076.0
+        "price": 154.35000610351562,
+        "day_change": -1.0576883951822915,
+        "volume_ratio": 1.647332937841064,
+        "market_cap": 4568.888615304141,
+        "pct_from_low": 3.083906431744923,
+        "avg_volume": 1527772.5238095238,
+        "volume": 583886.0
       },
       "technical": {
         "symbol": "PTC",
-        "close": 154.4600067138672,
-        "rsi": 42.74,
+        "close": 154.35000610351562,
+        "rsi": 42.56,
         "adx": 25.42,
         "atr": 3.48,
-        "volume_ratio": 0.31,
+        "volume_ratio": 0.38,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -376,7 +376,7 @@
         ]
       },
       "combined_score": 43.6,
-      "added_at": "2026-09-18T10:11:55.288062",
+      "added_at": "2026-09-18T10:42:16.682980",
       "first_seen_price": 154.9600067138672,
       "first_seen_at": "2026-09-18T09:43:13.327852"
     },
@@ -472,6 +472,98 @@
       "added_at": "2026-09-18T10:11:01.112888",
       "first_seen_price": 279.45001220703125,
       "first_seen_at": "2026-09-18T09:42:09.046992"
+    },
+    {
+      "symbol": "JWL",
+      "base": {
+        "symbol": "JWL",
+        "price": 230.27000427246094,
+        "day_change": -0.6686235021941008,
+        "volume_ratio": 1.7609684449024516,
+        "market_cap": 9841.058130095329,
+        "pct_from_low": 2.0063448518071234,
+        "avg_volume": 582188.2380952381,
+        "volume": 235116.0
+      },
+      "technical": {
+        "symbol": "JWL",
+        "close": 230.27000427246094,
+        "rsi": 29.58,
+        "adx": 14.28,
+        "atr": 6.0,
+        "volume_ratio": 0.4,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": false,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DOUBLE TOP",
+        "score": 48,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "MACD Bearish",
+          "OBV Distribution"
+        ],
+        "support_20d": 225.65
+      },
+      "news": {
+        "score": 55,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Jupiter Wagons Limited's (NSE:JWL) Fundamentals Look Pretty Strong: Could The Market Be Wrong About The Stock? - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdUNYRlFsOGJtWE5HTGNTV0ZPeE4wUjd1bWRxWmVxNTNET1Z6T0t2czJaOUhVWk5SWFRmYTh3WVFrbWZLRlJQUUZTbzFSaGZJbGdJUVBrUlRVTnpmRlZoOGpEcFRnSllGVjNobzJVYVdoeDM1d3JSaFFjLUlOTE9EN2tkQWdjWFhpYURWVUtzbzBvS2htTW5MdHpQUTFrVzk1S1JMUmZ5NmlRQkQ1aEdYMV9FU3cxYlRZWFB2LTlBanJIWkNEamRTUVZtUjhOd21SYjFlY2thU0NmakXSAeABQVVfeXFMTUZlRWhyYVd6SkczNE5fR21TTnVfTDhEOTFmWjFLZHgwX3VORGlTSXRocjRqa2ZpVEI1bjUzbkxzaVlCclAzZlBPTW5ySUdPNE80UlRCUk43enp6WWFoNFY0NnRmYVlXOW9kRzVNUDlKTksyRUpVQUszSHRFNmRzM2xERlhJbjVyNkxDcEp5SWpaUnFOb0ZBa2RMSGg5Qk54bVRrYThGcU9YRlFLdTJXTG44MU1QRTVlczg0UkhsejUyaUZBUHZwUFlPWjdNSmtRbTZLdHhtS2lYa2dBVnN2aHQ?oc=5",
+            "published": "Mon, 16 Feb 2026 08:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Jupiter Wagons (JWL): Rail and Mobility Business Signals - Kalkine India",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMVhWNlNJV3JqS0RiaktQZ0w5UmRnYkVPRy1rVDRCRURUQWRNaGtmUUhCbVR1Z2tONUFXOElwZ2l2d0IwS081X0x3LXVRdXRaSEtmdENOMHJaUlRHanV4aFYxZl9hVnRyZGN2RV91VEhPMWVPLVhNTHBBeWdmOUQyV0RNQnVBSDU2NWVNSE54RUVvOUlJQVJHcHZwbnNzeWtPVm1iYzR3SWZnb2psMUFIb09NRUQtbWdMNlEyblladlBzMjhK?oc=5",
+            "published": "Wed, 09 Sep 2026 12:45:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Jupiter Wagons shares zoom 15% as promoter Tatravagonka buys additional stake worth \u20b9135 crore; all you need to know - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdExVQ3A1cllRYjRIUnBMd1MzcU9wdXBHcFd5OUx6QU45ekZfdklUZHdSOUJ1R3E2WUQ0MGpyQ2gyck1sNVVCX0lkMEtJLWZZQmZaeUhKNFdkNHN6ejhPREx2LS1OOVp1TGdyR010SklWWEdkQ0I5Ry1lM3RBT1BwZEw2UF84aXJVOXVnM184bkZuc2lWZzZpRm1uempmVlVGWHNVemx1QThsYUp2Zk1hRTA2RC1RMFE5OVNGQTY4QnlXdHRkM1QxNmVrN2NpX1pNSVRfSUFUYkpFMVllcC1WTHVpd2h6N0ZBS3NwZjZGVEVUR3pNVGJUWUV3NlBoSHNOenc?oc=5",
+            "published": "Sun, 21 Dec 2025 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Jupiter Wagons, Lucchini RS Form Railwheel JV - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jQ0xXZmVqaUsyOUgtTXdHTXF4c1ZDMlBBT2tBNF9MdDRkenpOTkZ6RHFLWE8tWEtZVGV1S0lmbWZOZzNRb2RxdFV5MEJPU1Fwd1lTaEpBWHlfRWcyU0FHeXp2eHQ?oc=5",
+            "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Jupiter Wagons Ltd. Share Price Today - Jupiter Wagons Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YTDFVdm9uVXNyczNtbFNCb3ktY0I4RndPTVlWdFZGRWVqMEtwa0s0dGR2SnQtQlFHQXdVN1JPdUFvNlY4Nk9hYnA0aUhGZ3JVMEZ1SFhNSjhSdV9IQnRndmxOcjJIeGZERlppYUNwSTNtd0oyWnVFQUd5bWxGSGs?oc=5",
+            "published": "Sat, 03 Jan 2026 20:25:03 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 47.4,
+      "added_at": "2026-09-18T10:41:52.165972",
+      "first_seen_price": 230.27000427246094,
+      "first_seen_at": "2026-09-18T10:41:52.165972"
     }
   ]
 }
