@@ -5,21 +5,21 @@
       "symbol": "WIPRO",
       "base": {
         "symbol": "WIPRO",
-        "price": 164.5,
-        "day_change": -1.141823296980612,
-        "volume_ratio": 1.8001701760455113,
-        "market_cap": 162740.34157535,
-        "pct_from_low": 0.1458999958444149,
-        "avg_volume": 8790672.142857144,
-        "volume": 4895109.0
+        "price": 163.99000549316406,
+        "day_change": -1.4483103916575502,
+        "volume_ratio": 1.8110074744274145,
+        "market_cap": 162235.80248572063,
+        "pct_from_low": 0.17684525593479783,
+        "avg_volume": 8867539.38095238,
+        "volume": 6509321.0
       },
       "technical": {
         "symbol": "WIPRO",
-        "close": 164.5,
-        "rsi": 31.76,
-        "adx": 16.96,
-        "atr": 3.52,
-        "volume_ratio": 0.54,
+        "close": 163.99000549316406,
+        "rsi": 31.17,
+        "adx": 17.08,
+        "atr": 3.56,
+        "volume_ratio": 0.72,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -50,14 +50,14 @@
           "MACD Bearish",
           "OBV Distribution"
         ],
-        "support_20d": 164.26
+        "support_20d": 163.7
       },
       "news": {
         "score": 50,
         "label": "Neutral",
         "headlines": [
           {
-            "title": "Wipro Share Price - Upstox",
+            "title": "Wipro Share Price - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KdElZR3B2X3pjUm1GemQyR3d5VktiaGR0OUVqYkgtMEtmS25BbGhDMS01MTg5d2hCQ3pLLVZjR3hLMlVPTXRuVkdhMDBtenZUUGFlb2VjbC1uQkFa?oc=5",
             "published": "Thu, 17 Sep 2026 09:15:14 GMT",
             "score": 0,
@@ -94,7 +94,7 @@
         ]
       },
       "combined_score": 66.0,
-      "added_at": "2026-09-18T11:11:45.035752",
+      "added_at": "2026-09-18T11:47:18.605899",
       "first_seen_price": 164.74000549316406,
       "first_seen_at": "2026-09-18T09:43:47.038679"
     },
@@ -563,6 +563,100 @@
       "added_at": "2026-09-18T10:41:52.165972",
       "first_seen_price": 230.27000427246094,
       "first_seen_at": "2026-09-18T10:41:52.165972"
+    },
+    {
+      "symbol": "SYNGENE",
+      "base": {
+        "symbol": "SYNGENE",
+        "price": 373.8500061035156,
+        "day_change": -1.6701751445651822,
+        "volume_ratio": 1.8332592855386418,
+        "market_cap": 15047.58080749843,
+        "pct_from_low": 0.33435869455459805,
+        "avg_volume": 507538.14285714284,
+        "volume": 377142.0
+      },
+      "technical": {
+        "symbol": "SYNGENE",
+        "close": 373.8500061035156,
+        "rsi": 30.23,
+        "adx": 20.55,
+        "atr": 9.3,
+        "volume_ratio": 0.73,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DOUBLE TOP",
+        "score": 57,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Near Breakdown",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "OBV Distribution"
+        ],
+        "support_20d": 372.6
+      },
+      "news": {
+        "score": 35,
+        "label": "Bearish",
+        "headlines": [
+          {
+            "title": "Syngene International (NSE: SYNGENE) Stock: Narrative Watch - Kalkine India",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFlNWjdGNGx6N0tLaE0xaUlfdzlBQnd0dXhabHNuUXZVVmJlLW9zNjVGakl2YkNpMzhadGM2NUVVQ3JsVm5ycHBVVVdiOVJMSjN5UDlINDQxZjA0dmIzWEFTNHU0amY1RGwxNUNyUnBoRXlGaEZIWXlsclRhUWdURmw4VkltbVNsVm84V05sZEtmejF5Nkc0NTZ2NHBZMEE5YnFUSDJVTWJhelE4Vk5FN0lZYVc0VHltTG9v?oc=5",
+            "published": "Thu, 10 Sep 2026 13:12:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Syngene International tumbles 9%, hits 52-week low after posting loss in Q1 - business-standard.com",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS0lranZRQ0NWUzZoUjFBMjdBU3hCZ1pCRFQ5QzVhNXJfbGNoZl9PdUZDeUM1UXg4OVNjNEN6dC1PcERwdHRHOU83cW15bjJTYXdWVC11NnlUWm0yRFlRTlowdWs3Qi1rY3N4bUdDaEMwX1NPS3BILWdkdmZoMjNTRTZFUmhKLVppeGx5RzVxVVF5dTZkOThzazg2VkdTWVRFb3loaEk5c24tTElRRkEyMzhuaEpLQlRXUFZjLU05QS04Z0hJZjBjVDNWWlctYVBEM1ZJNUxPRdIB3AFBVV95cUxNdF80SVA2QUppRVlmSjFaQnpXTTVFMTAyQjI4TDVmQ0YxWW9nUXFvcWpvb2RZYVlWMkJJaTRFYS1tU09zTE5mYnpZMjRjeGhOQ0M5ZkxEdGo2c003U05raVVsczFuSzJCWTFRQ1BFWTRud0IzbWNtaFQ4bUIwdUtBdHRpUnV5VTVHeHVPMm53UlJVLXB2Z1JrSnRnQlFaeGJFRHJiTFJCei1CaU1yTXRhVld1N3lzTnpWcjBZU3JsMXQ5alRwVmhjNkdCX3VFQ25RRHRld3FPOEt4M1Nf?oc=5",
+            "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+            "score": -3,
+            "label": "Neutral"
+          },
+          {
+            "title": "Some Syngene International Limited (NSE:SYNGENE) Shareholders Look For Exit As Shares Take 25% Pounding - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbnRDeWgwWWx5SkhwemdsZ3IxT3VmZlJqWEpRNk00d3ZRS05KSnQ3V0h0cTFZV01zRDdTUGNkQVcwZjJqTDNvd0xIWmF0MjZlZDcyRW1LNXV1Tm5xS2pnTjJVTDVOXzlIUFFUVHNYY3B4WWdZbHpaOXl5cUdES0U2XzZiM1RIcUVkQWtYNE9nbjY1UzNkaWN1RGhnNVRhTGQ1Q0lLc3RqMGhXV3VhM2VzdlNqSVd1dko1Y2RreGZ2M0tPbDZPN2Z4aWZwNmxnTkptM2Jqcm9oRVM5LW83a1cxMzFicGRUVUY0Y21keWJGaWNuTF9K0gH6AUFVX3lxTE9RZHZCNURTamlBUTktRWNsYkdMRW1rbTNWZjZDZE40NkZVTEdyQXBJLWJRcFhLN19ibzlidUhJOEp6TWkxVjlaWVlYd0JBWVJrVzhlbUJtaGtLLXg4bDBhY1dJY1gwblY2SDA1MTljYnpsSWY0c01rWTZpU2dTTTAzWnJPOG91UHA4TFQyWGNHN2ltY3o2NW5CMnEyczgxQ2R4Tk43WW5YVTBYSm9ZMjFNUUlYN0JwREJTRXBsQTJ1UW9GaFlVUEVXVWRHSnN2MjdNdDFuOGthdld6U2o0QUh6V0d6b3hNR1pkVGJDV0UzNjR4VjNzVG9ad2c?oc=5",
+            "published": "Wed, 28 Jan 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Piramal Pharma vs Syngene International: Which CDMO Stock - Univest",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYTN0WDBLSTRkUmlBUzVMNUU0VlVNWE9yemJWdXI3bDEtMjJWakNTY21WWFZUcVJqU3c0ZldWc2g2bVlfMVdOZW00d3lKczdBNEx1Q0Y4Rkg0ajFacnJmV1V2SU5iX0czREozRmltYlFvcGQ2V0wxeEhYVTRya21vag?oc=5",
+            "published": "Tue, 11 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "SYNGENE Stock Price and Chart \u2014 NSE:SYNGENE - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JS2syaExaUE5lc3NKNkE4WFZVYVpPZnBXcm1TZGxwVzBsVlRkNlh5OTNGX1diZzlVUzg4eHFDVG1hU2Jza3Z1RElGTXlCak1LbXprODdmY1UtbXph?oc=5",
+            "published": "Wed, 07 Jan 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 58.6,
+      "added_at": "2026-09-18T11:47:02.081934",
+      "first_seen_price": 373.8500061035156,
+      "first_seen_at": "2026-09-18T11:47:02.081934"
     }
   ]
 }
