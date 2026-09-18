@@ -570,11 +570,11 @@
         "symbol": "SYNGENE",
         "price": 374.79998779296875,
         "day_change": -1.4203114783494566,
-        "volume_ratio": 1.7742160127301978,
+        "volume_ratio": 1.9407724170279508,
         "market_cap": 15085.817870503137,
         "pct_from_low": 0.8537838296891099,
-        "avg_volume": 524687.5714285715,
-        "volume": 737280.0
+        "avg_volume": 532491.5714285715,
+        "volume": 901164.0
       },
       "technical": {
         "symbol": "SYNGENE",
@@ -582,7 +582,7 @@
         "rsi": 30.74,
         "adx": 20.79,
         "atr": 9.37,
-        "volume_ratio": 1.38,
+        "volume_ratio": 1.67,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -598,7 +598,7 @@
         "obv_distribution": true,
         "patterns": [],
         "setup": "DOUBLE TOP",
-        "score": 57,
+        "score": 62,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -608,13 +608,14 @@
           "Near Breakdown",
           "MACD Bearish",
           "ADX Trend Strength",
+          "Volume Expansion",
           "OBV Distribution"
         ],
         "support_20d": 371.6
       },
       "news": {
-        "score": 35,
-        "label": "Bearish",
+        "score": 40,
+        "label": "Neutral",
         "headlines": [
           {
             "title": "Syngene International (NSE: SYNGENE) Stock: Narrative Watch - Kalkine India",
@@ -638,10 +639,10 @@
             "label": "Neutral"
           },
           {
-            "title": "Piramal Pharma vs Syngene International: Which CDMO Stock - Univest",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYTN0WDBLSTRkUmlBUzVMNUU0VlVNWE9yemJWdXI3bDEtMjJWakNTY21WWFZUcVJqU3c0ZldWc2g2bVlfMVdOZW00d3lKczdBNEx1Q0Y4Rkg0ajFacnJmV1V2SU5iX0czREozRmltYlFvcGQ2V0wxeEhYVTRya21vag?oc=5",
-            "published": "Tue, 11 Aug 2026 07:00:00 GMT",
-            "score": 0,
+            "title": "3 Fundamentally Strong Medical Devices Stocks in India - Univest",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16cjBDLXRmbWdrUlowNDVvZ2VrbExzQzEtN1gyQllpSmx4Y1JpTF96WVFwVlZiMzZUTzVTc0M5ZEJFUXhWYXByNndXb2ItSF91Ym45UGhZMFlkM3AtN1JUcTlsVnpBZw?oc=5",
+            "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+            "score": 1,
             "label": "Neutral"
           },
           {
@@ -653,8 +654,8 @@
           }
         ]
       },
-      "combined_score": 58.6,
-      "added_at": "2026-09-18T14:12:55.211071",
+      "combined_score": 61.6,
+      "added_at": "2026-09-18T14:42:45.572674",
       "first_seen_price": 373.8500061035156,
       "first_seen_at": "2026-09-18T11:47:02.081934"
     },
@@ -662,21 +663,21 @@
       "symbol": "EMAMILTD",
       "base": {
         "symbol": "EMAMILTD",
-        "price": 367.75,
-        "day_change": -2.2201558011188696,
-        "volume_ratio": 1.6361757537906678,
-        "market_cap": 16052.2875,
-        "pct_from_low": 1.7946991443958191,
-        "avg_volume": 1736673.4285714286,
-        "volume": 2242893.0
+        "price": 367.8500061035156,
+        "day_change": -2.193565505481358,
+        "volume_ratio": 1.5472026459399113,
+        "market_cap": 16056.652766418458,
+        "pct_from_low": 1.8213978784455476,
+        "avg_volume": 1741404.7142857143,
+        "volume": 2342250.0
       },
       "technical": {
         "symbol": "EMAMILTD",
-        "close": 367.75,
-        "rsi": 40.56,
+        "close": 367.8500061035156,
+        "rsi": 40.62,
         "adx": 22.98,
-        "atr": 10.7,
-        "volume_ratio": 1.28,
+        "atr": 10.71,
+        "volume_ratio": 1.33,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -718,7 +719,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Nepal floods impact: Emami shares slip 4%, NHPC down 1%; what investors need to know - Upstox",
+            "title": "Nepal floods impact: Emami shares slip 4%, NHPC down 1%; what investors need to know - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ04ySk1SX1l5THhPOVF0Z013ZGtEamZPcmpvbWhYN3RadGFsdl80Z1c3SjFsMmdmdjZtaFIxdU43bmdXeVFNdmV2d1V4blBLR184MUtxUFBHdWdSQWJ6amtLS3VJcWpBbVF0ZGdBdjdYd1BEd2tNd3ljOVQ2djB5MmpCdU16LTdsQVdTbjFGRGxTOG5ERF9wZkNuc1pDM2h4SkU3NU53VGZsVFFqQTBKaTlYODZLY2xnMHdLOGN1R3FiVURjZXl6SzZiYjBSclFLajVLdHpMVjEtRlFvZGc?oc=5",
             "published": "Thu, 27 Aug 2026 07:00:00 GMT",
             "score": 0,
@@ -748,7 +749,7 @@
         ]
       },
       "combined_score": 42.6,
-      "added_at": "2026-09-18T14:11:54.523034",
+      "added_at": "2026-09-18T14:41:42.393639",
       "first_seen_price": 369.6499938964844,
       "first_seen_at": "2026-09-18T12:15:07.243895"
     },
@@ -756,21 +757,21 @@
       "symbol": "KPITTECH",
       "base": {
         "symbol": "KPITTECH",
-        "price": 542.7999877929688,
-        "day_change": -2.9501162810873622,
-        "volume_ratio": 1.5214775961186315,
-        "market_cap": 14776.493115011383,
-        "pct_from_low": 0.055266728024166684,
-        "avg_volume": 1443040.0,
-        "volume": 1738878.0
+        "price": 540.2000122070312,
+        "day_change": -3.414978723905779,
+        "volume_ratio": 1.7259272013932785,
+        "market_cap": 14705.714702688618,
+        "pct_from_low": 0.194370190529789,
+        "avg_volume": 1465246.1904761905,
+        "volume": 2205208.0
       },
       "technical": {
         "symbol": "KPITTECH",
-        "close": 542.7999877929688,
-        "rsi": 34.18,
-        "adx": 16.4,
-        "atr": 14.64,
-        "volume_ratio": 1.18,
+        "close": 540.2000122070312,
+        "rsi": 33.39,
+        "adx": 16.59,
+        "atr": 14.88,
+        "volume_ratio": 1.48,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -780,26 +781,27 @@
         "bear_flag": false,
         "ll_lh": true,
         "near_breakdown": true,
-        "breakdown": false,
+        "breakdown": true,
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": false,
         "patterns": [
           "Bearish Engulfing"
         ],
-        "setup": "DEATH CROSS",
-        "score": 50,
+        "setup": "DEATH CROSS + BREAKDOWN",
+        "score": 59,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
           "Lower High / Lower Low",
           "Near Breakdown",
+          "Confirmed Breakdown",
           "Bearish Engulfing",
           "Weak RSI",
           "MACD Bearish"
         ],
-        "support_20d": 542.5
+        "support_20d": 539.15
       },
       "news": {
         "score": 40,
@@ -813,7 +815,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Stocks to watch, July 1: RIL, Nestle India, Paras Defence, KPIT Tech, HUL, Kotak Bank, Unimech Aerospace - Upstox",
+            "title": "Stocks to watch, July 1: RIL, Nestle India, Paras Defence, KPIT Tech, HUL, Kotak Bank, Unimech Aerospace - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMVBXQnpKLVFYSUNhekg1WHhfeWpzek1KVEJtQ3pzSFRvVEtqNkJjX3QyREFfWG8wbWl1ZHN4VnpFb0dIdldyOURDU3dvSUE3b1VTTWpFTFU2Zkd1bkFZcHI1b0pYSWFUaXV5bjNlMTVndG5pVVBzckVvZGdVakFxZVdxT253emdNTzNkdnpDcDA2b1J2VU1zb3lWbV85cWN2c0JEeVVUc0l4U1Y0U0JXMndYSjhJYmsxN09qTE5HdEVHTW1yc29qMlhjVHhCN012aVVIYkVQeXBEOW40dTNDU2VkQ2FKWV9YSmpPMkZCVWU?oc=5",
             "published": "Tue, 30 Jun 2026 07:00:00 GMT",
             "score": 0,
@@ -842,8 +844,8 @@
           }
         ]
       },
-      "combined_score": 52.0,
-      "added_at": "2026-09-18T14:12:16.722563",
+      "combined_score": 59.2,
+      "added_at": "2026-09-18T14:42:05.854386",
       "first_seen_price": 543.9000244140625,
       "first_seen_at": "2026-09-18T13:43:45.988852"
     }
