@@ -479,21 +479,21 @@
       "symbol": "JWL",
       "base": {
         "symbol": "JWL",
-        "price": 230.1300048828125,
-        "day_change": -0.7290149202017093,
-        "volume_ratio": 1.7548858419988516,
-        "market_cap": 9835.074970733947,
-        "pct_from_low": 1.9467304963598508,
-        "avg_volume": 623058.7619047619,
-        "volume": 1093397.0
+        "price": 228.52999877929688,
+        "day_change": -0.6952618387725603,
+        "volume_ratio": 1.534689578838799,
+        "market_cap": 9766.695447647762,
+        "pct_from_low": 1.2602305597497807,
+        "avg_volume": 610749.1428571428,
+        "volume": 217456.0
       },
       "technical": {
         "symbol": "JWL",
-        "close": 230.1300048828125,
-        "rsi": 29.45,
-        "adx": 14.41,
-        "atr": 6.13,
-        "volume_ratio": 1.73,
+        "close": 228.52999877929688,
+        "rsi": 27.94,
+        "adx": 15.54,
+        "atr": 6.02,
+        "volume_ratio": 0.36,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -501,23 +501,22 @@
         "head_shoulders": false,
         "rounding_top": false,
         "bear_flag": false,
-        "ll_lh": true,
-        "near_breakdown": false,
+        "ll_lh": false,
+        "near_breakdown": true,
         "breakdown": false,
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": true,
         "patterns": [],
         "setup": "DOUBLE TOP",
-        "score": 53,
+        "score": 47,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
-          "Lower High / Lower Low",
           "Double Top",
+          "Near Breakdown",
           "MACD Bearish",
-          "Volume Expansion",
           "OBV Distribution"
         ],
         "support_20d": 225.65
@@ -527,7 +526,7 @@
         "label": "Bullish",
         "headlines": [
           {
-            "title": "JWL Stock Price and Chart \u2014 NSE:JWL - TradingView",
+            "title": "JWL Stock Price and Chart \u2014 NSE:JWL - tradingview.com",
             "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yZ1Y5VmlwWjVpUG1qenlqNnZsVmM5UHNXRmowT25PUnZzT0pMTGt0QXN3ZjhpRlVPeEFBNVNfZlNxMGJGOWFwUGRIcGpQOW5UUVlRV1daUQ?oc=5",
             "published": "Fri, 07 Aug 2026 07:00:00 GMT",
             "score": 0,
@@ -555,7 +554,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Jupiter Wagons Ltd. Share Price Today - Jupiter Wagons Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+            "title": "Jupiter Wagons Ltd. Share Price Today - Jupiter Wagons Ltd. Stock Price Live NSE/BSE - cnbctv18.com",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YTDFVdm9uVXNyczNtbFNCb3ktY0I4RndPTVlWdFZGRWVqMEtwa0s0dGR2SnQtQlFHQXdVN1JPdUFvNlY4Nk9hYnA0aUhGZ3JVMEZ1SFhNSjhSdV9IQnRndmxOcjJIeGZERlppYUNwSTNtd0oyWnVFQUd5bWxGSGs?oc=5",
             "published": "Sat, 03 Jan 2026 20:25:03 GMT",
             "score": 0,
@@ -563,8 +562,8 @@
           }
         ]
       },
-      "combined_score": 49.4,
-      "added_at": "2026-09-21T06:21:00.833428",
+      "combined_score": 44.6,
+      "added_at": "2026-09-21T10:42:38.545416",
       "first_seen_price": 230.1300048828125,
       "first_seen_at": "2026-09-21T06:21:00.833428"
     },
@@ -1034,21 +1033,21 @@
       "symbol": "BHARTIARTL",
       "base": {
         "symbol": "BHARTIARTL",
-        "price": 1844.9000244140625,
-        "day_change": -2.5563842584813816,
-        "volume_ratio": 2.7001733188708994,
-        "market_cap": 1151032.418343,
-        "pct_from_low": 5.658844546181834,
-        "avg_volume": 5529621.095238095,
-        "volume": 2309318.0
+        "price": 1841.4000244140625,
+        "day_change": -2.741246663263252,
+        "volume_ratio": 1.9100172454970945,
+        "market_cap": 1148786.5166602589,
+        "pct_from_low": 5.47952770046091,
+        "avg_volume": 5536479.619047619,
+        "volume": 2453347.0
       },
       "technical": {
         "symbol": "BHARTIARTL",
-        "close": 1844.9000244140625,
-        "rsi": 45.49,
+        "close": 1841.4000244140625,
+        "rsi": 44.97,
         "adx": 26.37,
-        "atr": 32.47,
-        "volume_ratio": 0.41,
+        "atr": 32.5,
+        "volume_ratio": 0.43,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1075,7 +1074,7 @@
         "support_20d": 1811.9
       },
       "news": {
-        "score": 70,
+        "score": 65,
         "label": "Bullish",
         "headlines": [
           {
@@ -1083,13 +1082,6 @@
             "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PMEM5MzZ5ZlBNd3ZVYmN5OXpINTdRZFVmRmJGcWpIVHhUM3JvMVVOUGJ6cXlIenZ4UkVaQmRkVTNIdTBrdnRGT3BEcXZ2MjZFV1Yzbi1iMjZ5TUE?oc=5",
             "published": "Fri, 18 Sep 2026 20:21:05 GMT",
             "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "BHARTIARTL Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sbmdxbHhwdEY3X0Vwa0taTlVUUTE4WHpQdmNaTnJ2Z0tkNEozV0pTVlFzVjFhZWo4bmNkVlVEWmw5UDkteG9uZHBQb2l2Y190dHROY1pFUDRIcG9XRzlVUXE4YlVSWWN0cW91ZVI4dTF1ZEE1Qy1Fd3drV09uQQ?oc=5",
-            "published": "Thu, 25 Jun 2026 11:47:45 GMT",
-            "score": 1,
             "label": "Neutral"
           },
           {
@@ -1112,11 +1104,18 @@
             "published": "Sun, 06 Sep 2026 22:58:23 GMT",
             "score": 0,
             "label": "Neutral"
+          },
+          {
+            "title": "Bharti Airtel Share Pros and Cons 2026: India's Telecom Leader Analysed - Univest",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0aWFiZVVPTzNhUjV6VjJFeExpYldzOHFfTmZRa3JkSXB4bEp0TlVBdEFIczFpcHBGZ3JaSjNEUTRiZnZ4WWRHeHJDd1NxY2RmR3I4Wk1zQkFuRFpWRFNwd0FRa1pyMS1rWlNXOEl3?oc=5",
+            "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 31.6,
-      "added_at": "2026-09-21T10:13:06.251465",
+      "combined_score": 32.6,
+      "added_at": "2026-09-21T10:42:01.260750",
       "first_seen_price": 1847.4000244140625,
       "first_seen_at": "2026-09-21T09:41:47.179535"
     },
