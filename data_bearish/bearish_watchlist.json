@@ -1033,21 +1033,21 @@
       "symbol": "BHARTIARTL",
       "base": {
         "symbol": "BHARTIARTL",
-        "price": 1838.0,
-        "day_change": -2.920828574549156,
-        "volume_ratio": 1.5519109637744712,
-        "market_cap": 1146665.3576772,
-        "pct_from_low": 5.304678998911861,
-        "avg_volume": 5546444.714285715,
-        "volume": 2662614.0
+        "price": 1831.699951171875,
+        "day_change": -3.2535834821521252,
+        "volume_ratio": 1.818916168170782,
+        "market_cap": 1142734.9726157822,
+        "pct_from_low": 4.978978741224926,
+        "avg_volume": 5775849.761904762,
+        "volume": 7480120.0
       },
       "technical": {
         "symbol": "BHARTIARTL",
-        "close": 1838.0,
-        "rsi": 44.48,
-        "adx": 26.37,
-        "atr": 32.65,
-        "volume_ratio": 0.47,
+        "close": 1831.699951171875,
+        "rsi": 43.59,
+        "adx": 25.82,
+        "atr": 33.72,
+        "volume_ratio": 1.26,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1116,7 +1116,7 @@
         ]
       },
       "combined_score": 37.4,
-      "added_at": "2026-09-21T11:11:28.651216",
+      "added_at": "2026-09-21T13:43:00.727887",
       "first_seen_price": 1847.4000244140625,
       "first_seen_at": "2026-09-21T09:41:47.179535"
     },
