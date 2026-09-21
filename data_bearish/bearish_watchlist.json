@@ -572,21 +572,21 @@
       "symbol": "WIPRO",
       "base": {
         "symbol": "WIPRO",
-        "price": 163.7899932861328,
-        "day_change": -1.8222193319882771,
-        "volume_ratio": 3.254839442571677,
-        "market_cap": 162043.01334525074,
-        "pct_from_low": 0.29915761307774885,
-        "avg_volume": 9571608.57142857,
-        "volume": 2326169.0
+        "price": 163.91000366210938,
+        "day_change": -1.7502836042058756,
+        "volume_ratio": 1.935963403748234,
+        "market_cap": 162161.7436935814,
+        "pct_from_low": 0.3721558152173812,
+        "avg_volume": 9600081.666666666,
+        "volume": 2924104.0
       },
       "technical": {
         "symbol": "WIPRO",
-        "close": 163.7899932861328,
-        "rsi": 31.27,
+        "close": 163.91000366210938,
+        "rsi": 31.41,
         "adx": 17.55,
         "atr": 3.58,
-        "volume_ratio": 0.24,
+        "volume_ratio": 0.3,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -660,7 +660,7 @@
         ]
       },
       "combined_score": 62.0,
-      "added_at": "2026-09-21T09:43:17.543675",
+      "added_at": "2026-09-21T10:14:29.078023",
       "first_seen_price": 163.7899932861328,
       "first_seen_at": "2026-09-21T09:43:17.543675"
     },
@@ -852,21 +852,21 @@
       "symbol": "IRCON",
       "base": {
         "symbol": "IRCON",
-        "price": 109.12999725341797,
-        "day_change": -0.6554403556707794,
-        "volume_ratio": 6.668826525857782,
-        "market_cap": 10263.848012299637,
-        "pct_from_low": 2.1350630076985366,
-        "avg_volume": 1366932.142857143,
-        "volume": 656340.0
+        "price": 109.08999633789062,
+        "day_change": -0.6918544804618392,
+        "volume_ratio": 3.599833389709233,
+        "market_cap": 10260.085863232849,
+        "pct_from_low": 2.0991780759070577,
+        "avg_volume": 1372055.238095238,
+        "volume": 763925.0
       },
       "technical": {
         "symbol": "IRCON",
-        "close": 109.12999725341797,
-        "rsi": 25.16,
+        "close": 109.08999633789062,
+        "rsi": 25.1,
         "adx": 33.93,
         "atr": 2.85,
-        "volume_ratio": 0.47,
+        "volume_ratio": 0.55,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -920,23 +920,23 @@
             "label": "Neutral"
           },
           {
-            "title": "IRCON Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBROEgtUy1MWXVHb2NlZWFNcXlDRzlDMVJ2X01IUUlSZmF5SG9QcnFMMnZZWTlvczE3c1Z0VTRPUXpQNFkwSWVrV2NJbFZEbFRIVl9LM0NFa2lnbDFpMDhmTC04THBTRk13MEdCbUNaN0RCX1FnOHdB?oc=5",
-            "published": "Thu, 25 Jun 2026 20:32:41 GMT",
-            "score": 1,
-            "label": "Neutral"
-          },
-          {
             "title": "IRCON, RVNL, Titagarh Rail Systems, Jupiter Wagons: Railway shares gain up to 15% on merger reports - Upstox",
             "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOXptNktDTDZxOHdoOWEwZG44UlgyaWt5c19IbDhnOW8tby1QSlNIZ2c2M3lxX2NNM05Jd0xJRTBiZHdMb1pPaWl1Sm4tdVVGdk9yYlFwQzdwWWRzLUdPcEVXWXBaMXRrZElrRFk1NVlqaVhfYzcyaFBKa2hlWUVBMjllMFBMSEhyMHZTTUwxalg3cGR6RXlrTEI5UmtKbEVTWEJRZnJQRGszUnEwQkV2Y3RNeVVYVmdpU0stWFZ5ZkNfVGh3Sjd1VEJ0QmVzX0lMODZvU19lOVV3anpFcE1xbFdrSHRmaUdX?oc=5",
             "published": "Thu, 05 Mar 2026 08:00:00 GMT",
             "score": 2,
             "label": "Neutral"
+          },
+          {
+            "title": "IRCON Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBROEgtUy1MWXVHb2NlZWFNcXlDRzlDMVJ2X01IUUlSZmF5SG9QcnFMMnZZWTlvczE3c1Z0VTRPUXpQNFkwSWVrV2NJbFZEbFRIVl9LM0NFa2lnbDFpMDhmTC04THBTRk13MEdCbUNaN0RCX1FnOHdB?oc=5",
+            "published": "Thu, 25 Jun 2026 20:32:41 GMT",
+            "score": 1,
+            "label": "Neutral"
           }
         ]
       },
       "combined_score": 39.2,
-      "added_at": "2026-09-21T09:42:17.698680",
+      "added_at": "2026-09-21T10:13:33.942479",
       "first_seen_price": 109.12999725341797,
       "first_seen_at": "2026-09-21T09:42:17.698680"
     },
@@ -944,21 +944,21 @@
       "symbol": "IREDA",
       "base": {
         "symbol": "IREDA",
-        "price": 112.29000091552734,
-        "day_change": -1.7757162217599116,
-        "volume_ratio": 2.458956346587424,
-        "market_cap": 31544.85816556481,
-        "pct_from_low": 4.3547950394328065,
-        "avg_volume": 3818360.0,
-        "volume": 676021.0
+        "price": 111.91999816894531,
+        "day_change": -2.099371529291182,
+        "volume_ratio": 1.7208424492299312,
+        "market_cap": 31440.91583707039,
+        "pct_from_low": 4.0385960659536355,
+        "avg_volume": 3834770.9523809524,
+        "volume": 1020651.0
       },
       "technical": {
         "symbol": "IREDA",
-        "close": 112.29000091552734,
-        "rsi": 45.46,
+        "close": 111.91999816894531,
+        "rsi": 44.64,
         "adx": 17.75,
-        "atr": 2.32,
-        "volume_ratio": 0.18,
+        "atr": 2.33,
+        "volume_ratio": 0.27,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1026,7 +1026,7 @@
         ]
       },
       "combined_score": 38.2,
-      "added_at": "2026-09-21T09:42:17.582422",
+      "added_at": "2026-09-21T10:13:34.237862",
       "first_seen_price": 112.29000091552734,
       "first_seen_at": "2026-09-21T09:42:17.582422"
     },
@@ -1034,21 +1034,21 @@
       "symbol": "BHARTIARTL",
       "base": {
         "symbol": "BHARTIARTL",
-        "price": 1847.4000244140625,
-        "day_change": -2.4243396836371884,
-        "volume_ratio": 3.059849099584363,
-        "market_cap": 1152529.7115166588,
-        "pct_from_low": 5.786512016961126,
-        "avg_volume": 5474963.619047619,
-        "volume": 1161511.0
+        "price": 1844.9000244140625,
+        "day_change": -2.5563842584813816,
+        "volume_ratio": 2.7001733188708994,
+        "market_cap": 1151032.418343,
+        "pct_from_low": 5.658844546181834,
+        "avg_volume": 5529621.095238095,
+        "volume": 2309318.0
       },
       "technical": {
         "symbol": "BHARTIARTL",
-        "close": 1847.4000244140625,
-        "rsi": 45.87,
+        "close": 1844.9000244140625,
+        "rsi": 45.49,
         "adx": 26.37,
-        "atr": 32.4,
-        "volume_ratio": 0.21,
+        "atr": 32.47,
+        "volume_ratio": 0.41,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1075,13 +1075,13 @@
         "support_20d": 1811.9
       },
       "news": {
-        "score": 65,
+        "score": 70,
         "label": "Bullish",
         "headlines": [
           {
-            "title": "Bharti Airtel (BHARTIARTL) Share/Stock Price Live NSE/BSE - techgraph.co",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dnhmenh5QjNTa0thRU5sVkRBemZ4SGIwcTZxSUtSSUdicWh4V2hMU1oyRHJIWGNPazAwRmJhOHN4Sl9WV080c3UycENkbWdPM3ktNmRMZWpQelJ1MmRiZlFUdlY?oc=5",
-            "published": "Sun, 06 Sep 2026 22:58:23 GMT",
+            "title": "Indian Stock Market Today: Sensex, Nifty, NSE & BSE Live Share Prices - TechGraph",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PMEM5MzZ5ZlBNd3ZVYmN5OXpINTdRZFVmRmJGcWpIVHhUM3JvMVVOUGJ6cXlIenZ4UkVaQmRkVTNIdTBrdnRGT3BEcXZ2MjZFV1Yzbi1iMjZ5TUE?oc=5",
+            "published": "Fri, 18 Sep 2026 20:21:05 GMT",
             "score": 0,
             "label": "Neutral"
           },
@@ -1100,25 +1100,207 @@
             "label": "Neutral"
           },
           {
-            "title": "Bharti Airtel Share Pros and Cons 2026: India's Telecom Leader Analysed - Univest",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0aWFiZVVPTzNhUjV6VjJFeExpYldzOHFfTmZRa3JkSXB4bEp0TlVBdEFIczFpcHBGZ3JaSjNEUTRiZnZ4WWRHeHJDd1NxY2RmR3I4Wk1zQkFuRFpWRFNwd0FRa1pyMS1rWlNXOEl3?oc=5",
-            "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-            "score": 0,
+            "title": "Is Bharti Airtel Limited's (NSE:BHARTIARTL) Recent Stock Performance Tethered To Its Strong Fundamentals? - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNclExQjRwWFc5R1I5OFpMeEUxLVNweG9rUXEzcnlrMmhnMFNmOWk2NmRkRVJJclZBMkIzNnR1Tk1EYVhSTzJEbFJhSkhwSUlpem5LZHBXQ1RuSWd1eDNBakw4X3luSzAwT1VNNlB4TlJ6M2kxc2JNYlo0MTNSWlRRbzVlVV9UeFdodmNWYkJHbDRtZmxuY25fWnZhMFkyVHVzSzhmVTluNVlaR2prSjN4a1VMa1Z5X1dxaEZsV0RwZXpySFI5WmYtb0dkVjB6VXNlNVdLcWdJUHXSAd4BQVVfeXFMTjBjNDB5bUpmZVJGOEhuMXFySkRTblNOUUtPeWpwbnFwRVN5N1ZYekk0STNuQndzYnpMbW1MdGhsOXNDXzdNR3ZCUURtMjNPMk5XclNFQzJrZ2RKVkVQMXpuektWTlBLRUxoYVhoUm54WWtOcl8wVVE1VmhodnBqYlotV1lDekRrX211TlZGQmhaWmhfNWE1bDJPRU11b1ZaLUFXTzdFSU9CbmNINXFnVThIU1dkU2tmNV9jQlg5bVZ2RVE0aG1DY2VZc2Z6blBpSWlTTUZ2UEQ3MGw4YmVR?oc=5",
+            "published": "Tue, 02 Dec 2025 08:00:00 GMT",
+            "score": 1,
             "label": "Neutral"
           },
           {
-            "title": "What\u2019s Behind Airtel\u2019s Sudden Weakness Today? - Kalkine India",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbGswY0RmM1V3ZTZHX3l1SW5EclF1VHJsOGdRVmNUMlF4YW9VN0FtRVY4UmM2WWRsbV9vZXFCWWRUTWlsTGNaZnlVX2hNSm1QNUtBWHZuXzl2a1ZNcF9vWk1JTndXNWpqSWxhNnRwQjZZWTlJcG12WXJqZDhlU3dINm44aDhHRmI5dm9pRw?oc=5",
-            "published": "Wed, 20 May 2026 07:00:00 GMT",
+            "title": "Bharti Airtel (BHARTIARTL) Share/Stock Price Live NSE/BSE - TechGraph",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1dnhmenh5QjNTa0thRU5sVkRBemZ4SGIwcTZxSUtSSUdicWh4V2hMU1oyRHJIWGNPazAwRmJhOHN4Sl9WV080c3UycENkbWdPM3ktNmRMZWpQelJ1MmRiZlFUdlY?oc=5",
+            "published": "Sun, 06 Sep 2026 22:58:23 GMT",
             "score": 0,
             "label": "Neutral"
           }
         ]
       },
-      "combined_score": 32.6,
-      "added_at": "2026-09-21T09:41:47.179535",
+      "combined_score": 31.6,
+      "added_at": "2026-09-21T10:13:06.251465",
       "first_seen_price": 1847.4000244140625,
       "first_seen_at": "2026-09-21T09:41:47.179535"
+    },
+    {
+      "symbol": "BDL",
+      "base": {
+        "symbol": "BDL",
+        "price": 1171.699951171875,
+        "day_change": -2.080897954378592,
+        "volume_ratio": 1.7004725601319683,
+        "market_cap": 42950.12633514404,
+        "pct_from_low": 7.31415505191088,
+        "avg_volume": 1048457.2857142857,
+        "volume": 275751.0
+      },
+      "technical": {
+        "symbol": "BDL",
+        "close": 1171.699951171875,
+        "rsi": 36.96,
+        "adx": 29.59,
+        "atr": 35.88,
+        "volume_ratio": 0.26,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": false,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [],
+        "setup": "DOUBLE TOP",
+        "score": 45,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Double Top",
+          "Weak RSI",
+          "MACD Bearish",
+          "ADX Trend Strength"
+        ],
+        "support_20d": 1095.0
+      },
+      "news": {
+        "score": 60,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "BDL Share Price Today, August 24, 2026: Bharat Dynamics Closes at \u20b91,368 on NSE - easternherald.com",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtdE5ES0dpallPRDdpQXFKQ21zazlfRFNxdlJXR0xhd0ctZnNoRFg5QnJxek9GSXVGVHp2WnJaQzVEWUtHcUw5NlBBUkJmelBmSVZ3R2Y4MTl2ME5hMHdZRlJwbzFxYjhtN0M1SkxKZTVUbzFRNDZ2Y3RVVGJCLVE?oc=5",
+            "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "BDL, HAL, other defence shares fall up to 4% as govt opens general export licence framework - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUzJaWmtUZEFjdFh0LVAyRUhqM1VXOUFLamd5M2xuTHFVcjE4b1R2Qk5pRnNkU0NMaF9oMDBpRXd0d1owTVktMFgxdk9CTHloaS1ITUNWUVNhX2NZTzl6UXpjZkl4Qkoyc3pFcXNGTDdIdTIxaWZQTGl0dDVfMWE1cGg5Sk9ack1ISjRXM2tWVmgyODI3bzNmSDlaeXByR1lRcWRZQVhTeFZxOEIycEZNZkdmWkItSGFHYUJDam96ZkRsN1M4cG9YU185Rndna2UwSHJmOVlMOTAtM0gxYjVtMlM3Z1RrWkVY0gHuAUFVX3lxTE5lSlIxN00yS1JoYjNQRlpXU2hjS3Fvc3o0VllUYjUwUHdqcEhEcDV0Z254OUI2VS1zY0dBWWxDTnNTX0l6WTNJZU9mMlBaZjdKSXpfTmQ5a3BlVHBDNVV4bFlZZVEyYjJjUjhSNWgteXhOYjQzTnZKczF3dFpLUjlHR0xudl9KSnRxcmZ0ek1rUHR3bHR1YlFCM0gzWXB0Mzc3ZzM3SWZ4WDVMOXEtWEVrMzFvOFFHeDZTMXNvNkF3OVA3TktCTmpHSDhBQnJlSFdTZWhwTzUtWW8tOVltWjY5elU1TFByWWIzVkNIT2c?oc=5",
+            "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "HAL, Bharat Dynamics, others power Nifty India Defence up over 1% as Ministry unveils \u20b93,070 crore business plan - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPMG9tVXkxbGFpOWNWYndHU09vQlFCZl9DakxTZllxSEdHU0xZX3FNYUJjcHQ4YXVlYkZRS3I4b2IxNEN1M3B3OVNod0dTSEU3WjA1S0hFY2RsN3V5Q0kzRUxPbXZwWERLUnVjZlZVcDFPdjlDekN1VDJGbUUwWlpVT0dTRHlFZHdVLW9XWlJLMkdZdE9kTzNUMEZiZHRZb1NGNXF1dTRsQVVneHYwU2J5d1V1NDNzYmItUWp4N2c4bWVhY3ptU1ZFaGF2NnpvQWZ0TVJXVl9NN1VDb252c0N1VDRZUUEwS1NsRnFZN093bTR2QS1ZMDNTY2hvQjkwM3h1QnRyTmxjb0JldmlsMlFNQjNyTXhVNnFjdDhzaF9WeHh6bnNjeXc?oc=5",
+            "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Defence shares in demand: HAL, Midhani, BDL, Mazagon Dock rally up to 6% - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeGktTVE0MUtNOWFzQnVtT0NSUEpqZDNpOUxNZFEwZGt1OXltVkZwTU1LbVlhMHVGQ0Zza3lvSWtaRkczaTJScE1PTXpSMkMwdnNoc0hPZmh6blFXZllxRmRRbmVDeU9KWHNEUzkzSkpuMUxZMWZNZ3djOTRWRWlzQnJnaFR4YmN3eWVXUEtpTHRBUEJlZFZXc3NWNWJCZVhaQ2JjNnoxOGZablRPQkpkNEdWbG9takFwVGcyTWhOQmZ4MTV4Q1k2dTBiSEpmSTDSAdQBQVVfeXFMTkwxYmQ1Ny1SOW1KVmNGMEhETU1hdkpTbU10X0VpOEtzVER1UFA2YkFPYkFXc29wOWg0OTN5YlFndGJGMWJKSjI4cWVpYUcyTWluVVNCNWw3UUdzSGo3SkFsZXlmZDN0WWhOZ05BWjdJSTExUUhWbUpZMFo3TUhIRXZ2WW5UbThYWk94Z2xSUDNxTTlCQmNwMG5nNm1QZTRQbElRemQ0RkJuS2FYUGluSWtMNzdzakk2dm9MQlE3eVJncWs3aW1YM3RSS3BmdVVuVEh5ZkM?oc=5",
+            "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "HAL vs BEL vs BDL vs Mazagon Dock Shipbuilders: Which defence stock to buy after Q1 results 2026? - Livemint",
+            "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOd0VfUGdtbllkSWY1eEdYbVg0Wm4wa0hwOHBZUDNxcWJpWE9qX3BYTzg1ekpOY0hWUWlZN1ZtdFM3cENmc2dBVGdqcUVYbklGTmk5aVFJS2xxMmFGTHdnR1ZnSU9MLUlwa1dydWtETmRYM1BCMF9CbGNsN0JyRHlZRS1mb25qYktkdzFDMlYzWXN4T3psTlRoazlpWXBMYXdWMlFVd2pjVHp2TlJldmV0NFFhQW15SHllem1QTW5xeDlrOTd0TFp1cDFnUmFsQzVVY1pOaXhLRFJnOXVsQXJhN1BxUFdwekNjaG0zWkwtcWJrOG5WVFVkOdIB_gFBVV95cUxOZXNSeTVTYXRMYXNsMmRmb0lPOW9BSW5iVHZhZjB5WnR4UWJwOWtBbkZ6QV9IS2xEU09vS0E0a3owaUhYMXpjd250ODZjV0dkdklYaklYc0RCQTNRbW93T1E5WUZkalBDRkFPQlIwdENHa1FURzE0RG5IZXJERHFQZGt0YWJfYk5wU2p2eHl6TkhfNlNlbFEweVVBS2pnNFUzZlp1cEUxWVEwaUlxWFVXbTBMaWExUEx3QkRrRy1rZV9PV2Y1WUkzMGc5eGJ3S2FBUE9STE5WM2gxa2NvOG9BUHdmQ0EzMktaZXBQNXhNS1BqRmlSM3k3ek5JR2JaQQ?oc=5",
+            "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+            "score": 2,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 44.0,
+      "added_at": "2026-09-21T10:13:05.611987",
+      "first_seen_price": 1171.699951171875,
+      "first_seen_at": "2026-09-21T10:13:05.611987"
+    },
+    {
+      "symbol": "HUDCO",
+      "base": {
+        "symbol": "HUDCO",
+        "price": 175.0,
+        "day_change": -0.5681818181818182,
+        "volume_ratio": 1.8118830811372317,
+        "market_cap": 35033.25,
+        "pct_from_low": 9.142857142857142,
+        "avg_volume": 1570522.6666666667,
+        "volume": 440120.0
+      },
+      "technical": {
+        "symbol": "HUDCO",
+        "close": 175.0,
+        "rsi": 38.71,
+        "adx": 25.07,
+        "atr": 4.33,
+        "volume_ratio": 0.27,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": false,
+        "breakdown": false,
+        "macd_bearish": false,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [],
+        "setup": "DEATH CROSS",
+        "score": 32,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Weak RSI",
+          "ADX Trend Strength"
+        ],
+        "support_20d": 167.05
+      },
+      "news": {
+        "score": 45,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "HUDCO shares gain nearly 4% on signing MoU with Bihar govt for \u20b925,000 crore industrial infrastructure funding - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWl9lelBSbV8zVVlJalhvRU5kRTJhMUlxbTZCSmpBVmxyMm16WW9aVEJGWmVubnhQUl94Z2FYOXg0QmowT0dYeFZLT0NmWVhlTF9MV3VZcWMyZTVPdU9XVUQ0clNDellzLVhKTW5WVWhKYUoyM3AwRHhsN19iRm9FMlMwNnlxMFVkWG5MbEFXUTJ4QTVwb3NwUFlYVThjbzYtMTBncGYtVkJMY3NkNUk0a0N5TUxzNE1GdUtuV2t1Tk9pQUREeHliMWx3a3NnenlsdVl4cUpzVndjbGdQeVpaejc0NFZvY2FhbjZuVEVKN0wzVzczbGRvR1J3?oc=5",
+            "published": "Wed, 02 Sep 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Housing and Urban Development Corporation Limited (NSE:HUDCO) most popular amongst state or government who own 75% of the shares, institutions hold 14% - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUWNiM0NtNk4wcmhzUlFWSXNXTDFFS1Y4VjlEeXNNMl91TS1xVkxYREdaZWR5c0VHNmxtRUk4dzQwVTQxYTdmZDAtX2ltUWd5RTFUUl9Bd3dEeTdOdGgwSS0yNEZmY1AybkNaeHduLXdWRWUyMFJNNUR3QzVzbzRWd1d5ck1QZ3VjV1lXVFFrOXlMVkNsU0xxbDlOODY3bkpGOUZuUXI3SDh2bEM2SkRJWFgtNXVoM1pSUVZkSzhCRUgzNUJGelF2SlZrUFdYYUoyLVVfb1J3NXJ4Y2FCeVNEd3dJbWFaOWFvTnV0dkpvOVNFVXlqMERCcXVIY9IBgAJBVV95cUxNQXJaQVo5akVGYzVXZU52VDlReE41WTBGZFBxRDdNNmxEd2RMZ1F1YnlFMzEwNnExV2xnUDRXbWJNc2ViRldkRXk4dUx5TnctUGdfR0xiZHZsQzdHdFdVV0ZfYmhOakhVUlFMQ0x4UDgyeXpRQmJIbm9xY1pQTWNUSm9FWU8waVoyUm9kMXQ0RmY3LWZoVTBuSjVhNWtZdXU4aXhFSURXSzJjQVVBbVRFdjdFTXc1Z1pPNl9PWkZKSVZNSkUxTW4xMTV2cGw2bTM1MV9jOVN3WnFFNWNrb0JUNTY5eGVXOE9Eekh5SFZmdldDcG93YTlzLUNtTnhWNEps?oc=5",
+            "published": "Tue, 20 Jan 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "5 PSU Stocks India 2026: Strong Future Roadmaps - Univest",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OZTNwUG1iNUllQXMwR19Ebk9vUHRmcXJ3YnFiU0EzSzcydVhrMnBFWWdfb3pqV0pTdGR0TExDanZOTnpLUERCVmt2MUdvRFdVdGV1QUV2cWNmOTVuaWxmamhRQ0ZSSjE2MDhpM21zVQ?oc=5",
+            "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "HUDCO Dividend, \u20b970,000 Cr Plan; Shares Fall 4.84% - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOV8wNjd5cGtsT3hRRC1OWjNpallXeHFXNGx0UUFidjhmeXh3dlRUQTl4ZnZkWHVreEhYTnBTY2tlNWFhTDR5V3J2clRmN1V5MnhGeG40S1Italk2MVdnOFQ3eE13WE5wTWdIb2tnaklER1FXR0x1dVJuV0lzREQxMmdkS0ROU0xxWFhib2ZPZGljVUo3OEpqcw?oc=5",
+            "published": "Fri, 27 Mar 2026 07:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
+          },
+          {
+            "title": "Trade Spotlight: How should you trade HUDCO, RBL Bank, Gujarat Fluorochemicals, Elecon Engineering, Deepak... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPS1JhNlQ1Wk9XRHVjR2dvc29NNkVFQjExR05OZW1xdzJnaWkzNEJDUHQ1d0Z5cTFFR1JJbnZXSG11Qmpia2VlOWNBTm5sMzFod0s1NWp3ZGlWZFhPQVZRTGZLbHpqT3dzcXBVWWVJNzFHX3VVbHVWN0lFQTdRYWt2RldpMEhLbjZYM1ZVWGo5aG54VVNYM3VhOERXdFpuS2ZRUXdCTC0zQlk3VDJqU0Y2U0NySU9PZ0JOYnpVYWJYM1lqZXo2NlMwTm1FejVSeFI2bndObHNtU3Y5MjJnQXJ6bVlqZUQ3aHJZR3ZmR3pvSFlLR3hjVkloaVJPR2x1RERpSXdxel9OWEY3eFlGcHRnZHhxdVE3Z0VVc09BRC1oLU1kWVZS0gGqAkFVX3lxTE9nTTV4U2xfeHBTbnctRGFrdEw2R1FQODNzU2dVZEFWYlNQX1ZzbnJFMVIxWnJCeVp4X1JURWxRMG1HMHpMX0V1RHVVbnRickw3WjFYNG5HcWZYMW96cVpYZDV6Q2JsOFlHcGtSZ2JKRU1yRVp6NnBvb1F5V3JvbG9mZFRJUWw2cGh4WDhyYllOczdTdHU2T09fVWI4OUpfTTI2T0ttT0hTems0dlU5WnRyUDRza1pJNm9XNllSejdWeHdLOVNiMkFUZ205cGxadGRMRUxGVXZfZ19sOXk2NjJCZ3haWUZHbU5aSlZGWEpua1piaW5JLUpKbUNQMWR0aE1IU2FyMVBTbG51VFJkc2l1bVdndGFiRDBYSkxwLTJia3FpbXlhamxreUE?oc=5",
+            "published": "Mon, 04 May 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 36.6,
+      "added_at": "2026-09-21T10:13:30.587740",
+      "first_seen_price": 175.0,
+      "first_seen_at": "2026-09-21T10:13:30.587740"
     }
   ]
 }
