@@ -1033,21 +1033,21 @@
       "symbol": "BHARTIARTL",
       "base": {
         "symbol": "BHARTIARTL",
-        "price": 1833.5999755859375,
-        "day_change": -3.153228315772737,
-        "volume_ratio": 1.6741566572632667,
-        "market_cap": 1143920.3328847412,
-        "pct_from_low": 5.077442017100096,
-        "avg_volume": 5783598.238095238,
-        "volume": 7642838.0
+        "price": 1831.5,
+        "day_change": -3.264144469144058,
+        "volume_ratio": 1.7495737267508362,
+        "market_cap": 1142610.2299161,
+        "pct_from_low": 4.968604968604969,
+        "avg_volume": 5844230.904761905,
+        "volume": 8916124.0
       },
       "technical": {
         "symbol": "BHARTIARTL",
-        "close": 1833.5999755859375,
-        "rsi": 43.85,
+        "close": 1831.5,
+        "rsi": 43.56,
         "adx": 25.82,
         "atr": 33.72,
-        "volume_ratio": 1.28,
+        "volume_ratio": 1.48,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1086,7 +1086,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Bharti Airtel shares trade higher amid TRAI penalties, latest buzz around Starlink launch - Upstox",
+            "title": "Bharti Airtel shares trade higher amid TRAI penalties, latest buzz around Starlink launch - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbVNMdFh1NHhBd3E1b201ZlNQVWxqS1gyNlMyM2RJeWxBRmRIeU9iYzhEMEdIZUp6UmpqMkpGNUhkelNuX0xzLWN0VWxHQXltRXhUNzVYVEppNGRVbmtUbHpNMEQyUEt0bEdUaFZqbDlVMkw4d3RyanJORjhsRmVKdUJCVVFjRGM4cW1nOG9BVkZVYjVXRXFPWFFaZ0NEZE52NHhUVEk5X2pHbHFySU1CbFFZTkd5TEp2N2pKMVN0Nkh6LWJ0MU9SV3VZVS1JYmNMYXBmTlByRXpQOTdha3gza1BLZw?oc=5",
             "published": "Tue, 09 Jun 2026 07:00:00 GMT",
             "score": 2,
@@ -1116,7 +1116,7 @@
         ]
       },
       "combined_score": 37.4,
-      "added_at": "2026-09-21T14:11:53.609836",
+      "added_at": "2026-09-21T14:42:38.205204",
       "first_seen_price": 1847.4000244140625,
       "first_seen_at": "2026-09-21T09:41:47.179535"
     },
