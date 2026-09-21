@@ -1033,21 +1033,21 @@
       "symbol": "BHARTIARTL",
       "base": {
         "symbol": "BHARTIARTL",
-        "price": 1831.5,
-        "day_change": -3.264144469144058,
-        "volume_ratio": 1.7495737267508362,
-        "market_cap": 1142610.2299161,
-        "pct_from_low": 4.968604968604969,
-        "avg_volume": 5844230.904761905,
-        "volume": 8916124.0
+        "price": 1830.4000244140625,
+        "day_change": -3.3222427925777023,
+        "volume_ratio": 1.6988471954145492,
+        "market_cap": 1141923.9927568587,
+        "pct_from_low": 4.911496023544951,
+        "avg_volume": 5870500.238095238,
+        "volume": 9467780.0
       },
       "technical": {
         "symbol": "BHARTIARTL",
-        "close": 1831.5,
-        "rsi": 43.56,
+        "close": 1830.4000244140625,
+        "rsi": 43.41,
         "adx": 25.82,
         "atr": 33.72,
-        "volume_ratio": 1.48,
+        "volume_ratio": 1.56,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1063,14 +1063,15 @@
         "obv_distribution": false,
         "patterns": [],
         "setup": "DEATH CROSS",
-        "score": 38,
+        "score": 43,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
           "Near Breakdown",
           "Weak RSI",
-          "ADX Trend Strength"
+          "ADX Trend Strength",
+          "Volume Expansion"
         ],
         "support_20d": 1811.9
       },
@@ -1115,8 +1116,8 @@
           }
         ]
       },
-      "combined_score": 37.4,
-      "added_at": "2026-09-21T14:42:38.205204",
+      "combined_score": 41.4,
+      "added_at": "2026-09-21T15:11:20.537695",
       "first_seen_price": 1847.4000244140625,
       "first_seen_at": "2026-09-21T09:41:47.179535"
     },
@@ -1301,6 +1302,197 @@
       "added_at": "2026-09-21T10:13:30.587740",
       "first_seen_price": 175.0,
       "first_seen_at": "2026-09-21T10:13:30.587740"
+    },
+    {
+      "symbol": "JSWCEMENT",
+      "base": {
+        "symbol": "JSWCEMENT",
+        "price": 116.0999984741211,
+        "day_change": -1.1410115288048617,
+        "volume_ratio": 3.3134414503191585,
+        "market_cap": 15677.505476153701,
+        "pct_from_low": 8.139532362137464,
+        "avg_volume": 1161532.5714285714,
+        "volume": 3663934.0
+      },
+      "technical": {
+        "symbol": "JSWCEMENT",
+        "close": 116.0999984741211,
+        "rsi": 25.57,
+        "adx": 39.29,
+        "atr": 2.33,
+        "volume_ratio": 3.12,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": true,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [
+          "Bearish Engulfing"
+        ],
+        "setup": "ROUNDING TOP",
+        "score": 63,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Rounding Top",
+          "Near Breakdown",
+          "Bearish Engulfing",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "Volume Expansion",
+          "OBV Distribution",
+          "Strong Volume"
+        ],
+        "support_20d": 115.03
+      },
+      "news": {
+        "score": 95,
+        "label": "Bullish",
+        "headlines": [
+          {
+            "title": "Vodafone Idea, JSW Cement, Ola Electric, Central Bank of India among most traded stocks on NSE today, 22 May 2026 - Livemint",
+            "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPU0drSFZVRWJxWUExWlFYdldwX2RlYkJKX3FoZ21DRnZVVVVTMHQ5VU1oNGREV1pLTzRKeHFXeXQwam1KMmVJcHBOWEd1OV9mYTF4WHpLV1ZRbnJjVnhqbzFvemNjRFA3eWw2em9zNG5mdElwcnVFT1VDV0dmOXVESE1EU2JqWFhxSC1DdllRVTZGVzZaQlMydU9TLWhmejdSNV9GS0otYmlPVm1rTDFRTF9iSTNpczNZVmdHUk9xQnEzdXVnOUM0bS1jQkpwbThUYks4a09VM3ktVHZ4TW1oaThEek5rUjY5VHdQaDExN0h1Z292X0ppLTFkUXFmS08xTnlTcF9aUWhxZUHSAZACQVVfeXFMUGFGOV8wZ29vX1hiY25ieFFIVjBKNjZBZkx4aERJZkZfX2VobWNTWlZrY1VVdGlwNDZKV09MX1FYY2pQUm82ekpteUpnRDlRZkpqbFRlZTc3c3ZEd2xYWU1PYjJXZmpRZkpuZ3NzNXpGVzF0alk4S3FsODZ3RE8wRXZIMXpfdXJ4NW5UOUMyQ3k0RVVYeGhPMS0tZ2pWZDU3cGZURFlIUGx6TWpOQnpoTGFOTENqUWRwWjBrVWpoZ3g5bnF4dUJScE5rY25JSDZHWVdsR0Z1TE1xY3ktaUVCQjBYOW0tRzBUS2F5LTZLaS1iNFZ5cEJpUHRlQjVjcHZibXBOT2RBUHpNZHVjZzQ2US0?oc=5",
+            "published": "Fri, 22 May 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Block Deals: AP Asia Opportunistic Holdings sells 3.4% stake in JSW Cement; Madison India pares 2.2%... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUEhmbklRaGJTSU1qMHVKNWhJcDlpVDlBQXNjcE1tZ1lod3JvN05vdHM4VC1EMTVFNjExU3dMMkdYWThwNG5RRGJ0UldoRUVCSG1lN1QtNmRvYm5WWC1yeDQ5NHZSVkgzMjJmNEowUzByLUtTWnlKWlg1SjMyQ1Z5cjE4NG1YaWVLX3IzUWxLakp6MFJYWWhYdE1EU1dvcm41VER1Tk1NOG5IYS1CeVZKV2p4Q01yNXZTT21yX0VkUWFtb1piUm9hUHJMMDV6Z2dVSXJRdmNpR2hwRFJoMklZVmxWRWcxelVOMzhjbnpBNGNndDZqY0dabHE1RUNnQWpnMVZ3MTRhd0FVVmZrMXfSAZMCQVVfeXFMTl9hbmxMaVdldUx6VUpyb0FxWGxpMXBvN0Zkd0htZ1BGMV8weFU2UW1BTzM0aF9lQmJsX3RKdHZQb0c5dXE3TVpBMnFjbzV0V04yOXJCR1JEdUN0aWJZVmREYlFhUFctUXlJb3UxSnNnQm5RYW1mSHozUFNVdUp4LXVjVEw2WXBnZ1dvOURVN0cxZ19Jc1Ffbl9zeHZoZllpOE1kWXJCMHd3X0NVYXhqWDgwanltQ3J5V2UtSEtyTFdQbWxjT1NzRkxob3hLWnN0b0xmSHh4WUFFV3NOaVcya0JZVU1WdzdjSVlRMnd3Z3VmbzZkVEpXa3R5MFpST0tiR2ROOE9PTzJFbnZSMXByOW5Yc0U?oc=5",
+            "published": "Fri, 22 May 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "JSW Cement shares surge over 9% on reporting profit of \u20b9142 crore in December quarter - upstox.com",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeDdNaXhJZ0dhS2w3eVVicWdGeWVwNFRmeEhnSTBjbmNra0l5NG1taG5vTnlJS1VmczBmU1BacU56U1ZLa2h0cEdweEVwRHcwNW5xYnBfcHNUUTN6MVR0emJGSHh6d0NSaVlkMm9BX0tpNF9LU01NOHZ4OTJRY2NOQW5jQ0VVRWUtR3ZnY3pYR2pOZlJVVU5XcktnQXI0TXdvUldTNU1aeW9wTTdMdUNNbU5IRnV4YUJ6XzVWUWY4aHJzRGxma2tTQ0Q1YWxBaTlhNG8zc3R0bXhPZw?oc=5",
+            "published": "Wed, 04 Feb 2026 08:00:00 GMT",
+            "score": 5,
+            "label": "Bullish"
+          },
+          {
+            "title": "Stocks to Watch: Dabur, Adani Ports, Cipla, JSW Cement, Allied Blenders - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNFdqaDd0QU1nbnBFdVZZOTYzVVgwM2trTVBySUZ1Z1JzbkNjZmJiMHZoZzk3NzhpcjNNQU5GZjVRUUsxTURmTWhiQW9haVVhZVhRUkEwcXh0T2hiMWpEdll3RjlCNjJhMkRPMjRSRnlWcm1Td3VjX29VV3otbHhiQ0xjdjExYUVMSHd3eU9vLS13MTU1d2g4M1BQZGplaWVOOF80M2J6SkJEMUgyN05oUE81RnRuSHZobVFKLVNtVWVjMS1FUjZnOEkwbjdZd9IB0wFBVV95cUxOUmpPN29FbHdMVWd2ZFRfb0lGV3owQzcxWksybGliRjNxblhkZ3htdmg2bWpkbUhyT1V3VVpwbkdmSlFVNFoyWUxNXzhWMExIUkROdl9EWjhkZXlHeS1vbmV2b05BYmJiMVNaUmlBRmUyNXh1dDV5TmVDZmgwanljZWctdVhyWlBsQkVSZVRvNHJJdmgxLUgyWUN4SkF5NVB3bGN5emR2V3ZfMWNZMXIteVRiWVUxYUNJSERBckNOQWd2eGtlM0oyT0t4Ql8wNjlXTzZN?oc=5",
+            "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "India's JSW Cement posts profit on price recovery, higher volumes - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVFgtMGpMOVE4WkhzZHhweTJHRHN5dzRiYy1YRVpTWV9wZHE1STNyLXJSU3FkS1lZZEJLSDA4ZlJ6cVpabExDc1YzM2UxMkNMV3Y2ckpkbTI3UTJ4WUgydk5zV3E1MmROcU9YUURKY2J3cFc1eTVRYjBqNVpsR3A5eTBmS2N0bnR6Ymp1MnBiaE82SUFVMGlRd1YzdVJzOVExRmg3VThVOGhZOTFO?oc=5",
+            "published": "Fri, 07 Nov 2025 08:00:00 GMT",
+            "score": 3,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 51.4,
+      "added_at": "2026-09-21T15:12:15.247095",
+      "first_seen_price": 116.0999984741211,
+      "first_seen_at": "2026-09-21T15:12:15.247095"
+    },
+    {
+      "symbol": "ANURAS",
+      "base": {
+        "symbol": "ANURAS",
+        "price": 1160.4000244140625,
+        "day_change": -3.916529657214581,
+        "volume_ratio": 11.73736332892104,
+        "market_cap": 13211.135827593713,
+        "pct_from_low": 9.92761727149714,
+        "avg_volume": 530162.2380952381,
+        "volume": 5907423.0
+      },
+      "technical": {
+        "symbol": "ANURAS",
+        "close": 1160.4000244140625,
+        "rsi": 31.32,
+        "adx": 28.49,
+        "atr": 29.41,
+        "volume_ratio": 11.06,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": false,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DEATH CROSS",
+        "score": 44,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "Volume Expansion",
+          "OBV Distribution",
+          "Strong Volume"
+        ],
+        "support_20d": 1115.8
+      },
+      "news": {
+        "score": 70,
+        "label": "Bullish",
+        "headlines": [
+          {
+            "title": "Anupam Rasayan (NSE:ANURAS) Rs 160 Cr NCD Issue Approved - kalkine.co.in",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObFR4T2tiSnJYdm1ZLW5wdmNweUxCTmtvOWd2VmZKZlB1Nm9ncElMOFM4S0MtUzg5bkVlc3lVWHJXTW1uVlZ5SGpJcDlHandYdEZOelNFUGJnQjAwUnFJWEg0ZXk1T3VybnJiYlFKZjlrN1VPZVZEWVktelpWLUFwOEFrbWk0S19Uc3R6SW53cjFzdjZ4Zi1pSnhGbXhTYmh2enMyOXlLWl9LbTVsclNmNzRDbnh0QXkzcHB1WmdTVkgwUQ?oc=5",
+            "published": "Sat, 19 Sep 2026 16:25:00 GMT",
+            "score": 3,
+            "label": "Neutral"
+          },
+          {
+            "title": "Pros and Cons of Anupam Rasayan India Share 2026 - univest.in",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTEFpbXRUNzhieENrbUFadV9tcUM4cklGQmo0M2lIY1dHSUdqejlZaFlpMTIycDZwMzlFMEkyZ05HVzUtWDljX25VbVZhV1h1aWx1c3djUzBTMDZsamhkUThZdkpscEtmUmJvM1hMQ2dVVEhNM2tDUDF4NXNzQjhwVGZ5WmNaUDJD?oc=5",
+            "published": "Wed, 12 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Insiders were the key beneficiaries as Anupam Rasayan India Ltd's (NSE:ANURAS) market cap rises to \u20b9149b - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTXhKUzZ3cEJZVzNZVkFIa05xV3VUN0lMSHFMNHgxRVlyTmdrbHBZNHBtYlY2QTZFemkzNlRVNTF1STVpa2pwN094aGVOZklPcnN6bnlRZTV6VS1ZRllySE9XRVlfVXJra3ptNUwyLXdKcVRIUmg1eFRXaFp4M3d6T2EyNTItZUxsWm5KUVRPT09FV2daRnhOS2JwdnZUeE9tQnBwM3FqUFA4V1BCTkxsbWUzUmtRUlkycGsxTDdUSFNmTy13QmhqTFFleGpDRDUxbjVSN2tVS1hIcjB2OUHSAeMBQVVfeXFMTmtWYlNaMmJ5N1VuNWVVSFVhQ2dWTl9ZcjBhSnZham1jZkltMlpxOG9fS3VWT3BSZlI3WmxRWGM0UlFvMWVOa0VXcjBSX1I1V0NMaGdWT1VRaXR1eERZWmMxOUg2UEU2eDRqSnVGQm5fM3dSNkg2RHQ0TXBJcVNYREp5Mzgwclh1OEUtekZweEFGdWhKMmhRMnlwQWdtT3BEUVVsZzRqSnRCaHppS3dnUDZ4NUE4U1NITmJKekluVGlnaGljVzNaaXV0d0s5LUROZGFLQXc0dW1jYVl6T0RUSUJnYzQ?oc=5",
+            "published": "Wed, 11 Feb 2026 08:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Anupam Rasayan Signs $300 Million LOI With BASQUEVOLT; Shares Slip - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd29jY0xsR0NPOG1HUU1wSnJ2TFg2a2JNUG12OXU0VnpJSUM2dU1IUFFNZFdVdzNsbVM5b2lzSWx3WGdsczE3eDdwQWxNaWtLTm9HTEdmNi1XcjV5RERWOXNOU1VRTXRIZ1VvNXlVSy1LNGNIbVFaeldfVzdVRDdKcUhqYU8wMDBWQ1FnWnJDSUhPMTQ?oc=5",
+            "published": "Wed, 15 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "ALIVUS Stock Price and Chart \u2014 NSE:ALIVUS - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvcTR1QXVNblVEOEJzYUhTU0VaYVpZNFUyOW9RS2hlQ29LN3ZJQ0t4cC1pSk1YeWExMkxWNjV6V2ZqNWd3a0xYSXBKNDI3T1hkc2hYQkdCVkQzVGM?oc=5",
+            "published": "Sun, 10 May 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 41.2,
+      "added_at": "2026-09-21T15:11:06.659815",
+      "first_seen_price": 1160.4000244140625,
+      "first_seen_at": "2026-09-21T15:11:06.659815"
     }
   ]
 }
