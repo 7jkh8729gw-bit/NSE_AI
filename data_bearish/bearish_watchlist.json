@@ -287,21 +287,21 @@
       "symbol": "VOLTAS",
       "base": {
         "symbol": "VOLTAS",
-        "price": 1113.5999755859375,
-        "day_change": -2.4954032579659673,
-        "volume_ratio": 1.843288793198662,
-        "market_cap": 36847.323838575925,
-        "pct_from_low": 0.5567485010596199,
-        "avg_volume": 657163.9523809524,
-        "volume": 377939.0
+        "price": 1113.300048828125,
+        "day_change": -2.521664247741282,
+        "volume_ratio": 2.0185210799628988,
+        "market_cap": 36837.399719848145,
+        "pct_from_low": 0.5299581564083238,
+        "avg_volume": 664901.4285714285,
+        "volume": 540426.0
       },
       "technical": {
         "symbol": "VOLTAS",
-        "close": 1113.5999755859375,
-        "rsi": 29.61,
+        "close": 1113.300048828125,
+        "rsi": 29.5,
         "adx": 34.4,
         "atr": 27.58,
-        "volume_ratio": 0.58,
+        "volume_ratio": 0.82,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -343,7 +343,7 @@
             "label": "Neutral"
           },
           {
-            "title": "3 Fundamentally Strong Consumer Electronics Stocks in India - Univest",
+            "title": "3 Fundamentally Strong Consumer Electronics Stocks in India - univest.in",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80eUNyVVk0ZmdxM241d05EU3c0bXBlRUFoS1EyV1VsREZxb0p1Ql9UbkV6dnZPY1BkMmNXcVhDbTg5S0JTT1dXRXlpbmMtbk9Oc2lqRTNaOHRZdWFGNVY5WHVzN0daMnpNQmVoYw?oc=5",
             "published": "Fri, 21 Aug 2026 07:00:00 GMT",
             "score": 1,
@@ -373,7 +373,7 @@
         ]
       },
       "combined_score": 54.6,
-      "added_at": "2026-09-22T11:12:25.292483",
+      "added_at": "2026-09-22T11:46:47.702973",
       "first_seen_price": 1113.5999755859375,
       "first_seen_at": "2026-09-22T11:12:25.292483"
     },
@@ -381,21 +381,21 @@
       "symbol": "GUJENERGY",
       "base": {
         "symbol": "GUJENERGY",
-        "price": 231.3300018310547,
-        "day_change": -2.945250301110604,
-        "volume_ratio": 1.7206681819274066,
-        "market_cap": 21704.094401712202,
-        "pct_from_low": 0.13400663819652237,
-        "avg_volume": 1727146.4285714286,
-        "volume": 919291.0
+        "price": 231.6199951171875,
+        "day_change": -2.823583307736638,
+        "volume_ratio": 1.5055268581146848,
+        "market_cap": 21731.30246641747,
+        "pct_from_low": 0.25904104022754976,
+        "avg_volume": 1733069.380952381,
+        "volume": 1043673.0
       },
       "technical": {
         "symbol": "GUJENERGY",
-        "close": 231.3300018310547,
-        "rsi": 29.62,
+        "close": 231.6199951171875,
+        "rsi": 29.76,
         "adx": 26.57,
         "atr": 8.46,
-        "volume_ratio": 0.52,
+        "volume_ratio": 0.59,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -443,7 +443,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Technical Analysis of Gujarat Energy Ltd (NSE:GUJENERGY) - tradingview.com",
+            "title": "Technical Analysis of Gujarat Energy Ltd (NSE:GUJENERGY) - TradingView",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YSVE0bUxYaE01c1ZSbDh5cUY4VTFQWEpqWF90ZE95Njl1M2pRRnVwY1k2Znh1RkZRa2Q2NVQ2b3BmNnZaN3VIQXl2clhHeEc0SnlMTUNjY3Q4SXFlXzZKT2luaVZ6VlNzLXJ5ZW9B?oc=5",
             "published": "Sat, 04 Jul 2026 23:14:31 GMT",
             "score": 0,
@@ -466,9 +466,105 @@
         ]
       },
       "combined_score": 49.6,
-      "added_at": "2026-09-22T11:11:18.579420",
+      "added_at": "2026-09-22T11:45:37.335955",
       "first_seen_price": 231.3300018310547,
       "first_seen_at": "2026-09-22T11:11:18.579420"
+    },
+    {
+      "symbol": "KEC",
+      "base": {
+        "symbol": "KEC",
+        "price": 394.0,
+        "day_change": -2.3423006372799304,
+        "volume_ratio": 1.8574116687957727,
+        "market_cap": 10488.28,
+        "pct_from_low": 1.230966016120717,
+        "avg_volume": 1010633.5238095238,
+        "volume": 750865.0
+      },
+      "technical": {
+        "symbol": "KEC",
+        "close": 394.0,
+        "rsi": 35.11,
+        "adx": 43.03,
+        "atr": 12.47,
+        "volume_ratio": 0.73,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": false,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [
+          "Bearish Engulfing",
+          "Evening Star"
+        ],
+        "setup": "DEATH CROSS",
+        "score": 48,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Near Breakdown",
+          "Bearish Engulfing",
+          "Evening Star",
+          "Weak RSI",
+          "ADX Trend Strength"
+        ],
+        "support_20d": 389.15
+      },
+      "news": {
+        "score": 55,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "3 Fundamentally Strong Power Infrastructure Stocks in India (2026) - univest.in",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHZFZmtnY0M4MVdaVGxGbW1kNy01d0JmM0Rtd1NRNUlGSjRveEJWZVQ3ZHVfU1ptWUgzS2pGZ0JuRDhKMW8ycUJjMXd3M2J4NFRPNkV4c0RsR3RHaGVxQ191dDFUX1hLVmN1aWpKZEZDaWwxdjFnVDBNMFVkaHN6OTEyLS13dw?oc=5",
+            "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "KEC International shares rise nearly 7% on bagging orders worth \u20b91,754 crore - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeDNtTzhXbEliQndreGs5NkVDa3dtQnBHay1hbmhqdjdYM2M0b1JLeGlfaGFGWVFpdHdCX2h6cEstOVVWdVRHWm8tUGhFOW5KZ1N1dzlvdGZtMEQtTzMzTmI0M1lxaVVQQXBtNDBhZDJnNlI0S3lhVnhjVjJWbDJnTVBkSVA4VnFYOWNITXIwZDNkWU1vZkQzYlVDS2NxQ05teERieW11VEEyMlRSVTgwNHJWenhqSXluSzN5OFkxdGtuRm02ZTBSaXdjbU0yQQ?oc=5",
+            "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Volumes jump at KEC International Ltd counter - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVUJUXzFlWUNkQzFOTWI5cF9KQUZ0YTA4Nng0aERMSHltYVJBU3dPS3pjZ01mV2I4Q1hGWFM5dk9oV05XTFdzek9mM0hHYmNxdUhMczJ3d3h1RkRjbXhQei00SndiYlF5NnJ3UW9KQzB4bTVtbllkaDJpSHFReG0wbDhSblhWeFllaUhRMm16RUs3aFIzZTBBVXhjempBYTRhQ3lDdkZZVTRNRkF2ZUxUaVNWRDRrWXo1MnBkQUV1SWViSHVrU3fSAcsBQVVfeXFMTl9XNGFkWkIwMW9GSU9BNnBlV25UVFR6Z2Y5SXBoZXRzMjM3WHZvQTJoYjVtZUNNQXREMk9mbzdZeUZ5OHdkelZKVksxdmtPMDV5cnB5R0o1a1Brd1JBdnd6MS1UWmd0SkQ0TDBQRGZSTEMzV0d4eHBZMEI4SGRKVUNXWlVzb2NKZER0bTBtZUtqLXNtbnZFeWhoc3dIZml3Y2FfOGI1OGY2RW5VYU1fM3EtUHRJS1pLRE9nY29TZjhYMXRmQ3JWQkV0bEE?oc=5",
+            "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to Watch Today: Info Edge, KEC International, RITES, NHPC, NTPC, NPST, Poonawalla Fincorp, Uflex,... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNSm44aDFqUXU1QmgzeVpWbE1Ud3Bqbks0UlZIbzZ6dk5zTXp6RElTTlZrVEZkMnMwN3dtOXJENGhHdWlGV0J4RHpQMUo0QTZhYkxBbFpPMlVKT1J1RXYtWEp5Q3RwNzNpYUdPYWFObXZCOVdsVnRQWlVRTFlmTWY4a1VxX0tuQnprZkpLeVRWVU1ldGc3VUVodjB1N3JnSmluSGxGZnlnMjM1NFlJaTNSZk5oZllkUmtPLTc4UUJfM2oxRk9XZTNkRGc2S2k1YkREYy0tNE8xVGkteHFlREhWbTVndmZvdkg3S1NPNGhHRk1wRGtDWTVqVnlnUWxaZU0xdUh4SEM2cy1OcXFlT09hNjdLcnVRemluYVBpX2N4YUpPYm5aMkHSAasCQVVfeXFMTjVHeWx0aThaTjU3NFhUbmpMNHJ2aTluQVZZaGtFZFhVd0R2Rkw0VUlrR1VWSzFSSnd2YVp0SEVPUmdWV1JLazloTzBOY1FwNE9PZ3FGbDBQWDRGcEhSdi1pemtldFI3ODFHYndUSnM2LWhRVjBrZmlnTDZUZ0pqSVpuQmJQQ3A0S1dsSmZucUxJWjJwUkphRTI0V0U1WmhWM0JFUlRLWWM0dlZQVDlYUllXLURQUjN2MFU0d0lENGdyMllRdTFLTGVUa25ZVDlOZmxLV3hWeUgtQmt5cHA3MVU4RlQ1MFl1dUtxekdUZ1EtWkh2dldqTU9sOVlmd3hFWXBWanV6UXprc2NQVDc1MXRWdW1HZU9rVm5TTmFuaVdzY1JnS0FwajBEdGs?oc=5",
+            "published": "Thu, 09 Apr 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "KEC Int Share Price Today, KEC Int Stock Price Live NSE/BSE Updates - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0ZFUDRUQVEwdnVnNFNfanh1OVJ2QkVnQ0dVUkhESXdJVklGc1RUN2lkY0wyVkt3UVowYXltTjNUYml6dzc2MDlteS1kdENESnhJVTg5N3FhMGk2T21aNW5uX1BNVkdaZXVsTmVCSUx4eU54MGpRdTk4TU0wU0RlcHhxd251VUg4LThMS21TYXNIVmN2Zm40R0ZR?oc=5",
+            "published": "Wed, 29 Jul 2026 05:48:39 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 47.4,
+      "added_at": "2026-09-22T11:45:50.502740",
+      "first_seen_price": 394.0,
+      "first_seen_at": "2026-09-22T11:45:50.502740"
     }
   ]
 }
