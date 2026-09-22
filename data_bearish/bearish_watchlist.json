@@ -474,21 +474,21 @@
       "symbol": "KEC",
       "base": {
         "symbol": "KEC",
-        "price": 394.0,
-        "day_change": -2.3423006372799304,
-        "volume_ratio": 1.8574116687957727,
-        "market_cap": 10488.28,
-        "pct_from_low": 1.230966016120717,
-        "avg_volume": 1010633.5238095238,
-        "volume": 750865.0
+        "price": 393.79998779296875,
+        "day_change": -2.391876099166052,
+        "volume_ratio": 1.721105056329196,
+        "market_cap": 10482.955675048828,
+        "pct_from_low": 1.1808009244858082,
+        "avg_volume": 1014799.8095238095,
+        "volume": 838357.0
       },
       "technical": {
         "symbol": "KEC",
-        "close": 394.0,
-        "rsi": 35.11,
+        "close": 393.79998779296875,
+        "rsi": 35.03,
         "adx": 43.03,
         "atr": 12.47,
-        "volume_ratio": 0.73,
+        "volume_ratio": 0.81,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -525,7 +525,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "3 Fundamentally Strong Power Infrastructure Stocks in India (2026) - univest.in",
+            "title": "3 Fundamentally Strong Power Infrastructure Stocks in India (2026) - Univest",
             "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHZFZmtnY0M4MVdaVGxGbW1kNy01d0JmM0Rtd1NRNUlGSjRveEJWZVQ3ZHVfU1ptWUgzS2pGZ0JuRDhKMW8ycUJjMXd3M2J4NFRPNkV4c0RsR3RHaGVxQ191dDFUX1hLVmN1aWpKZEZDaWwxdjFnVDBNMFVkaHN6OTEyLS13dw?oc=5",
             "published": "Thu, 20 Aug 2026 07:00:00 GMT",
             "score": 1,
@@ -562,7 +562,7 @@
         ]
       },
       "combined_score": 47.4,
-      "added_at": "2026-09-22T11:45:50.502740",
+      "added_at": "2026-09-22T12:15:47.718158",
       "first_seen_price": 394.0,
       "first_seen_at": "2026-09-22T11:45:50.502740"
     }
