@@ -5,21 +5,21 @@
       "symbol": "INFY",
       "base": {
         "symbol": "INFY",
-        "price": 1029.5999755859375,
-        "day_change": -0.8570076469968706,
-        "volume_ratio": 2.8781726012092985,
-        "market_cap": 417023.3629461059,
-        "pct_from_low": 4.584299950571956,
-        "avg_volume": 8339377.095238095,
-        "volume": 1728156.0
+        "price": 1028.5999755859375,
+        "day_change": -0.9533003768957632,
+        "volume_ratio": 2.15969643717129,
+        "market_cap": 416618.3285902059,
+        "pct_from_low": 4.491537261174579,
+        "avg_volume": 8385872.857142857,
+        "volume": 2704567.0
       },
       "technical": {
         "symbol": "INFY",
-        "close": 1029.5999755859375,
-        "rsi": 35.22,
+        "close": 1028.5999755859375,
+        "rsi": 35.05,
         "adx": 17.75,
         "atr": 27.33,
-        "volume_ratio": 0.21,
+        "volume_ratio": 0.32,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -53,7 +53,7 @@
         "label": "Bearish",
         "headlines": [
           {
-            "title": "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - Univest",
+            "title": "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - univest.in",
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zZmU3SmpYRTVHcTdlZFpiRzYzR0I4aUV5dnlnZTBxYUVrZTdnSmw0alFfWTZFX2hqMHlyWHpOOVR4Zk5PTFJ4a3VfOEVBN3U5R0xxcU1pZTNlTDgxM2x1MmJ0SUo3ZnBXRGJyTVFVYU9zUkZtV2o4?oc=5",
             "published": "Sun, 23 Aug 2026 04:44:55 GMT",
             "score": 0,
@@ -90,7 +90,7 @@
         ]
       },
       "combined_score": 58.4,
-      "added_at": "2026-09-22T09:42:56.746644",
+      "added_at": "2026-09-22T10:11:41.798606",
       "first_seen_price": 1029.5999755859375,
       "first_seen_at": "2026-09-22T09:42:56.746644"
     }
