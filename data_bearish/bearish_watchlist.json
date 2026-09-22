@@ -474,21 +474,21 @@
       "symbol": "KEC",
       "base": {
         "symbol": "KEC",
-        "price": 393.79998779296875,
-        "day_change": -2.391876099166052,
-        "volume_ratio": 1.721105056329196,
-        "market_cap": 10482.955675048828,
-        "pct_from_low": 1.1808009244858082,
-        "avg_volume": 1014799.8095238095,
-        "volume": 838357.0
+        "price": 394.0,
+        "day_change": -2.3423006372799304,
+        "volume_ratio": 1.603679856979879,
+        "market_cap": 10488.28,
+        "pct_from_low": 1.230966016120717,
+        "avg_volume": 1017781.4761904762,
+        "volume": 900972.0
       },
       "technical": {
         "symbol": "KEC",
-        "close": 393.79998779296875,
-        "rsi": 35.03,
+        "close": 394.0,
+        "rsi": 35.11,
         "adx": 43.03,
         "atr": 12.47,
-        "volume_ratio": 0.81,
+        "volume_ratio": 0.87,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -562,7 +562,7 @@
         ]
       },
       "combined_score": 47.4,
-      "added_at": "2026-09-22T12:15:47.718158",
+      "added_at": "2026-09-22T12:42:45.440026",
       "first_seen_price": 394.0,
       "first_seen_at": "2026-09-22T11:45:50.502740"
     }
