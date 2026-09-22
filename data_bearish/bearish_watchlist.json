@@ -5,21 +5,21 @@
       "symbol": "INFY",
       "base": {
         "symbol": "INFY",
-        "price": 1021.4000244140625,
-        "day_change": -1.646603330374338,
-        "volume_ratio": 1.8012862781209118,
-        "market_cap": 413742.59455185,
-        "pct_from_low": 3.818288532191174,
-        "avg_volume": 8422769.857142856,
-        "volume": 3479404.0
+        "price": 1022.7999877929688,
+        "day_change": -1.5117970348609775,
+        "volume_ratio": 1.6124287333169336,
+        "market_cap": 414269.13427025295,
+        "pct_from_low": 3.949937804172506,
+        "avg_volume": 8457972.047619049,
+        "volume": 4218650.0
       },
       "technical": {
         "symbol": "INFY",
-        "close": 1021.4000244140625,
-        "rsi": 33.91,
-        "adx": 17.9,
-        "atr": 27.73,
-        "volume_ratio": 0.41,
+        "close": 1022.7999877929688,
+        "rsi": 34.13,
+        "adx": 17.96,
+        "atr": 27.89,
+        "volume_ratio": 0.5,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -47,7 +47,7 @@
           "MACD Bearish",
           "OBV Distribution"
         ],
-        "support_20d": 1021.4
+        "support_20d": 1019.2
       },
       "news": {
         "score": 20,
@@ -91,7 +91,7 @@
         ]
       },
       "combined_score": 64.0,
-      "added_at": "2026-09-22T10:41:58.618335",
+      "added_at": "2026-09-22T11:11:26.104563",
       "first_seen_price": 1029.5999755859375,
       "first_seen_at": "2026-09-22T09:42:56.746644"
     },
@@ -99,21 +99,21 @@
       "symbol": "WIPRO",
       "base": {
         "symbol": "WIPRO",
-        "price": 163.3000030517578,
-        "day_change": -0.7596475094605881,
-        "volume_ratio": 1.686555005584152,
-        "market_cap": 161558.24933436784,
-        "pct_from_low": 0.01837034827694823,
-        "avg_volume": 9640463.761904761,
-        "volume": 3772128.0
+        "price": 163.69000244140625,
+        "day_change": -0.52263785743052,
+        "volume_ratio": 1.5633732395780173,
+        "market_cap": 161944.08900035426,
+        "pct_from_low": 0.2932346022237245,
+        "avg_volume": 9685813.523809524,
+        "volume": 4724473.0
       },
       "technical": {
         "symbol": "WIPRO",
-        "close": 163.3000030517578,
-        "rsi": 30.71,
-        "adx": 17.55,
-        "atr": 3.58,
-        "volume_ratio": 0.39,
+        "close": 163.69000244140625,
+        "rsi": 31.15,
+        "adx": 17.57,
+        "atr": 3.59,
+        "volume_ratio": 0.49,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -143,7 +143,7 @@
           "Evening Star",
           "MACD Bearish"
         ],
-        "support_20d": 163.27
+        "support_20d": 163.21
       },
       "news": {
         "score": 50,
@@ -178,7 +178,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Wipro Share Price Today: Wipro (NSE:WIPRO) Gains 2.28% - kalkine.co.in",
+            "title": "Wipro Share Price Today: Wipro (NSE:WIPRO) Gains 2.28% - Kalkine India",
             "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGpRQ1dZVlo1d0VRMTBfRVFXNC1oVm1PVHNiVTA3RU9jbWlCQ2tlcDY2dUFGWXZ2akpNYkZnM1I3blZfalJNU2FHQUhRTjJDcDV4V0lWcEhMWEQtT2E2TUlsTGxEVUQwYWZFX3FGd3h3UkZhZEVuNGhmaG9YVFJVckZNRjdjX1pp?oc=5",
             "published": "Tue, 19 May 2026 07:00:00 GMT",
             "score": 0,
@@ -187,7 +187,7 @@
         ]
       },
       "combined_score": 62.0,
-      "added_at": "2026-09-22T10:42:52.668942",
+      "added_at": "2026-09-22T11:12:27.442419",
       "first_seen_price": 163.3000030517578,
       "first_seen_at": "2026-09-22T10:42:52.668942"
     },
@@ -195,21 +195,21 @@
       "symbol": "KPITTECH",
       "base": {
         "symbol": "KPITTECH",
-        "price": 532.0,
-        "day_change": -0.8941855257306737,
-        "volume_ratio": 1.7345113061567312,
-        "market_cap": 14482.4880508,
-        "pct_from_low": 1.5037593984962405,
-        "avg_volume": 1534380.8095238095,
-        "volume": 617445.0
+        "price": 529.75,
+        "day_change": -1.3133360568718504,
+        "volume_ratio": 1.5632101049395204,
+        "market_cap": 14421.236926525,
+        "pct_from_low": 1.0854176498348278,
+        "avg_volume": 1540449.5714285714,
+        "volume": 744889.0
       },
       "technical": {
         "symbol": "KPITTECH",
-        "close": 532.0,
-        "rsi": 31.14,
+        "close": 529.75,
+        "rsi": 30.53,
         "adx": 17.82,
         "atr": 15.42,
-        "volume_ratio": 0.4,
+        "volume_ratio": 0.48,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -222,17 +222,18 @@
         "breakdown": false,
         "macd_bearish": true,
         "macd_cross_down": false,
-        "obv_distribution": false,
+        "obv_distribution": true,
         "patterns": [],
         "setup": "DEATH CROSS",
-        "score": 39,
+        "score": 44,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
           "Lower High / Lower Low",
           "Near Breakdown",
-          "MACD Bearish"
+          "MACD Bearish",
+          "OBV Distribution"
         ],
         "support_20d": 524.0
       },
@@ -262,7 +263,7 @@
             "label": "Neutral"
           },
           {
-            "title": "KPIT Tech share price crashes 15% on weaker Q1 business update. Buy or sell? - Livemint",
+            "title": "KPIT Tech share price crashes 15% on weaker Q1 business update. Buy or sell? - livemint.com",
             "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONUxScGZIaUszckZnMGNrNVhqcU1DdmdjTlozTTVNUGRjZ2xuWU4yc1E3Z3RTeHNVMVNHVkQzSGZqQXZaMTc2RHM1a0lWTmNhNDVHRkNzMFZEZkM2V2lqOFBKRm1OMllJYl9ZWldWcmFzTHJzQ1FxMTItYW1VM3c0SGktNXFtWnlOVXc1T1NITUQ0eXA0Z2RoWUlBVnRoZ284SndnLTJEcHdLRlYwWkQ1TlloMkRrZUtoaDV5aXVYdXI0YTctbDNxOURQaXdBekpqcllmRG1sZFVqLU11SzRld3lrUzNDLUM2SUNqbzBrYllKR1XSAfgBQVVfeXFMTTFYanM4aTRHcmMxSGFNVWlOS3V5WGcxOUotcG5rYm1scGc4N0F2RFduaHNJYnZXdVIxM2hqX1BOdkJGZkhKdE9GSnRINjhuTDNMbjVuRVpzUWI1cVpQZTdueWtYdXlueTRsdjZIOFJpYzBITlJzZmJOVFhPYkYtOHk2NU1jQnJWQzhFcHQwVFNSWmwxTGxabEpnS3dCWlo2eUxuaVVCQWd2ZFE0eFhrR2dSc2JiUVNzQ1NrRkp3RDlyMldWUThrTzZsYW4xYVZLMGVHNFlwc2NaQnlUVmVZcnhXN3k0WUZsZ0pRWW1zbE5NZ3JEMXZlLUU?oc=5",
             "published": "Wed, 01 Jul 2026 07:00:00 GMT",
             "score": 2,
@@ -277,10 +278,197 @@
           }
         ]
       },
-      "combined_score": 39.2,
-      "added_at": "2026-09-22T10:42:06.186435",
+      "combined_score": 43.2,
+      "added_at": "2026-09-22T11:11:33.912155",
       "first_seen_price": 532.0,
       "first_seen_at": "2026-09-22T10:42:06.186435"
+    },
+    {
+      "symbol": "VOLTAS",
+      "base": {
+        "symbol": "VOLTAS",
+        "price": 1113.5999755859375,
+        "day_change": -2.4954032579659673,
+        "volume_ratio": 1.843288793198662,
+        "market_cap": 36847.323838575925,
+        "pct_from_low": 0.5567485010596199,
+        "avg_volume": 657163.9523809524,
+        "volume": 377939.0
+      },
+      "technical": {
+        "symbol": "VOLTAS",
+        "close": 1113.5999755859375,
+        "rsi": 29.61,
+        "adx": 34.4,
+        "atr": 27.58,
+        "volume_ratio": 0.58,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DOUBLE TOP",
+        "score": 57,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Near Breakdown",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "OBV Distribution"
+        ],
+        "support_20d": 1107.4
+      },
+      "news": {
+        "score": 55,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Voltas VOLTAS Physical Share Transfer Window 2026 - Kalkine India",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON2thT1gzQ2FfWDNNUS00YnpNSV9TRmpyZDAyTkNlXzJYMDJBWkFEZ0F5QWxTV1FRYkkzeDVZNzVXVTJIc1FBNUdtY0NSQzFFUktNU1pBN3hiTnR6ekJKVl9ScWFxUnExelFKREJmVEp4cWVTMVREVGpKaVFCLW1rbVRCejV2WXJjS0N6WnUwS0t4QVhOOUxxWThKVGdfeHg5R2Nwb2R2TkdIYm5LS25sTi1Xa3VQc3JORUM5MnYtZDY?oc=5",
+            "published": "Mon, 21 Sep 2026 10:45:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "3 Fundamentally Strong Consumer Electronics Stocks in India - Univest",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80eUNyVVk0ZmdxM241d05EU3c0bXBlRUFoS1EyV1VsREZxb0p1Ql9UbkV6dnZPY1BkMmNXcVhDbTg5S0JTT1dXRXlpbmMtbk9Oc2lqRTNaOHRZdWFGNVY5WHVzN0daMnpNQmVoYw?oc=5",
+            "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Voltas Declares \u20b94 Final Dividend for FY 2025-26; Shares Slip 1.09% - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUndYTng1WnJJOFJuWWs2UnFDY3lnWFF6QWY1QUJNbHVsWll4NGVZc1FpdVRObE9DWlNXZV9yblQ5a01MTUZYbkhHcnZGSHNzNktiSWlpX0xVa2Q4UlBZV3BHR1VxdjZSQmxPWlR2dlRrVzUtMWFMYjE4aFQwMEhkWFE0YTUta1YwYnNLekZtSHprV21xQmhJOGxtS1g3SW42X1E?oc=5",
+            "published": "Mon, 08 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to Watch Today: PB Fintech, Juniper Green, CESC, Dr Reddys Labs, Texmaco Rail, Voltas,... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPdF96UDdrYmc5cW5laVlSWl9RWm0tSG9TNUtrd2J5Q3lyMnlBMy0yN1ZRcWNLdU5yY0h3NVItR3ZqV1dHQzBmWjNfeXdSSndtWVYxdHIwU2VUV3RsVEJkR1hBcjkzRll6SElsXzg0c0JmbllxV0RmUkd6SmpWVS02Sk04NkhxSk1ibjEyYmZ0YjQ1X2w4TEpxNTB1WGlRQ2pmS2p4Z2phazREeXg2TE1sd3FLeV9za3M4b29KUl9XMWo0TDZvejJfWERkazNBZmZkT2w0Z0ZBbWs1Y2N2cVNubWVNVUhaNUxDTFBibVc3RzhJTm1VRDhDUnFyWmIwU2hQY1BET09VNnk2d1JJM0xWTFYtZzRjTjVrU3NYdkpNOWtfRjh5bGhDMDE1Qkd4QldVSXhmUGtrYmsyX05aNUp2dVFKUEJsMW4waTg1alU4WThyYWfSAdgCQVVfeXFMUGNwcnlCRzN5MHZjc1pXMlpvN2F5aUk0T3oycV9kX3JGU0I2UnpDamF1cDZWVG9hcTB0NkFjX2RoVG1SSWVtOTh5UTRIUUM4aGlYMS1EdDA3Q0loZFpuemVTSW4zOWUzV0dPaGQzN1JZRFZlUWtvLVdLMFQwY2czVDh3ODV1TG5OSzh3eTBmQTZMbkFHTC1SNnd1RUVUZ0FSYzJsbDgxYkJXUTk4QnRrVzJlLTcyekFlTW51d3FRclVkUm9pQUpLNy1RaFVISHk5TnRiU0JHaEwtWkhNeW9FaFdYUHE0RzA0NE81ajQ2TGRoS3dFSjkwaVZlZUd0a3B1SlVLb1ZocTBJV3VPNGItWEE3c3NzUk5hTHRraFhIQmF1eEZvUW00LTJQcWZDTGljY3QzbWJLYWRwelNuRTM4QjF1bWYxaGRZX21yMlcyaTZaNnFnUFpUUXc?oc=5",
+            "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Voltas soars 5% on crossing 1 million air conditioner sales in FY27 - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVWZXUU85MnhteGw2UEVSbzZPaElGUUlrdlowLS1XTnZFNy1zV0FUdFg0UmtHZkY0REZtRDg2eGdEOW0zU1pERG1uLVI5LXNabE1XaEZsUXpOZjBWYzdoYzV3VGxXUFhoc3Q0a0VITHE5aDhGYzBld3cwZVZlUTUzNUhqelB6RkFXQjNqdlYzUnRYY284SE15M3NITlNNakpkSWxTbm4xTmZkNG5RNnJtc3JDTTZEczBBQ1ZJVk55TE54Zi1YWkVUUjlEcjNJZ9IB0wFBVV95cUxQSE9VVGl1TkpZNzFNYnRRZmdoaGJzbGVSbjFPNHNBSG9VdVgwWXNhSWg2MHNQREIyWUY3eUVUX1R4Uk8wbDhQcE1ELWY4WXM1dzhZLXZGYS10S2Q1dzl0Qi1rek1XclBlWjF2Qnd2aU50aWtFbS1rUFUzVUs3RlE4ZE1iVVdieTRFLVBSUk0zRjNpQ0piYlpPbXBuSWNsdTJ5dUtFd1AxSVhxT1YyZUptUEd6SmwzVkNpVDRKMnR5Qjc4Y1h0eENmMEhZVzktUzU1bmkw?oc=5",
+            "published": "Mon, 22 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 54.6,
+      "added_at": "2026-09-22T11:12:25.292483",
+      "first_seen_price": 1113.5999755859375,
+      "first_seen_at": "2026-09-22T11:12:25.292483"
+    },
+    {
+      "symbol": "GUJENERGY",
+      "base": {
+        "symbol": "GUJENERGY",
+        "price": 231.3300018310547,
+        "day_change": -2.945250301110604,
+        "volume_ratio": 1.7206681819274066,
+        "market_cap": 21704.094401712202,
+        "pct_from_low": 0.13400663819652237,
+        "avg_volume": 1727146.4285714286,
+        "volume": 919291.0
+      },
+      "technical": {
+        "symbol": "GUJENERGY",
+        "close": 231.3300018310547,
+        "rsi": 29.62,
+        "adx": 26.57,
+        "atr": 8.46,
+        "volume_ratio": 0.52,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [],
+        "setup": "DOUBLE TOP",
+        "score": 52,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Near Breakdown",
+          "MACD Bearish",
+          "ADX Trend Strength"
+        ],
+        "support_20d": 231.02
+      },
+      "news": {
+        "score": 60,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Gujarat Energy (NSE:GUJENERGY) Could Be A Buy For Its Upcoming Dividend - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRWk0N0hFZDdQODh5UUJIZ1BJTWs4TkFEbk5jYU5McUtWS2hMNl9UcG5zbU9XMnp1LUxQdkRmZU5SaEtpSTBqU0JxQWZUeU52ZUhoTFdVUGhyVHluZWFDZnZDT0w3YnZ2VUN5eEk2N1FfLUhsV2F4a3JTVEdDRERZMXhFeVZ0LU9ZVFBDWkhDeEx4a0dkTlZqOVE5MVpvWkpoVkpPMHFsdzk1WUJoNFk0NmhzV3BwVTk5N3hmMVZrNmxnQTM1dXVHUUdETGJSNTZqRThGODRDQlFFd9IB3wFBVV95cUxOMTgtektad0VZek9PZnRoWHVFLTZIMVAxYWw1bFh5NEM3OWFYaVNwYk9NQnctSVN2QUVzczBfMmJ0QXplSm5yc0czYy1sMmphN0lMck1va05zRHhWRVJoZUdHN1FUbkpSYVRyTF9VeVpueHRFZFd5ay00Wk50R0JVWVBWRk1nbXZVUWxwcGZRbDFoMUc3VUdLakVmSXh5ZUJsOXFUZGpDNkVaNEMwSVlXWkx4dDlHOGdjNE9TVkVzZEREZGZrbWltSVRDOHAwclFCVUEtRUZ6RUw2enl4OHJN?oc=5",
+            "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+            "score": 2,
+            "label": "Neutral"
+          },
+          {
+            "title": "Gujarat Energy Ltd (GUJENERGY): A Restructured Gas Major Explained - Kalkine India",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU0lOOS1SYlloSzA5QWZtQ3N0NUhIcW5VN3A0WlhrUy1nODBLZlZZd1A0R2RWSjdhdU1GVVZvT3Z6UHlPYW90WmR0djZuZEJkTWFESERQaU9ZZm5rUWJTNTR0QURPRkRjU2FmcTdFWDhWUl96VmVJRThRMFhGRVBxbmJIRVZhemtNOHBYOEtOVUFwLWlKeFR1N09hYndZVkVJbVU5N0dLSXVKakh1OUJYWVh1WXF6SUdBVGhvVzRWcnMxUmpkTFhfX196eVQ4OENjcDFNUW5Ocw?oc=5",
+            "published": "Mon, 14 Sep 2026 08:49:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Technical Analysis of Gujarat Energy Ltd (NSE:GUJENERGY) - tradingview.com",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YSVE0bUxYaE01c1ZSbDh5cUY4VTFQWEpqWF90ZE95Njl1M2pRRnVwY1k2Znh1RkZRa2Q2NVQ2b3BmNnZaN3VIQXl2clhHeEc0SnlMTUNjY3Q4SXFlXzZKT2luaVZ6VlNzLXJ5ZW9B?oc=5",
+            "published": "Sat, 04 Jul 2026 23:14:31 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Gujarat Gas Limited changes name to Gujarat Energy Limited - scanx.trade",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGplTjBhX3RhaFNkNlNuOFRnZWhGYjJNbjBKaWJrNllTeGgzbHBDS3d0ZEswdW9NamlXTDV4dGYzWTJQa2trVTNlYktHekRQcVUwWjhScTJCUkRhRFU3bjkwNVlabzM0M2NfWjNBUTR3bFNnZG1BT1J5Z09HZkVDZFZ0a1BKTTFud3U5WFl5NzhMeGZ1aVdhTFNCM1JJS2FMS3p6SDVTYVFmVjJjUW1ERnJzRmI5UQ?oc=5",
+            "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Gujarat Energy Ltd Stock Price: Gujarat Gas Share Price Today - indiainfoline.com",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aUHVwQVpfanNLeExoVGRNNmZWNzNZRHlUcUdVc2RCY2tiVEVfTU9ULU5lYjN2ZVlUSHZJTDBrSXB3QzBKQnNyZm9HWkhBYlJjSHlMdnJCdEdDVXVHel9lUzBna0dvOFdtYVg1UHhKOFkxeDRIYUJJ?oc=5",
+            "published": "Tue, 07 Jul 2026 02:18:27 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 49.6,
+      "added_at": "2026-09-22T11:11:18.579420",
+      "first_seen_price": 231.3300018310547,
+      "first_seen_at": "2026-09-22T11:11:18.579420"
     }
   ]
 }
