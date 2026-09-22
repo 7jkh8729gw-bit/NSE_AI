@@ -1,4 +1,98 @@
 {
   "date": "2026-09-22",
-  "items": []
+  "items": [
+    {
+      "symbol": "INFY",
+      "base": {
+        "symbol": "INFY",
+        "price": 1029.5999755859375,
+        "day_change": -0.8570076469968706,
+        "volume_ratio": 2.8781726012092985,
+        "market_cap": 417023.3629461059,
+        "pct_from_low": 4.584299950571956,
+        "avg_volume": 8339377.095238095,
+        "volume": 1728156.0
+      },
+      "technical": {
+        "symbol": "INFY",
+        "close": 1029.5999755859375,
+        "rsi": 35.22,
+        "adx": 17.75,
+        "atr": 27.33,
+        "volume_ratio": 0.21,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DOUBLE TOP",
+        "score": 53,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Double Top",
+          "Near Breakdown",
+          "Weak RSI",
+          "MACD Bearish",
+          "OBV Distribution"
+        ],
+        "support_20d": 1026.5
+      },
+      "news": {
+        "score": 20,
+        "label": "Bearish",
+        "headlines": [
+          {
+            "title": "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - Univest",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zZmU3SmpYRTVHcTdlZFpiRzYzR0I4aUV5dnlnZTBxYUVrZTdnSmw0alFfWTZFX2hqMHlyWHpOOVR4Zk5PTFJ4a3VfOEVBN3U5R0xxcU1pZTNlTDgxM2x1MmJ0SUo3ZnBXRGJyTVFVYU9zUkZtV2o4?oc=5",
+            "published": "Sun, 23 Aug 2026 04:44:55 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Infosys share price today: Stock falls around 4% after Q4 numbers; what\u2019s the outlook? Brokerages share r - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQOG04dUhZUUlXMHllbjNmOG1RSkwyQ3o0VnlGTE85TXIwQVh4enV0UXZLVVI0cWRvZ0dVQl9hbmo5WFVNRDRxRXdNbE8tUmZlcC1ZUU1GOWdiN1FyaVBpRWpGcFB3Y21ndFp5aDlZNC13QkFVTjBHeFgtaW0ySGVxTlVJTi1IZ2dpNzNRVjlkanpiOWVXLTRrRy1jajFFWG81S1pzSUVCNzNxdDlZLUtFVlB5VDRTSFZORlNOSjc4bnE0eWlpV2VJLTdZYjZNN19yc0pTZ1B2RXZ5XzBMZnZ5UFhNeU1lVXJkaUNDMUgwS1BhMjRKazF0SUhqRjM3SmkwbEJ5ZGVzb3ZPaUNrU0VwSFVvNk90VnRUaHYzNNIBogJBVV95cUxPQVRIeGtjWkRMckRrQkVMcThZamhVV19CblM5VmhDaFFxa2JYc1l4NDFERTN4a01iYzhmek9RU3JVUXVKSDg5bjdYTWxLX0tEY0VpV1lRX0NOSTM3Q1F0YkNGVk1nSXR0RGlUa0xEMFMyVFBqVU1MOTh5b1phb2k0ZHZVWnlXcWQzM2VIYXo1X0FSYll5a01iV3BZTmp3VV9nOFhhQmtiSk14dFdhalA1SnU4T0NNVUVzNE8zajA3N0lwZmJsVnFIdjdoNDVYUWhCOUJ6QmkxWXZnZzRuWThwUkg4WFJIcDRxXzM2aXNEdUMyaHBUOG1YMnRNdW5EYkFUMXV6YWpGM1Ytdm1PZXFEb0dNVHlIUUtrVDlRdFMzQ2xrZw?oc=5",
+            "published": "Fri, 24 Apr 2026 07:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
+          },
+          {
+            "title": "Infosys shares down 5%, hit 52-week low: Why IT stock tumbled after Q4 results - India Today",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ3AyNjZzVlBPSHFkanU3bndmdXFMWjVFVVBjUm1NYnZva1NlNGtYWTEyYXhubmlfUnpMd3lNalZwM0JUd09NUVFpbHJvYTlNcWw4SFpRVTJ6TFlFb1h6Z0dmWFo3Zi05OFJrTG1tbjc5cWNOQmNzRkJjekdpeGp6WjA3cEQtVFFsdklhN3VQVUlSbVVpS0YwUk9HcmJ4LXJVQ3JpNTAtYy1ZZEJ4VzdJelMzc1l6STZ4ZERjOWZTX1RNclU1aTZvQmlhT0g5OTVVSnk2d2V4SdIB3AFBVV95cUxNc0p5alZFdEhpU0FkUllrLU5VU2c5MC1Idi1RdUNhV2sxYmwxeks5LXQxZDFLUHVXNkpqOHNPV1hCUDVya3hyMVJrQ0lrLTk4QnZYSTRqcElNOExJdmRLeTNGSVBLWTJrRlMtTnJJNUpWcTJ5THc4dVhCN01pT0ZCTER2NzZRTHNIVzZhQWNMSERlaXhHbER4Q0FNRGcwM3ZoQkxUV2wwbnRnamtjSVFzYmpUalZPMHF3cEFzdm1PTlpua0daUHN6d0Uwa0p5YzlYXzU5Q0VuUjR2d2d2?oc=5",
+            "published": "Fri, 24 Apr 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "IT stocks drag Nifty despite firm broader market; Infosys, TCS, HCL Tech fall as Fed signals rate hike... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMExtR1loaFhUdWwtSkY0MHVGcWlzQ1JucXJuZ3R2bURNaTl4VXEtZV9Ud2hJVW85ZHVlcmpDS1RKSFJDNUcxV2FNWUJvX25hZm0xeXF2RXhfZUZkNkNhMmNHdXV5bzVSNnlBNVI4SXJlc0FaODg3N1NvWC1mb1Y0aUlCVEU1SHQzeDJ6TEhackhkRFhGV3RkTVdQY3BOYVVYWnBGWHNta0dwWXdsNGhoWTJIc1ppa1JQV2RDMktWR1czaDdQdDZGR1J6TUFleV9jRVNLNU4xYTFMZC1KWlVoSllpRUNVTXhRdXhqclNmb3BoVExDVWVYa2Y1QnlNQdIBgwJBVV95cUxQWXZQbkctbFN3SU5aMF96ZTYzZkdEcENvZDRxdFZhbGNWUXByY2VjU05oZEhnM3BDV2EzRDFiYThja3RLTDc2WTRCOVM0Um53SDVuakVWQmxscTZsMGpWYUVBWko2VWpLWG9yS0RFd1FqOGZsckpUZkptVFh2dnN3NU9VSUh3QVlSTDJIb2RQbmZkbzg5WDhJd0RVLVBCQnBWN0xLcXRsZTRlNm5CWkNURUo4SlB4dnFoUktGTnZEXzFDV0cwV3ZRT3pXUm5wb2gyMzFsaWJJOGhaVlhQM2lVa281QXFYamRGRlBQc2U5bmRIaGkwVENjRkNicmFCR3NrOUlJ?oc=5",
+            "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
+          },
+          {
+            "title": "IT stocks fall: TCS, Infosys, Mphasis, others drag Nifty IT down 2%; check key factors behind today's drop - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMkp1SzRrXzl5VXVtZUVEaFY2Y0FrZWYyTDJuc3lQNXBSQWg2eVBxbGpPbVA1VlFmdGxSUmY4cnkyZDEwNmJSUkxGbUVwMlhIMDZlbmNmN2Itc2hyVjhxQ3VtNDI4Wlp2Vk9kRzVONl81WU5qd20wQmFGSFg0U2dZNzBfZjlBRG5pMFVvNzJGUGJGdmpiSE5kczRyZE1Wd2xnZWxQaVhCRXZJZWlNRVBCaUl4YVhlQmI0ZGN4Y3dmNXZNaWdlSmQ3ckJXNXFNUndYeWRJbWl6cGhtczh5S3VoSTNHam5Ccno0c2VlUXNuU2g?oc=5",
+            "published": "Sun, 16 Aug 2026 07:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 58.4,
+      "added_at": "2026-09-22T09:42:56.746644",
+      "first_seen_price": 1029.5999755859375,
+      "first_seen_at": "2026-09-22T09:42:56.746644"
+    }
+  ]
 }
