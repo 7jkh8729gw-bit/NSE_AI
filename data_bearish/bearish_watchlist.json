@@ -5,21 +5,21 @@
       "symbol": "INFY",
       "base": {
         "symbol": "INFY",
-        "price": 1028.5999755859375,
-        "day_change": -0.9533003768957632,
-        "volume_ratio": 2.15969643717129,
-        "market_cap": 416618.3285902059,
-        "pct_from_low": 4.491537261174579,
-        "avg_volume": 8385872.857142857,
-        "volume": 2704567.0
+        "price": 1021.4000244140625,
+        "day_change": -1.646603330374338,
+        "volume_ratio": 1.8012862781209118,
+        "market_cap": 413742.59455185,
+        "pct_from_low": 3.818288532191174,
+        "avg_volume": 8422769.857142856,
+        "volume": 3479404.0
       },
       "technical": {
         "symbol": "INFY",
-        "close": 1028.5999755859375,
-        "rsi": 35.05,
-        "adx": 17.75,
-        "atr": 27.33,
-        "volume_ratio": 0.32,
+        "close": 1021.4000244140625,
+        "rsi": 33.91,
+        "adx": 17.9,
+        "atr": 27.73,
+        "volume_ratio": 0.41,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -27,7 +27,7 @@
         "head_shoulders": false,
         "rounding_top": false,
         "bear_flag": false,
-        "ll_lh": false,
+        "ll_lh": true,
         "near_breakdown": true,
         "breakdown": false,
         "macd_bearish": true,
@@ -35,25 +35,26 @@
         "obv_distribution": true,
         "patterns": [],
         "setup": "DOUBLE TOP",
-        "score": 53,
+        "score": 60,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
+          "Lower High / Lower Low",
           "Double Top",
           "Near Breakdown",
           "Weak RSI",
           "MACD Bearish",
           "OBV Distribution"
         ],
-        "support_20d": 1026.5
+        "support_20d": 1021.4
       },
       "news": {
         "score": 20,
         "label": "Bearish",
         "headlines": [
           {
-            "title": "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - univest.in",
+            "title": "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - Univest",
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zZmU3SmpYRTVHcTdlZFpiRzYzR0I4aUV5dnlnZTBxYUVrZTdnSmw0alFfWTZFX2hqMHlyWHpOOVR4Zk5PTFJ4a3VfOEVBN3U5R0xxcU1pZTNlTDgxM2x1MmJ0SUo3ZnBXRGJyTVFVYU9zUkZtV2o4?oc=5",
             "published": "Sun, 23 Aug 2026 04:44:55 GMT",
             "score": 0,
@@ -89,10 +90,197 @@
           }
         ]
       },
-      "combined_score": 58.4,
-      "added_at": "2026-09-22T10:11:41.798606",
+      "combined_score": 64.0,
+      "added_at": "2026-09-22T10:41:58.618335",
       "first_seen_price": 1029.5999755859375,
       "first_seen_at": "2026-09-22T09:42:56.746644"
+    },
+    {
+      "symbol": "WIPRO",
+      "base": {
+        "symbol": "WIPRO",
+        "price": 163.3000030517578,
+        "day_change": -0.7596475094605881,
+        "volume_ratio": 1.686555005584152,
+        "market_cap": 161558.24933436784,
+        "pct_from_low": 0.01837034827694823,
+        "avg_volume": 9640463.761904761,
+        "volume": 3772128.0
+      },
+      "technical": {
+        "symbol": "WIPRO",
+        "close": 163.3000030517578,
+        "rsi": 30.71,
+        "adx": 17.55,
+        "atr": 3.58,
+        "volume_ratio": 0.39,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": true,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [
+          "Evening Star"
+        ],
+        "setup": "HEAD & SHOULDERS",
+        "score": 65,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Head & Shoulders",
+          "Near Breakdown",
+          "Evening Star",
+          "MACD Bearish"
+        ],
+        "support_20d": 163.27
+      },
+      "news": {
+        "score": 50,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Wipro Share Price - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KdElZR3B2X3pjUm1GemQyR3d5VktiaGR0OUVqYkgtMEtmS25BbGhDMS01MTg5d2hCQ3pLLVZjR3hLMlVPTXRuVkdhMDBtenZUUGFlb2VjbC1uQkFa?oc=5",
+            "published": "Sat, 19 Sep 2026 22:16:37 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "BSE to replace Wipro in India's benchmark Nifty 50 index - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeGhIN19pS1ZwOUhZbGZZcVV1LW5DaGxLcHEtdHpGVk9qVGdqaEx5NG9Xbm5XWkN4M0c3NmRJS2xkVUhsTmppMlZSeFVtV3pPbnVTdU8xNVZxSC1sUTVHSnhQdE9LQzhOLXhCOHdWTXVhcjJUNE96V2hqeGMya2pQblNIQTEtUEhUSllQUWRuYThadnFqNTBuVUdham9PQQ?oc=5",
+            "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "NSE indices rejig: Vodafone Idea, Wipro part of major changes in Nifty Next 50 and Nifty 100. Check full l - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbE5OX0J4cnJpdUs3cXFiaDhWNzg2c3dsRHgwUC1yeU81VldLNGFnb0VEUWE1YUEtZmNIam5GcThyWnc3cS1ITDdVY3NoNWRlRGdYMmVlX2Q4eDgydmQtZzFpenZYcHhlcGZwRXBmbm5IeTdnU3ExYlg5OFdTSVlRUGNOZ082UTJRNGx0bzlFS0hPdElFNmpuRElrQ0RnUkxqOTREMkN5OEFscUJNQ3A2MFltMXU4WmNlOWxVQnByQTJZNURQSl9kRkEyU19FVmNzSXlTMVZQbVd1OUc1UUFrTHNlal9wY19id0YwQTk3STNmbnF1aE1HTDJySzY0Sll2c1c5WEtBTkg3NjBo0gGSAkFVX3lxTE84UVBvSEdjQ0xaVW5nOVF2RF96ck9lX2w0MUlfWjNYQ2RqVjRXYUxYWjRORW02MTFhRGdmWGVwWGtBRVUtaWlWTGRhdlZTSmtLRnBIb2xGbk1VRTQ0dUdiQTJBUkkxUV9NQ1ZBcUZ2RnJQdi16dGtORHpTWFFEakVOSGp3LThUR0Nya3RUOHBfd0FHRXFJN3dHaGNWbmF0bmp5N3hncFJKNF9tR1M2UW93M2tTQUZxb090X0VLVzJPUE5rcVYwd3Q1TXJzd0ZPcWdxSG9JeFQwTnFud0J4UXppemFqY1NrTU9YeUdZUkwwb1I1VU00Nlg0UER4MXJrTXhCTDBNTlRJLXA0a2MwYXpPaFE?oc=5",
+            "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Wipro Ltd up for five straight sessions - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU0NKLWtxZTZYUXpYUkZzMXBxU3JDLUgyYkVjeWppazBMOWlXQWN4VUJqd2NiSVotZzBZRlhUSnJIajNlMGs4RU04ZldXVVZIWGNYemFRVlkweXplcXlzcENVem1mcnpWT0huc0ZGVklTUjhvazhBaC1RcHVGRVlVTjFmNmg4ZlBRYkxoTGxDOUhhbjF4bV95VjN4X2VJRElQSnFBS0REMTAwU0J1Y2ZzZUJidk1adUl1WlFrSW930gHDAUFVX3lxTE9ta2dvV1ZpdkVNXzlIQXlXakpSMmtnS3R1aDBaRGdWWEhId1E0VHpKLXVocU4yS1lpWEREUnBhV1NWeC1adjJuZVh5d0hrMlh0V1dkdDk2R0pFSTlLVVUxM3BRaXhKaWpRUHdiLXB0RFZWTHZNcTJpcjQwN1gta004dm93Z29lXzUtZ1h6WWU3emJQSTd6NHhOaW8tU2taLUlQX1dJa3NPazAzMUpGVjlqcFE1WmEzcm9CNkJQaElvekxTTQ?oc=5",
+            "published": "Wed, 20 May 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Wipro Share Price Today: Wipro (NSE:WIPRO) Gains 2.28% - kalkine.co.in",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGpRQ1dZVlo1d0VRMTBfRVFXNC1oVm1PVHNiVTA3RU9jbWlCQ2tlcDY2dUFGWXZ2akpNYkZnM1I3blZfalJNU2FHQUhRTjJDcDV4V0lWcEhMWEQtT2E2TUlsTGxEVUQwYWZFX3FGd3h3UkZhZEVuNGhmaG9YVFJVckZNRjdjX1pp?oc=5",
+            "published": "Tue, 19 May 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 62.0,
+      "added_at": "2026-09-22T10:42:52.668942",
+      "first_seen_price": 163.3000030517578,
+      "first_seen_at": "2026-09-22T10:42:52.668942"
+    },
+    {
+      "symbol": "KPITTECH",
+      "base": {
+        "symbol": "KPITTECH",
+        "price": 532.0,
+        "day_change": -0.8941855257306737,
+        "volume_ratio": 1.7345113061567312,
+        "market_cap": 14482.4880508,
+        "pct_from_low": 1.5037593984962405,
+        "avg_volume": 1534380.8095238095,
+        "volume": 617445.0
+      },
+      "technical": {
+        "symbol": "KPITTECH",
+        "close": 532.0,
+        "rsi": 31.14,
+        "adx": 17.82,
+        "atr": 15.42,
+        "volume_ratio": 0.4,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [],
+        "setup": "DEATH CROSS",
+        "score": 39,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Near Breakdown",
+          "MACD Bearish"
+        ],
+        "support_20d": 524.0
+      },
+      "news": {
+        "score": 60,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Stocks to watch, July 1: RIL, Nestle India, Paras Defence, KPIT Tech, HUL, Kotak Bank, Unimech Aerospace - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMVBXQnpKLVFYSUNhekg1WHhfeWpzek1KVEJtQ3pzSFRvVEtqNkJjX3QyREFfWG8wbWl1ZHN4VnpFb0dIdldyOURDU3dvSUE3b1VTTWpFTFU2Zkd1bkFZcHI1b0pYSWFUaXV5bjNlMTVndG5pVVBzckVvZGdVakFxZVdxT253emdNTzNkdnpDcDA2b1J2VU1zb3lWbV85cWN2c0JEeVVUc0l4U1Y0U0JXMndYSjhJYmsxN09qTE5HdEVHTW1yc29qMlhjVHhCN012aVVIYkVQeXBEOW40dTNDU2VkQ2FKWV9YSmpPMkZCVWU?oc=5",
+            "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "KPIT Tech cracks 15% on Q1 earnings warning; stock down 57% from 52-wk high - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZzBUVTZtYjR1NXdmUTJYNVpBcWRzbFpOWWxEWmpOSFotSUhXa3g3S252MUE5RmxybHNqMWFYYk9sUkc1cXpBeFctd2FvTk1jTHhiV2J3VUlZOHdEQ1VObWxMLXR3eTZ2WWx5bFAxNkE4WWtYYnJrcHNPZC1BTlhOdzFRZmtoTHdDWjNMVFRfcnVZVnhIZFV6WFlweTZQeXMxZHEwMGRkRHNkY28wLTg2bEZFdHR0c2gxbTB2cDlTdzNyLVJ1SGtSbnFUZkVneF9ydEJ4dlJZY2xiMkFxc2N0OWliaE5zZXR10gHuAUFVX3lxTFBlUDk1SENJQW1RY21zdHlQWEx1M2YzSndNdFA5dF9xTFk5UjVrdGJtb0NpczljdlNiend1UjBYc0tGcGlFWDFzQ1VsVk9ER1lCZXUwZU1EUG12VEV1RVZEdjVLZjFtSEZKZGowZFMzQ2k4R1dvWFdFVFRES3N0UlZzOTBtYjdfNmxEcGxBR0JxSVNaZlgyMXNRNDFKWG1ZZjVyVzd3ZHQtMnVUU1k4eXdvQkhRcFZQUlFQSnhCeXRnM00wVDJWMUNxczNqV2dPM0VZaEd4OXRqbkZYTGtrM3hLQXJmN01Udko0dmMxZ0E?oc=5",
+            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+            "score": -1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to Watch Today: Kotak Bank, KPIT Tech, Waterways Leisure, Advit Jewels, Genus Power, Ivalue Info,... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQT2tCc3RSR2hhaGx2c1VoQWNlNVlqenloZXhMRnFsc0J4S3RGeW83QktCbnhtMXdLWU5YZ1hxZ0kxNmxkWEJQTmF0VE8xVm9mcUFnTm5CYXFjRWNpaXRKSnc2NURVSHU1ZGV4MElsX0dpMS0yb3dIWElqbDhjbm5zbkg4YVk0TENTWllvQlRhVVdISS1QYmFETFZQVnl6TzRQT2t6Y2dwcFVvV0g5MlJCYkU3YWFEb0JwU0FjMUgtMGtGX09mZDl2cnF3UWNmdkp3QWJEbzhNb3JPS213MmtYcW9Jd052d2w2ZWJFNVBoRG1ud1MxdDRuenVxYTluNjU0Rk5wZ2IzUGlwTTUtNkFsWHQtejVlM1BjTzlyYUsxcVBuekZYZkJnLW1DN2Uyc2N6VGfSAbcCQVVfeXFMT2t0WVdxa1YxVGVjVS1tS3drMzN1MWJkajFZN2JuWEQteTFfckd6dDRHUFBjdFE1WGZEY3cwcm5XbWY2MC1Fbmd5VTZaZzJCLWJaSWVVZTBNWXN2TDdQWHdzNWJ2eWVYakFhcUxDQ3ZiQjdibUVrdUVScF9zeGJneFZNNzRqdEU0eGhCa2dKVGttT3lMc3JLd2xydnJzQnp0N3pjVmRtT2JHV3NiUjhyQnZvSlJ0RWdLN2t5QzNtN3ZoQlNhNXZNY2Q2WHhKTDJxLVZvQ0lTM2pYaXUzNzZYbW9ZdW94SXRLdzR0NzlLTDVSeTFURER6aFE1UVJmZ3hleHNUNTR3Rkl3ei11eUZDb19DWFkyc1dWTVZ3Z3EwY3lKZDlfZUxqOFpGT2lnQmt3Wnh0RXVPY0k?oc=5",
+            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "KPIT Tech share price crashes 15% on weaker Q1 business update. Buy or sell? - Livemint",
+            "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONUxScGZIaUszckZnMGNrNVhqcU1DdmdjTlozTTVNUGRjZ2xuWU4yc1E3Z3RTeHNVMVNHVkQzSGZqQXZaMTc2RHM1a0lWTmNhNDVHRkNzMFZEZkM2V2lqOFBKRm1OMllJYl9ZWldWcmFzTHJzQ1FxMTItYW1VM3c0SGktNXFtWnlOVXc1T1NITUQ0eXA0Z2RoWUlBVnRoZ284SndnLTJEcHdLRlYwWkQ1TlloMkRrZUtoaDV5aXVYdXI0YTctbDNxOURQaXdBekpqcllmRG1sZFVqLU11SzRld3lrUzNDLUM2SUNqbzBrYllKR1XSAfgBQVVfeXFMTTFYanM4aTRHcmMxSGFNVWlOS3V5WGcxOUotcG5rYm1scGc4N0F2RFduaHNJYnZXdVIxM2hqX1BOdkJGZkhKdE9GSnRINjhuTDNMbjVuRVpzUWI1cVpQZTdueWtYdXlueTRsdjZIOFJpYzBITlJzZmJOVFhPYkYtOHk2NU1jQnJWQzhFcHQwVFNSWmwxTGxabEpnS3dCWlo2eUxuaVVCQWd2ZFE0eFhrR2dSc2JiUVNzQ1NrRkp3RDlyMldWUThrTzZsYW4xYVZLMGVHNFlwc2NaQnlUVmVZcnhXN3k0WUZsZ0pRWW1zbE5NZ3JEMXZlLUU?oc=5",
+            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+            "score": 2,
+            "label": "Neutral"
+          },
+          {
+            "title": "KPIT Technologies Limited's (NSE:KPITTECH) Stock Has Been Sliding But Fundamentals Look Strong: Is The Market Wrong? - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLWtocFV5a3gzOUpYSmJtb1UxbWFmYjVoZ19yQXFqajdQWVJrTldvN0NGVkJLeVJZOGItd2dWazJ0MVNOVHdVUWpEWFpBSVAya0ZTZWVZbmUweTdUWWZ3NGxSS1lxTkVFaV9OX2JQbm9HQ3VUclk2N01HYndEd2U4RlVrMkppQmhid3BBcEVzVDlWcXBjUmVBT0J1clo4Rjh1bDQ3cDh2YTQyYWFybDdYVU9yamNFdGFBODFGY1F3c1NfYzhwRlZjd0NXVUUwMjdZYU54T2w1MlFLM1d10gHiAUFVX3lxTFBXZ2tEenUxM1R6eHNEZFV5V0ZXb0lPUWZ2MnN4bzd0RzYxekNJRlZRQTlFRGxNcVh6UmRMaWoyZkMxY1dxc0F3SXNEZXNvSzE0emlJcEV6ZldpLUpKR2Q0S0RDeDdURERGMExWLUFoV256aTdUQzkzaktsYUhfaHlQN1d1TWQ3TFVnYUQtS1pyZkJTRkN6ejE4UDhTbmlrZTMtSFhwTGw2ajR2RVhoWlNqczVzdnkwSnk3WkdmWjNJYWQ5dDR3MFQzQkhCZFA3dU1GNDFnUzE4bzh3MXhVOHZoc1E?oc=5",
+            "published": "Fri, 02 Jan 2026 08:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 39.2,
+      "added_at": "2026-09-22T10:42:06.186435",
+      "first_seen_price": 532.0,
+      "first_seen_at": "2026-09-22T10:42:06.186435"
     }
   ]
 }
