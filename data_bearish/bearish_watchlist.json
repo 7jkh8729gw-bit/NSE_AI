@@ -199,21 +199,21 @@
       "symbol": "IRCTC",
       "base": {
         "symbol": "IRCTC",
-        "price": 464.75,
-        "day_change": -0.906183368869936,
-        "volume_ratio": 1.937378219158493,
-        "market_cap": 37180.0,
-        "pct_from_low": 3.9268423883808503,
-        "avg_volume": 645561.619047619,
-        "volume": 503614.0
+        "price": 464.6000061035156,
+        "day_change": -0.9381650099113805,
+        "volume_ratio": 1.723778935972628,
+        "market_cap": 37168.00048828125,
+        "pct_from_low": 3.8958256275792724,
+        "avg_volume": 647075.1904761905,
+        "volume": 535399.0
       },
       "technical": {
         "symbol": "IRCTC",
-        "close": 464.75,
-        "rsi": 41.11,
+        "close": 464.6000061035156,
+        "rsi": 41.02,
         "adx": 30.15,
         "atr": 8.4,
-        "volume_ratio": 0.8,
+        "volume_ratio": 0.85,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -262,7 +262,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Stock market crash: IRCTC, LG Electronics, Colgate among 145 stocks that hit 52-week low on NSE - Upstox",
+            "title": "Stock market crash: IRCTC, LG Electronics, Colgate among 145 stocks that hit 52-week low on NSE - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNREVNSDY4UDRDek5tTG5hWTcyUDFKVEhnZnlFZTY1RE8tZ2FPQWNDNkd1OXJpazRTWTlEcFJUYU5VYnZBZURJUkp3SmNLM2YwM25GWTdDN1lEUFFmdnFnY295b2s1SHhVbEtrS3V4YnhUZXktRjFCMmd2VzlMVDZBUGkzQ3EyX2wwWEVBZ295S2ZGTW9Ud2d6ZDdSNlZLdlhRc2JZR0x6X1FaRTVzM1NPd3V4OVlhazZIaEpXM24wenFydW1qYjAzTmZFWmFiNXgyMHhUaXFKQVZQa3BOYm1TRU8zeWlXdw?oc=5",
             "published": "Thu, 08 Jan 2026 08:00:00 GMT",
             "score": 0,
@@ -285,7 +285,7 @@
         ]
       },
       "combined_score": 46.6,
-      "added_at": "2026-09-23T11:46:13.025154",
+      "added_at": "2026-09-23T12:15:15.861229",
       "first_seen_price": 464.5,
       "first_seen_at": "2026-09-23T10:12:01.335951"
     },
@@ -293,21 +293,21 @@
       "symbol": "UPL",
       "base": {
         "symbol": "UPL",
-        "price": 554.3499755859375,
-        "day_change": -0.9912571148631663,
-        "volume_ratio": 2.3444184274280286,
-        "market_cap": 46858.32551222296,
-        "pct_from_low": 0.8207789290798649,
-        "avg_volume": 2097188.380952381,
-        "volume": 1979786.0
+        "price": 553.75,
+        "day_change": -1.0984147429710374,
+        "volume_ratio": 2.081959770223884,
+        "market_cap": 46807.610526125,
+        "pct_from_low": 0.7133204888544018,
+        "avg_volume": 2103573.095238095,
+        "volume": 2113865.0
       },
       "technical": {
         "symbol": "UPL",
-        "close": 554.3499755859375,
-        "rsi": 41.75,
+        "close": 553.75,
+        "rsi": 41.51,
         "adx": 11.31,
         "atr": 11.64,
-        "volume_ratio": 0.94,
+        "volume_ratio": 1.0,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -335,8 +335,8 @@
         "support_20d": 549.8
       },
       "news": {
-        "score": 55,
-        "label": "Neutral",
+        "score": 70,
+        "label": "Bullish",
         "headlines": [
           {
             "title": "UPL Ltd (NSE: UPL): Agrochemical Recovery Signals to Watch - Kalkine India",
@@ -360,14 +360,14 @@
             "label": "Neutral"
           },
           {
-            "title": "Stock Picks Today: TCS, Indian Hotels, PB Fintech, UPL And More On Brokerages' Radar - ndtvprofit.com",
+            "title": "Stock Picks Today: TCS, Indian Hotels, PB Fintech, UPL And More On Brokerages' Radar - NDTV Profit",
             "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcTk1ZzFZT0hJY2FjcXlrMTBWT25DS3VYNXJyQ3JlcXdRMjZSTDRsVkg4NkpLMHpnZVRqOVJNdkNtRWZoQ2hCTXM2V0dEVFJYcU1KYm1QRVhvT3Q5Q1ltYUZ6TmtOM19pcVlVUFJsRjkyZ3d1VWEzb1NnU2ltTkZ3LVktQTBlX01BSkdna3NpalA0WU9ROG9sMkllZU9TbmhxaEFPcU1BVV9iUHlNRmE4Zjh1QWp0bkZveEk1eEdZZ1nSAcgBQVVfeXFMUGlyNmYyYmZzVFlFNVJLYzJTRHBFMnQyTXgtUmNsVl9ud0x0b0FCc1NJM254TjVkN2c4ZjRfdGFhUURNcVVoWFpGOEtVMEV3eHpnOFV2eF9QbW9qVGhIalR3aGZ6UGswSHlvWlRVZjZZNmNNUzNCNTRmUkZrdFFSRGJiSy1KZnlBVENDQkFsZkRycGZ6UW5iRGc2SWFXTzZWODhkb2FIWkVnaHFoV0xCYnBVM2ZIdHRhSW9hR0EtSzgwUHliQ3pyckM?oc=5",
             "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-            "score": 0,
+            "score": 3,
             "label": "Neutral"
           },
           {
-            "title": "UPL Becomes First Indian Company to Secure Secondary GDR Listing on NSE International Exchange - global-agriculture.com",
+            "title": "UPL Becomes First Indian Company to Secure Secondary GDR Listing on NSE International Exchange - Global Agriculture",
             "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeEhqcXFpdjBpOGM0dWJoUzNST3RtQm1xVDFqdVZUUjF1d1ZVSm9vMW1sd203V1gxemhiaU1MRXFuUUxVTVpMdXFDUlJpWWQ3WmNKR1dmS3lSNHpqcUotVEh0eTBkSnJLeXlMMlVNRU0zVmRZTkE4N0pjU3JKOHAzZDdMd1hmaTJrdjNyVlpBVVhLWEdObGw0RWpobXBleE5kdDhndVpCdldYMnl1Zk5td0ZiWlU3SlY4ei1XTGxXMlAyMHJ3VWlRNFI5QVZhVEFvLWhhN0Nzak0xMC1PaXYw?oc=5",
             "published": "Tue, 17 Feb 2026 08:00:00 GMT",
             "score": 0,
@@ -375,8 +375,8 @@
           }
         ]
       },
-      "combined_score": 39.4,
-      "added_at": "2026-09-23T11:46:57.960429",
+      "combined_score": 36.4,
+      "added_at": "2026-09-23T12:16:02.281850",
       "first_seen_price": 554.9000244140625,
       "first_seen_at": "2026-09-23T10:43:07.611080"
     }
