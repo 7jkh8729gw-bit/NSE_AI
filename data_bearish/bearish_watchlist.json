@@ -1,307 +1,25 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "items": [
-    {
-      "symbol": "INFY",
-      "base": {
-        "symbol": "INFY",
-        "price": 1022.7999877929688,
-        "day_change": -1.5117970348609775,
-        "volume_ratio": 1.6124287333169336,
-        "market_cap": 414269.13427025295,
-        "pct_from_low": 3.949937804172506,
-        "avg_volume": 8457972.047619049,
-        "volume": 4218650.0
-      },
-      "technical": {
-        "symbol": "INFY",
-        "close": 1022.7999877929688,
-        "rsi": 34.13,
-        "adx": 17.96,
-        "atr": 27.89,
-        "volume_ratio": 0.5,
-        "ema_alignment_bearish": true,
-        "dema_alignment_bearish": true,
-        "death_cross": true,
-        "double_top": true,
-        "head_shoulders": false,
-        "rounding_top": false,
-        "bear_flag": false,
-        "ll_lh": true,
-        "near_breakdown": true,
-        "breakdown": false,
-        "macd_bearish": true,
-        "macd_cross_down": false,
-        "obv_distribution": true,
-        "patterns": [],
-        "setup": "DOUBLE TOP",
-        "score": 60,
-        "reasons": [
-          "EMA bearish alignment",
-          "DEMA bearish alignment",
-          "Death Cross",
-          "Lower High / Lower Low",
-          "Double Top",
-          "Near Breakdown",
-          "Weak RSI",
-          "MACD Bearish",
-          "OBV Distribution"
-        ],
-        "support_20d": 1019.2
-      },
-      "news": {
-        "score": 20,
-        "label": "Bearish",
-        "headlines": [
-          {
-            "title": "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - Univest",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zZmU3SmpYRTVHcTdlZFpiRzYzR0I4aUV5dnlnZTBxYUVrZTdnSmw0alFfWTZFX2hqMHlyWHpOOVR4Zk5PTFJ4a3VfOEVBN3U5R0xxcU1pZTNlTDgxM2x1MmJ0SUo3ZnBXRGJyTVFVYU9zUkZtV2o4?oc=5",
-            "published": "Sun, 23 Aug 2026 04:44:55 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "Infosys share price today: Stock falls around 4% after Q4 numbers; what\u2019s the outlook? Brokerages share r - The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQOG04dUhZUUlXMHllbjNmOG1RSkwyQ3o0VnlGTE85TXIwQVh4enV0UXZLVVI0cWRvZ0dVQl9hbmo5WFVNRDRxRXdNbE8tUmZlcC1ZUU1GOWdiN1FyaVBpRWpGcFB3Y21ndFp5aDlZNC13QkFVTjBHeFgtaW0ySGVxTlVJTi1IZ2dpNzNRVjlkanpiOWVXLTRrRy1jajFFWG81S1pzSUVCNzNxdDlZLUtFVlB5VDRTSFZORlNOSjc4bnE0eWlpV2VJLTdZYjZNN19yc0pTZ1B2RXZ5XzBMZnZ5UFhNeU1lVXJkaUNDMUgwS1BhMjRKazF0SUhqRjM3SmkwbEJ5ZGVzb3ZPaUNrU0VwSFVvNk90VnRUaHYzNNIBogJBVV95cUxPQVRIeGtjWkRMckRrQkVMcThZamhVV19CblM5VmhDaFFxa2JYc1l4NDFERTN4a01iYzhmek9RU3JVUXVKSDg5bjdYTWxLX0tEY0VpV1lRX0NOSTM3Q1F0YkNGVk1nSXR0RGlUa0xEMFMyVFBqVU1MOTh5b1phb2k0ZHZVWnlXcWQzM2VIYXo1X0FSYll5a01iV3BZTmp3VV9nOFhhQmtiSk14dFdhalA1SnU4T0NNVUVzNE8zajA3N0lwZmJsVnFIdjdoNDVYUWhCOUJ6QmkxWXZnZzRuWThwUkg4WFJIcDRxXzM2aXNEdUMyaHBUOG1YMnRNdW5EYkFUMXV6YWpGM1Ytdm1PZXFEb0dNVHlIUUtrVDlRdFMzQ2xrZw?oc=5",
-            "published": "Fri, 24 Apr 2026 07:00:00 GMT",
-            "score": -2,
-            "label": "Neutral"
-          },
-          {
-            "title": "Infosys shares down 5%, hit 52-week low: Why IT stock tumbled after Q4 results - India Today",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ3AyNjZzVlBPSHFkanU3bndmdXFMWjVFVVBjUm1NYnZva1NlNGtYWTEyYXhubmlfUnpMd3lNalZwM0JUd09NUVFpbHJvYTlNcWw4SFpRVTJ6TFlFb1h6Z0dmWFo3Zi05OFJrTG1tbjc5cWNOQmNzRkJjekdpeGp6WjA3cEQtVFFsdklhN3VQVUlSbVVpS0YwUk9HcmJ4LXJVQ3JpNTAtYy1ZZEJ4VzdJelMzc1l6STZ4ZERjOWZTX1RNclU1aTZvQmlhT0g5OTVVSnk2d2V4SdIB3AFBVV95cUxNc0p5alZFdEhpU0FkUllrLU5VU2c5MC1Idi1RdUNhV2sxYmwxeks5LXQxZDFLUHVXNkpqOHNPV1hCUDVya3hyMVJrQ0lrLTk4QnZYSTRqcElNOExJdmRLeTNGSVBLWTJrRlMtTnJJNUpWcTJ5THc4dVhCN01pT0ZCTER2NzZRTHNIVzZhQWNMSERlaXhHbER4Q0FNRGcwM3ZoQkxUV2wwbnRnamtjSVFzYmpUalZPMHF3cEFzdm1PTlpua0daUHN6d0Uwa0p5YzlYXzU5Q0VuUjR2d2d2?oc=5",
-            "published": "Fri, 24 Apr 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "IT stocks drag Nifty despite firm broader market; Infosys, TCS, HCL Tech fall as Fed signals rate hike... - Moneycontrol.com",
-            "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMExtR1loaFhUdWwtSkY0MHVGcWlzQ1JucXJuZ3R2bURNaTl4VXEtZV9Ud2hJVW85ZHVlcmpDS1RKSFJDNUcxV2FNWUJvX25hZm0xeXF2RXhfZUZkNkNhMmNHdXV5bzVSNnlBNVI4SXJlc0FaODg3N1NvWC1mb1Y0aUlCVEU1SHQzeDJ6TEhackhkRFhGV3RkTVdQY3BOYVVYWnBGWHNta0dwWXdsNGhoWTJIc1ppa1JQV2RDMktWR1czaDdQdDZGR1J6TUFleV9jRVNLNU4xYTFMZC1KWlVoSllpRUNVTXhRdXhqclNmb3BoVExDVWVYa2Y1QnlNQdIBgwJBVV95cUxQWXZQbkctbFN3SU5aMF96ZTYzZkdEcENvZDRxdFZhbGNWUXByY2VjU05oZEhnM3BDV2EzRDFiYThja3RLTDc2WTRCOVM0Um53SDVuakVWQmxscTZsMGpWYUVBWko2VWpLWG9yS0RFd1FqOGZsckpUZkptVFh2dnN3NU9VSUh3QVlSTDJIb2RQbmZkbzg5WDhJd0RVLVBCQnBWN0xLcXRsZTRlNm5CWkNURUo4SlB4dnFoUktGTnZEXzFDV0cwV3ZRT3pXUm5wb2gyMzFsaWJJOGhaVlhQM2lVa281QXFYamRGRlBQc2U5bmRIaGkwVENjRkNicmFCR3NrOUlJ?oc=5",
-            "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-            "score": -2,
-            "label": "Neutral"
-          },
-          {
-            "title": "IT stocks fall: TCS, Infosys, Mphasis, others drag Nifty IT down 2%; check key factors behind today's drop - Upstox",
-            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMkp1SzRrXzl5VXVtZUVEaFY2Y0FrZWYyTDJuc3lQNXBSQWg2eVBxbGpPbVA1VlFmdGxSUmY4cnkyZDEwNmJSUkxGbUVwMlhIMDZlbmNmN2Itc2hyVjhxQ3VtNDI4Wlp2Vk9kRzVONl81WU5qd20wQmFGSFg0U2dZNzBfZjlBRG5pMFVvNzJGUGJGdmpiSE5kczRyZE1Wd2xnZWxQaVhCRXZJZWlNRVBCaUl4YVhlQmI0ZGN4Y3dmNXZNaWdlSmQ3ckJXNXFNUndYeWRJbWl6cGhtczh5S3VoSTNHam5Ccno0c2VlUXNuU2g?oc=5",
-            "published": "Sun, 16 Aug 2026 07:00:00 GMT",
-            "score": -2,
-            "label": "Neutral"
-          }
-        ]
-      },
-      "combined_score": 64.0,
-      "added_at": "2026-09-22T11:11:26.104563",
-      "first_seen_price": 1029.5999755859375,
-      "first_seen_at": "2026-09-22T09:42:56.746644"
-    },
-    {
-      "symbol": "WIPRO",
-      "base": {
-        "symbol": "WIPRO",
-        "price": 163.69000244140625,
-        "day_change": -0.52263785743052,
-        "volume_ratio": 1.5633732395780173,
-        "market_cap": 161944.08900035426,
-        "pct_from_low": 0.2932346022237245,
-        "avg_volume": 9685813.523809524,
-        "volume": 4724473.0
-      },
-      "technical": {
-        "symbol": "WIPRO",
-        "close": 163.69000244140625,
-        "rsi": 31.15,
-        "adx": 17.57,
-        "atr": 3.59,
-        "volume_ratio": 0.49,
-        "ema_alignment_bearish": true,
-        "dema_alignment_bearish": true,
-        "death_cross": true,
-        "double_top": true,
-        "head_shoulders": true,
-        "rounding_top": false,
-        "bear_flag": false,
-        "ll_lh": true,
-        "near_breakdown": true,
-        "breakdown": false,
-        "macd_bearish": true,
-        "macd_cross_down": false,
-        "obv_distribution": false,
-        "patterns": [
-          "Evening Star"
-        ],
-        "setup": "HEAD & SHOULDERS",
-        "score": 65,
-        "reasons": [
-          "EMA bearish alignment",
-          "DEMA bearish alignment",
-          "Death Cross",
-          "Lower High / Lower Low",
-          "Double Top",
-          "Head & Shoulders",
-          "Near Breakdown",
-          "Evening Star",
-          "MACD Bearish"
-        ],
-        "support_20d": 163.21
-      },
-      "news": {
-        "score": 50,
-        "label": "Neutral",
-        "headlines": [
-          {
-            "title": "Wipro Share Price - Upstox",
-            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KdElZR3B2X3pjUm1GemQyR3d5VktiaGR0OUVqYkgtMEtmS25BbGhDMS01MTg5d2hCQ3pLLVZjR3hLMlVPTXRuVkdhMDBtenZUUGFlb2VjbC1uQkFa?oc=5",
-            "published": "Sat, 19 Sep 2026 22:16:37 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "BSE to replace Wipro in India's benchmark Nifty 50 index - Reuters",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeGhIN19pS1ZwOUhZbGZZcVV1LW5DaGxLcHEtdHpGVk9qVGdqaEx5NG9Xbm5XWkN4M0c3NmRJS2xkVUhsTmppMlZSeFVtV3pPbnVTdU8xNVZxSC1sUTVHSnhQdE9LQzhOLXhCOHdWTXVhcjJUNE96V2hqeGMya2pQblNIQTEtUEhUSllQUWRuYThadnFqNTBuVUdham9PQQ?oc=5",
-            "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "NSE indices rejig: Vodafone Idea, Wipro part of major changes in Nifty Next 50 and Nifty 100. Check full l - The Economic Times",
-            "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbE5OX0J4cnJpdUs3cXFiaDhWNzg2c3dsRHgwUC1yeU81VldLNGFnb0VEUWE1YUEtZmNIam5GcThyWnc3cS1ITDdVY3NoNWRlRGdYMmVlX2Q4eDgydmQtZzFpenZYcHhlcGZwRXBmbm5IeTdnU3ExYlg5OFdTSVlRUGNOZ082UTJRNGx0bzlFS0hPdElFNmpuRElrQ0RnUkxqOTREMkN5OEFscUJNQ3A2MFltMXU4WmNlOWxVQnByQTJZNURQSl9kRkEyU19FVmNzSXlTMVZQbVd1OUc1UUFrTHNlal9wY19id0YwQTk3STNmbnF1aE1HTDJySzY0Sll2c1c5WEtBTkg3NjBo0gGSAkFVX3lxTE84UVBvSEdjQ0xaVW5nOVF2RF96ck9lX2w0MUlfWjNYQ2RqVjRXYUxYWjRORW02MTFhRGdmWGVwWGtBRVUtaWlWTGRhdlZTSmtLRnBIb2xGbk1VRTQ0dUdiQTJBUkkxUV9NQ1ZBcUZ2RnJQdi16dGtORHpTWFFEakVOSGp3LThUR0Nya3RUOHBfd0FHRXFJN3dHaGNWbmF0bmp5N3hncFJKNF9tR1M2UW93M2tTQUZxb090X0VLVzJPUE5rcVYwd3Q1TXJzd0ZPcWdxSG9JeFQwTnFud0J4UXppemFqY1NrTU9YeUdZUkwwb1I1VU00Nlg0UER4MXJrTXhCTDBNTlRJLXA0a2MwYXpPaFE?oc=5",
-            "published": "Mon, 10 Aug 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "Wipro Ltd up for five straight sessions - Business Standard",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU0NKLWtxZTZYUXpYUkZzMXBxU3JDLUgyYkVjeWppazBMOWlXQWN4VUJqd2NiSVotZzBZRlhUSnJIajNlMGs4RU04ZldXVVZIWGNYemFRVlkweXplcXlzcENVem1mcnpWT0huc0ZGVklTUjhvazhBaC1RcHVGRVlVTjFmNmg4ZlBRYkxoTGxDOUhhbjF4bV95VjN4X2VJRElQSnFBS0REMTAwU0J1Y2ZzZUJidk1adUl1WlFrSW930gHDAUFVX3lxTE9ta2dvV1ZpdkVNXzlIQXlXakpSMmtnS3R1aDBaRGdWWEhId1E0VHpKLXVocU4yS1lpWEREUnBhV1NWeC1adjJuZVh5d0hrMlh0V1dkdDk2R0pFSTlLVVUxM3BRaXhKaWpRUHdiLXB0RFZWTHZNcTJpcjQwN1gta004dm93Z29lXzUtZ1h6WWU3emJQSTd6NHhOaW8tU2taLUlQX1dJa3NPazAzMUpGVjlqcFE1WmEzcm9CNkJQaElvekxTTQ?oc=5",
-            "published": "Wed, 20 May 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "Wipro Share Price Today: Wipro (NSE:WIPRO) Gains 2.28% - Kalkine India",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGpRQ1dZVlo1d0VRMTBfRVFXNC1oVm1PVHNiVTA3RU9jbWlCQ2tlcDY2dUFGWXZ2akpNYkZnM1I3blZfalJNU2FHQUhRTjJDcDV4V0lWcEhMWEQtT2E2TUlsTGxEVUQwYWZFX3FGd3h3UkZhZEVuNGhmaG9YVFJVckZNRjdjX1pp?oc=5",
-            "published": "Tue, 19 May 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          }
-        ]
-      },
-      "combined_score": 62.0,
-      "added_at": "2026-09-22T11:12:27.442419",
-      "first_seen_price": 163.3000030517578,
-      "first_seen_at": "2026-09-22T10:42:52.668942"
-    },
-    {
-      "symbol": "KPITTECH",
-      "base": {
-        "symbol": "KPITTECH",
-        "price": 529.75,
-        "day_change": -1.3133360568718504,
-        "volume_ratio": 1.5632101049395204,
-        "market_cap": 14421.236926525,
-        "pct_from_low": 1.0854176498348278,
-        "avg_volume": 1540449.5714285714,
-        "volume": 744889.0
-      },
-      "technical": {
-        "symbol": "KPITTECH",
-        "close": 529.75,
-        "rsi": 30.53,
-        "adx": 17.82,
-        "atr": 15.42,
-        "volume_ratio": 0.48,
-        "ema_alignment_bearish": true,
-        "dema_alignment_bearish": true,
-        "death_cross": true,
-        "double_top": false,
-        "head_shoulders": false,
-        "rounding_top": false,
-        "bear_flag": false,
-        "ll_lh": true,
-        "near_breakdown": true,
-        "breakdown": false,
-        "macd_bearish": true,
-        "macd_cross_down": false,
-        "obv_distribution": true,
-        "patterns": [],
-        "setup": "DEATH CROSS",
-        "score": 44,
-        "reasons": [
-          "EMA bearish alignment",
-          "DEMA bearish alignment",
-          "Death Cross",
-          "Lower High / Lower Low",
-          "Near Breakdown",
-          "MACD Bearish",
-          "OBV Distribution"
-        ],
-        "support_20d": 524.0
-      },
-      "news": {
-        "score": 60,
-        "label": "Neutral",
-        "headlines": [
-          {
-            "title": "Stocks to watch, July 1: RIL, Nestle India, Paras Defence, KPIT Tech, HUL, Kotak Bank, Unimech Aerospace - Upstox",
-            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMVBXQnpKLVFYSUNhekg1WHhfeWpzek1KVEJtQ3pzSFRvVEtqNkJjX3QyREFfWG8wbWl1ZHN4VnpFb0dIdldyOURDU3dvSUE3b1VTTWpFTFU2Zkd1bkFZcHI1b0pYSWFUaXV5bjNlMTVndG5pVVBzckVvZGdVakFxZVdxT253emdNTzNkdnpDcDA2b1J2VU1zb3lWbV85cWN2c0JEeVVUc0l4U1Y0U0JXMndYSjhJYmsxN09qTE5HdEVHTW1yc29qMlhjVHhCN012aVVIYkVQeXBEOW40dTNDU2VkQ2FKWV9YSmpPMkZCVWU?oc=5",
-            "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "KPIT Tech cracks 15% on Q1 earnings warning; stock down 57% from 52-wk high - Business Standard",
-            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZzBUVTZtYjR1NXdmUTJYNVpBcWRzbFpOWWxEWmpOSFotSUhXa3g3S252MUE5RmxybHNqMWFYYk9sUkc1cXpBeFctd2FvTk1jTHhiV2J3VUlZOHdEQ1VObWxMLXR3eTZ2WWx5bFAxNkE4WWtYYnJrcHNPZC1BTlhOdzFRZmtoTHdDWjNMVFRfcnVZVnhIZFV6WFlweTZQeXMxZHEwMGRkRHNkY28wLTg2bEZFdHR0c2gxbTB2cDlTdzNyLVJ1SGtSbnFUZkVneF9ydEJ4dlJZY2xiMkFxc2N0OWliaE5zZXR10gHuAUFVX3lxTFBlUDk1SENJQW1RY21zdHlQWEx1M2YzSndNdFA5dF9xTFk5UjVrdGJtb0NpczljdlNiend1UjBYc0tGcGlFWDFzQ1VsVk9ER1lCZXUwZU1EUG12VEV1RVZEdjVLZjFtSEZKZGowZFMzQ2k4R1dvWFdFVFRES3N0UlZzOTBtYjdfNmxEcGxBR0JxSVNaZlgyMXNRNDFKWG1ZZjVyVzd3ZHQtMnVUU1k4eXdvQkhRcFZQUlFQSnhCeXRnM00wVDJWMUNxczNqV2dPM0VZaEd4OXRqbkZYTGtrM3hLQXJmN01Udko0dmMxZ0E?oc=5",
-            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-            "score": -1,
-            "label": "Neutral"
-          },
-          {
-            "title": "Stocks to Watch Today: Kotak Bank, KPIT Tech, Waterways Leisure, Advit Jewels, Genus Power, Ivalue Info,... - Moneycontrol.com",
-            "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQT2tCc3RSR2hhaGx2c1VoQWNlNVlqenloZXhMRnFsc0J4S3RGeW83QktCbnhtMXdLWU5YZ1hxZ0kxNmxkWEJQTmF0VE8xVm9mcUFnTm5CYXFjRWNpaXRKSnc2NURVSHU1ZGV4MElsX0dpMS0yb3dIWElqbDhjbm5zbkg4YVk0TENTWllvQlRhVVdISS1QYmFETFZQVnl6TzRQT2t6Y2dwcFVvV0g5MlJCYkU3YWFEb0JwU0FjMUgtMGtGX09mZDl2cnF3UWNmdkp3QWJEbzhNb3JPS213MmtYcW9Jd052d2w2ZWJFNVBoRG1ud1MxdDRuenVxYTluNjU0Rk5wZ2IzUGlwTTUtNkFsWHQtejVlM1BjTzlyYUsxcVBuekZYZkJnLW1DN2Uyc2N6VGfSAbcCQVVfeXFMT2t0WVdxa1YxVGVjVS1tS3drMzN1MWJkajFZN2JuWEQteTFfckd6dDRHUFBjdFE1WGZEY3cwcm5XbWY2MC1Fbmd5VTZaZzJCLWJaSWVVZTBNWXN2TDdQWHdzNWJ2eWVYakFhcUxDQ3ZiQjdibUVrdUVScF9zeGJneFZNNzRqdEU0eGhCa2dKVGttT3lMc3JLd2xydnJzQnp0N3pjVmRtT2JHV3NiUjhyQnZvSlJ0RWdLN2t5QzNtN3ZoQlNhNXZNY2Q2WHhKTDJxLVZvQ0lTM2pYaXUzNzZYbW9ZdW94SXRLdzR0NzlLTDVSeTFURER6aFE1UVJmZ3hleHNUNTR3Rkl3ei11eUZDb19DWFkyc1dWTVZ3Z3EwY3lKZDlfZUxqOFpGT2lnQmt3Wnh0RXVPY0k?oc=5",
-            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "KPIT Tech share price crashes 15% on weaker Q1 business update. Buy or sell? - livemint.com",
-            "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONUxScGZIaUszckZnMGNrNVhqcU1DdmdjTlozTTVNUGRjZ2xuWU4yc1E3Z3RTeHNVMVNHVkQzSGZqQXZaMTc2RHM1a0lWTmNhNDVHRkNzMFZEZkM2V2lqOFBKRm1OMllJYl9ZWldWcmFzTHJzQ1FxMTItYW1VM3c0SGktNXFtWnlOVXc1T1NITUQ0eXA0Z2RoWUlBVnRoZ284SndnLTJEcHdLRlYwWkQ1TlloMkRrZUtoaDV5aXVYdXI0YTctbDNxOURQaXdBekpqcllmRG1sZFVqLU11SzRld3lrUzNDLUM2SUNqbzBrYllKR1XSAfgBQVVfeXFMTTFYanM4aTRHcmMxSGFNVWlOS3V5WGcxOUotcG5rYm1scGc4N0F2RFduaHNJYnZXdVIxM2hqX1BOdkJGZkhKdE9GSnRINjhuTDNMbjVuRVpzUWI1cVpQZTdueWtYdXlueTRsdjZIOFJpYzBITlJzZmJOVFhPYkYtOHk2NU1jQnJWQzhFcHQwVFNSWmwxTGxabEpnS3dCWlo2eUxuaVVCQWd2ZFE0eFhrR2dSc2JiUVNzQ1NrRkp3RDlyMldWUThrTzZsYW4xYVZLMGVHNFlwc2NaQnlUVmVZcnhXN3k0WUZsZ0pRWW1zbE5NZ3JEMXZlLUU?oc=5",
-            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
-            "score": 2,
-            "label": "Neutral"
-          },
-          {
-            "title": "KPIT Technologies Limited's (NSE:KPITTECH) Stock Has Been Sliding But Fundamentals Look Strong: Is The Market Wrong? - simplywall.st",
-            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLWtocFV5a3gzOUpYSmJtb1UxbWFmYjVoZ19yQXFqajdQWVJrTldvN0NGVkJLeVJZOGItd2dWazJ0MVNOVHdVUWpEWFpBSVAya0ZTZWVZbmUweTdUWWZ3NGxSS1lxTkVFaV9OX2JQbm9HQ3VUclk2N01HYndEd2U4RlVrMkppQmhid3BBcEVzVDlWcXBjUmVBT0J1clo4Rjh1bDQ3cDh2YTQyYWFybDdYVU9yamNFdGFBODFGY1F3c1NfYzhwRlZjd0NXVUUwMjdZYU54T2w1MlFLM1d10gHiAUFVX3lxTFBXZ2tEenUxM1R6eHNEZFV5V0ZXb0lPUWZ2MnN4bzd0RzYxekNJRlZRQTlFRGxNcVh6UmRMaWoyZkMxY1dxc0F3SXNEZXNvSzE0emlJcEV6ZldpLUpKR2Q0S0RDeDdURERGMExWLUFoV256aTdUQzkzaktsYUhfaHlQN1d1TWQ3TFVnYUQtS1pyZkJTRkN6ejE4UDhTbmlrZTMtSFhwTGw2ajR2RVhoWlNqczVzdnkwSnk3WkdmWjNJYWQ5dDR3MFQzQkhCZFA3dU1GNDFnUzE4bzh3MXhVOHZoc1E?oc=5",
-            "published": "Fri, 02 Jan 2026 08:00:00 GMT",
-            "score": 1,
-            "label": "Neutral"
-          }
-        ]
-      },
-      "combined_score": 43.2,
-      "added_at": "2026-09-22T11:11:33.912155",
-      "first_seen_price": 532.0,
-      "first_seen_at": "2026-09-22T10:42:06.186435"
-    },
     {
       "symbol": "VOLTAS",
       "base": {
         "symbol": "VOLTAS",
-        "price": 1101.0,
-        "day_change": -3.5986320343673737,
-        "volume_ratio": 1.5933382151013766,
-        "market_cap": 36430.409874,
-        "pct_from_low": 0.07266565196412351,
-        "avg_volume": 696266.2380952381,
-        "volume": 1056137.0
+        "price": 1100.800048828125,
+        "day_change": -3.6161393608842505,
+        "volume_ratio": 1.5631994701036787,
+        "market_cap": 36423.79379484814,
+        "pct_from_low": 0.07267885107533427,
+        "avg_volume": 697926.2857142857,
+        "volume": 1090998.0
       },
       "technical": {
         "symbol": "VOLTAS",
-        "close": 1101.0,
-        "rsi": 32.32,
+        "close": 1100.800048828125,
+        "rsi": 32.29,
         "adx": 34.45,
-        "atr": 29.48,
-        "volume_ratio": 1.48,
+        "atr": 29.5,
+        "volume_ratio": 1.52,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -319,7 +37,7 @@
           "Bearish Engulfing"
         ],
         "setup": "DEATH CROSS + BREAKDOWN",
-        "score": 88,
+        "score": 93,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -333,14 +51,22 @@
           "Weak RSI",
           "MACD Bearish Crossover",
           "ADX Trend Strength",
+          "Volume Expansion",
           "OBV Distribution"
         ],
-        "support_20d": 1100.2
+        "support_20d": 1100.0
       },
       "news": {
         "score": 55,
         "label": "Neutral",
         "headlines": [
+          {
+            "title": "Voltas VOLTAS Physical Share Transfer Window 2026 - Kalkine India",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON2thT1gzQ2FfWDNNUS00YnpNSV9TRmpyZDAyTkNlXzJYMDJBWkFEZ0F5QWxTV1FRYkkzeDVZNzVXVTJIc1FBNUdtY0NSQzFFUktNU1pBN3hiTnR6ekJKVl9ScWFxUnExelFKREJmVEp4cWVTMVREVGpKaVFCLW1rbVRCejV2WXJjS0N6WnUwS0t4QVhOOUxxWThKVGdfeHg5R2Nwb2R2TkdIYm5LS25sTi1Xa3VQc3JORUM5MnYtZDY?oc=5",
+            "published": "Mon, 21 Sep 2026 10:45:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
           {
             "title": "3 Fundamentally Strong Consumer Electronics Stocks in India - Univest",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80eUNyVVk0ZmdxM241d05EU3c0bXBlRUFoS1EyV1VsREZxb0p1Ql9UbkV6dnZPY1BkMmNXcVhDbTg5S0JTT1dXRXlpbmMtbk9Oc2lqRTNaOHRZdWFGNVY5WHVzN0daMnpNQmVoYw?oc=5",
@@ -368,209 +94,13 @@
             "published": "Mon, 22 Jun 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
-          },
-          {
-            "title": "PG Electroplast, Titan, Voltas: Consumer Durables index up over 5% in 30 days; what does it mean? - Upstox",
-            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTmxYd2l6X2YzTDF3LTNoOERvcGdIVDdNRDBJTXMwRk9GMlQtSnRaQ0Fmazl4cHdJYkxsa3M1amhjVVU1TFZRcGdwTHRVT2luYXJidW1YcFdHQ09mZnhZc3U4d0xMSmlIcVloYU9RZHFZQzFSLVBtSXVCZ3pBblhSbGFzbWJlSEFfbndaMmxFZ0ROV3BCaFV0cjU3eFRCTlVKM01QOG1pb0x2X0VEbm9GcjBkMVRQUDgxX1hFUzRFVEpPQmJ3TTJRd0gxTU9XUUZhd3JvUDFSdHhPM3ZnTEFkRTBUeDQ1MTVWc3R2LUVmZTQ?oc=5",
-            "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 79.4,
-      "added_at": "2026-09-22T15:12:34.493604",
-      "first_seen_price": 1113.5999755859375,
-      "first_seen_at": "2026-09-22T11:12:25.292483"
-    },
-    {
-      "symbol": "GUJENERGY",
-      "base": {
-        "symbol": "GUJENERGY",
-        "price": 231.6199951171875,
-        "day_change": -2.823583307736638,
-        "volume_ratio": 1.5055268581146848,
-        "market_cap": 21731.30246641747,
-        "pct_from_low": 0.25904104022754976,
-        "avg_volume": 1733069.380952381,
-        "volume": 1043673.0
-      },
-      "technical": {
-        "symbol": "GUJENERGY",
-        "close": 231.6199951171875,
-        "rsi": 29.76,
-        "adx": 26.57,
-        "atr": 8.46,
-        "volume_ratio": 0.59,
-        "ema_alignment_bearish": true,
-        "dema_alignment_bearish": true,
-        "death_cross": true,
-        "double_top": true,
-        "head_shoulders": false,
-        "rounding_top": false,
-        "bear_flag": false,
-        "ll_lh": true,
-        "near_breakdown": true,
-        "breakdown": false,
-        "macd_bearish": true,
-        "macd_cross_down": false,
-        "obv_distribution": false,
-        "patterns": [],
-        "setup": "DOUBLE TOP",
-        "score": 52,
-        "reasons": [
-          "EMA bearish alignment",
-          "DEMA bearish alignment",
-          "Death Cross",
-          "Lower High / Lower Low",
-          "Double Top",
-          "Near Breakdown",
-          "MACD Bearish",
-          "ADX Trend Strength"
-        ],
-        "support_20d": 231.02
-      },
-      "news": {
-        "score": 60,
-        "label": "Neutral",
-        "headlines": [
-          {
-            "title": "Gujarat Energy (NSE:GUJENERGY) Could Be A Buy For Its Upcoming Dividend - simplywall.st",
-            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRWk0N0hFZDdQODh5UUJIZ1BJTWs4TkFEbk5jYU5McUtWS2hMNl9UcG5zbU9XMnp1LUxQdkRmZU5SaEtpSTBqU0JxQWZUeU52ZUhoTFdVUGhyVHluZWFDZnZDT0w3YnZ2VUN5eEk2N1FfLUhsV2F4a3JTVEdDRERZMXhFeVZ0LU9ZVFBDWkhDeEx4a0dkTlZqOVE5MVpvWkpoVkpPMHFsdzk1WUJoNFk0NmhzV3BwVTk5N3hmMVZrNmxnQTM1dXVHUUdETGJSNTZqRThGODRDQlFFd9IB3wFBVV95cUxOMTgtektad0VZek9PZnRoWHVFLTZIMVAxYWw1bFh5NEM3OWFYaVNwYk9NQnctSVN2QUVzczBfMmJ0QXplSm5yc0czYy1sMmphN0lMck1va05zRHhWRVJoZUdHN1FUbkpSYVRyTF9VeVpueHRFZFd5ay00Wk50R0JVWVBWRk1nbXZVUWxwcGZRbDFoMUc3VUdLakVmSXh5ZUJsOXFUZGpDNkVaNEMwSVlXWkx4dDlHOGdjNE9TVkVzZEREZGZrbWltSVRDOHAwclFCVUEtRUZ6RUw2enl4OHJN?oc=5",
-            "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-            "score": 2,
-            "label": "Neutral"
-          },
-          {
-            "title": "Gujarat Energy Ltd (GUJENERGY): A Restructured Gas Major Explained - Kalkine India",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU0lOOS1SYlloSzA5QWZtQ3N0NUhIcW5VN3A0WlhrUy1nODBLZlZZd1A0R2RWSjdhdU1GVVZvT3Z6UHlPYW90WmR0djZuZEJkTWFESERQaU9ZZm5rUWJTNTR0QURPRkRjU2FmcTdFWDhWUl96VmVJRThRMFhGRVBxbmJIRVZhemtNOHBYOEtOVUFwLWlKeFR1N09hYndZVkVJbVU5N0dLSXVKakh1OUJYWVh1WXF6SUdBVGhvVzRWcnMxUmpkTFhfX196eVQ4OENjcDFNUW5Ocw?oc=5",
-            "published": "Mon, 14 Sep 2026 08:49:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "Technical Analysis of Gujarat Energy Ltd (NSE:GUJENERGY) - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YSVE0bUxYaE01c1ZSbDh5cUY4VTFQWEpqWF90ZE95Njl1M2pRRnVwY1k2Znh1RkZRa2Q2NVQ2b3BmNnZaN3VIQXl2clhHeEc0SnlMTUNjY3Q4SXFlXzZKT2luaVZ6VlNzLXJ5ZW9B?oc=5",
-            "published": "Sat, 04 Jul 2026 23:14:31 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "Gujarat Gas Limited changes name to Gujarat Energy Limited - scanx.trade",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGplTjBhX3RhaFNkNlNuOFRnZWhGYjJNbjBKaWJrNllTeGgzbHBDS3d0ZEswdW9NamlXTDV4dGYzWTJQa2trVTNlYktHekRQcVUwWjhScTJCUkRhRFU3bjkwNVlabzM0M2NfWjNBUTR3bFNnZG1BT1J5Z09HZkVDZFZ0a1BKTTFud3U5WFl5NzhMeGZ1aVdhTFNCM1JJS2FMS3p6SDVTYVFmVjJjUW1ERnJzRmI5UQ?oc=5",
-            "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "Gujarat Energy Ltd Stock Price: Gujarat Gas Share Price Today - indiainfoline.com",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aUHVwQVpfanNLeExoVGRNNmZWNzNZRHlUcUdVc2RCY2tiVEVfTU9ULU5lYjN2ZVlUSHZJTDBrSXB3QzBKQnNyZm9HWkhBYlJjSHlMdnJCdEdDVXVHel9lUzBna0dvOFdtYVg1UHhKOFkxeDRIYUJJ?oc=5",
-            "published": "Tue, 07 Jul 2026 02:18:27 GMT",
-            "score": 0,
-            "label": "Neutral"
-          }
-        ]
-      },
-      "combined_score": 49.6,
-      "added_at": "2026-09-22T11:45:37.335955",
-      "first_seen_price": 231.3300018310547,
-      "first_seen_at": "2026-09-22T11:11:18.579420"
-    },
-    {
-      "symbol": "KEC",
-      "base": {
-        "symbol": "KEC",
-        "price": 394.0,
-        "day_change": -2.3423006372799304,
-        "volume_ratio": 1.603679856979879,
-        "market_cap": 10488.28,
-        "pct_from_low": 1.230966016120717,
-        "avg_volume": 1017781.4761904762,
-        "volume": 900972.0
-      },
-      "technical": {
-        "symbol": "KEC",
-        "close": 394.0,
-        "rsi": 35.11,
-        "adx": 43.03,
-        "atr": 12.47,
-        "volume_ratio": 0.87,
-        "ema_alignment_bearish": true,
-        "dema_alignment_bearish": true,
-        "death_cross": true,
-        "double_top": false,
-        "head_shoulders": false,
-        "rounding_top": false,
-        "bear_flag": false,
-        "ll_lh": false,
-        "near_breakdown": true,
-        "breakdown": false,
-        "macd_bearish": false,
-        "macd_cross_down": false,
-        "obv_distribution": false,
-        "patterns": [
-          "Bearish Engulfing",
-          "Evening Star"
-        ],
-        "setup": "DEATH CROSS",
-        "score": 48,
-        "reasons": [
-          "EMA bearish alignment",
-          "DEMA bearish alignment",
-          "Death Cross",
-          "Near Breakdown",
-          "Bearish Engulfing",
-          "Evening Star",
-          "Weak RSI",
-          "ADX Trend Strength"
-        ],
-        "support_20d": 389.15
-      },
-      "news": {
-        "score": 55,
-        "label": "Neutral",
-        "headlines": [
-          {
-            "title": "3 Fundamentally Strong Power Infrastructure Stocks in India (2026) - Univest",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHZFZmtnY0M4MVdaVGxGbW1kNy01d0JmM0Rtd1NRNUlGSjRveEJWZVQ3ZHVfU1ptWUgzS2pGZ0JuRDhKMW8ycUJjMXd3M2J4NFRPNkV4c0RsR3RHaGVxQ191dDFUX1hLVmN1aWpKZEZDaWwxdjFnVDBNMFVkaHN6OTEyLS13dw?oc=5",
-            "published": "Thu, 20 Aug 2026 07:00:00 GMT",
-            "score": 1,
-            "label": "Neutral"
-          },
-          {
-            "title": "KEC International shares rise nearly 7% on bagging orders worth \u20b91,754 crore - Upstox",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeDNtTzhXbEliQndreGs5NkVDa3dtQnBHay1hbmhqdjdYM2M0b1JLeGlfaGFGWVFpdHdCX2h6cEstOVVWdVRHWm8tUGhFOW5KZ1N1dzlvdGZtMEQtTzMzTmI0M1lxaVVQQXBtNDBhZDJnNlI0S3lhVnhjVjJWbDJnTVBkSVA4VnFYOWNITXIwZDNkWU1vZkQzYlVDS2NxQ05teERieW11VEEyMlRSVTgwNHJWenhqSXluSzN5OFkxdGtuRm02ZTBSaXdjbU0yQQ?oc=5",
-            "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "Volumes jump at KEC International Ltd counter - Business Standard",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVUJUXzFlWUNkQzFOTWI5cF9KQUZ0YTA4Nng0aERMSHltYVJBU3dPS3pjZ01mV2I4Q1hGWFM5dk9oV05XTFdzek9mM0hHYmNxdUhMczJ3d3h1RkRjbXhQei00SndiYlF5NnJ3UW9KQzB4bTVtbllkaDJpSHFReG0wbDhSblhWeFllaUhRMm16RUs3aFIzZTBBVXhjempBYTRhQ3lDdkZZVTRNRkF2ZUxUaVNWRDRrWXo1MnBkQUV1SWViSHVrU3fSAcsBQVVfeXFMTl9XNGFkWkIwMW9GSU9BNnBlV25UVFR6Z2Y5SXBoZXRzMjM3WHZvQTJoYjVtZUNNQXREMk9mbzdZeUZ5OHdkelZKVksxdmtPMDV5cnB5R0o1a1Brd1JBdnd6MS1UWmd0SkQ0TDBQRGZSTEMzV0d4eHBZMEI4SGRKVUNXWlVzb2NKZER0bTBtZUtqLXNtbnZFeWhoc3dIZml3Y2FfOGI1OGY2RW5VYU1fM3EtUHRJS1pLRE9nY29TZjhYMXRmQ3JWQkV0bEE?oc=5",
-            "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "Stocks to Watch Today: Info Edge, KEC International, RITES, NHPC, NTPC, NPST, Poonawalla Fincorp, Uflex,... - Moneycontrol.com",
-            "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNSm44aDFqUXU1QmgzeVpWbE1Ud3Bqbks0UlZIbzZ6dk5zTXp6RElTTlZrVEZkMnMwN3dtOXJENGhHdWlGV0J4RHpQMUo0QTZhYkxBbFpPMlVKT1J1RXYtWEp5Q3RwNzNpYUdPYWFObXZCOVdsVnRQWlVRTFlmTWY4a1VxX0tuQnprZkpLeVRWVU1ldGc3VUVodjB1N3JnSmluSGxGZnlnMjM1NFlJaTNSZk5oZllkUmtPLTc4UUJfM2oxRk9XZTNkRGc2S2k1YkREYy0tNE8xVGkteHFlREhWbTVndmZvdkg3S1NPNGhHRk1wRGtDWTVqVnlnUWxaZU0xdUh4SEM2cy1OcXFlT09hNjdLcnVRemluYVBpX2N4YUpPYm5aMkHSAasCQVVfeXFMTjVHeWx0aThaTjU3NFhUbmpMNHJ2aTluQVZZaGtFZFhVd0R2Rkw0VUlrR1VWSzFSSnd2YVp0SEVPUmdWV1JLazloTzBOY1FwNE9PZ3FGbDBQWDRGcEhSdi1pemtldFI3ODFHYndUSnM2LWhRVjBrZmlnTDZUZ0pqSVpuQmJQQ3A0S1dsSmZucUxJWjJwUkphRTI0V0U1WmhWM0JFUlRLWWM0dlZQVDlYUllXLURQUjN2MFU0d0lENGdyMllRdTFLTGVUa25ZVDlOZmxLV3hWeUgtQmt5cHA3MVU4RlQ1MFl1dUtxekdUZ1EtWkh2dldqTU9sOVlmd3hFWXBWanV6UXprc2NQVDc1MXRWdW1HZU9rVm5TTmFuaVdzY1JnS0FwajBEdGs?oc=5",
-            "published": "Thu, 09 Apr 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "KEC Int Share Price Today, KEC Int Stock Price Live NSE/BSE Updates - The Economic Times",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb0ZFUDRUQVEwdnVnNFNfanh1OVJ2QkVnQ0dVUkhESXdJVklGc1RUN2lkY0wyVkt3UVowYXltTjNUYml6dzc2MDlteS1kdENESnhJVTg5N3FhMGk2T21aNW5uX1BNVkdaZXVsTmVCSUx4eU54MGpRdTk4TU0wU0RlcHhxd251VUg4LThMS21TYXNIVmN2Zm40R0ZR?oc=5",
-            "published": "Wed, 29 Jul 2026 05:48:39 GMT",
-            "score": 0,
-            "label": "Neutral"
-          }
-        ]
-      },
-      "combined_score": 47.4,
-      "added_at": "2026-09-22T12:42:45.440026",
-      "first_seen_price": 394.0,
-      "first_seen_at": "2026-09-22T11:45:50.502740"
+      "combined_score": 83.4,
+      "added_at": "2026-09-23T06:20:38.421326",
+      "first_seen_price": 1100.800048828125,
+      "first_seen_at": "2026-09-23T06:20:38.421326"
     }
   ]
 }
