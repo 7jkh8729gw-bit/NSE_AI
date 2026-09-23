@@ -199,21 +199,21 @@
       "symbol": "IRCTC",
       "base": {
         "symbol": "IRCTC",
-        "price": 465.0,
-        "day_change": -0.8528784648187633,
-        "volume_ratio": 2.6746154959539066,
-        "market_cap": 37200.0,
-        "pct_from_low": 3.978494623655914,
-        "avg_volume": 640281.6666666666,
-        "volume": 392735.0
+        "price": 464.6499938964844,
+        "day_change": -0.9275066318796642,
+        "volume_ratio": 2.3418248080270807,
+        "market_cap": 37183.9990234375,
+        "pct_from_low": 3.906164669083772,
+        "avg_volume": 643589.5238095238,
+        "volume": 462200.0
       },
       "technical": {
         "symbol": "IRCTC",
-        "close": 465.0,
-        "rsi": 41.27,
+        "close": 464.6499938964844,
+        "rsi": 41.05,
         "adx": 30.15,
         "atr": 8.4,
-        "volume_ratio": 0.63,
+        "volume_ratio": 0.73,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -248,7 +248,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "IRCTC Forecast \u2014 Price Target \u2014 Prediction for 2027 - tradingview.com",
+            "title": "IRCTC Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lRDRZa3ZnWGlCYlhTNks5VjBJeERuV0oxb21iTFBWRHlORUVWT1lldGxxNUVjaWkwTVQ2Snc4SERYOW5YY1R3aTRMd0ZMTlM3Zi14ZkJhSzliWVJtU2k4UENyS1pKUE1GZktfb0NwUDIyOWFNc3JZ?oc=5",
             "published": "Thu, 25 Jun 2026 14:00:16 GMT",
             "score": 1,
@@ -262,7 +262,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Stock market crash: IRCTC, LG Electronics, Colgate among 145 stocks that hit 52-week low on NSE - upstox.com",
+            "title": "Stock market crash: IRCTC, LG Electronics, Colgate among 145 stocks that hit 52-week low on NSE - Upstox",
             "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNREVNSDY4UDRDek5tTG5hWTcyUDFKVEhnZnlFZTY1RE8tZ2FPQWNDNkd1OXJpazRTWTlEcFJUYU5VYnZBZURJUkp3SmNLM2YwM25GWTdDN1lEUFFmdnFnY295b2s1SHhVbEtrS3V4YnhUZXktRjFCMmd2VzlMVDZBUGkzQ3EyX2wwWEVBZ295S2ZGTW9Ud2d6ZDdSNlZLdlhRc2JZR0x6X1FaRTVzM1NPd3V4OVlhazZIaEpXM24wenFydW1qYjAzTmZFWmFiNXgyMHhUaXFKQVZQa3BOYm1TRU8zeWlXdw?oc=5",
             "published": "Thu, 08 Jan 2026 08:00:00 GMT",
             "score": 0,
@@ -285,7 +285,7 @@
         ]
       },
       "combined_score": 46.6,
-      "added_at": "2026-09-23T10:41:45.727783",
+      "added_at": "2026-09-23T11:11:07.228775",
       "first_seen_price": 464.5,
       "first_seen_at": "2026-09-23T10:12:01.335951"
     },
@@ -293,21 +293,21 @@
       "symbol": "UPL",
       "base": {
         "symbol": "UPL",
-        "price": 554.9000244140625,
-        "day_change": -0.8930165711695618,
-        "volume_ratio": 2.105862124400162,
-        "market_cap": 46904.82026855204,
-        "pct_from_low": 0.9190910788802089,
-        "avg_volume": 2051181.619047619,
-        "volume": 1013644.0
+        "price": 554.7999877929688,
+        "day_change": -0.9108834432416677,
+        "volume_ratio": 2.451189656996249,
+        "market_cap": 46896.36433139898,
+        "pct_from_low": 0.9012256867362836,
+        "avg_volume": 2077939.8095238095,
+        "volume": 1575566.0
       },
       "technical": {
         "symbol": "UPL",
-        "close": 554.9000244140625,
-        "rsi": 41.97,
+        "close": 554.7999877929688,
+        "rsi": 41.93,
         "adx": 11.23,
         "atr": 11.57,
-        "volume_ratio": 0.49,
+        "volume_ratio": 0.76,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -335,8 +335,8 @@
         "support_20d": 549.8
       },
       "news": {
-        "score": 70,
-        "label": "Bullish",
+        "score": 55,
+        "label": "Neutral",
         "headlines": [
           {
             "title": "UPL Ltd Share Price Today,, UPL Share Price NSE, BSE - Business Today",
@@ -360,23 +360,23 @@
             "label": "Neutral"
           },
           {
-            "title": "UPL Forecast \u2014 Price Target \u2014 Prediction for 2027 - tradingview.com",
+            "title": "UPL Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92QU5aQ3pHQlFwUmd0UEtiTzdHRS1nQm9GeVhPbko0UWNZdi1seko0SVNkeXEwQlRkQmhXU0xYVzZtZHJPWmpaaXpxS0Fwek5XSmw0VHEydGRsSmt1ODZMZ3gyak94UElMYVlWOWQxSlRwbm4t?oc=5",
             "published": "Thu, 25 Jun 2026 14:03:19 GMT",
             "score": 1,
             "label": "Neutral"
           },
           {
-            "title": "Stock Picks Today: TCS, Indian Hotels, PB Fintech, UPL And More On Brokerages' Radar - NDTV Profit",
+            "title": "Stock Picks Today: TCS, Indian Hotels, PB Fintech, UPL And More On Brokerages' Radar - ndtvprofit.com",
             "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcTk1ZzFZT0hJY2FjcXlrMTBWT25DS3VYNXJyQ3JlcXdRMjZSTDRsVkg4NkpLMHpnZVRqOVJNdkNtRWZoQ2hCTXM2V0dEVFJYcU1KYm1QRVhvT3Q5Q1ltYUZ6TmtOM19pcVlVUFJsRjkyZ3d1VWEzb1NnU2ltTkZ3LVktQTBlX01BSkdna3NpalA0WU9ROG9sMkllZU9TbmhxaEFPcU1BVV9iUHlNRmE4Zjh1QWp0bkZveEk1eEdZZ1nSAcgBQVVfeXFMUGlyNmYyYmZzVFlFNVJLYzJTRHBFMnQyTXgtUmNsVl9ud0x0b0FCc1NJM254TjVkN2c4ZjRfdGFhUURNcVVoWFpGOEtVMEV3eHpnOFV2eF9QbW9qVGhIalR3aGZ6UGswSHlvWlRVZjZZNmNNUzNCNTRmUkZrdFFSRGJiSy1KZnlBVENDQkFsZkRycGZ6UW5iRGc2SWFXTzZWODhkb2FIWkVnaHFoV0xCYnBVM2ZIdHRhSW9hR0EtSzgwUHliQ3pyckM?oc=5",
             "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-            "score": 3,
+            "score": 0,
             "label": "Neutral"
           }
         ]
       },
-      "combined_score": 36.4,
-      "added_at": "2026-09-23T10:43:07.611080",
+      "combined_score": 39.4,
+      "added_at": "2026-09-23T11:11:56.890705",
       "first_seen_price": 554.9000244140625,
       "first_seen_at": "2026-09-23T10:43:07.611080"
     }
