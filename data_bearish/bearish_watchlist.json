@@ -101,6 +101,99 @@
       "added_at": "2026-09-23T06:20:38.421326",
       "first_seen_price": 1100.800048828125,
       "first_seen_at": "2026-09-23T06:20:38.421326"
+    },
+    {
+      "symbol": "WIPRO",
+      "base": {
+        "symbol": "WIPRO",
+        "price": 164.92999267578125,
+        "day_change": -0.644582725432982,
+        "volume_ratio": 1.8670501424337662,
+        "market_cap": 163170.8535301372,
+        "pct_from_low": 1.0428582054782505,
+        "avg_volume": 9822008.857142856,
+        "volume": 1369251.0
+      },
+      "technical": {
+        "symbol": "WIPRO",
+        "close": 164.92999267578125,
+        "rsi": 34.46,
+        "adx": 17.88,
+        "atr": 3.4,
+        "volume_ratio": 0.14,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": true,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [],
+        "setup": "HEAD & SHOULDERS",
+        "score": 59,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Double Top",
+          "Head & Shoulders",
+          "Near Breakdown",
+          "Weak RSI",
+          "MACD Bearish"
+        ],
+        "support_20d": 163.21
+      },
+      "news": {
+        "score": 55,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Wipro Share Price - upstox.com",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KdElZR3B2X3pjUm1GemQyR3d5VktiaGR0OUVqYkgtMEtmS25BbGhDMS01MTg5d2hCQ3pLLVZjR3hLMlVPTXRuVkdhMDBtenZUUGFlb2VjbC1uQkFa?oc=5",
+            "published": "Tue, 22 Sep 2026 00:34:15 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "BSE to replace Wipro in India's benchmark Nifty 50 index - Reuters",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeGhIN19pS1ZwOUhZbGZZcVV1LW5DaGxLcHEtdHpGVk9qVGdqaEx5NG9Xbm5XWkN4M0c3NmRJS2xkVUhsTmppMlZSeFVtV3pPbnVTdU8xNVZxSC1sUTVHSnhQdE9LQzhOLXhCOHdWTXVhcjJUNE96V2hqeGMya2pQblNIQTEtUEhUSllQUWRuYThadnFqNTBuVUdham9PQQ?oc=5",
+            "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "WIPRO Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YemNaSm4tWnJpQXFWTkQwMzJqTTE0cEdhN3N4VWp3TUJRTzdWWUxmMThLZVZ4d0NaQzNtSlM5TVNEQldtZG90VkpiaWMxRkpqQWNnbDVrb0hPaG9aRDdiSTRtMmVnOXlXVWgxeXUzMkIyYXhDZjlN?oc=5",
+            "published": "Thu, 25 Jun 2026 12:21:26 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "NSE indices rejig: Vodafone Idea, Wipro part of major changes in Nifty Next 50 and Nifty 100. Check full l - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbE5OX0J4cnJpdUs3cXFiaDhWNzg2c3dsRHgwUC1yeU81VldLNGFnb0VEUWE1YUEtZmNIam5GcThyWnc3cS1ITDdVY3NoNWRlRGdYMmVlX2Q4eDgydmQtZzFpenZYcHhlcGZwRXBmbm5IeTdnU3ExYlg5OFdTSVlRUGNOZ082UTJRNGx0bzlFS0hPdElFNmpuRElrQ0RnUkxqOTREMkN5OEFscUJNQ3A2MFltMXU4WmNlOWxVQnByQTJZNURQSl9kRkEyU19FVmNzSXlTMVZQbVd1OUc1UUFrTHNlal9wY19id0YwQTk3STNmbnF1aE1HTDJySzY0Sll2c1c5WEtBTkg3NjBo0gGSAkFVX3lxTE84UVBvSEdjQ0xaVW5nOVF2RF96ck9lX2w0MUlfWjNYQ2RqVjRXYUxYWjRORW02MTFhRGdmWGVwWGtBRVUtaWlWTGRhdlZTSmtLRnBIb2xGbk1VRTQ0dUdiQTJBUkkxUV9NQ1ZBcUZ2RnJQdi16dGtORHpTWFFEakVOSGp3LThUR0Nya3RUOHBfd0FHRXFJN3dHaGNWbmF0bmp5N3hncFJKNF9tR1M2UW93M2tTQUZxb090X0VLVzJPUE5rcVYwd3Q1TXJzd0ZPcWdxSG9JeFQwTnFud0J4UXppemFqY1NrTU9YeUdZUkwwb1I1VU00Nlg0UER4MXJrTXhCTDBNTlRJLXA0a2MwYXpPaFE?oc=5",
+            "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Wipro Ltd up for five straight sessions - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU0NKLWtxZTZYUXpYUkZzMXBxU3JDLUgyYkVjeWppazBMOWlXQWN4VUJqd2NiSVotZzBZRlhUSnJIajNlMGs4RU04ZldXVVZIWGNYemFRVlkweXplcXlzcENVem1mcnpWT0huc0ZGVklTUjhvazhBaC1RcHVGRVlVTjFmNmg4ZlBRYkxoTGxDOUhhbjF4bV95VjN4X2VJRElQSnFBS0REMTAwU0J1Y2ZzZUJidk1adUl1WlFrSW930gHDAUFVX3lxTE9ta2dvV1ZpdkVNXzlIQXlXakpSMmtnS3R1aDBaRGdWWEhId1E0VHpKLXVocU4yS1lpWEREUnBhV1NWeC1adjJuZVh5d0hrMlh0V1dkdDk2R0pFSTlLVVUxM3BRaXhKaWpRUHdiLXB0RFZWTHZNcTJpcjQwN1gta004dm93Z29lXzUtZ1h6WWU3emJQSTd6NHhOaW8tU2taLUlQX1dJa3NPazAzMUpGVjlqcFE1WmEzcm9CNkJQaElvekxTTQ?oc=5",
+            "published": "Wed, 20 May 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 56.2,
+      "added_at": "2026-09-23T09:43:49.631273",
+      "first_seen_price": 164.92999267578125,
+      "first_seen_at": "2026-09-23T09:43:49.631273"
     }
   ]
 }
