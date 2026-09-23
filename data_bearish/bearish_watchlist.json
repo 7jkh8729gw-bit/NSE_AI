@@ -199,21 +199,21 @@
       "symbol": "IRCTC",
       "base": {
         "symbol": "IRCTC",
-        "price": 464.6499938964844,
-        "day_change": -0.9275066318796642,
-        "volume_ratio": 2.3418248080270807,
-        "market_cap": 37183.9990234375,
-        "pct_from_low": 3.906164669083772,
-        "avg_volume": 643589.5238095238,
-        "volume": 462200.0
+        "price": 464.75,
+        "day_change": -0.906183368869936,
+        "volume_ratio": 1.937378219158493,
+        "market_cap": 37180.0,
+        "pct_from_low": 3.9268423883808503,
+        "avg_volume": 645561.619047619,
+        "volume": 503614.0
       },
       "technical": {
         "symbol": "IRCTC",
-        "close": 464.6499938964844,
-        "rsi": 41.05,
+        "close": 464.75,
+        "rsi": 41.11,
         "adx": 30.15,
         "atr": 8.4,
-        "volume_ratio": 0.73,
+        "volume_ratio": 0.8,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -285,7 +285,7 @@
         ]
       },
       "combined_score": 46.6,
-      "added_at": "2026-09-23T11:11:07.228775",
+      "added_at": "2026-09-23T11:46:13.025154",
       "first_seen_price": 464.5,
       "first_seen_at": "2026-09-23T10:12:01.335951"
     },
@@ -293,21 +293,21 @@
       "symbol": "UPL",
       "base": {
         "symbol": "UPL",
-        "price": 554.7999877929688,
-        "day_change": -0.9108834432416677,
-        "volume_ratio": 2.451189656996249,
-        "market_cap": 46896.36433139898,
-        "pct_from_low": 0.9012256867362836,
-        "avg_volume": 2077939.8095238095,
-        "volume": 1575566.0
+        "price": 554.3499755859375,
+        "day_change": -0.9912571148631663,
+        "volume_ratio": 2.3444184274280286,
+        "market_cap": 46858.32551222296,
+        "pct_from_low": 0.8207789290798649,
+        "avg_volume": 2097188.380952381,
+        "volume": 1979786.0
       },
       "technical": {
         "symbol": "UPL",
-        "close": 554.7999877929688,
-        "rsi": 41.93,
-        "adx": 11.23,
-        "atr": 11.57,
-        "volume_ratio": 0.76,
+        "close": 554.3499755859375,
+        "rsi": 41.75,
+        "adx": 11.31,
+        "atr": 11.64,
+        "volume_ratio": 0.94,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -339,13 +339,6 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "UPL Ltd Share Price Today,, UPL Share Price NSE, BSE - Business Today",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXY0hFZXpLT0lqa3NLUE83RDY0T1J4WldNMjhfYXduNHdhUkdwZVF0dVhoVDJIQkIzZzdzRVNsMzBOcGc5TEluMHNLRUMyZ3FzZDJxaU1fREhtVWtoV0haUnJjWFZPNzJVODQzQWJIZGg5clBN?oc=5",
-            "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
             "title": "UPL Ltd (NSE: UPL): Agrochemical Recovery Signals to Watch - Kalkine India",
             "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUUVEcV9UUU9YWG5MWkxGMGRwc0IyUWttbFVCdTNHVHJDNXlSOUR6Snpvd201OWhIQk9lZWxDNnBYbnZtMGVSZThNSm9jOHJ5dFgzbkMzb3A2alczXzJFeEpoa0tqeGdYU0R4RmJtQnp0Y2Z2dFNESTdwNVd0LVVkcHpLbGtYanJqd25Fcmc3TEczSFREQnM3NjJyVkR6M3ROdmwxUG9iZVFhR2NhM0UxSjRzNXVYcS1sdWVUNDJDZ29iTmNQeXVXTFdlcDRrSGpKYkE?oc=5",
             "published": "Mon, 14 Sep 2026 10:24:00 GMT",
@@ -372,11 +365,18 @@
             "published": "Tue, 25 Aug 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
+          },
+          {
+            "title": "UPL Becomes First Indian Company to Secure Secondary GDR Listing on NSE International Exchange - global-agriculture.com",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeEhqcXFpdjBpOGM0dWJoUzNST3RtQm1xVDFqdVZUUjF1d1ZVSm9vMW1sd203V1gxemhiaU1MRXFuUUxVTVpMdXFDUlJpWWQ3WmNKR1dmS3lSNHpqcUotVEh0eTBkSnJLeXlMMlVNRU0zVmRZTkE4N0pjU3JKOHAzZDdMd1hmaTJrdjNyVlpBVVhLWEdObGw0RWpobXBleE5kdDhndVpCdldYMnl1Zk5td0ZiWlU3SlY4ei1XTGxXMlAyMHJ3VWlRNFI5QVZhVEFvLWhhN0Nzak0xMC1PaXYw?oc=5",
+            "published": "Tue, 17 Feb 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
           }
         ]
       },
       "combined_score": 39.4,
-      "added_at": "2026-09-23T11:11:56.890705",
+      "added_at": "2026-09-23T11:46:57.960429",
       "first_seen_price": 554.9000244140625,
       "first_seen_at": "2026-09-23T10:43:07.611080"
     }
