@@ -199,21 +199,21 @@
       "symbol": "IRCTC",
       "base": {
         "symbol": "IRCTC",
-        "price": 464.6000061035156,
-        "day_change": -0.9381650099113805,
-        "volume_ratio": 1.723778935972628,
-        "market_cap": 37168.00048828125,
-        "pct_from_low": 3.8958256275792724,
-        "avg_volume": 647075.1904761905,
-        "volume": 535399.0
+        "price": 465.0,
+        "day_change": -0.8528784648187633,
+        "volume_ratio": 1.53571911818138,
+        "market_cap": 37200.0,
+        "pct_from_low": 3.978494623655914,
+        "avg_volume": 647858.7619047619,
+        "volume": 551854.0
       },
       "technical": {
         "symbol": "IRCTC",
-        "close": 464.6000061035156,
-        "rsi": 41.02,
+        "close": 465.0,
+        "rsi": 41.27,
         "adx": 30.15,
         "atr": 8.4,
-        "volume_ratio": 0.85,
+        "volume_ratio": 0.87,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -285,7 +285,7 @@
         ]
       },
       "combined_score": 46.6,
-      "added_at": "2026-09-23T12:15:15.861229",
+      "added_at": "2026-09-23T12:43:06.830623",
       "first_seen_price": 464.5,
       "first_seen_at": "2026-09-23T10:12:01.335951"
     },
@@ -293,21 +293,21 @@
       "symbol": "UPL",
       "base": {
         "symbol": "UPL",
-        "price": 553.75,
-        "day_change": -1.0984147429710374,
-        "volume_ratio": 2.081959770223884,
-        "market_cap": 46807.610526125,
-        "pct_from_low": 0.7133204888544018,
-        "avg_volume": 2103573.095238095,
-        "volume": 2113865.0
+        "price": 553.7999877929688,
+        "day_change": -1.08948675747558,
+        "volume_ratio": 1.8871765746194507,
+        "market_cap": 46811.83591509898,
+        "pct_from_low": 0.7222824283440307,
+        "avg_volume": 2107986.3333333335,
+        "volume": 2206543.0
       },
       "technical": {
         "symbol": "UPL",
-        "close": 553.75,
-        "rsi": 41.51,
+        "close": 553.7999877929688,
+        "rsi": 41.53,
         "adx": 11.31,
         "atr": 11.64,
-        "volume_ratio": 1.0,
+        "volume_ratio": 1.05,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -376,7 +376,7 @@
         ]
       },
       "combined_score": 36.4,
-      "added_at": "2026-09-23T12:16:02.281850",
+      "added_at": "2026-09-23T12:43:56.023249",
       "first_seen_price": 554.9000244140625,
       "first_seen_at": "2026-09-23T10:43:07.611080"
     }
