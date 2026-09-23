@@ -293,21 +293,21 @@
       "symbol": "UPL",
       "base": {
         "symbol": "UPL",
-        "price": 553.7999877929688,
-        "day_change": -1.08948675747558,
-        "volume_ratio": 1.7159307994089108,
-        "market_cap": 46811.83591509898,
-        "pct_from_low": 0.7222824283440307,
-        "avg_volume": 2112463.619047619,
-        "volume": 2300566.0
+        "price": 553.4000244140625,
+        "day_change": -1.1609215425204302,
+        "volume_ratio": 1.5938465678386484,
+        "market_cap": 46778.02764410204,
+        "pct_from_low": 0.6505306220225511,
+        "avg_volume": 2118237.714285714,
+        "volume": 2421822.0
       },
       "technical": {
         "symbol": "UPL",
-        "close": 553.7999877929688,
-        "rsi": 41.53,
-        "adx": 11.31,
-        "atr": 11.64,
-        "volume_ratio": 1.09,
+        "close": 553.4000244140625,
+        "rsi": 41.38,
+        "adx": 11.35,
+        "atr": 11.67,
+        "volume_ratio": 1.14,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -376,7 +376,7 @@
         ]
       },
       "combined_score": 36.4,
-      "added_at": "2026-09-23T13:13:10.305305",
+      "added_at": "2026-09-23T13:44:23.640542",
       "first_seen_price": 554.9000244140625,
       "first_seen_at": "2026-09-23T10:43:07.611080"
     }
