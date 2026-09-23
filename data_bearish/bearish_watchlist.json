@@ -293,21 +293,21 @@
       "symbol": "UPL",
       "base": {
         "symbol": "UPL",
-        "price": 553.4000244140625,
-        "day_change": -1.1609215425204302,
-        "volume_ratio": 1.5938465678386484,
-        "market_cap": 46778.02764410204,
-        "pct_from_low": 0.6505306220225511,
-        "avg_volume": 2118237.714285714,
-        "volume": 2421822.0
+        "price": 551.5999755859375,
+        "day_change": -1.4824162290064253,
+        "volume_ratio": 1.509062776784088,
+        "market_cap": 46625.87236739796,
+        "pct_from_low": 0.32632122419090237,
+        "avg_volume": 2150438.238095238,
+        "volume": 3098033.0
       },
       "technical": {
         "symbol": "UPL",
-        "close": 553.4000244140625,
-        "rsi": 41.38,
-        "adx": 11.35,
-        "atr": 11.67,
-        "volume_ratio": 1.14,
+        "close": 551.5999755859375,
+        "rsi": 40.69,
+        "adx": 11.57,
+        "atr": 11.86,
+        "volume_ratio": 1.44,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -353,7 +353,7 @@
             "label": "Neutral"
           },
           {
-            "title": "UPL Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+            "title": "UPL Forecast \u2014 Price Target \u2014 Prediction for 2027 - tradingview.com",
             "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92QU5aQ3pHQlFwUmd0UEtiTzdHRS1nQm9GeVhPbko0UWNZdi1seko0SVNkeXEwQlRkQmhXU0xYVzZtZHJPWmpaaXpxS0Fwek5XSmw0VHEydGRsSmt1ODZMZ3gyak94UElMYVlWOWQxSlRwbm4t?oc=5",
             "published": "Thu, 25 Jun 2026 14:03:19 GMT",
             "score": 1,
@@ -376,7 +376,7 @@
         ]
       },
       "combined_score": 36.4,
-      "added_at": "2026-09-23T13:44:23.640542",
+      "added_at": "2026-09-23T15:13:14.290421",
       "first_seen_price": 554.9000244140625,
       "first_seen_at": "2026-09-23T10:43:07.611080"
     }
