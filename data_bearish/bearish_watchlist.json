@@ -194,6 +194,100 @@
       "added_at": "2026-09-23T09:43:49.631273",
       "first_seen_price": 164.92999267578125,
       "first_seen_at": "2026-09-23T09:43:49.631273"
+    },
+    {
+      "symbol": "IRCTC",
+      "base": {
+        "symbol": "IRCTC",
+        "price": 464.5,
+        "day_change": -0.9594882729211088,
+        "volume_ratio": 3.633422436276758,
+        "market_cap": 37160.0,
+        "pct_from_low": 3.8751345532831003,
+        "avg_volume": 638066.1428571428,
+        "volume": 346209.0
+      },
+      "technical": {
+        "symbol": "IRCTC",
+        "close": 464.5,
+        "rsi": 40.95,
+        "adx": 30.15,
+        "atr": 8.4,
+        "volume_ratio": 0.55,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": false,
+        "breakdown": false,
+        "macd_bearish": false,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [
+          "3 Black Crows"
+        ],
+        "setup": "DOUBLE TOP",
+        "score": 47,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Double Top",
+          "3 Black Crows",
+          "Weak RSI",
+          "ADX Trend Strength"
+        ],
+        "support_20d": 446.5
+      },
+      "news": {
+        "score": 55,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "IRCTC Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lRDRZa3ZnWGlCYlhTNks5VjBJeERuV0oxb21iTFBWRHlORUVWT1lldGxxNUVjaWkwTVQ2Snc4SERYOW5YY1R3aTRMd0ZMTlM3Zi14ZkJhSzliWVJtU2k4UENyS1pKUE1GZktfb0NwUDIyOWFNc3JZ?oc=5",
+            "published": "Thu, 25 Jun 2026 14:00:16 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Indian Railway Catering & Tourism Corporation Limited (NSE:IRCTC) stock most popular amongst state or government who own 63%, while individual investors hold 20% - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYmdHQ05EZTU0bUMyclJhZndiaHI4V0wtbWFWc0JDaFFodk9aRkpkMHBINW8zanF3aXJON3hsWDgtUG5veFVTVDJhd1M2bEEwUkpVdm4zU1VjWlo4QmxUY08zZmwwSjFWRldZXzhKZUs4b1VHQVF0MWhnZE5ubnRMc2JqWGlFU2V4QnI4M2hvVWYzWWZZUU1tZlJUcWZfZnpfMGFSZTNQN0pnQ1BvanJiTnRrbnNKbVRSdWNsLXQxME5SQ1hfZk0zbHpNWHJFblBTd0tRczRablJma3FhVmtpWm9aUWMzYm56UUVqV3B6YXQyWGZGYUdLU2l1bXnSAYICQVVfeXFMTS10V3AtX3VLbjVkaVdyLWpBNmdRMGdLeGN4Q1MxZVVlbXlwVjBzMXZGYVZzSlR0VU5NU2gyREtLUFVOZkE2ODBZb29RN0dHSjEzaTJQa3FSclRoRm5odDRYUkRnODEtNHE3UzNqdnBOVnBsSzlSbU5VNkZ0WTJPQ0o0eE9hSkFVQ3RaV2RJQW0xQWt5eTNHbmpxWXd1MXN4d3BTeE51Ym8ydTFOSGw2ZGZRV2NwaHhPYUYxVUxPcUoxRnJqOGVHUDd0MDZWVHVFU1NycUpQQkZBUWVBWkxxSDBRb20xVEE4ME5SZ2YwcU5lSFJ1a29PSENITncyMGdZSTF3?oc=5",
+            "published": "Tue, 16 Dec 2025 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stock market crash: IRCTC, LG Electronics, Colgate among 145 stocks that hit 52-week low on NSE - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNREVNSDY4UDRDek5tTG5hWTcyUDFKVEhnZnlFZTY1RE8tZ2FPQWNDNkd1OXJpazRTWTlEcFJUYU5VYnZBZURJUkp3SmNLM2YwM25GWTdDN1lEUFFmdnFnY295b2s1SHhVbEtrS3V4YnhUZXktRjFCMmd2VzlMVDZBUGkzQ3EyX2wwWEVBZ295S2ZGTW9Ud2d6ZDdSNlZLdlhRc2JZR0x6X1FaRTVzM1NPd3V4OVlhazZIaEpXM24wenFydW1qYjAzTmZFWmFiNXgyMHhUaXFKQVZQa3BOYm1TRU8zeWlXdw?oc=5",
+            "published": "Thu, 08 Jan 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "IRCTC Share Pros and Cons 2026: Railway's Profitable Monopoly at 29x PE - Univest",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zdlRtcTJuYk9HWmtlR3E4TzNHTWNlLVdjZEtSTTVETktybTNFX0lzVGVCTkp3M1Fnd0NVdERNbXJnY3hqemNUcjNDbzgybzBUQmNNdVZVakloWjNTN2loV3ZCNmZQclk?oc=5",
+            "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "IRCTC to be removed from NSE F&O: What that means for investors \u2014 big and small | Business News - Hindustan Times",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOGhNb0cwMHFDN193Q3NGRmVwZzlsMmFBT2JfQ3JxaFJvcGlRanVpeUpkNmlyVXkxcEJVSjZTQmhzR2NlUGN0UW8yZW92a3dxLVRoTEVXS0J6UGxVUEdJOUdERTl1dUY3ZXZlWHZ0YXh5MGJLcS11TVBtYk01a1pOMHA3UzdndlNUYmMxeXpBS1BWWng5UTg3cFhjbEJ1UW13WHZIS3BUeFJQRXdnWkEyWURmX3c1RkVPZTBWdFhycW9YM1pSVVpIb2xIRzAydjJ3enJJ0gHYAUFVX3lxTE1ZRzRVOURvRHcwdWxQSF9WdmpKbnJSQ1lxS29xZ0NoaGVyVGdCSG51VEMwRzRzbEVzMnIyMWNfOVBEenBDQWNOWnY1dkJXMUFTbUdFdzQtc0JHMTlqZTNya19hRUs4ZXlTZjhEMjVSWFROcEVWSm95aDkydnhkU0JFN0pQT0xrQ09BLWJPX0ZTa3NsQW16WEJydGRjNUZKc2V4aXF3cUhsZnV4dTVUeGl0S2JhSVZMWEFxblBiOFlzckV2b1BUMGtGbHYwb2xwNkstVHNabGs1TQ?oc=5",
+            "published": "Tue, 23 Dec 2025 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 46.6,
+      "added_at": "2026-09-23T10:12:01.335951",
+      "first_seen_price": 464.5,
+      "first_seen_at": "2026-09-23T10:12:01.335951"
     }
   ]
 }
