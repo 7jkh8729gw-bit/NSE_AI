@@ -102,21 +102,21 @@
       "symbol": "AXISBANK",
       "base": {
         "symbol": "AXISBANK",
-        "price": 1199.0,
-        "day_change": -3.555337267364827,
-        "volume_ratio": 4.627617766144848,
-        "market_cap": 373317.4811146,
-        "pct_from_low": 6.1384466710540035,
-        "avg_volume": 4302000.380952381,
-        "volume": 2972930.0
+        "price": 1196.5999755859375,
+        "day_change": -3.7483894318054842,
+        "volume_ratio": 3.7024282881283272,
+        "market_cap": 372570.2158361418,
+        "pct_from_low": 5.950188252094073,
+        "avg_volume": 4333615.333333333,
+        "volume": 3636844.0
       },
       "technical": {
         "symbol": "AXISBANK",
-        "close": 1199.0,
-        "rsi": 36.27,
+        "close": 1196.5999755859375,
+        "rsi": 35.8,
         "adx": 19.79,
         "atr": 23.22,
-        "volume_ratio": 0.68,
+        "volume_ratio": 0.83,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -189,7 +189,7 @@
         ]
       },
       "combined_score": 64.4,
-      "added_at": "2026-09-24T10:11:38.626166",
+      "added_at": "2026-09-24T10:41:01.688396",
       "first_seen_price": 1198.199951171875,
       "first_seen_at": "2026-09-24T09:41:52.118193"
     },
@@ -294,21 +294,21 @@
       "symbol": "ICICIPRULI",
       "base": {
         "symbol": "ICICIPRULI",
-        "price": 464.20001220703125,
-        "day_change": -4.189883961397059,
-        "volume_ratio": 18.800741300620388,
-        "market_cap": 67345.30764211426,
-        "pct_from_low": 4.0607508849242775,
-        "avg_volume": 1486528.380952381,
-        "volume": 4248071.0
+        "price": 465.0,
+        "day_change": -4.024767801857585,
+        "volume_ratio": 13.542368821229484,
+        "market_cap": 67461.3684405,
+        "pct_from_low": 4.225805139028898,
+        "avg_volume": 1507130.761904762,
+        "volume": 4680721.0
       },
       "technical": {
         "symbol": "ICICIPRULI",
-        "close": 464.20001220703125,
-        "rsi": 39.03,
+        "close": 465.0,
+        "rsi": 39.31,
         "adx": 17.32,
         "atr": 15.49,
-        "volume_ratio": 2.84,
+        "volume_ratio": 3.08,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -338,7 +338,7 @@
         "support_20d": 445.35
       },
       "news": {
-        "score": 40,
+        "score": 50,
         "label": "Neutral",
         "headlines": [
           {
@@ -356,7 +356,7 @@
             "label": "Neutral"
           },
           {
-            "title": "ICICI Prudential Life Insurance share Pros and Cons 2026: Third-Largest Private Insurer - univest.in",
+            "title": "ICICI Prudential Life Insurance share Pros and Cons 2026: Third-Largest Private Insurer - Univest",
             "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyUXZvUTBTa09kb1c0eGwtZ1poczhXSjBFMmJ2andmOUJlWDJNYV9LWVVoajFQZkpRVWVYZExCR3NyLU1IZFNLTDJYZ19jMTZZbFBnRlRnS0xCNGJQNW1TUFRsdG5uZXJyQVBwNWFn?oc=5",
             "published": "Fri, 07 Aug 2026 07:00:00 GMT",
             "score": 0,
@@ -370,16 +370,16 @@
             "label": "Neutral"
           },
           {
-            "title": "ICICI Prudential Life shares fall up to 9% to hit two-year low as promoter to reduce stake - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSTA0ZEdtRUhFZlBGS1lJNVpGemNhNGxVTnlyaEwtb0xXTnc4dWdiemRVOWJiWm9kUUxLNTY5S2x3QTlWZFM2Qk9SbjhIUDdiWU90QlNyMGFiSVVDZzlBU0JzX1FfTDV1NWpNYjFPQzBHQXRmYW1UdlQ4TVlaWk1meVlJUDlzMjZOd3o4ekhFUF93ZkFtWUw3NlROS2lFaTlZczdLMVo2Y1FHd25JUE9NeWFla1Zjc3Y4cnNlWVpYRFRnVmNQNjZ4NHZWbVZsdy1VVkVmamVSTzV1MFBMeERfLWZHWWxPN0E?oc=5",
-            "published": "Sun, 17 May 2026 07:00:00 GMT",
-            "score": -2,
+            "title": "ICICI Prudential Life Insurance Name Change Vote Results - Kalkine India",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOG5rZzdPcklFVFhNN1hxMmlYd3NnRVNwMXZYaDNHZFMtOEc0bDVRS3p4NWRFZG1GS2Y1NUtDUGNPa2p0eXBoS3RxdTR1NjVBd05ycWxXbGN0aFFTTEsxa1lCVFZXZU1VVjJSZWExRG5mdVV4ZzJnWnlpdEVSblRQSUJlU1hnenU0akJRRmQ1YUg1eDlQY2lpZDdjaVVSa3dZNFBVRE83TEt5US03TTB0Z2RUb3NQbWZZXzZTZUZ2T25acEY5cXQ3VQ?oc=5",
+            "published": "Sat, 19 Sep 2026 14:49:00 GMT",
+            "score": 0,
             "label": "Neutral"
           }
         ]
       },
-      "combined_score": 56.8,
-      "added_at": "2026-09-24T10:12:06.229258",
+      "combined_score": 54.8,
+      "added_at": "2026-09-24T10:41:32.610345",
       "first_seen_price": 456.8999938964844,
       "first_seen_at": "2026-09-24T09:42:41.430052"
     },
@@ -1033,21 +1033,21 @@
       "symbol": "JWL",
       "base": {
         "symbol": "JWL",
-        "price": 227.74000549316406,
-        "day_change": -2.3245831548363936,
-        "volume_ratio": 2.39350588862545,
-        "market_cap": 9732.933473847566,
-        "pct_from_low": 0.9177182516325275,
-        "avg_volume": 627042.0952380953,
-        "volume": 228126.0
+        "price": 228.0800018310547,
+        "day_change": -2.178762116686411,
+        "volume_ratio": 1.968156277818764,
+        "market_cap": 9747.463910565855,
+        "pct_from_low": 1.065419113934543,
+        "avg_volume": 629713.7142857143,
+        "volume": 284230.0
       },
       "technical": {
         "symbol": "JWL",
-        "close": 227.74000549316406,
-        "rsi": 32.92,
-        "adx": 18.04,
-        "atr": 5.99,
-        "volume_ratio": 0.37,
+        "close": 228.0800018310547,
+        "rsi": 33.24,
+        "adx": 18.07,
+        "atr": 6.0,
+        "volume_ratio": 0.45,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1102,25 +1102,115 @@
             "label": "Neutral"
           },
           {
-            "title": "Jupiter Wagons Ltd. Share Price Today - Jupiter Wagons Ltd. Stock Price Live NSE/BSE - CNBC TV18",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YTDFVdm9uVXNyczNtbFNCb3ktY0I4RndPTVlWdFZGRWVqMEtwa0s0dGR2SnQtQlFHQXdVN1JPdUFvNlY4Nk9hYnA0aUhGZ3JVMEZ1SFhNSjhSdV9IQnRndmxOcjJIeGZERlppYUNwSTNtd0oyWnVFQUd5bWxGSGs?oc=5",
-            "published": "Sat, 03 Jan 2026 20:25:03 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
             "title": "Jupiter Wagons rises 6% on inking long-term supply pact with Tatravagonka - Business Standard",
             "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ1JTaVA5MDc3VG1FOFVoeTBxVXhkdGF3aGF0d043cEJUc3hKcXpIeVhYcmFVNVdyZHRqeV9xb2dFNV9fU3drcldwakhnc3pGR0F0MmFtWGVraWJheDlHV1VRczExTUo1Q0kydjhRbVlJS1JsRlk5aUxhRDAyeHN1aUVBbGJfcXhaNVlaQnloZC1uN1d6STE2RmJkRVlCM2pQWFZrdDhSbXlIOEdiOHlVcnQxcWJRY05Hd2M3ampyeVc4WG1zenlrdERYYmhUVDROa2tQQ3V1REFEcnJOTmNDM0EyazhuUdIB6wFBVV95cUxNdG5CQlA2bUJra095UDNpSFBBYjBPSEtTQUJPa1RUMjdqazBzV2U5dWtlamNMN3BWN1A2MlctWGY1UXB3LWNhRThPRlVkY2dQODRPSlh4dHJEMW5kTm1LODFxeTRhTExXcldETUJZbzlnR1hOaXphcTBWMEtZY1JyY3V4UEl3aXNVNXpaSjVpcnJRbGJMNEVyREh6UTlVeFRMV2g4RlRxWEtqOVpuMWlnSGxETlVGZGl1VjREQ3ljeG5qUFZFOU5RVXNjUkVwX25IV294SzJ5ODZrb0FMeXE1aHpLTW9ZZWJWVmJz?oc=5",
             "published": "Wed, 27 May 2026 07:00:00 GMT",
             "score": 1,
             "label": "Neutral"
+          },
+          {
+            "title": "Jupiter Wagons Ltd. Share Price Today - Jupiter Wagons Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YTDFVdm9uVXNyczNtbFNCb3ktY0I4RndPTVlWdFZGRWVqMEtwa0s0dGR2SnQtQlFHQXdVN1JPdUFvNlY4Nk9hYnA0aUhGZ3JVMEZ1SFhNSjhSdV9IQnRndmxOcjJIeGZERlppYUNwSTNtd0oyWnVFQUd5bWxGSGs?oc=5",
+            "published": "Sat, 03 Jan 2026 20:25:03 GMT",
+            "score": 0,
+            "label": "Neutral"
           }
         ]
       },
       "combined_score": 50.4,
-      "added_at": "2026-09-24T10:12:12.712856",
+      "added_at": "2026-09-24T10:41:38.272781",
       "first_seen_price": 227.74000549316406,
       "first_seen_at": "2026-09-24T10:12:12.712856"
+    },
+    {
+      "symbol": "HUDCO",
+      "base": {
+        "symbol": "HUDCO",
+        "price": 172.91000366210938,
+        "day_change": -2.815869243702812,
+        "volume_ratio": 2.556151236570409,
+        "market_cap": 34614.85363311767,
+        "pct_from_low": 8.044649452030255,
+        "avg_volume": 1607333.380952381,
+        "volume": 942236.0
+      },
+      "technical": {
+        "symbol": "HUDCO",
+        "close": 172.91000366210938,
+        "rsi": 36.21,
+        "adx": 23.61,
+        "atr": 4.24,
+        "volume_ratio": 0.57,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": false,
+        "breakdown": false,
+        "macd_bearish": false,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [],
+        "setup": "DEATH CROSS",
+        "score": 32,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Weak RSI",
+          "ADX Trend Strength"
+        ],
+        "support_20d": 167.05
+      },
+      "news": {
+        "score": 45,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Housing and Urban Development Corporation Limited (NSE:HUDCO) most popular amongst state or government who own 75% of the shares, institutions hold 14% - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUWNiM0NtNk4wcmhzUlFWSXNXTDFFS1Y4VjlEeXNNMl91TS1xVkxYREdaZWR5c0VHNmxtRUk4dzQwVTQxYTdmZDAtX2ltUWd5RTFUUl9Bd3dEeTdOdGgwSS0yNEZmY1AybkNaeHduLXdWRWUyMFJNNUR3QzVzbzRWd1d5ck1QZ3VjV1lXVFFrOXlMVkNsU0xxbDlOODY3bkpGOUZuUXI3SDh2bEM2SkRJWFgtNXVoM1pSUVZkSzhCRUgzNUJGelF2SlZrUFdYYUoyLVVfb1J3NXJ4Y2FCeVNEd3dJbWFaOWFvTnV0dkpvOVNFVXlqMERCcXVIY9IBgAJBVV95cUxNQXJaQVo5akVGYzVXZU52VDlReE41WTBGZFBxRDdNNmxEd2RMZ1F1YnlFMzEwNnExV2xnUDRXbWJNc2ViRldkRXk4dUx5TnctUGdfR0xiZHZsQzdHdFdVV0ZfYmhOakhVUlFMQ0x4UDgyeXpRQmJIbm9xY1pQTWNUSm9FWU8waVoyUm9kMXQ0RmY3LWZoVTBuSjVhNWtZdXU4aXhFSURXSzJjQVVBbVRFdjdFTXc1Z1pPNl9PWkZKSVZNSkUxTW4xMTV2cGw2bTM1MV9jOVN3WnFFNWNrb0JUNTY5eGVXOE9Eekh5SFZmdldDcG93YTlzLUNtTnhWNEps?oc=5",
+            "published": "Tue, 20 Jan 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "HUDCO Dividend, \u20b970,000 Cr Plan; Shares Fall 4.84% - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOV8wNjd5cGtsT3hRRC1OWjNpallXeHFXNGx0UUFidjhmeXh3dlRUQTl4ZnZkWHVreEhYTnBTY2tlNWFhTDR5V3J2clRmN1V5MnhGeG40S1Italk2MVdnOFQ3eE13WE5wTWdIb2tnaklER1FXR0x1dVJuV0lzREQxMmdkS0ROU0xxWFhib2ZPZGljVUo3OEpqcw?oc=5",
+            "published": "Fri, 27 Mar 2026 07:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
+          },
+          {
+            "title": "5 PSU Stocks India 2026: Strong Future Roadmaps - Univest",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OZTNwUG1iNUllQXMwR19Ebk9vUHRmcXJ3YnFiU0EzSzcydVhrMnBFWWdfb3pqV0pTdGR0TExDanZOTnpLUERCVmt2MUdvRFdVdGV1QUV2cWNmOTVuaWxmamhRQ0ZSSjE2MDhpM21zVQ?oc=5",
+            "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Auto stocks, RITES, HUDCO among buzzing shares as SENSEX jumps over 550 pts, NIFTY above 24,000 - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeE5aN2hXbjc0eno0XzRRYlJOc0I4SU5XUl9MRVozRWpQQ3l6VVFPZDhESkdDUGdYc2hhN3g4MFcxaGhwNzhDRTVINHYtMFNRdmtOVm5sMEYtYWtldldSLTNGQk5DMGxaSFR5Qk1fb1Y3VEJQcTBkRXdtbkxJeHBHZjR0bGRid0phcWlhZ01MMkRMMEdfb0dnZUdta1I5bHlUbDRjY0pScTh4RDVFMzBRZXFLSmEzTGd3bThFM1dpUllRcXJqczZrMm55Vm1iNU5pQVRlV21TVU01NzlzWXVfWVBhVGhvUQ?oc=5",
+            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Trade Spotlight: How should you trade HUDCO, RBL Bank, Gujarat Fluorochemicals, Elecon Engineering, Deepak... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPS1JhNlQ1Wk9XRHVjR2dvc29NNkVFQjExR05OZW1xdzJnaWkzNEJDUHQ1d0Z5cTFFR1JJbnZXSG11Qmpia2VlOWNBTm5sMzFod0s1NWp3ZGlWZFhPQVZRTGZLbHpqT3dzcXBVWWVJNzFHX3VVbHVWN0lFQTdRYWt2RldpMEhLbjZYM1ZVWGo5aG54VVNYM3VhOERXdFpuS2ZRUXdCTC0zQlk3VDJqU0Y2U0NySU9PZ0JOYnpVYWJYM1lqZXo2NlMwTm1FejVSeFI2bndObHNtU3Y5MjJnQXJ6bVlqZUQ3aHJZR3ZmR3pvSFlLR3hjVkloaVJPR2x1RERpSXdxel9OWEY3eFlGcHRnZHhxdVE3Z0VVc09BRC1oLU1kWVZS0gGqAkFVX3lxTE9nTTV4U2xfeHBTbnctRGFrdEw2R1FQODNzU2dVZEFWYlNQX1ZzbnJFMVIxWnJCeVp4X1JURWxRMG1HMHpMX0V1RHVVbnRickw3WjFYNG5HcWZYMW96cVpYZDV6Q2JsOFlHcGtSZ2JKRU1yRVp6NnBvb1F5V3JvbG9mZFRJUWw2cGh4WDhyYllOczdTdHU2T09fVWI4OUpfTTI2T0ttT0hTems0dlU5WnRyUDRza1pJNm9XNllSejdWeHdLOVNiMkFUZ205cGxadGRMRUxGVXZfZ19sOXk2NjJCZ3haWUZHbU5aSlZGWEpua1piaW5JLUpKbUNQMWR0aE1IU2FyMVBTbG51VFJkc2l1bVdndGFiRDBYSkxwLTJia3FpbXlhamxreUE?oc=5",
+            "published": "Mon, 04 May 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 36.6,
+      "added_at": "2026-09-24T10:41:31.440679",
+      "first_seen_price": 172.91000366210938,
+      "first_seen_at": "2026-09-24T10:41:31.440679"
     }
   ]
 }
