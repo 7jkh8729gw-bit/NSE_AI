@@ -102,21 +102,21 @@
       "symbol": "AXISBANK",
       "base": {
         "symbol": "AXISBANK",
-        "price": 1185.5,
-        "day_change": -4.641244645922437,
-        "volume_ratio": 2.2498362573424475,
-        "market_cap": 369114.1566817,
-        "pct_from_low": 5.069588830530368,
-        "avg_volume": 4461224.380952381,
-        "volume": 6316634.0
+        "price": 1182.5999755859375,
+        "day_change": -4.874515602161524,
+        "volume_ratio": 2.1195023163157445,
+        "market_cap": 368211.2127205418,
+        "pct_from_low": 4.836796241563796,
+        "avg_volume": 4483854.333333333,
+        "volume": 6791863.0
       },
       "technical": {
         "symbol": "AXISBANK",
-        "close": 1185.5,
-        "rsi": 33.81,
+        "close": 1182.5999755859375,
+        "rsi": 33.33,
         "adx": 20.02,
         "atr": 23.83,
-        "volume_ratio": 1.4,
+        "volume_ratio": 1.49,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -126,13 +126,13 @@
         "bear_flag": false,
         "ll_lh": true,
         "near_breakdown": true,
-        "breakdown": false,
+        "breakdown": true,
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": true,
         "patterns": [],
-        "setup": "DOUBLE TOP",
-        "score": 71,
+        "setup": "DEATH CROSS + BREAKDOWN",
+        "score": 80,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -141,6 +141,7 @@
           "Double Top",
           "Rounding Top",
           "Near Breakdown",
+          "Confirmed Breakdown",
           "Weak RSI",
           "MACD Bearish",
           "ADX Trend Strength",
@@ -189,8 +190,8 @@
           }
         ]
       },
-      "combined_score": 66.8,
-      "added_at": "2026-09-24T13:11:30.355547",
+      "combined_score": 74.0,
+      "added_at": "2026-09-24T13:43:10.141098",
       "first_seen_price": 1198.199951171875,
       "first_seen_at": "2026-09-24T09:41:52.118193"
     },
@@ -295,21 +296,21 @@
       "symbol": "ICICIPRULI",
       "base": {
         "symbol": "ICICIPRULI",
-        "price": 470.3999938964844,
-        "day_change": -2.9102179780218007,
-        "volume_ratio": 6.273119100447115,
-        "market_cap": 68244.78989819287,
-        "pct_from_low": 5.325252576104671,
-        "avg_volume": 1581564.619047619,
-        "volume": 6243832.0
+        "price": 469.8999938964844,
+        "day_change": -3.0134171524284055,
+        "volume_ratio": 5.704505980755058,
+        "market_cap": 68172.25079234286,
+        "pct_from_low": 5.224513324504732,
+        "avg_volume": 1593614.5238095238,
+        "volume": 6496880.0
       },
       "technical": {
         "symbol": "ICICIPRULI",
-        "close": 470.3999938964844,
-        "rsi": 41.32,
+        "close": 469.8999938964844,
+        "rsi": 41.12,
         "adx": 17.32,
         "atr": 15.49,
-        "volume_ratio": 3.91,
+        "volume_ratio": 4.04,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -340,7 +341,7 @@
         "support_20d": 445.35
       },
       "news": {
-        "score": 40,
+        "score": 50,
         "label": "Neutral",
         "headlines": [
           {
@@ -372,16 +373,16 @@
             "label": "Neutral"
           },
           {
-            "title": "ICICI Prudential Life shares fall up to 9% to hit two-year low as promoter to reduce stake - TradingView",
-            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSTA0ZEdtRUhFZlBGS1lJNVpGemNhNGxVTnlyaEwtb0xXTnc4dWdiemRVOWJiWm9kUUxLNTY5S2x3QTlWZFM2Qk9SbjhIUDdiWU90QlNyMGFiSVVDZzlBU0JzX1FfTDV1NWpNYjFPQzBHQXRmYW1UdlQ4TVlaWk1meVlJUDlzMjZOd3o4ekhFUF93ZkFtWUw3NlROS2lFaTlZczdLMVo2Y1FHd25JUE9NeWFla1Zjc3Y4cnNlWVpYRFRnVmNQNjZ4NHZWbVZsdy1VVkVmamVSTzV1MFBMeERfLWZHWWxPN0E?oc=5",
-            "published": "Sun, 17 May 2026 07:00:00 GMT",
-            "score": -2,
+            "title": "ICICI Prudential Life Insurance Name Change Vote Results - Kalkine India",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOG5rZzdPcklFVFhNN1hxMmlYd3NnRVNwMXZYaDNHZFMtOEc0bDVRS3p4NWRFZG1GS2Y1NUtDUGNPa2p0eXBoS3RxdTR1NjVBd05ycWxXbGN0aFFTTEsxa1lCVFZXZU1VVjJSZWExRG5mdVV4ZzJnWnlpdEVSblRQSUJlU1hnenU0akJRRmQ1YUg1eDlQY2lpZDdjaVVSa3dZNFBVRE83TEt5US03TTB0Z2RUb3NQbWZZXzZTZUZ2T25acEY5cXQ3VQ?oc=5",
+            "published": "Sat, 19 Sep 2026 14:49:00 GMT",
+            "score": 0,
             "label": "Neutral"
           }
         ]
       },
-      "combined_score": 60.8,
-      "added_at": "2026-09-24T13:11:58.476255",
+      "combined_score": 58.8,
+      "added_at": "2026-09-24T13:43:44.453641",
       "first_seen_price": 456.8999938964844,
       "first_seen_at": "2026-09-24T09:42:41.430052"
     },
