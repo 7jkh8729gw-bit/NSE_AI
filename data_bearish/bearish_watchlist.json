@@ -102,21 +102,21 @@
       "symbol": "AXISBANK",
       "base": {
         "symbol": "AXISBANK",
-        "price": 1186.0999755859375,
-        "day_change": -4.592984059572514,
-        "volume_ratio": 2.426617381836111,
-        "market_cap": 369300.9634994418,
-        "pct_from_low": 5.117608331615471,
-        "avg_volume": 4443887.285714285,
-        "volume": 5952555.0
+        "price": 1185.5,
+        "day_change": -4.641244645922437,
+        "volume_ratio": 2.2498362573424475,
+        "market_cap": 369114.1566817,
+        "pct_from_low": 5.069588830530368,
+        "avg_volume": 4461224.380952381,
+        "volume": 6316634.0
       },
       "technical": {
         "symbol": "AXISBANK",
-        "close": 1186.0999755859375,
-        "rsi": 33.91,
+        "close": 1185.5,
+        "rsi": 33.81,
         "adx": 20.02,
         "atr": 23.83,
-        "volume_ratio": 1.32,
+        "volume_ratio": 1.4,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -190,7 +190,7 @@
         ]
       },
       "combined_score": 66.8,
-      "added_at": "2026-09-24T12:42:36.713326",
+      "added_at": "2026-09-24T13:11:30.355547",
       "first_seen_price": 1198.199951171875,
       "first_seen_at": "2026-09-24T09:41:52.118193"
     },
@@ -295,21 +295,21 @@
       "symbol": "ICICIPRULI",
       "base": {
         "symbol": "ICICIPRULI",
-        "price": 469.25,
-        "day_change": -3.147574819401445,
-        "volume_ratio": 6.926283784281214,
-        "market_cap": 68077.950840225,
-        "pct_from_low": 5.093232583161295,
-        "avg_volume": 1571784.4285714286,
-        "volume": 6038448.0
+        "price": 470.3999938964844,
+        "day_change": -2.9102179780218007,
+        "volume_ratio": 6.273119100447115,
+        "market_cap": 68244.78989819287,
+        "pct_from_low": 5.325252576104671,
+        "avg_volume": 1581564.619047619,
+        "volume": 6243832.0
       },
       "technical": {
         "symbol": "ICICIPRULI",
-        "close": 469.25,
-        "rsi": 40.87,
+        "close": 470.3999938964844,
+        "rsi": 41.32,
         "adx": 17.32,
         "atr": 15.49,
-        "volume_ratio": 3.8,
+        "volume_ratio": 3.91,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -381,7 +381,7 @@
         ]
       },
       "combined_score": 60.8,
-      "added_at": "2026-09-24T12:43:04.380925",
+      "added_at": "2026-09-24T13:11:58.476255",
       "first_seen_price": 456.8999938964844,
       "first_seen_at": "2026-09-24T09:42:41.430052"
     },
