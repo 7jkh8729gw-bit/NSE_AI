@@ -102,21 +102,21 @@
       "symbol": "AXISBANK",
       "base": {
         "symbol": "AXISBANK",
-        "price": 1196.5999755859375,
-        "day_change": -3.7483894318054842,
-        "volume_ratio": 3.7024282881283272,
-        "market_cap": 372570.2158361418,
-        "pct_from_low": 5.950188252094073,
-        "avg_volume": 4333615.333333333,
-        "volume": 3636844.0
+        "price": 1194.5,
+        "day_change": -3.9173063935506964,
+        "volume_ratio": 2.9710291189129663,
+        "market_cap": 371916.3729703,
+        "pct_from_low": 5.784845172535579,
+        "avg_volume": 4350841.333333333,
+        "volume": 3998590.0
       },
       "technical": {
         "symbol": "AXISBANK",
-        "close": 1196.5999755859375,
-        "rsi": 35.8,
+        "close": 1194.5,
+        "rsi": 35.41,
         "adx": 19.79,
         "atr": 23.22,
-        "volume_ratio": 0.83,
+        "volume_ratio": 0.91,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -189,7 +189,7 @@
         ]
       },
       "combined_score": 64.4,
-      "added_at": "2026-09-24T10:41:01.688396",
+      "added_at": "2026-09-24T11:11:13.394759",
       "first_seen_price": 1198.199951171875,
       "first_seen_at": "2026-09-24T09:41:52.118193"
     },
@@ -294,21 +294,21 @@
       "symbol": "ICICIPRULI",
       "base": {
         "symbol": "ICICIPRULI",
-        "price": 465.0,
-        "day_change": -4.024767801857585,
-        "volume_ratio": 13.542368821229484,
-        "market_cap": 67461.3684405,
-        "pct_from_low": 4.225805139028898,
-        "avg_volume": 1507130.761904762,
-        "volume": 4680721.0
+        "price": 468.04998779296875,
+        "day_change": -3.39525535748839,
+        "volume_ratio": 10.748647900849036,
+        "market_cap": 67896.6030756,
+        "pct_from_low": 4.849905412131736,
+        "avg_volume": 1525821.5238095238,
+        "volume": 5073227.0
       },
       "technical": {
         "symbol": "ICICIPRULI",
-        "close": 465.0,
-        "rsi": 39.31,
+        "close": 468.04998779296875,
+        "rsi": 40.42,
         "adx": 17.32,
         "atr": 15.49,
-        "volume_ratio": 3.08,
+        "volume_ratio": 3.3,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -379,7 +379,7 @@
         ]
       },
       "combined_score": 54.8,
-      "added_at": "2026-09-24T10:41:32.610345",
+      "added_at": "2026-09-24T11:11:49.441824",
       "first_seen_price": 456.8999938964844,
       "first_seen_at": "2026-09-24T09:42:41.430052"
     },
@@ -1033,21 +1033,21 @@
       "symbol": "JWL",
       "base": {
         "symbol": "JWL",
-        "price": 228.0800018310547,
-        "day_change": -2.178762116686411,
-        "volume_ratio": 1.968156277818764,
-        "market_cap": 9747.463910565855,
-        "pct_from_low": 1.065419113934543,
-        "avg_volume": 629713.7142857143,
-        "volume": 284230.0
+        "price": 228.5,
+        "day_change": -1.998629091146591,
+        "volume_ratio": 1.599291992674439,
+        "market_cap": 9765.41338865,
+        "pct_from_low": 1.247267441363512,
+        "avg_volume": 631045.0,
+        "volume": 312187.0
       },
       "technical": {
         "symbol": "JWL",
-        "close": 228.0800018310547,
-        "rsi": 33.24,
+        "close": 228.5,
+        "rsi": 33.64,
         "adx": 18.07,
         "atr": 6.0,
-        "volume_ratio": 0.45,
+        "volume_ratio": 0.5,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1118,7 +1118,7 @@
         ]
       },
       "combined_score": 50.4,
-      "added_at": "2026-09-24T10:41:38.272781",
+      "added_at": "2026-09-24T11:11:56.417539",
       "first_seen_price": 227.74000549316406,
       "first_seen_at": "2026-09-24T10:12:12.712856"
     },
@@ -1211,6 +1211,100 @@
       "added_at": "2026-09-24T10:41:31.440679",
       "first_seen_price": 172.91000366210938,
       "first_seen_at": "2026-09-24T10:41:31.440679"
+    },
+    {
+      "symbol": "RECLTD",
+      "base": {
+        "symbol": "RECLTD",
+        "price": 308.8999938964844,
+        "day_change": -0.8346729064255619,
+        "volume_ratio": 1.6512054973968313,
+        "market_cap": 81340.28775280762,
+        "pct_from_low": 1.5700894138382253,
+        "avg_volume": 4416575.095238095,
+        "volume": 2275314.0
+      },
+      "technical": {
+        "symbol": "RECLTD",
+        "close": 308.8999938964844,
+        "rsi": 36.95,
+        "adx": 55.95,
+        "atr": 5.6,
+        "volume_ratio": 0.53,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": true,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": false,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "ROUNDING TOP",
+        "score": 58,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Rounding Top",
+          "Near Breakdown",
+          "Weak RSI",
+          "ADX Trend Strength",
+          "OBV Distribution"
+        ],
+        "support_20d": 307.1
+      },
+      "news": {
+        "score": 50,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "3 Fundamentally Strong Infrastructure Finance Stocks in India - Univest",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUU3VmcGRHbllzZktFbXQ0VVpBend0alhnOVkyT2F6a2ZSb0JyWEMyTl9tSmZ3dFRRX0ZDcHRPMUxjQkNCWmw1OGlsTzA4NUpjVkNOM1dUVUxjb2JrTkVoUUpjWDZjQl9qYWEzbjdhOA?oc=5",
+            "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "REC Ltd soars 0.17%, rises for fifth straight session - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSnNWYUtneXo1ekFvZ1ZnX2phOFgxSEVsX1NzeFZ4SjlDbExjX2hvYlN4bGFlS1JlWEtjaHcxWXRSTW1DNWRmVThTZWNRZU1zSHpGbnNMWmJXbEFIbldmV3RKLThQaFZDMUgzRDlJSjZJLWZleGQ1akZqSmJlWm1uNXktQ1JrUzVMbFJhUmo4RHV6aTdMV0RrTVo2ZWY2NUMyQVhSODJGMFJwN2VWdzdFWnRLclJtUHhNbEdpZGU2QzAxbDRCUVNCdzU1ODFrZ9IB0wFBVV95cUxOVkgzbmhfcE5PM01tZmJzbTdEekhMWVNCdVlOeGJIX1pZVG9nV1hGakdxS0ZKXzJLczRpSFd2N25tYTUxbmdFTDRzR3M1MUttTm16WXgwSDc2ZVJzMVItS0RYR0NZVUVKMkh3R0U1dnR1WVdsazJKZmlXcFlnNGd1dTE0NThJTnYyTFh3cXc4SDVaUjBmREtmYm5HUHpScG5iYWdOYmUyUkJyMnRfZ1lvWHVSeExUSzJVRngwdmtEaUlSM0tOUmlmX2YzUEVmMzhid3hN?oc=5",
+            "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "REC Limited RECLTD Credit Rating Upgraded by JCR to A- - Kalkine India",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSjJlZ282SkpmbGRnbTF1QXlnOTQ3dkFmM2tXaEZTaUdlMlpSdjhRSUtPcDBrMmtWaXFBeW1qQ1pxLURfcDR0YXYzUTg0SHcxeUFHRWo5NVV4ZWYzX0lOT2p0WkRyM2YtazJmUEc3MW9nWXpnRE1RUzE1RmZXTjBuNk5sR2hBTzV1U2JFbkF0S0Ntbm85cFZqUTFweGRWX1RGOTJ1ZWNFMnAzOFlNVWFPQnFaN0JDMVh0NHVuNg?oc=5",
+            "published": "Mon, 07 Sep 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "REC Limited's (NSE:RECLTD) Low P/E No Reason For Excitement - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORjRNTkEyREJyZUlIaGZ0R2c5QkRNT2JjN2hzeFhCZTZBT0w0QWVyZDVSUHpKXzFnQ1kwXzBrQ1UxYk9qTDNyM25DMTFjVHZMbXdmQUs5RlFtUmVKMGdxYi1MU1FHcmh0em1WN2UwQ0NSdG82dXZYdXhWdEdmM0dUbXk4QlRmOWN0M3BLYUptV1Jvek9UbDg2aUtUOXNZZXVySjZGS19fX3hTc013ODl4RTR0ekhxMDJXVnpnZ0hZenhZV0tVeFFWNjBZTnduTmVNQjFaQ9IB2gFBVV95cUxQOTRmOVNWbEw3bmJ5YzhzRHhrVHMtb2tiNEc3cDBCVlJ2b0htdHY5bkNiT0JaTW5KeERKMXRua3JJc3E0b3B3Mmt6QmhCcE54YXFvSDBiemNmcDJnMDRWakhLVjVKbDdfWGg0WHNDZ0UwZW5WUWdFdnlUQUc1OWQ1MURLTXFkY19OeXZYS1hoQlNaY3N4VW5xTm1jdXJXRzRIOXpNZGR2T0w5TEZqalhXeFowS3ljLVA4V190eGZZNEpFUzZxOG00blZVdGJLRTdCMER3OUgyWGhJZw?oc=5",
+            "published": "Mon, 15 Dec 2025 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "REC Share Price Falls 0.42% After \u20b93.20 Interim Dividend Announcement - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fUG5OcXN0ZFhDTmNDMGZ4MHhOLXliczRsdWxOaldTeElHZTVzUVFwcVBKNDRHRDVzdjI5cE4yRXlqMWpUaE5QRFFOalJqd1FXUUxDalVmd3Q5bk83VWtYLXpMRVJkRDBkbldN?oc=5",
+            "published": "Fri, 20 Mar 2026 07:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 56.4,
+      "added_at": "2026-09-24T11:12:28.265516",
+      "first_seen_price": 308.8999938964844,
+      "first_seen_at": "2026-09-24T11:12:28.265516"
     }
   ]
 }
