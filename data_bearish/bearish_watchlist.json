@@ -5,21 +5,21 @@
       "symbol": "MFSL",
       "base": {
         "symbol": "MFSL",
-        "price": 1414.9000244140625,
-        "day_change": -9.469575640673868,
-        "volume_ratio": 49.60721103709346,
-        "market_cap": 48573.34083414171,
-        "pct_from_low": 0.5795514241780658,
-        "avg_volume": 599778.3333333334,
-        "volume": 2221582.0
+        "price": 1410.800048828125,
+        "day_change": -9.731906917268134,
+        "volume_ratio": 11.384443518213038,
+        "market_cap": 48432.589185183424,
+        "pct_from_low": 3.5937107660508874,
+        "avg_volume": 1034126.0476190476,
+        "volume": 11207848.0
       },
       "technical": {
         "symbol": "MFSL",
-        "close": 1414.9000244140625,
-        "rsi": 37.04,
-        "adx": 19.34,
-        "atr": 48.84,
-        "volume_ratio": 3.58,
+        "close": 1410.800048828125,
+        "rsi": 36.28,
+        "adx": 19.24,
+        "atr": 51.08,
+        "volume_ratio": 10.68,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -50,11 +50,11 @@
           "OBV Distribution",
           "Strong Volume"
         ],
-        "support_20d": 1406.7
+        "support_20d": 1360.1
       },
       "news": {
-        "score": 60,
-        "label": "Neutral",
+        "score": 65,
+        "label": "Bullish",
         "headlines": [
           {
             "title": "Max Financial Services Limited Revenue Breakdown \u2013 NSE:MFSL - tradingview.com",
@@ -78,23 +78,23 @@
             "label": "Neutral"
           },
           {
+            "title": "Max Financial Services Share Price Target 2027, 2028 and 2030: Long Term Analyst Forecast - Univest",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSVF6VWVZMjF0bXQ2WVIwekJvY0ZEVkZCYzJkXzRlU0duaVRCOXlNeDZWNVpHdGY5VHJiNGh5c1FaSGo2am8tQUlqWmdSU1BvSi1SdU84TmU4dUV3Uld2WnpSS05FXzBkMm9iVzJoQWg1dTNZZ204YXdPTURXQUMyOW1pdWdKMkZtd0dF?oc=5",
+            "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
             "title": "What Max Financial Services Limited's (NSE:MFSL) P/S Is Not Telling You - simplywall.st",
             "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWlNSYVE2SFhpV3dwV3lFS2ZGV2YyeHpwYjBpbXR0eE44NG91T1VNMldscFo4SUk3YjhQLWM2bEVKcWZVN1dmVzl1cURISTVTa2JZd0N4WFFkQ2xYRThrOXpIY2xKWDVXT2hENzUxOUxHeXg4NGxqeENIeWtScDRaZVc1YmdHVGYybWl6cVd5N3Y5TkZzZHJHaG1VY3hzbGwtQ0xGaThXdzZvMDh2Tkp3YmlTOVJEQ2RnWW5EUXQ5a19mYXhyRExoVHpsMDBWenZSWktxbm5NRmo4VExsSHVr0gHkAUFVX3lxTFBPNy14V25SZUo4ZExEQVRJZmVxTnkwYmtOZTBDRWc0VXJOblBtdkw0Z01COHJlb3JlTTdHVGVaWVFXLUJmWmxmMkN5ZGh6amZ4bnd5eEtvVHpabFdXNzE5emFVRFMxN29iblFFX0FQdUt4emwtaXZvS080SnNKR2lyM1ZuM3BsVHF3T1AtalNadGZxcURvR3JIcTBFWm9PUlZXY1gxaGQ3QmlKN3F6MnF3ckFJWTdJb1B2TllYQzZ2aEZCNnRTRFB5RlVwX3h2U3IzWGd0MjZ2QXpJLW5Qai0tckVaOQ?oc=5",
             "published": "Mon, 22 Dec 2025 08:00:00 GMT",
             "score": 0,
             "label": "Neutral"
-          },
-          {
-            "title": "Max Financial Share Price Today, Max Financial Stock Price Live NSE/BSE Updates - The Economic Times",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdm53bUFWN2k3Q2VtNWdtaExQU3dyTl9uYmJQbUhkUlFZVTlxTnNXTHFGMmFQVG5DeFdRbGJmZmpNb1hMYUhwYm5yd0VoOXVEWUhnc3M4d2ppaU5TdkVNSEhsc3RIYVBRaXFrZEJxYXZ1MmQzVEtQUXo3WlVXSHo5Q3gwWUk2V25sb3J0aTYyWVU4Y0ZkUTdpZ1FLd3VCSlZi?oc=5",
-            "published": "Thu, 06 Aug 2026 00:06:04 GMT",
-            "score": 0,
-            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 73.6,
-      "added_at": "2026-09-24T09:43:11.119067",
+      "combined_score": 72.6,
+      "added_at": "2026-09-24T15:12:51.130549",
       "first_seen_price": 1414.9000244140625,
       "first_seen_at": "2026-09-24T09:43:11.119067"
     },
@@ -102,21 +102,21 @@
       "symbol": "AXISBANK",
       "base": {
         "symbol": "AXISBANK",
-        "price": 1181.5999755859375,
-        "day_change": -4.954953185758384,
-        "volume_ratio": 2.2150614704307054,
-        "market_cap": 367899.8553551418,
-        "pct_from_low": 4.756258660551029,
-        "avg_volume": 4528872.285714285,
-        "volume": 8747669.0
+        "price": 1193.5,
+        "day_change": -3.997743977147557,
+        "volume_ratio": 2.3281299965772706,
+        "market_cap": 371573.8874698582,
+        "pct_from_low": 5.705904950644114,
+        "avg_volume": 4596031.761904762,
+        "volume": 10158018.0
       },
       "technical": {
         "symbol": "AXISBANK",
-        "close": 1181.5999755859375,
-        "rsi": 32.49,
+        "close": 1193.5,
+        "rsi": 34.61,
         "adx": 20.29,
         "atr": 23.85,
-        "volume_ratio": 1.99,
+        "volume_ratio": 2.27,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -132,7 +132,7 @@
         "obv_distribution": true,
         "patterns": [],
         "setup": "DEATH CROSS + BREAKDOWN",
-        "score": 85,
+        "score": 90,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -146,7 +146,8 @@
           "MACD Bearish",
           "ADX Trend Strength",
           "Volume Expansion",
-          "OBV Distribution"
+          "OBV Distribution",
+          "Strong Volume"
         ],
         "support_20d": 1175.0
       },
@@ -191,8 +192,8 @@
           }
         ]
       },
-      "combined_score": 78.0,
-      "added_at": "2026-09-24T14:42:29.645255",
+      "combined_score": 82.0,
+      "added_at": "2026-09-24T15:11:53.290701",
       "first_seen_price": 1198.199951171875,
       "first_seen_at": "2026-09-24T09:41:52.118193"
     },
@@ -297,21 +298,21 @@
       "symbol": "ICICIPRULI",
       "base": {
         "symbol": "ICICIPRULI",
-        "price": 465.5,
-        "day_change": -3.9215686274509802,
-        "volume_ratio": 5.080857882505761,
-        "market_cap": 67533.90754635,
-        "pct_from_low": 4.328677528782895,
-        "avg_volume": 1597804.4285714286,
-        "volume": 7100734.0
+        "price": 465.25,
+        "day_change": -3.973168214654283,
+        "volume_ratio": 4.972903558917415,
+        "market_cap": 67497.637993425,
+        "pct_from_low": 4.2772689729144275,
+        "avg_volume": 1626305.857142857,
+        "volume": 7699264.0
       },
       "technical": {
         "symbol": "ICICIPRULI",
-        "close": 465.5,
-        "rsi": 38.98,
+        "close": 465.25,
+        "rsi": 38.88,
         "adx": 16.8,
         "atr": 15.11,
-        "volume_ratio": 4.3,
+        "volume_ratio": 4.58,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -383,7 +384,7 @@
         ]
       },
       "combined_score": 58.8,
-      "added_at": "2026-09-24T14:43:04.195186",
+      "added_at": "2026-09-24T15:12:28.544804",
       "first_seen_price": 456.8999938964844,
       "first_seen_at": "2026-09-24T09:42:41.430052"
     },
@@ -1313,6 +1314,103 @@
       "added_at": "2026-09-24T11:12:28.265516",
       "first_seen_price": 308.8999938964844,
       "first_seen_at": "2026-09-24T11:12:28.265516"
+    },
+    {
+      "symbol": "BDL",
+      "base": {
+        "symbol": "BDL",
+        "price": 1154.9000244140625,
+        "day_change": -0.5254070272125323,
+        "volume_ratio": 2.0598640349552113,
+        "market_cap": 42334.30401992798,
+        "pct_from_low": 5.96588648000236,
+        "avg_volume": 1007102.2380952381,
+        "volume": 1969386.0
+      },
+      "technical": {
+        "symbol": "BDL",
+        "close": 1154.9000244140625,
+        "rsi": 34.42,
+        "adx": 29.12,
+        "atr": 34.42,
+        "volume_ratio": 1.9,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": false,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [
+          "3 Black Crows"
+        ],
+        "setup": "DOUBLE TOP",
+        "score": 60,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Double Top",
+          "3 Black Crows",
+          "Weak RSI",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "Volume Expansion",
+          "OBV Distribution"
+        ],
+        "support_20d": 1095.0
+      },
+      "news": {
+        "score": 50,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Bharat Dynamics Share Price - Live NSE: BDL Stock Price & Chart - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fWVlpMm1Ic242SEt1TVRtb3BVSWNsTFVEbEtoYUo4YXoya1FXdjRYRWxhdjlBcGYxN1V3d3lHOHpCMlNreDRUdXc1QjhZcFFad2VyNzk3Wm85REk3QkNhaHJUSVdOVXJzRXBHUkVyMA?oc=5",
+            "published": "Wed, 23 Sep 2026 17:59:10 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "NSE, BDL, Ola Electric among buzzing stocks as SENSEX, NIFTY50 tumble over 1% in noon deals - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOczEzSTdjaGYyS3h4QlRneEdnSGw2X2lKVllOck04c3NZZXMyNUJrRHY5azIwNE5GdzBaVmItUWZSNzNvVVhLam9NSGNXYnhZdUxRSzRnVXR3UWJhNFViYS04WUdkUXJETC1acEQwMTZ5RURxcnhPRXpmVjl5aEtyeWZGR052MUN0U3BUeTRsNFBNNmJEV3JhLW1BdHJRa3hQUnRIc1JMemFxb2pjdVBiMXB4Tm5tZHpVNi1iY3I0dG4tb0MyZWZxRHdIeklGUUptNk11UndhQzcxcTQ1TXBMVw?oc=5",
+            "published": "Thu, 24 Sep 2026 07:54:03 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "BDL, HAL, other defence shares fall up to 4% as govt opens general export licence framework - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUzJaWmtUZEFjdFh0LVAyRUhqM1VXOUFLamd5M2xuTHFVcjE4b1R2Qk5pRnNkU0NMaF9oMDBpRXd0d1owTVktMFgxdk9CTHloaS1ITUNWUVNhX2NZTzl6UXpjZkl4Qkoyc3pFcXNGTDdIdTIxaWZQTGl0dDVfMWE1cGg5Sk9ack1ISjRXM2tWVmgyODI3bzNmSDlaeXByR1lRcWRZQVhTeFZxOEIycEZNZkdmWkItSGFHYUJDam96ZkRsN1M4cG9YU185Rndna2UwSHJmOVlMOTAtM0gxYjVtMlM3Z1RrWkVY0gHuAUFVX3lxTE5lSlIxN00yS1JoYjNQRlpXU2hjS3Fvc3o0VllUYjUwUHdqcEhEcDV0Z254OUI2VS1zY0dBWWxDTnNTX0l6WTNJZU9mMlBaZjdKSXpfTmQ5a3BlVHBDNVV4bFlZZVEyYjJjUjhSNWgteXhOYjQzTnZKczF3dFpLUjlHR0xudl9KSnRxcmZ0ek1rUHR3bHR1YlFCM0gzWXB0Mzc3ZzM3SWZ4WDVMOXEtWEVrMzFvOFFHeDZTMXNvNkF3OVA3TktCTmpHSDhBQnJlSFdTZWhwTzUtWW8tOVltWjY5elU1TFByWWIzVkNIT2c?oc=5",
+            "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Nifty India Defence index slips 5%; GRSE, BDL tank 8%, HAL hits 52-week low - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM0V1bUpFbzdRZG85Q0tLYXZ3aTBaUjRmTlVrSTRXMXQyWVprbEpLLWtMRDJPNmxTN1hJeDJNSEZUZTlRYXl4Z2pwNHExNEJRWlZEbUJ0WkpHc0RQT0RDSl9UY0N1cFZSUXBoN041MWZEU3QwbWJ2MVpBa2g2WnhwODE0c2RBYVV1em44bndoQTc4Q3NXd2hvTGFjakI3c2RNZWNPd1VhZWFaX2RoaldPdEZuUnNMdnFQaGhsbkgtYlpKZUZZY2FlTFprOG1ZUGU0d0Y40gHYAUFVX3lxTE5hYmMtV0F6cjhwVnNzZjRYdFJ1MlNmX3hmX1hpTXNDSkhxVXpJbm5KeHNjbEVsTU9XR25WUS00UEIzbUNZQVZraTJycm5EUXBXeWZBYjNhQWhaQUFXV05sZTFRY0t0VlhLR0FPanRGNmg5QzJvR25SWFZnS005dVhieFRwS29YM2JqWW41U19OQ0RFN2l3T2Q2UTVzV29DeHZTYlNYQ0hTWWl5ZzlwMG5EN2Fvd01sYnhNQ2RfUmxyZ09YNjBJMkRtVnV6dDU4eFlmaWJiaTlUZg?oc=5",
+            "published": "Mon, 23 Mar 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Defence Stocks Today, August 24, 2026: The Sector Split in Two - The Eastern Herald",
+            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ybklSUHVDV25YbkxaVnN0ejFLNFJJMm1Lems5R2JNbXZtTTM0RmxDSkV5LXdPSzVoeU9PUklFVm15MkNkLVRfNlRCbWg5ajdUd1lNb1NraEJDRTFOUW95ZGdfdGlsWTFGWkVFNWR3bjRsQzBfU2tJejVFb1NPUQ?oc=5",
+            "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 58.0,
+      "added_at": "2026-09-24T15:11:56.145707",
+      "first_seen_price": 1154.9000244140625,
+      "first_seen_at": "2026-09-24T15:11:56.145707"
     }
   ]
 }
