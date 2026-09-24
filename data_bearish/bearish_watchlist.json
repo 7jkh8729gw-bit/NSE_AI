@@ -102,21 +102,21 @@
       "symbol": "AXISBANK",
       "base": {
         "symbol": "AXISBANK",
-        "price": 1194.5,
-        "day_change": -3.9173063935506964,
-        "volume_ratio": 2.9710291189129663,
-        "market_cap": 371916.3729703,
-        "pct_from_low": 5.784845172535579,
-        "avg_volume": 4350841.333333333,
-        "volume": 3998590.0
+        "price": 1193.300048828125,
+        "day_change": -4.013827566250542,
+        "volume_ratio": 2.650491043914947,
+        "market_cap": 371542.75933481636,
+        "pct_from_low": 5.690104888602277,
+        "avg_volume": 4381641.857142857,
+        "volume": 4645401.0
       },
       "technical": {
         "symbol": "AXISBANK",
-        "close": 1194.5,
-        "rsi": 35.41,
+        "close": 1193.300048828125,
+        "rsi": 35.19,
         "adx": 19.79,
         "atr": 23.22,
-        "volume_ratio": 0.91,
+        "volume_ratio": 1.05,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -189,7 +189,7 @@
         ]
       },
       "combined_score": 64.4,
-      "added_at": "2026-09-24T11:11:13.394759",
+      "added_at": "2026-09-24T11:45:15.428002",
       "first_seen_price": 1198.199951171875,
       "first_seen_at": "2026-09-24T09:41:52.118193"
     },
@@ -294,21 +294,21 @@
       "symbol": "ICICIPRULI",
       "base": {
         "symbol": "ICICIPRULI",
-        "price": 468.04998779296875,
-        "day_change": -3.39525535748839,
-        "volume_ratio": 10.748647900849036,
-        "market_cap": 67896.6030756,
-        "pct_from_low": 4.849905412131736,
-        "avg_volume": 1525821.5238095238,
-        "volume": 5073227.0
+        "price": 470.54998779296875,
+        "day_change": -2.8792594854553664,
+        "volume_ratio": 8.750582643695886,
+        "market_cap": 68266.55074446074,
+        "pct_from_low": 5.355431376727724,
+        "avg_volume": 1541107.6666666667,
+        "volume": 5394236.0
       },
       "technical": {
         "symbol": "ICICIPRULI",
-        "close": 468.04998779296875,
-        "rsi": 40.42,
+        "close": 470.54998779296875,
+        "rsi": 41.38,
         "adx": 17.32,
         "atr": 15.49,
-        "volume_ratio": 3.3,
+        "volume_ratio": 3.47,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -321,10 +321,10 @@
         "breakdown": false,
         "macd_bearish": false,
         "macd_cross_down": false,
-        "obv_distribution": false,
+        "obv_distribution": true,
         "patterns": [],
         "setup": "DOUBLE TOP",
-        "score": 56,
+        "score": 61,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -333,12 +333,13 @@
           "Double Top",
           "Weak RSI",
           "Volume Expansion",
+          "OBV Distribution",
           "Strong Volume"
         ],
         "support_20d": 445.35
       },
       "news": {
-        "score": 50,
+        "score": 40,
         "label": "Neutral",
         "headlines": [
           {
@@ -370,16 +371,16 @@
             "label": "Neutral"
           },
           {
-            "title": "ICICI Prudential Life Insurance Name Change Vote Results - Kalkine India",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOG5rZzdPcklFVFhNN1hxMmlYd3NnRVNwMXZYaDNHZFMtOEc0bDVRS3p4NWRFZG1GS2Y1NUtDUGNPa2p0eXBoS3RxdTR1NjVBd05ycWxXbGN0aFFTTEsxa1lCVFZXZU1VVjJSZWExRG5mdVV4ZzJnWnlpdEVSblRQSUJlU1hnenU0akJRRmQ1YUg1eDlQY2lpZDdjaVVSa3dZNFBVRE83TEt5US03TTB0Z2RUb3NQbWZZXzZTZUZ2T25acEY5cXQ3VQ?oc=5",
-            "published": "Sat, 19 Sep 2026 14:49:00 GMT",
-            "score": 0,
+            "title": "ICICI Prudential Life shares fall up to 9% to hit two-year low as promoter to reduce stake - tradingview.com",
+            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSTA0ZEdtRUhFZlBGS1lJNVpGemNhNGxVTnlyaEwtb0xXTnc4dWdiemRVOWJiWm9kUUxLNTY5S2x3QTlWZFM2Qk9SbjhIUDdiWU90QlNyMGFiSVVDZzlBU0JzX1FfTDV1NWpNYjFPQzBHQXRmYW1UdlQ4TVlaWk1meVlJUDlzMjZOd3o4ekhFUF93ZkFtWUw3NlROS2lFaTlZczdLMVo2Y1FHd25JUE9NeWFla1Zjc3Y4cnNlWVpYRFRnVmNQNjZ4NHZWbVZsdy1VVkVmamVSTzV1MFBMeERfLWZHWWxPN0E?oc=5",
+            "published": "Sun, 17 May 2026 07:00:00 GMT",
+            "score": -2,
             "label": "Neutral"
           }
         ]
       },
-      "combined_score": 54.8,
-      "added_at": "2026-09-24T11:11:49.441824",
+      "combined_score": 60.8,
+      "added_at": "2026-09-24T11:45:53.922077",
       "first_seen_price": 456.8999938964844,
       "first_seen_at": "2026-09-24T09:42:41.430052"
     },
@@ -1126,21 +1127,21 @@
       "symbol": "HUDCO",
       "base": {
         "symbol": "HUDCO",
-        "price": 172.91000366210938,
-        "day_change": -2.815869243702812,
-        "volume_ratio": 2.556151236570409,
-        "market_cap": 34614.85363311767,
-        "pct_from_low": 8.044649452030255,
-        "avg_volume": 1607333.380952381,
-        "volume": 942236.0
+        "price": 173.22000122070312,
+        "day_change": -2.641635002592159,
+        "volume_ratio": 1.7477733742159647,
+        "market_cap": 34676.912044372555,
+        "pct_from_low": 8.209214363522104,
+        "avg_volume": 1616272.1904761905,
+        "volume": 1129951.0
       },
       "technical": {
         "symbol": "HUDCO",
-        "close": 172.91000366210938,
-        "rsi": 36.21,
+        "close": 173.22000122070312,
+        "rsi": 37.03,
         "adx": 23.61,
         "atr": 4.24,
-        "volume_ratio": 0.57,
+        "volume_ratio": 0.68,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1208,7 +1209,7 @@
         ]
       },
       "combined_score": 36.6,
-      "added_at": "2026-09-24T10:41:31.440679",
+      "added_at": "2026-09-24T11:45:51.664581",
       "first_seen_price": 172.91000366210938,
       "first_seen_at": "2026-09-24T10:41:31.440679"
     },
