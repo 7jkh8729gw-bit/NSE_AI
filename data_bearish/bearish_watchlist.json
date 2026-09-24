@@ -102,21 +102,21 @@
       "symbol": "AXISBANK",
       "base": {
         "symbol": "AXISBANK",
-        "price": 1186.5999755859375,
-        "day_change": -4.552765267774085,
-        "volume_ratio": 2.527500016149733,
-        "market_cap": 369456.6421821418,
-        "pct_from_low": 5.157589114364742,
-        "avg_volume": 4415523.380952381,
-        "volume": 5356913.0
+        "price": 1186.0999755859375,
+        "day_change": -4.592984059572514,
+        "volume_ratio": 2.426617381836111,
+        "market_cap": 369300.9634994418,
+        "pct_from_low": 5.117608331615471,
+        "avg_volume": 4443887.285714285,
+        "volume": 5952555.0
       },
       "technical": {
         "symbol": "AXISBANK",
-        "close": 1186.5999755859375,
-        "rsi": 34.0,
-        "adx": 19.91,
-        "atr": 23.53,
-        "volume_ratio": 1.2,
+        "close": 1186.0999755859375,
+        "rsi": 33.91,
+        "adx": 20.02,
+        "atr": 23.83,
+        "volume_ratio": 1.32,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -132,7 +132,7 @@
         "obv_distribution": true,
         "patterns": [],
         "setup": "DOUBLE TOP",
-        "score": 68,
+        "score": 71,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -143,9 +143,10 @@
           "Near Breakdown",
           "Weak RSI",
           "MACD Bearish",
+          "ADX Trend Strength",
           "OBV Distribution"
         ],
-        "support_20d": 1186.3
+        "support_20d": 1182.1
       },
       "news": {
         "score": 50,
@@ -188,8 +189,8 @@
           }
         ]
       },
-      "combined_score": 64.4,
-      "added_at": "2026-09-24T12:15:23.899306",
+      "combined_score": 66.8,
+      "added_at": "2026-09-24T12:42:36.713326",
       "first_seen_price": 1198.199951171875,
       "first_seen_at": "2026-09-24T09:41:52.118193"
     },
@@ -294,21 +295,21 @@
       "symbol": "ICICIPRULI",
       "base": {
         "symbol": "ICICIPRULI",
-        "price": 472.04998779296875,
-        "day_change": -2.569661962235552,
-        "volume_ratio": 7.750489034395472,
-        "market_cap": 68484.16806201074,
-        "pct_from_low": 5.656176756679248,
-        "avg_volume": 1560728.6666666667,
-        "volume": 5806277.0
+        "price": 469.25,
+        "day_change": -3.147574819401445,
+        "volume_ratio": 6.926283784281214,
+        "market_cap": 68077.950840225,
+        "pct_from_low": 5.093232583161295,
+        "avg_volume": 1571784.4285714286,
+        "volume": 6038448.0
       },
       "technical": {
         "symbol": "ICICIPRULI",
-        "close": 472.04998779296875,
-        "rsi": 41.97,
+        "close": 469.25,
+        "rsi": 40.87,
         "adx": 17.32,
         "atr": 15.49,
-        "volume_ratio": 3.69,
+        "volume_ratio": 3.8,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -380,7 +381,7 @@
         ]
       },
       "combined_score": 60.8,
-      "added_at": "2026-09-24T12:15:44.953185",
+      "added_at": "2026-09-24T12:43:04.380925",
       "first_seen_price": 456.8999938964844,
       "first_seen_at": "2026-09-24T09:42:41.430052"
     },
@@ -1127,21 +1128,21 @@
       "symbol": "HUDCO",
       "base": {
         "symbol": "HUDCO",
-        "price": 172.49000549316406,
-        "day_change": -3.051929368066404,
-        "volume_ratio": 1.6899451642713241,
-        "market_cap": 34530.77419967651,
-        "pct_from_low": 7.820746167057595,
-        "avg_volume": 1625243.8095238095,
-        "volume": 1318355.0
+        "price": 172.3000030517578,
+        "day_change": -3.1587203097040226,
+        "volume_ratio": 1.55102392620295,
+        "market_cap": 34492.7376109314,
+        "pct_from_low": 7.7190962369063785,
+        "avg_volume": 1629208.3333333333,
+        "volume": 1401610.0
       },
       "technical": {
         "symbol": "HUDCO",
-        "close": 172.49000549316406,
-        "rsi": 35.05,
+        "close": 172.3000030517578,
+        "rsi": 34.65,
         "adx": 23.61,
-        "atr": 4.25,
-        "volume_ratio": 0.79,
+        "atr": 4.27,
+        "volume_ratio": 0.84,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -1154,16 +1155,20 @@
         "breakdown": false,
         "macd_bearish": false,
         "macd_cross_down": false,
-        "obv_distribution": false,
-        "patterns": [],
+        "obv_distribution": true,
+        "patterns": [
+          "3 Black Crows"
+        ],
         "setup": "DEATH CROSS",
-        "score": 32,
+        "score": 42,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
+          "3 Black Crows",
           "Weak RSI",
-          "ADX Trend Strength"
+          "ADX Trend Strength",
+          "OBV Distribution"
         ],
         "support_20d": 167.05
       },
@@ -1208,8 +1213,8 @@
           }
         ]
       },
-      "combined_score": 36.6,
-      "added_at": "2026-09-24T12:15:44.762998",
+      "combined_score": 44.6,
+      "added_at": "2026-09-24T12:43:04.005288",
       "first_seen_price": 172.91000366210938,
       "first_seen_at": "2026-09-24T10:41:31.440679"
     },
