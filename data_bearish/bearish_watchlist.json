@@ -102,21 +102,21 @@
       "symbol": "AXISBANK",
       "base": {
         "symbol": "AXISBANK",
-        "price": 1178.9000244140625,
-        "day_change": -5.17213073385352,
-        "volume_ratio": 2.1456892269805765,
-        "market_cap": 367059.2056715582,
-        "pct_from_low": 4.538128670121166,
-        "avg_volume": 4526751.19047619,
-        "volume": 7692697.0
+        "price": 1181.5999755859375,
+        "day_change": -4.954953185758384,
+        "volume_ratio": 2.2150614704307054,
+        "market_cap": 367899.8553551418,
+        "pct_from_low": 4.756258660551029,
+        "avg_volume": 4528872.285714285,
+        "volume": 8747669.0
       },
       "technical": {
         "symbol": "AXISBANK",
-        "close": 1178.9000244140625,
-        "rsi": 32.73,
-        "adx": 20.14,
-        "atr": 24.2,
-        "volume_ratio": 1.68,
+        "close": 1181.5999755859375,
+        "rsi": 32.49,
+        "adx": 20.29,
+        "atr": 23.85,
+        "volume_ratio": 1.99,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -148,7 +148,7 @@
           "Volume Expansion",
           "OBV Distribution"
         ],
-        "support_20d": 1177.0
+        "support_20d": 1175.0
       },
       "news": {
         "score": 50,
@@ -192,7 +192,7 @@
         ]
       },
       "combined_score": 78.0,
-      "added_at": "2026-09-24T14:12:48.325925",
+      "added_at": "2026-09-24T14:42:29.645255",
       "first_seen_price": 1198.199951171875,
       "first_seen_at": "2026-09-24T09:41:52.118193"
     },
@@ -297,21 +297,21 @@
       "symbol": "ICICIPRULI",
       "base": {
         "symbol": "ICICIPRULI",
-        "price": 465.79998779296875,
-        "day_change": -3.859651642318111,
-        "volume_ratio": 5.357135496564847,
-        "market_cap": 67577.42923888574,
-        "pct_from_low": 4.390292448556783,
-        "avg_volume": 1610777.380952381,
-        "volume": 6857300.0
+        "price": 465.5,
+        "day_change": -3.9215686274509802,
+        "volume_ratio": 5.080857882505761,
+        "market_cap": 67533.90754635,
+        "pct_from_low": 4.328677528782895,
+        "avg_volume": 1597804.4285714286,
+        "volume": 7100734.0
       },
       "technical": {
         "symbol": "ICICIPRULI",
-        "close": 465.79998779296875,
-        "rsi": 39.6,
-        "adx": 17.32,
-        "atr": 15.49,
-        "volume_ratio": 4.21,
+        "close": 465.5,
+        "rsi": 38.98,
+        "adx": 16.8,
+        "atr": 15.11,
+        "volume_ratio": 4.3,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -346,7 +346,7 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "ICICI Prudential Life ESOP Allotment of 10,142 Shares Sep 2026 - kalkine.co.in",
+            "title": "ICICI Prudential Life ESOP Allotment of 10,142 Shares Sep 2026 - Kalkine India",
             "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaV9paUtWb3ZZaWJ6Vl9fQ3ZlZm1nbjY5RWRJUFo0Yi1ELWEzN0pKN2JJakNmT2JFbUUtdnNtLVdzOENUTEo5aC11OXlrUDB2cDNONWtmR0dvajhfdFNva3diRkZKM2c2blc2Yk1xWjRXT3lxbFZick1CRmsxREo2aGdFNGJZMzRVTm1JXzlBRVZZY182VVF4WHhVM0xIRmxmVjZsUmw5WDIzWl9nb3ZucDdCT3dsdjg3UXR3OUhSVTdsRURVNXdIaU1NWlk1NlE?oc=5",
             "published": "Tue, 22 Sep 2026 09:16:00 GMT",
             "score": 0,
@@ -374,7 +374,7 @@
             "label": "Neutral"
           },
           {
-            "title": "ICICI Prudential Life Insurance Name Change Vote Results - kalkine.co.in",
+            "title": "ICICI Prudential Life Insurance Name Change Vote Results - Kalkine India",
             "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOG5rZzdPcklFVFhNN1hxMmlYd3NnRVNwMXZYaDNHZFMtOEc0bDVRS3p4NWRFZG1GS2Y1NUtDUGNPa2p0eXBoS3RxdTR1NjVBd05ycWxXbGN0aFFTTEsxa1lCVFZXZU1VVjJSZWExRG5mdVV4ZzJnWnlpdEVSblRQSUJlU1hnenU0akJRRmQ1YUg1eDlQY2lpZDdjaVVSa3dZNFBVRE83TEt5US03TTB0Z2RUb3NQbWZZXzZTZUZ2T25acEY5cXQ3VQ?oc=5",
             "published": "Sat, 19 Sep 2026 14:49:00 GMT",
             "score": 0,
@@ -383,7 +383,7 @@
         ]
       },
       "combined_score": 58.8,
-      "added_at": "2026-09-24T14:13:17.969339",
+      "added_at": "2026-09-24T14:43:04.195186",
       "first_seen_price": 456.8999938964844,
       "first_seen_at": "2026-09-24T09:42:41.430052"
     },
