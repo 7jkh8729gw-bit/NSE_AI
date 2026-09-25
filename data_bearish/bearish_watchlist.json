@@ -390,21 +390,21 @@
       "symbol": "INFY",
       "base": {
         "symbol": "INFY",
-        "price": 999.0,
-        "day_change": -1.5278462296697881,
-        "volume_ratio": 3.8224492913182173,
-        "market_cap": 404629.3215441,
-        "pct_from_low": 1.6616592178115615,
-        "avg_volume": 8244731.857142857,
-        "volume": 2269085.0
+        "price": 1000.5,
+        "day_change": -1.3799901429275505,
+        "volume_ratio": 2.295989049484022,
+        "market_cap": 405236.87307795,
+        "pct_from_low": 1.809093012087706,
+        "avg_volume": 8276639.333333333,
+        "volume": 2939142.0
       },
       "technical": {
         "symbol": "INFY",
-        "close": 999.0,
-        "rsi": 29.71,
+        "close": 1000.5,
+        "rsi": 29.95,
         "adx": 21.09,
         "atr": 25.07,
-        "volume_ratio": 0.28,
+        "volume_ratio": 0.36,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -418,11 +418,9 @@
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": true,
-        "patterns": [
-          "3 Black Crows"
-        ],
+        "patterns": [],
         "setup": "DOUBLE TOP",
-        "score": 62,
+        "score": 57,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -430,7 +428,6 @@
           "Lower High / Lower Low",
           "Double Top",
           "Near Breakdown",
-          "3 Black Crows",
           "MACD Bearish",
           "ADX Trend Strength",
           "OBV Distribution"
@@ -478,8 +475,8 @@
           }
         ]
       },
-      "combined_score": 59.6,
-      "added_at": "2026-09-25T09:42:39.227284",
+      "combined_score": 55.6,
+      "added_at": "2026-09-25T10:13:44.214913",
       "first_seen_price": 999.0,
       "first_seen_at": "2026-09-25T09:42:39.227284"
     },
@@ -487,21 +484,21 @@
       "symbol": "JSWCEMENT",
       "base": {
         "symbol": "JSWCEMENT",
-        "price": 114.5,
-        "day_change": -1.0457169596806508,
-        "volume_ratio": 5.455302857308167,
-        "market_cap": 15461.450479,
-        "pct_from_low": 6.855893863861217,
-        "avg_volume": 1288313.238095238,
-        "volume": 506026.0
+        "price": 114.9000015258789,
+        "day_change": -0.700023822489551,
+        "volume_ratio": 3.188078583479003,
+        "market_cap": 15515.464485846298,
+        "pct_from_low": 7.180156562610536,
+        "avg_volume": 1294614.9047619049,
+        "volume": 638361.0
       },
       "technical": {
         "symbol": "JSWCEMENT",
-        "close": 114.5,
-        "rsi": 27.57,
+        "close": 114.9000015258789,
+        "rsi": 28.31,
         "adx": 37.98,
         "atr": 2.42,
-        "volume_ratio": 0.38,
+        "volume_ratio": 0.48,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -536,13 +533,6 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "JSW Cement IPO subscribed 2.78 times so far on day 3; check allotment steps and more - Upstox",
-            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUE1fNW90YVVreWJBdjR6aXZvcE1vRHlhZXFpaFFEaVpIMmZvX1FQbG1WcXRIbTJ3U3REY0pzT0FPNm9XUTYwV0JDeE1OOEUwWGxhRE8tdHdWeU5Cal92QWlZQWxJNDRWVi1KcWdrZmtrd05SX1M5bTBaQUdFZVY2VTFzWUZNQ0JJWk1FZnFmeGtEY1ZSQ1ZDaHhJUVliR1doMVhSQUxoM3hpM21Vd0Z6OW0wOHNvTDFFRFlzMGdDUk5NM0NMY0pNQWZDT0E3Smg0RzdyclRTRGMtX1hPV1hsYl9n?oc=5",
-            "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
             "title": "Vodafone Idea, JSW Cement, Ola Electric, Central Bank of India among most traded stocks on NSE today, 22 May 2026 - Livemint",
             "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPU0drSFZVRWJxWUExWlFYdldwX2RlYkJKX3FoZ21DRnZVVVVTMHQ5VU1oNGREV1pLTzRKeHFXeXQwam1KMmVJcHBOWEd1OV9mYTF4WHpLV1ZRbnJjVnhqbzFvemNjRFA3eWw2em9zNG5mdElwcnVFT1VDV0dmOXVESE1EU2JqWFhxSC1DdllRVTZGVzZaQlMydU9TLWhmejdSNV9GS0otYmlPVm1rTDFRTF9iSTNpczNZVmdHUk9xQnEzdXVnOUM0bS1jQkpwbThUYks4a09VM3ktVHZ4TW1oaThEek5rUjY5VHdQaDExN0h1Z292X0ppLTFkUXFmS08xTnlTcF9aUWhxZUHSAZACQVVfeXFMUGFGOV8wZ29vX1hiY25ieFFIVjBKNjZBZkx4aERJZkZfX2VobWNTWlZrY1VVdGlwNDZKV09MX1FYY2pQUm82ekpteUpnRDlRZkpqbFRlZTc3c3ZEd2xYWU1PYjJXZmpRZkpuZ3NzNXpGVzF0alk4S3FsODZ3RE8wRXZIMXpfdXJ4NW5UOUMyQ3k0RVVYeGhPMS0tZ2pWZDU3cGZURFlIUGx6TWpOQnpoTGFOTENqUWRwWjBrVWpoZ3g5bnF4dUJScE5rY25JSDZHWVdsR0Z1TE1xY3ktaUVCQjBYOW0tRzBUS2F5LTZLaS1iNFZ5cEJpUHRlQjVjcHZibXBOT2RBUHpNZHVjZzQ2US0?oc=5",
             "published": "Fri, 22 May 2026 07:00:00 GMT",
@@ -569,11 +559,18 @@
             "published": "Fri, 06 Feb 2026 08:00:00 GMT",
             "score": 2,
             "label": "Neutral"
+          },
+          {
+            "title": "JSW CEMENT LIMITED Share Price - Live NSE: JSWCEMENT Stock Price & Chart - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxRDF3VEhNV1RoaDJVVV9LMG5tQUc3RmxQcWw4R0pPUkZTdUJHSUhGVzU0THVLSFBTZG5MSlVvOFFvZ1pTSHRNUEQwbm93S1M0T2tjQWtFUHE5UmdQS1ZiYWNtVFg4aE5F?oc=5",
+            "published": "Tue, 05 May 2026 11:36:22 GMT",
+            "score": 0,
+            "label": "Neutral"
           }
         ]
       },
       "combined_score": 54.4,
-      "added_at": "2026-09-25T09:42:44.871068",
+      "added_at": "2026-09-25T10:13:49.626015",
       "first_seen_price": 114.5,
       "first_seen_at": "2026-09-25T09:42:44.871068"
     },
@@ -677,21 +674,21 @@
       "symbol": "CESC",
       "base": {
         "symbol": "CESC",
-        "price": 137.8699951171875,
-        "day_change": -1.5284618767297735,
-        "volume_ratio": 2.5975221390334773,
-        "market_cap": 18275.638871158815,
-        "pct_from_low": 0.17406995203779602,
-        "avg_volume": 1716470.238095238,
-        "volume": 321017.0
+        "price": 139.25,
+        "day_change": -0.5428144680048759,
+        "volume_ratio": 2.421178226228592,
+        "market_cap": 18458.56823775,
+        "pct_from_low": 1.1633717179084382,
+        "avg_volume": 1732070.2857142857,
+        "volume": 648618.0
       },
       "technical": {
         "symbol": "CESC",
-        "close": 137.8699951171875,
-        "rsi": 26.77,
+        "close": 139.25,
+        "rsi": 28.62,
         "adx": 19.99,
         "atr": 3.22,
-        "volume_ratio": 0.19,
+        "volume_ratio": 0.37,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -752,7 +749,7 @@
             "label": "Neutral"
           },
           {
-            "title": "CESC Share Price Today, CESC Stock Price Live NSE/BSE Updates - The Economic Times",
+            "title": "CESC Share Price Today, CESC Stock Price Live NSE/BSE Updates - economictimes.com",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFWlBEaUR1ZGhYUXlaQTlXU3FYdzBjY3dZMzZnZFlCRUtQUE4wSmppb2ZMcGt3cFp6NVpMZjRUV3pyWTBac3ljQWZMMk02LXhxRHRWeExIcWRpSUgtZmlKbnRianB5NVdJRGxxQWRwUzE?oc=5",
             "published": "Fri, 28 Aug 2026 07:00:00 GMT",
             "score": 0,
@@ -761,7 +758,7 @@
         ]
       },
       "combined_score": 47.8,
-      "added_at": "2026-09-25T09:42:13.769554",
+      "added_at": "2026-09-25T10:13:17.647699",
       "first_seen_price": 137.8699951171875,
       "first_seen_at": "2026-09-25T09:42:13.769554"
     }
