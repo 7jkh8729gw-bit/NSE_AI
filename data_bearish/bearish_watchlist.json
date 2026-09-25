@@ -290,6 +290,480 @@
       "added_at": "2026-09-25T06:19:01.067978",
       "first_seen_price": 1155.0,
       "first_seen_at": "2026-09-25T06:19:01.067978"
+    },
+    {
+      "symbol": "TCS",
+      "base": {
+        "symbol": "TCS",
+        "price": 2062.199951171875,
+        "day_change": -1.188310916536895,
+        "volume_ratio": 3.9243634176571125,
+        "market_cap": 746302.894671417,
+        "pct_from_low": 4.141203780710996,
+        "avg_volume": 2794786.761904762,
+        "volume": 818926.0
+      },
+      "technical": {
+        "symbol": "TCS",
+        "close": 2062.199951171875,
+        "rsi": 30.39,
+        "adx": 20.19,
+        "atr": 57.8,
+        "volume_ratio": 0.3,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": true,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DOUBLE TOP",
+        "score": 65,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Rounding Top",
+          "Near Breakdown",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "OBV Distribution"
+        ],
+        "support_20d": 2038.1
+      },
+      "news": {
+        "score": 60,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "NSE Academy launches Industry Honour Certification courses for BCom students in partnership with TCS iON - NSE",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORmx6Y3dnb0txRUhiYmtrS2dTbHpsRFdTNmFpNVhzN3V1a0R1dGNWMjBaYmpaTElrTWE0MHRqVG1tTVBmZHVEN0JFM1JrWUhoaDZoMzV0cHdkbmt6YTdhNElCaElEa1ZKdG9feGV5MFhJUk1YQ2o3QlR3TmNRMnBhT19PYjVqTk9jZWI5NGM0SExYLTNPVjk5OEtYSVJWaXd4NFNnM2RVS1FFdGEzZU1CRnpaS3RTX1JzTEJrTHp4SjBBTlpBWi1PLVFJQTZGX1ZNWFE?oc=5",
+            "published": "Sun, 05 Apr 2026 13:02:40 GMT",
+            "score": 2,
+            "label": "Neutral"
+          },
+          {
+            "title": "IT stocks fall: TCS, Infosys, Mphasis, others drag Nifty IT down 2%; check key factors behind today's drop - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMkp1SzRrXzl5VXVtZUVEaFY2Y0FrZWYyTDJuc3lQNXBSQWg2eVBxbGpPbVA1VlFmdGxSUmY4cnkyZDEwNmJSUkxGbUVwMlhIMDZlbmNmN2Itc2hyVjhxQ3VtNDI4Wlp2Vk9kRzVONl81WU5qd20wQmFGSFg0U2dZNzBfZjlBRG5pMFVvNzJGUGJGdmpiSE5kczRyZE1Wd2xnZWxQaVhCRXZJZWlNRVBCaUl4YVhlQmI0ZGN4Y3dmNXZNaWdlSmQ3ckJXNXFNUndYeWRJbWl6cGhtczh5S3VoSTNHam5Ccno0c2VlUXNuU2g?oc=5",
+            "published": "Sun, 16 Aug 2026 07:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
+          },
+          {
+            "title": "India IT stocks climb as strong TCS earnings lift sector sentiment - Investing.com",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnQydFpIaWNvbGpkUTV0bDFKOUd4SWY3aWNCbUNQZ2xidWo2SzBsZXVQSklkRzZqamJ0RTQtNE5VWktZSEludkdid2Y0SWY2Zk03VlZ5OXN0aEpyYmJOUTh0SmpLa0U2OHVZdmVreGpGMHBRSTUyaktjTnZ4cWs4VDVXaTJnZkdJMnlsdWhFcHYzMG9kQTZwMkZrUFFwNGk5ZUR3eGkyWjhLUGY2c2s4WUJqSEk4dE5NaHBacnRGOGI?oc=5",
+            "published": "Fri, 10 Jul 2026 07:00:00 GMT",
+            "score": 2,
+            "label": "Neutral"
+          },
+          {
+            "title": "Infosys, TCS shares jump about 3%, Nifty IT top sectoral gainer as AI spending fears ease; US Fed decision... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNUJzZ3JIWVdvRVd6QUo4LWsySWoyT3UxVlVVMk1wUkRKWjBQU0lZdldrTXFPMzNIYTJPeUZpQ2ZIdDMyLXFDRURCRm5jbkFTSGt4THBPUzRLNGdJek9YcENyZmYwc3o2aEdscndNdjU0UjlUSTZ3TXc5ejBTTlFaTjdJM3Nhd1FsOTFEMUk2bzRod3czYmQ3cFZmMWtqN2QwMHJRMldWbDAyUWtvNEx6YXQtTTRxY0NQakxJQTJFT21xQ1V3YlQwcDMzM044NnJweXRWcWdKVzVldVVDZmIzTXFVTHYtUGNKVllYY0lSOUJyU1lxbVowWFNVTWtCS2lJYXfSAYcCQVVfeXFMUDBvOUZLOGw2NU41X1FLamlSYlRmaHFhYzhIYjc2TUhwRmN0Z3MyVjZlX1B1ZFRLbjh1ZERsWDQtZ1FCRWtva2Jvbzk3cXdVYWVzTHFnamlQY1A4OEItVzhHZWw1SlF0VnJnbHpQdUJuV2lnWkVweDZGUG5Ga0h0Z1FWeGZFeXdDbDhFTmkyRkZacV9tZjJRZnJ1Y3dKRUg2dmVGZkkxWG9XZVAxNEpBay1KWGEtRnl4WjhZdGRtTHZJMjM1VUIyY3pPUHg4NkxXdUh6WUVGWUJoOXJLcEU5Zll0eTUwMF85Rm1hNWt4Y0xGUG9Ibjc0ampvZ1AxUUxIS2hrUmxIQW8?oc=5",
+            "published": "Wed, 29 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "IT stocks selloff continues! Infosys, TCS crash up to 6% - what\u2019s driving the massive rout - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQZnRtWUt4S19aMWR6Mk1tS2Q2WkZXUlhIM2tEVXlyU192d09SNXdVX0tFRkhFVWdaZm9DakJuTGdIbFcwaTVhQUdXQnhleFcwZ2JGcUZHMmxkMG9XT3hOeGRobDk4NFdzeHMwSHpyNVJqM1F1MjlEQTVqbFpHdWFONGhwT1k0VktrckhfNDM2UDF3dWNqRDB2Z2gxVEFPNnNOR2o1VTVXLUlZOUNWbzJnQXI0NEJlZWZhcmEyQkNmVGlBX1liT0VnVmpVWU5Nb0EwVTRyd1pZVzVFM3NvNUpDVGVmUHNJTEhBMHhJU2V0eFNieUlkTTluZ3hGV2NzTXhRaWxEai1RRUszclA1UWxORUpHS00welE10gGeAkFVX3lxTE9XZzRWblFTTzgxTHFYcEx1LS1IRWdrUTh6czNPQkQ3blN1dVdZb3g0Q05aOWRHT01xS3FzMmlTenFCSlhUVk1MUE1BTGQ0UHljQUZMNXpybENhT2kxTkVlQWttTXFBTjJFZXpmX0p0aC1FMmNjU0Vjd204UXpWVmdCQ00yaXR4RlczR0Nyd05uWVdtMWkyYVRGb1BSaTVMMjRNX1ZRcV9hNTZaZUxqUkpqdjVTcElIYS1WLUdmY3k3WjFGUDZtNmtlN1JacTd0c0JCb1p4LVRiSnExOWVwSzNSbklsRlNnNnl2S21Pai1SZFpneXVyYnk0VmpDOGFuN2JOUmR5X3NiV1JzYTdiRy1QelBOcnI1NTh3REhtQ3c?oc=5",
+            "published": "Fri, 13 Feb 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 60.0,
+      "added_at": "2026-09-25T09:43:33.133108",
+      "first_seen_price": 2062.199951171875,
+      "first_seen_at": "2026-09-25T09:43:33.133108"
+    },
+    {
+      "symbol": "INFY",
+      "base": {
+        "symbol": "INFY",
+        "price": 999.0,
+        "day_change": -1.5278462296697881,
+        "volume_ratio": 3.8224492913182173,
+        "market_cap": 404629.3215441,
+        "pct_from_low": 1.6616592178115615,
+        "avg_volume": 8244731.857142857,
+        "volume": 2269085.0
+      },
+      "technical": {
+        "symbol": "INFY",
+        "close": 999.0,
+        "rsi": 29.71,
+        "adx": 21.09,
+        "atr": 25.07,
+        "volume_ratio": 0.28,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [
+          "3 Black Crows"
+        ],
+        "setup": "DOUBLE TOP",
+        "score": 62,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Near Breakdown",
+          "3 Black Crows",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "OBV Distribution"
+        ],
+        "support_20d": 991.6
+      },
+      "news": {
+        "score": 50,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BbEJTdmZNbE5BN0ZRWWZpd2tZZnRCZWV0MFdhYW5nQ2NSSTgzUlI4TjVPaU5BV1FxQkpYUnFWa05Fb09uMkxlNDhUWVpvV2JLWGIxUmh3SUFKSzEwUHZpX1IyTVM?oc=5",
+            "published": "Wed, 23 Sep 2026 02:45:48 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - Univest",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zZmU3SmpYRTVHcTdlZFpiRzYzR0I4aUV5dnlnZTBxYUVrZTdnSmw0alFfWTZFX2hqMHlyWHpOOVR4Zk5PTFJ4a3VfOEVBN3U5R0xxcU1pZTNlTDgxM2x1MmJ0SUo3ZnBXRGJyTVFVYU9zUkZtV2o4?oc=5",
+            "published": "Sun, 23 Aug 2026 04:44:55 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Infosys Expands Mets\u00e4 Group AI Partnership; Shares Rise 0.56% - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3lEQW1zMHVXd1NFSzkzdVVQMmpRNDNpOUZXX1RmV1ZpR3hPLWxfWEtEVEpIOVNkSHFVX1FpN01veTVjR3dHNUI5LWNwS21NTGlfUkt6OFl0Z2tRNkJGV0ExZ1piVHZ6WjEzNUd2RTNuRWVWYWxKOTdpdjRha1dvVXNBbTF4TGxFRmVURHp2enAzWUpDVlZj?oc=5",
+            "published": "Wed, 05 Aug 2026 07:00:00 GMT",
+            "score": 2,
+            "label": "Neutral"
+          },
+          {
+            "title": "Infosys shares down 5%, hit 52-week low: Why IT stock tumbled after Q4 results - India Today",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ3AyNjZzVlBPSHFkanU3bndmdXFMWjVFVVBjUm1NYnZva1NlNGtYWTEyYXhubmlfUnpMd3lNalZwM0JUd09NUVFpbHJvYTlNcWw4SFpRVTJ6TFlFb1h6Z0dmWFo3Zi05OFJrTG1tbjc5cWNOQmNzRkJjekdpeGp6WjA3cEQtVFFsdklhN3VQVUlSbVVpS0YwUk9HcmJ4LXJVQ3JpNTAtYy1ZZEJ4VzdJelMzc1l6STZ4ZERjOWZTX1RNclU1aTZvQmlhT0g5OTVVSnk2d2V4SdIB3AFBVV95cUxNc0p5alZFdEhpU0FkUllrLU5VU2c5MC1Idi1RdUNhV2sxYmwxeks5LXQxZDFLUHVXNkpqOHNPV1hCUDVya3hyMVJrQ0lrLTk4QnZYSTRqcElNOExJdmRLeTNGSVBLWTJrRlMtTnJJNUpWcTJ5THc4dVhCN01pT0ZCTER2NzZRTHNIVzZhQWNMSERlaXhHbER4Q0FNRGcwM3ZoQkxUV2wwbnRnamtjSVFzYmpUalZPMHF3cEFzdm1PTlpua0daUHN6d0Uwa0p5YzlYXzU5Q0VuUjR2d2d2?oc=5",
+            "published": "Fri, 24 Apr 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "IT stocks drag Nifty despite firm broader market; Infosys, TCS, HCL Tech fall as Fed signals rate hike... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMExtR1loaFhUdWwtSkY0MHVGcWlzQ1JucXJuZ3R2bURNaTl4VXEtZV9Ud2hJVW85ZHVlcmpDS1RKSFJDNUcxV2FNWUJvX25hZm0xeXF2RXhfZUZkNkNhMmNHdXV5bzVSNnlBNVI4SXJlc0FaODg3N1NvWC1mb1Y0aUlCVEU1SHQzeDJ6TEhackhkRFhGV3RkTVdQY3BOYVVYWnBGWHNta0dwWXdsNGhoWTJIc1ppa1JQV2RDMktWR1czaDdQdDZGR1J6TUFleV9jRVNLNU4xYTFMZC1KWlVoSllpRUNVTXhRdXhqclNmb3BoVExDVWVYa2Y1QnlNQdIBgwJBVV95cUxQWXZQbkctbFN3SU5aMF96ZTYzZkdEcENvZDRxdFZhbGNWUXByY2VjU05oZEhnM3BDV2EzRDFiYThja3RLTDc2WTRCOVM0Um53SDVuakVWQmxscTZsMGpWYUVBWko2VWpLWG9yS0RFd1FqOGZsckpUZkptVFh2dnN3NU9VSUh3QVlSTDJIb2RQbmZkbzg5WDhJd0RVLVBCQnBWN0xLcXRsZTRlNm5CWkNURUo4SlB4dnFoUktGTnZEXzFDV0cwV3ZRT3pXUm5wb2gyMzFsaWJJOGhaVlhQM2lVa281QXFYamRGRlBQc2U5bmRIaGkwVENjRkNicmFCR3NrOUlJ?oc=5",
+            "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 59.6,
+      "added_at": "2026-09-25T09:42:39.227284",
+      "first_seen_price": 999.0,
+      "first_seen_at": "2026-09-25T09:42:39.227284"
+    },
+    {
+      "symbol": "JSWCEMENT",
+      "base": {
+        "symbol": "JSWCEMENT",
+        "price": 114.5,
+        "day_change": -1.0457169596806508,
+        "volume_ratio": 5.455302857308167,
+        "market_cap": 15461.450479,
+        "pct_from_low": 6.855893863861217,
+        "avg_volume": 1288313.238095238,
+        "volume": 506026.0
+      },
+      "technical": {
+        "symbol": "JSWCEMENT",
+        "close": 114.5,
+        "rsi": 27.57,
+        "adx": 37.98,
+        "atr": 2.42,
+        "volume_ratio": 0.38,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": true,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": true,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "ROUNDING TOP",
+        "score": 58,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Rounding Top",
+          "Near Breakdown",
+          "MACD Bearish Crossover",
+          "ADX Trend Strength",
+          "OBV Distribution"
+        ],
+        "support_20d": 112.83
+      },
+      "news": {
+        "score": 60,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "JSW Cement IPO subscribed 2.78 times so far on day 3; check allotment steps and more - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUE1fNW90YVVreWJBdjR6aXZvcE1vRHlhZXFpaFFEaVpIMmZvX1FQbG1WcXRIbTJ3U3REY0pzT0FPNm9XUTYwV0JDeE1OOEUwWGxhRE8tdHdWeU5Cal92QWlZQWxJNDRWVi1KcWdrZmtrd05SX1M5bTBaQUdFZVY2VTFzWUZNQ0JJWk1FZnFmeGtEY1ZSQ1ZDaHhJUVliR1doMVhSQUxoM3hpM21Vd0Z6OW0wOHNvTDFFRFlzMGdDUk5NM0NMY0pNQWZDT0E3Smg0RzdyclRTRGMtX1hPV1hsYl9n?oc=5",
+            "published": "Fri, 18 Sep 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Vodafone Idea, JSW Cement, Ola Electric, Central Bank of India among most traded stocks on NSE today, 22 May 2026 - Livemint",
+            "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPU0drSFZVRWJxWUExWlFYdldwX2RlYkJKX3FoZ21DRnZVVVVTMHQ5VU1oNGREV1pLTzRKeHFXeXQwam1KMmVJcHBOWEd1OV9mYTF4WHpLV1ZRbnJjVnhqbzFvemNjRFA3eWw2em9zNG5mdElwcnVFT1VDV0dmOXVESE1EU2JqWFhxSC1DdllRVTZGVzZaQlMydU9TLWhmejdSNV9GS0otYmlPVm1rTDFRTF9iSTNpczNZVmdHUk9xQnEzdXVnOUM0bS1jQkpwbThUYks4a09VM3ktVHZ4TW1oaThEek5rUjY5VHdQaDExN0h1Z292X0ppLTFkUXFmS08xTnlTcF9aUWhxZUHSAZACQVVfeXFMUGFGOV8wZ29vX1hiY25ieFFIVjBKNjZBZkx4aERJZkZfX2VobWNTWlZrY1VVdGlwNDZKV09MX1FYY2pQUm82ekpteUpnRDlRZkpqbFRlZTc3c3ZEd2xYWU1PYjJXZmpRZkpuZ3NzNXpGVzF0alk4S3FsODZ3RE8wRXZIMXpfdXJ4NW5UOUMyQ3k0RVVYeGhPMS0tZ2pWZDU3cGZURFlIUGx6TWpOQnpoTGFOTENqUWRwWjBrVWpoZ3g5bnF4dUJScE5rY25JSDZHWVdsR0Z1TE1xY3ktaUVCQjBYOW0tRzBUS2F5LTZLaS1iNFZ5cEJpUHRlQjVjcHZibXBOT2RBUHpNZHVjZzQ2US0?oc=5",
+            "published": "Fri, 22 May 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Block Deals: AP Asia Opportunistic Holdings sells 3.4% stake in JSW Cement; Madison India pares 2.2%... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUEhmbklRaGJTSU1qMHVKNWhJcDlpVDlBQXNjcE1tZ1lod3JvN05vdHM4VC1EMTVFNjExU3dMMkdYWThwNG5RRGJ0UldoRUVCSG1lN1QtNmRvYm5WWC1yeDQ5NHZSVkgzMjJmNEowUzByLUtTWnlKWlg1SjMyQ1Z5cjE4NG1YaWVLX3IzUWxLakp6MFJYWWhYdE1EU1dvcm41VER1Tk1NOG5IYS1CeVZKV2p4Q01yNXZTT21yX0VkUWFtb1piUm9hUHJMMDV6Z2dVSXJRdmNpR2hwRFJoMklZVmxWRWcxelVOMzhjbnpBNGNndDZqY0dabHE1RUNnQWpnMVZ3MTRhd0FVVmZrMXfSAZMCQVVfeXFMTl9hbmxMaVdldUx6VUpyb0FxWGxpMXBvN0Zkd0htZ1BGMV8weFU2UW1BTzM0aF9lQmJsX3RKdHZQb0c5dXE3TVpBMnFjbzV0V04yOXJCR1JEdUN0aWJZVmREYlFhUFctUXlJb3UxSnNnQm5RYW1mSHozUFNVdUp4LXVjVEw2WXBnZ1dvOURVN0cxZ19Jc1Ffbl9zeHZoZllpOE1kWXJCMHd3X0NVYXhqWDgwanltQ3J5V2UtSEtyTFdQbWxjT1NzRkxob3hLWnN0b0xmSHh4WUFFV3NOaVcya0JZVU1WdzdjSVlRMnd3Z3VmbzZkVEpXa3R5MFpST0tiR2ROOE9PTzJFbnZSMXByOW5Yc0U?oc=5",
+            "published": "Fri, 22 May 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to Watch: Dabur, Adani Ports, Cipla, JSW Cement, Allied Blenders - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNFdqaDd0QU1nbnBFdVZZOTYzVVgwM2trTVBySUZ1Z1JzbkNjZmJiMHZoZzk3NzhpcjNNQU5GZjVRUUsxTURmTWhiQW9haVVhZVhRUkEwcXh0T2hiMWpEdll3RjlCNjJhMkRPMjRSRnlWcm1Td3VjX29VV3otbHhiQ0xjdjExYUVMSHd3eU9vLS13MTU1d2g4M1BQZGplaWVOOF80M2J6SkJEMUgyN05oUE81RnRuSHZobVFKLVNtVWVjMS1FUjZnOEkwbjdZd9IB0wFBVV95cUxOUmpPN29FbHdMVWd2ZFRfb0lGV3owQzcxWksybGliRjNxblhkZ3htdmg2bWpkbUhyT1V3VVpwbkdmSlFVNFoyWUxNXzhWMExIUkROdl9EWjhkZXlHeS1vbmV2b05BYmJiMVNaUmlBRmUyNXh1dDV5TmVDZmgwanljZWctdVhyWlBsQkVSZVRvNHJJdmgxLUgyWUN4SkF5NVB3bGN5emR2V3ZfMWNZMXIteVRiWVUxYUNJSERBckNOQWd2eGtlM0oyT0t4Ql8wNjlXTzZN?oc=5",
+            "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "JSW Cement Limited (NSE:JSWCEMENT) Not Lagging Industry On Growth Or Pricing - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaDVCMzQtVHN5bmZ3U0NuaXhRcGJncWEzeWRFNFpoR1FEZ0JjOEpEdnV1VWRUTm5ZbnQ2U3UzbXUwbTJrT0dneGo5TXpSSDlJY0dyalhpNzg0QXVQR2o0UkdSMWk0VkhSVG9wRjUyc3dPWl9XQnltcllnSmFsQnIyMHI1dS12OThXQXdoNmJra3pLXzdleGFYY2QzVktQWnZKZFlLNHN1YjR5QlNYbWFDb2YwUFFKMjFvNHFWVW5kVHJ5d2VMWDcwMWZUZWF2RnRlNTdKOHRn0gHbAUFVX3lxTFBEa2FZb2kycURmS0NXaC1rUVNpYnQxWFdYbjA2UHZhVnVKUjNmSGt2WUlMZnZucXpMUjhIaTYwTWhQRWRnMHRFbzFlb3I1c2c1aWxyb0ZzMjdtVkFTd01CTWlWajRiOFVfN1l1ZjA0SnZ6T2dQU05UYkZJSHF2NG5EcnIwSTdxV2ZPQ1RiRGRNdzhHbFBKT01CbmZ4TVVWclNoZmRNQmlZNUZzRzl5N0lMOWxMWjkydDdKSk83d1pZSkFDNjRSMmFaeTFIbFBpYVFtQWpUSzFBRzBITQ?oc=5",
+            "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+            "score": 2,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 54.4,
+      "added_at": "2026-09-25T09:42:44.871068",
+      "first_seen_price": 114.5,
+      "first_seen_at": "2026-09-25T09:42:44.871068"
+    },
+    {
+      "symbol": "KPITTECH",
+      "base": {
+        "symbol": "KPITTECH",
+        "price": 511.6499938964844,
+        "day_change": -1.0060911163937,
+        "volume_ratio": 2.771601896842859,
+        "market_cap": 13928.505493980692,
+        "pct_from_low": 0.7524687089695437,
+        "avg_volume": 1607914.9047619049,
+        "volume": 320868.0
+      },
+      "technical": {
+        "symbol": "KPITTECH",
+        "close": 511.6499938964844,
+        "rsi": 26.97,
+        "adx": 21.96,
+        "atr": 14.28,
+        "volume_ratio": 0.23,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [
+          "3 Black Crows"
+        ],
+        "setup": "DEATH CROSS",
+        "score": 52,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Near Breakdown",
+          "3 Black Crows",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "OBV Distribution"
+        ],
+        "support_20d": 507.8
+      },
+      "news": {
+        "score": 55,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "KPIT Technologies shares crack 17%, hit 52-week low as company flags weaker Q1 FY27: All you need to know - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSFZrWDJDUnlIQkloTlB4OE94RXIwLU1rZDBhNUxPQ2ZYYUI5OHJCTHZiVnY2VnFJdWRHWE53b2xzZm9WZy1fandEcXNtV2V3T1d4Unpya3loXzRucHJzUU1KZjBUWVZweDZNSlBnNTBDNDJQb194QUc2QUlGQlFvOFB5WFcwajNaVFViQnlDdlZLd2ZmYW5UOWVCemY4X3dxcTJqWWhsSmRubjktWGc1Z2FNY24wSVR0MXNLa2xzck9vT0ZxdHJuc1h0TlBnMGRvR2FRNTk2TEt5eWh5aVFZ?oc=5",
+            "published": "Wed, 01 Jul 2026 02:29:16 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "KPIT Tech cracks 15% on Q1 earnings warning; stock down 57% from 52-wk high - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZzBUVTZtYjR1NXdmUTJYNVpBcWRzbFpOWWxEWmpOSFotSUhXa3g3S252MUE5RmxybHNqMWFYYk9sUkc1cXpBeFctd2FvTk1jTHhiV2J3VUlZOHdEQ1VObWxMLXR3eTZ2WWx5bFAxNkE4WWtYYnJrcHNPZC1BTlhOdzFRZmtoTHdDWjNMVFRfcnVZVnhIZFV6WFlweTZQeXMxZHEwMGRkRHNkY28wLTg2bEZFdHR0c2gxbTB2cDlTdzNyLVJ1SGtSbnFUZkVneF9ydEJ4dlJZY2xiMkFxc2N0OWliaE5zZXR10gHuAUFVX3lxTFBlUDk1SENJQW1RY21zdHlQWEx1M2YzSndNdFA5dF9xTFk5UjVrdGJtb0NpczljdlNiend1UjBYc0tGcGlFWDFzQ1VsVk9ER1lCZXUwZU1EUG12VEV1RVZEdjVLZjFtSEZKZGowZFMzQ2k4R1dvWFdFVFRES3N0UlZzOTBtYjdfNmxEcGxBR0JxSVNaZlgyMXNRNDFKWG1ZZjVyVzd3ZHQtMnVUU1k4eXdvQkhRcFZQUlFQSnhCeXRnM00wVDJWMUNxczNqV2dPM0VZaEd4OXRqbkZYTGtrM3hLQXJmN01Udko0dmMxZ0E?oc=5",
+            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+            "score": -1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to Watch Today: Kotak Bank, KPIT Tech, Waterways Leisure, Advit Jewels, Genus Power, Ivalue Info,... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQT2tCc3RSR2hhaGx2c1VoQWNlNVlqenloZXhMRnFsc0J4S3RGeW83QktCbnhtMXdLWU5YZ1hxZ0kxNmxkWEJQTmF0VE8xVm9mcUFnTm5CYXFjRWNpaXRKSnc2NURVSHU1ZGV4MElsX0dpMS0yb3dIWElqbDhjbm5zbkg4YVk0TENTWllvQlRhVVdISS1QYmFETFZQVnl6TzRQT2t6Y2dwcFVvV0g5MlJCYkU3YWFEb0JwU0FjMUgtMGtGX09mZDl2cnF3UWNmdkp3QWJEbzhNb3JPS213MmtYcW9Jd052d2w2ZWJFNVBoRG1ud1MxdDRuenVxYTluNjU0Rk5wZ2IzUGlwTTUtNkFsWHQtejVlM1BjTzlyYUsxcVBuekZYZkJnLW1DN2Uyc2N6VGfSAbcCQVVfeXFMT2t0WVdxa1YxVGVjVS1tS3drMzN1MWJkajFZN2JuWEQteTFfckd6dDRHUFBjdFE1WGZEY3cwcm5XbWY2MC1Fbmd5VTZaZzJCLWJaSWVVZTBNWXN2TDdQWHdzNWJ2eWVYakFhcUxDQ3ZiQjdibUVrdUVScF9zeGJneFZNNzRqdEU0eGhCa2dKVGttT3lMc3JLd2xydnJzQnp0N3pjVmRtT2JHV3NiUjhyQnZvSlJ0RWdLN2t5QzNtN3ZoQlNhNXZNY2Q2WHhKTDJxLVZvQ0lTM2pYaXUzNzZYbW9ZdW94SXRLdzR0NzlLTDVSeTFURER6aFE1UVJmZ3hleHNUNTR3Rkl3ei11eUZDb19DWFkyc1dWTVZ3Z3EwY3lKZDlfZUxqOFpGT2lnQmt3Wnh0RXVPY0k?oc=5",
+            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "KPIT Tech share price crashes 15% on weaker Q1 business update. Buy or sell? - Livemint",
+            "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONUxScGZIaUszckZnMGNrNVhqcU1DdmdjTlozTTVNUGRjZ2xuWU4yc1E3Z3RTeHNVMVNHVkQzSGZqQXZaMTc2RHM1a0lWTmNhNDVHRkNzMFZEZkM2V2lqOFBKRm1OMllJYl9ZWldWcmFzTHJzQ1FxMTItYW1VM3c0SGktNXFtWnlOVXc1T1NITUQ0eXA0Z2RoWUlBVnRoZ284SndnLTJEcHdLRlYwWkQ1TlloMkRrZUtoaDV5aXVYdXI0YTctbDNxOURQaXdBekpqcllmRG1sZFVqLU11SzRld3lrUzNDLUM2SUNqbzBrYllKR1XSAfgBQVVfeXFMTTFYanM4aTRHcmMxSGFNVWlOS3V5WGcxOUotcG5rYm1scGc4N0F2RFduaHNJYnZXdVIxM2hqX1BOdkJGZkhKdE9GSnRINjhuTDNMbjVuRVpzUWI1cVpQZTdueWtYdXlueTRsdjZIOFJpYzBITlJzZmJOVFhPYkYtOHk2NU1jQnJWQzhFcHQwVFNSWmwxTGxabEpnS3dCWlo2eUxuaVVCQWd2ZFE0eFhrR2dSc2JiUVNzQ1NrRkp3RDlyMldWUThrTzZsYW4xYVZLMGVHNFlwc2NaQnlUVmVZcnhXN3k0WUZsZ0pRWW1zbE5NZ3JEMXZlLUU?oc=5",
+            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+            "score": 2,
+            "label": "Neutral"
+          },
+          {
+            "title": "KPIT Tech shares crash 17% as company expects Q1 revenue decline, sharp hit to margins - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPX1VacWRNVlNJQzZZUUZPXzIzc1JzRThULS1NOGFXVDhCaGVndERlZ1g4SHJndV92LWpnX1dFZUFNUDdjRFNxQWNvYU0xS3BFS3Zaa1JHRkdsckIwcks1UV9EYV9uRVhXZXhZZXNKbHBFbjBtUTQ0V1lRak81NXZIRGR6aVd0c3NQVzlBaTlqYWd1eVI1bVRSVnBkS0U5aTktcnpUOC05TTJxNXl0Z1l5eEVWNFNyakk2TDV0X0M2RlpSTkdlc2dRRkJyYWV2dzBINC12czhKVWlqQk0wQlZ4RnJ0eFZpSHp1b045UnRJVUp3WjZlajVScXB5UnlEQU3SAYQCQVVfeXFMT0dmcFNCOUFfRVhRbXYwbUpTSDgtTHU0X1dRMXZOVklORjNwdmU3UWpaamJhM0xBUkxaN1BLeHRBU2xqYmZjVk5fbHZHZGczcGZCVno4dFFNSTFUMUhSTEY3YjNKYU1tOTVzVFR4WExHU1FvOG5SN3R4SHNwT3ItR0NJNEtWMkZMMXh2ZENxdFFNRkVfczJjUi1rcW9jZzA0NDhaTmVCbmxabUd0SzRHU0ZqSkk4XzZmb1plZFZReGw0bEdiaWJTQVlfbm4tOU5nUFp5Y3VRbmVFSXJqRWhld0FEaDJzQ0RUNEhMZG9SbnV4YUNPcDVscFpXSHhEVC00SE0zZkk?oc=5",
+            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 50.6,
+      "added_at": "2026-09-25T09:42:47.851223",
+      "first_seen_price": 511.6499938964844,
+      "first_seen_at": "2026-09-25T09:42:47.851223"
+    },
+    {
+      "symbol": "CESC",
+      "base": {
+        "symbol": "CESC",
+        "price": 137.8699951171875,
+        "day_change": -1.5284618767297735,
+        "volume_ratio": 2.5975221390334773,
+        "market_cap": 18275.638871158815,
+        "pct_from_low": 0.17406995203779602,
+        "avg_volume": 1716470.238095238,
+        "volume": 321017.0
+      },
+      "technical": {
+        "symbol": "CESC",
+        "close": 137.8699951171875,
+        "rsi": 26.77,
+        "adx": 19.99,
+        "atr": 3.22,
+        "volume_ratio": 0.19,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": false,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DOUBLE TOP",
+        "score": 51,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Near Breakdown",
+          "OBV Distribution"
+        ],
+        "support_20d": 137.63
+      },
+      "news": {
+        "score": 65,
+        "label": "Bullish",
+        "headlines": [
+          {
+            "title": "Stock Picks Today: NSE, Dalmia Bharat, Bajaj Finance, Varun Beverages, And More On Brokerages' Radar - NDTV Profit",
+            "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNelRDbTZJYlJzVENfX2NlMTYyVHdkZTRVSjA0SFE3d0hXakU2NDc4c3FJdE45bnRLQ2t4Zi1PM2FLeWpGNkhiZjVNeERiSEdLVkJKYmdOMEY3LW5UaXktTGcwLXhFY1AyVjhnanZtd1YzYVJYX1pNaGFMRHc4eGhFOGRfWUh6akJPY0RxeWZjcTJ1cWZnTHdyWV9EN0s4dUdxUFJ1a3RRd0x1ZmJqU0tyT3ctT3p3REdvXzNJc191eUFvS1pZQ0l2R085NTMwQWpCNXhPUW5MQ3o2U1A5WEQ2XzRzVkJxZXpVeEloQmcxd1NQY0xTdHJwdVl3aUJxQ2diNmtFM2plVWFCZDQyQXNaYXo5cXRPOFhTend0VkUxb9IBpwJBVV95cUxNTmJHZ0Izd000TkU5RFZqQldnMHdnUDRjM1BXRWpKVkJSZmJydTg2YjBrU2x2NEN2cU9ycUNZSVRYcXpVTkluRWpwZHBvbGZtWlZzbkEwdnB5S3E0RXotdXN3QlRnclc5anJJMnhiTUJNaWliMVp5TXA4andjakl4MmFjTEtrdEpvLTFCcmUyTk10WTA3aEVDTlpyRW1hSF83RTRGeUdHLS12TnF5bDlOcWRtTmlXZTg1MWtzUG1XUHNZY1hBSWw1S09ZRXh4Vk41SEZkNFRrVWtyOW5XUGRZQ1ZXLUJOQzFIeWs2YWRSSTl5Ykp5bVAzUXk4c3FHMmd2ZzZuRjBnTF9nZllQSHl6QUpFWVYxZS05bFFxNHJ5aUdJVlRWOFdJ?oc=5",
+            "published": "Thu, 24 Sep 2026 01:35:27 GMT",
+            "score": 3,
+            "label": "Neutral"
+          },
+          {
+            "title": "CESC Share Pros and Cons 2026: Kolkata Power Utility at Cheap 13x PE and 3.7 Percent Yield - Univest",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11X1ZUN2FVT1FmeGQ0cGRDM1JYajdHcWdUajYwS05ORjZKODVxQWdBbUpiQS1SQk1oMFpNcGM2aXhGUUp0TnZtcUJXdVpLUEVIRU96S25EMXk0alpQY2lkM19zQi0zdw?oc=5",
+            "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "CESC Ltd drops for fifth straight session - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORlc4bFJIVGN4MFV5SGFjWnFwaHEtNVZ5UHJzbXNFYVJtVVdVTFF2azhKdkZCUkM2MWtLRnJrVkU4eXNWdDBjeUpYVGpVTTljUzMwdlFTYmVRNzZ4TDhxRFN3UUxwX3BBZEN3d09WYUhhQXFpdkQ3U0h2V2ZtcEE4MWdWZHNIZmZxSEoyV1RlNm9KRFVSTTA5MW1aUjNmZkw0YnNZbXg5WmN0b1Q1UWRyZ3p5TUFwUE9TNDJPNGg4LULSAcYBQVVfeXFMUFZtUEpHQUE3WGJ6QjhhWXFMN1ZYQkxnQ2F4LXNNYUh6c3BWOGFuQ1J1dFF3YlFLa3IzYkx2RFJTbEM4MzRQd3VzUksydGV2WmlfOVh2SHZvZk5sd3p0SlN2U2s3bXEzU3dibzF4LVN1QVMyMmFWQmRBVUJuUHh5b0E1b1c5LWVRT1BkakUtZF9LM0xjc3ZxTjN3MUNtNDUtSFFDemQwcmFEZ3dzazhyUU5lMlU5cUhOTUNIdVUxRDhucmx2eTZ3?oc=5",
+            "published": "Mon, 31 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to Watch Today: PB Fintech, Juniper Green, CESC, Dr Reddys Labs, Texmaco Rail, Voltas,... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPdF96UDdrYmc5cW5laVlSWl9RWm0tSG9TNUtrd2J5Q3lyMnlBMy0yN1ZRcWNLdU5yY0h3NVItR3ZqV1dHQzBmWjNfeXdSSndtWVYxdHIwU2VUV3RsVEJkR1hBcjkzRll6SElsXzg0c0JmbllxV0RmUkd6SmpWVS02Sk04NkhxSk1ibjEyYmZ0YjQ1X2w4TEpxNTB1WGlRQ2pmS2p4Z2phazREeXg2TE1sd3FLeV9za3M4b29KUl9XMWo0TDZvejJfWERkazNBZmZkT2w0Z0ZBbWs1Y2N2cVNubWVNVUhaNUxDTFBibVc3RzhJTm1VRDhDUnFyWmIwU2hQY1BET09VNnk2d1JJM0xWTFYtZzRjTjVrU3NYdkpNOWtfRjh5bGhDMDE1Qkd4QldVSXhmUGtrYmsyX05aNUp2dVFKUEJsMW4waTg1alU4WThyYWfSAdgCQVVfeXFMUGNwcnlCRzN5MHZjc1pXMlpvN2F5aUk0T3oycV9kX3JGU0I2UnpDamF1cDZWVG9hcTB0NkFjX2RoVG1SSWVtOTh5UTRIUUM4aGlYMS1EdDA3Q0loZFpuemVTSW4zOWUzV0dPaGQzN1JZRFZlUWtvLVdLMFQwY2czVDh3ODV1TG5OSzh3eTBmQTZMbkFHTC1SNnd1RUVUZ0FSYzJsbDgxYkJXUTk4QnRrVzJlLTcyekFlTW51d3FRclVkUm9pQUpLNy1RaFVISHk5TnRiU0JHaEwtWkhNeW9FaFdYUHE0RzA0NE81ajQ2TGRoS3dFSjkwaVZlZUd0a3B1SlVLb1ZocTBJV3VPNGItWEE3c3NzUk5hTHRraFhIQmF1eEZvUW00LTJQcWZDTGljY3QzbWJLYWRwelNuRTM4QjF1bWYxaGRZX21yMlcyaTZaNnFnUFpUUXc?oc=5",
+            "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "CESC Share Price Today, CESC Stock Price Live NSE/BSE Updates - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFWlBEaUR1ZGhYUXlaQTlXU3FYdzBjY3dZMzZnZFlCRUtQUE4wSmppb2ZMcGt3cFp6NVpMZjRUV3pyWTBac3ljQWZMMk02LXhxRHRWeExIcWRpSUgtZmlKbnRianB5NVdJRGxxQWRwUzE?oc=5",
+            "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 47.8,
+      "added_at": "2026-09-25T09:42:13.769554",
+      "first_seen_price": 137.8699951171875,
+      "first_seen_at": "2026-09-25T09:42:13.769554"
     }
   ]
 }
