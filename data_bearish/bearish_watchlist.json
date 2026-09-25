@@ -861,21 +861,21 @@
       "symbol": "FORTIS",
       "base": {
         "symbol": "FORTIS",
-        "price": 840.3499755859375,
-        "day_change": -4.2172452304782455,
-        "volume_ratio": 2.0758831572046916,
-        "market_cap": 63458.00620856023,
-        "pct_from_low": 8.752304388619244,
-        "avg_volume": 1030228.9047619047,
-        "volume": 1522708.0
+        "price": 840.4000244140625,
+        "day_change": -4.211540685026862,
+        "volume_ratio": 2.1530943992011418,
+        "market_cap": 63446.68460107954,
+        "pct_from_low": 8.75773851534674,
+        "avg_volume": 1042671.5238095238,
+        "volume": 1784003.0
       },
       "technical": {
         "symbol": "FORTIS",
-        "close": 840.3499755859375,
-        "rsi": 28.73,
-        "adx": 12.78,
-        "atr": 19.58,
-        "volume_ratio": 1.51,
+        "close": 840.4000244140625,
+        "rsi": 28.74,
+        "adx": 12.86,
+        "atr": 19.78,
+        "volume_ratio": 1.75,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -907,7 +907,7 @@
           "Volume Expansion",
           "OBV Distribution"
         ],
-        "support_20d": 837.95
+        "support_20d": 835.15
       },
       "news": {
         "score": 75,
@@ -935,23 +935,23 @@
             "label": "Neutral"
           },
           {
-            "title": "Fortis Healthcare Ltd Share Price Today NSE/BSE Charts - Alice Blue",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtZEtsZjktc0RuZ0hWc3FaNUIwaFpmZGttRENMWk9iZ1oyRkcxcHpRU1JhSno2TWRIWjZ2ZU4yNHlRc00xUlVDWnBrZ1VtWEMyakQ0NDBtY1MxR3hKeWZaNURUTTBpN1l4dmN4R3ZHRUN5NWR5d2c?oc=5",
-            "published": "Tue, 25 Aug 2026 14:29:06 GMT",
+            "title": "Stocks to Watch Today: Tempsens Instruments, Alembic Pharma, Manipal Payment, Rentomojo, Highway Infra, GR... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOTzl4NjhYQnI5d2xOLXpKR0ZkbWJ6ZWxDUDRIbFV6ZHlMaTFuSkNMamVBdDlhYXBTenJLRlJ6NUM0WE9saW1yelk3OE5YMFd0TkpXR0dyNjlaV0s4M001Mmo0Z3h1aS1EX0R2VW5WSU1fZldGeWhDc1Y4SW4wMVdUcE54T1dnallMa0xFWlFRc2N5TEIxbjFiT29sdnZKc2pUb2w0TlJSaUxfNEtxeDJERk9MLTIyci1yWEUtbC1vWkFnNHlpOGs5akN6VXFHNklhbWlwOHl1UUxMNElYYVgxTlBRQ2tOTHE2RndvWmVVNkhKekdPNXFmZXdiM0VmUEtUU0M2YUF0elhMQ3dPSWJ5MnVmS083bFUxbzJFUXpQVDlSVUNaSGwyWkRXSFdiVFV0TDlRZjlhaE5pb2NSX2poeTFleE3SAcoCQVVfeXFMTUtrbEFXeXVCZDkwQzRTbmZmdzNhOHdhamxaaDg2aWVxYTRRaVpkeGw3X215bFkxaFJBdGFZWFhhYlc1enh0YmRkY0REamNvSXpDWkg4SnloVWgwX1VwUzI5THRRX3B5My1hcl9uTDg4SWRBV3FPNFFDV3o3WkFWdEZCeGRFWlF3VmRvRDNMOUhxdUozbVA5d1hUOTVsOUdPS2lqX1lqWlMza19RVnBEbjJzYjhLUzFGVjBIWXhHMWlyaWdPV012aEM0UmxwX25zTjNCbkNHNHFMTUZTbmd5cjEyX2JxbXJ6bE84YjhLTWVfQTNET016RFl6V0gzSndsdHdLWFBvSnBvcWNvbDhjYXRHT2dWemZsdFA2T1YzRFJIdUpDSndBVW9WTEpRbmd1TFM3S0VYS1daY2s3U1Z1RXBkYWZiYUhsTVpn?oc=5",
+            "published": "Wed, 16 Sep 2026 20:43:27 GMT",
             "score": 0,
             "label": "Neutral"
           },
           {
-            "title": "Stocks to Watch Today: Tempsens Instruments, Alembic Pharma, Manipal Payment, Rentomojo, Highway Infra, GR... - Moneycontrol.com",
-            "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOTzl4NjhYQnI5d2xOLXpKR0ZkbWJ6ZWxDUDRIbFV6ZHlMaTFuSkNMamVBdDlhYXBTenJLRlJ6NUM0WE9saW1yelk3OE5YMFd0TkpXR0dyNjlaV0s4M001Mmo0Z3h1aS1EX0R2VW5WSU1fZldGeWhDc1Y4SW4wMVdUcE54T1dnallMa0xFWlFRc2N5TEIxbjFiT29sdnZKc2pUb2w0TlJSaUxfNEtxeDJERk9MLTIyci1yWEUtbC1vWkFnNHlpOGs5akN6VXFHNklhbWlwOHl1UUxMNElYYVgxTlBRQ2tOTHE2RndvWmVVNkhKekdPNXFmZXdiM0VmUEtUU0M2YUF0elhMQ3dPSWJ5MnVmS083bFUxbzJFUXpQVDlSVUNaSGwyWkRXSFdiVFV0TDlRZjlhaE5pb2NSX2poeTFleE3SAcoCQVVfeXFMTUtrbEFXeXVCZDkwQzRTbmZmdzNhOHdhamxaaDg2aWVxYTRRaVpkeGw3X215bFkxaFJBdGFZWFhhYlc1enh0YmRkY0REamNvSXpDWkg4SnloVWgwX1VwUzI5THRRX3B5My1hcl9uTDg4SWRBV3FPNFFDV3o3WkFWdEZCeGRFWlF3VmRvRDNMOUhxdUozbVA5d1hUOTVsOUdPS2lqX1lqWlMza19RVnBEbjJzYjhLUzFGVjBIWXhHMWlyaWdPV012aEM0UmxwX25zTjNCbkNHNHFMTUZTbmd5cjEyX2JxbXJ6bE84YjhLTWVfQTNET016RFl6V0gzSndsdHdLWFBvSnBvcWNvbDhjYXRHT2dWemZsdFA2T1YzRFJIdUpDSndBVW9WTEpRbmd1TFM3S0VYS1daY2s3U1Z1RXBkYWZiYUhsTVpn?oc=5",
-            "published": "Wed, 16 Sep 2026 20:43:27 GMT",
+            "title": "Fortis Healthcare Ltd Share Price Today NSE/BSE Charts - Alice Blue",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtZEtsZjktc0RuZ0hWc3FaNUIwaFpmZGttRENMWk9iZ1oyRkcxcHpRU1JhSno2TWRIWjZ2ZU4yNHlRc00xUlVDWnBrZ1VtWEMyakQ0NDBtY1MxR3hKeWZaNURUTTBpN1l4dmN4R3ZHRUN5NWR5d2c?oc=5",
+            "published": "Tue, 25 Aug 2026 14:29:06 GMT",
             "score": 0,
             "label": "Neutral"
           }
         ]
       },
       "combined_score": 65.8,
-      "added_at": "2026-09-25T13:43:00.834585",
+      "added_at": "2026-09-25T14:13:25.223255",
       "first_seen_price": 849.2000122070312,
       "first_seen_at": "2026-09-25T11:45:34.599498"
     }
