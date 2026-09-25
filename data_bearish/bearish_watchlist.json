@@ -390,21 +390,21 @@
       "symbol": "INFY",
       "base": {
         "symbol": "INFY",
-        "price": 1000.9000244140625,
-        "day_change": -1.3405594466177921,
-        "volume_ratio": 1.8604629842219034,
-        "market_cap": 405398.8967088441,
-        "pct_from_low": 1.8483364520677374,
-        "avg_volume": 8305425.142857143,
-        "volume": 3543644.0
+        "price": 1000.0,
+        "day_change": -1.429275505174963,
+        "volume_ratio": 1.5837891909902053,
+        "market_cap": 405034.3559,
+        "pct_from_low": 1.75999755859375,
+        "avg_volume": 8332754.761904762,
+        "volume": 4117566.0
       },
       "technical": {
         "symbol": "INFY",
-        "close": 1000.9000244140625,
-        "rsi": 30.02,
+        "close": 1000.0,
+        "rsi": 29.87,
         "adx": 21.09,
         "atr": 25.07,
-        "volume_ratio": 0.43,
+        "volume_ratio": 0.5,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -476,7 +476,7 @@
         ]
       },
       "combined_score": 55.6,
-      "added_at": "2026-09-25T10:41:18.525497",
+      "added_at": "2026-09-25T11:12:12.132620",
       "first_seen_price": 999.0,
       "first_seen_at": "2026-09-25T09:42:39.227284"
     },
@@ -484,21 +484,21 @@
       "symbol": "JSWCEMENT",
       "base": {
         "symbol": "JSWCEMENT",
-        "price": 114.58999633789062,
-        "day_change": -0.9679394654254445,
-        "volume_ratio": 2.4731646222544734,
-        "market_cap": 15473.603089668884,
-        "pct_from_low": 6.929047094651368,
-        "avg_volume": 1299309.1904761905,
-        "volume": 736941.0
+        "price": 114.72000122070312,
+        "day_change": -0.8555854045481373,
+        "volume_ratio": 2.029576574836327,
+        "market_cap": 15491.158234277038,
+        "pct_from_low": 7.034518487581617,
+        "avg_volume": 1303522.8095238095,
+        "volume": 825427.0
       },
       "technical": {
         "symbol": "JSWCEMENT",
-        "close": 114.58999633789062,
-        "rsi": 27.73,
+        "close": 114.72000122070312,
+        "rsi": 27.97,
         "adx": 37.98,
         "atr": 2.42,
-        "volume_ratio": 0.55,
+        "volume_ratio": 0.61,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -570,7 +570,7 @@
         ]
       },
       "combined_score": 54.4,
-      "added_at": "2026-09-25T10:41:21.538780",
+      "added_at": "2026-09-25T11:12:16.905684",
       "first_seen_price": 114.5,
       "first_seen_at": "2026-09-25T09:42:44.871068"
     },
@@ -674,21 +674,21 @@
       "symbol": "CESC",
       "base": {
         "symbol": "CESC",
-        "price": 139.22000122070312,
-        "day_change": -0.564240637902633,
-        "volume_ratio": 2.127812518274952,
-        "market_cap": 18454.591688272798,
-        "pct_from_low": 1.1420746472843586,
-        "avg_volume": 1741173.0,
-        "volume": 839775.0
+        "price": 138.9499969482422,
+        "day_change": -0.7570870653394648,
+        "volume_ratio": 1.7348309751214024,
+        "market_cap": 18418.80072031801,
+        "pct_from_low": 0.9499763184027809,
+        "avg_volume": 1745796.380952381,
+        "volume": 936866.0
       },
       "technical": {
         "symbol": "CESC",
-        "close": 139.22000122070312,
-        "rsi": 28.58,
+        "close": 138.9499969482422,
+        "rsi": 28.2,
         "adx": 19.99,
         "atr": 3.22,
-        "volume_ratio": 0.48,
+        "volume_ratio": 0.54,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -749,7 +749,7 @@
             "label": "Neutral"
           },
           {
-            "title": "CESC Share Price Today, CESC Stock Price Live NSE/BSE Updates - economictimes.com",
+            "title": "CESC Share Price Today, CESC Stock Price Live NSE/BSE Updates - The Economic Times",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFWlBEaUR1ZGhYUXlaQTlXU3FYdzBjY3dZMzZnZFlCRUtQUE4wSmppb2ZMcGt3cFp6NVpMZjRUV3pyWTBac3ljQWZMMk02LXhxRHRWeExIcWRpSUgtZmlKbnRianB5NVdJRGxxQWRwUzE?oc=5",
             "published": "Fri, 28 Aug 2026 07:00:00 GMT",
             "score": 0,
@@ -758,7 +758,7 @@
         ]
       },
       "combined_score": 47.8,
-      "added_at": "2026-09-25T10:40:52.850050",
+      "added_at": "2026-09-25T11:11:42.448972",
       "first_seen_price": 137.8699951171875,
       "first_seen_at": "2026-09-25T09:42:13.769554"
     },
@@ -766,21 +766,21 @@
       "symbol": "JWL",
       "base": {
         "symbol": "JWL",
-        "price": 226.13999938964844,
-        "day_change": -0.7722661491756571,
-        "volume_ratio": 2.040695207025267,
-        "market_cap": 9664.553950761381,
-        "pct_from_low": 0.4996926177864959,
-        "avg_volume": 627116.1428571428,
-        "volume": 293490.0
+        "price": 226.00999450683594,
+        "day_change": -0.8293108557549606,
+        "volume_ratio": 1.7458134327962156,
+        "market_cap": 9658.997927027434,
+        "pct_from_low": 0.4424583090593163,
+        "avg_volume": 629467.4285714285,
+        "volume": 342867.0
       },
       "technical": {
         "symbol": "JWL",
-        "close": 226.13999938964844,
-        "rsi": 31.37,
+        "close": 226.00999450683594,
+        "rsi": 31.26,
         "adx": 19.27,
         "atr": 5.97,
-        "volume_ratio": 0.47,
+        "volume_ratio": 0.54,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -837,7 +837,7 @@
             "label": "Neutral"
           },
           {
-            "title": "Jupiter Wagons Ltd. Share Price Today - Jupiter Wagons Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+            "title": "Jupiter Wagons Ltd. Share Price Today - Jupiter Wagons Ltd. Stock Price Live NSE/BSE - cnbctv18.com",
             "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YTDFVdm9uVXNyczNtbFNCb3ktY0I4RndPTVlWdFZGRWVqMEtwa0s0dGR2SnQtQlFHQXdVN1JPdUFvNlY4Nk9hYnA0aUhGZ3JVMEZ1SFhNSjhSdV9IQnRndmxOcjJIeGZERlppYUNwSTNtd0oyWnVFQUd5bWxGSGs?oc=5",
             "published": "Sat, 03 Jan 2026 20:25:03 GMT",
             "score": 0,
@@ -853,7 +853,7 @@
         ]
       },
       "combined_score": 51.2,
-      "added_at": "2026-09-25T10:41:22.362890",
+      "added_at": "2026-09-25T11:12:18.029131",
       "first_seen_price": 226.13999938964844,
       "first_seen_at": "2026-09-25T10:41:22.362890"
     }
