@@ -861,21 +861,21 @@
       "symbol": "FORTIS",
       "base": {
         "symbol": "FORTIS",
-        "price": 849.2000122070312,
-        "day_change": -3.2085215891305316,
-        "volume_ratio": 2.2357006441242,
-        "market_cap": 64111.04684973977,
-        "pct_from_low": 9.70325285322461,
-        "avg_volume": 1000317.2857142857,
-        "volume": 894564.0
+        "price": 848.75,
+        "day_change": -3.2598138008537623,
+        "volume_ratio": 2.252734504353167,
+        "market_cap": 64077.0728115,
+        "pct_from_low": 9.655376990519146,
+        "avg_volume": 1010014.6666666666,
+        "volume": 1098209.0
       },
       "technical": {
         "symbol": "FORTIS",
-        "close": 849.2000122070312,
-        "rsi": 30.59,
-        "adx": 12.43,
-        "atr": 18.81,
-        "volume_ratio": 0.92,
+        "close": 848.75,
+        "rsi": 30.49,
+        "adx": 12.53,
+        "atr": 19.01,
+        "volume_ratio": 1.11,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -905,7 +905,7 @@
           "MACD Bearish Crossover",
           "OBV Distribution"
         ],
-        "support_20d": 848.75
+        "support_20d": 846.0
       },
       "news": {
         "score": 75,
@@ -949,7 +949,7 @@
         ]
       },
       "combined_score": 54.6,
-      "added_at": "2026-09-25T11:45:34.599498",
+      "added_at": "2026-09-25T12:16:47.842821",
       "first_seen_price": 849.2000122070312,
       "first_seen_at": "2026-09-25T11:45:34.599498"
     }
