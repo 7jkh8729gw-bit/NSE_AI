@@ -861,21 +861,21 @@
       "symbol": "FORTIS",
       "base": {
         "symbol": "FORTIS",
-        "price": 840.4000244140625,
-        "day_change": -4.211540685026862,
-        "volume_ratio": 2.1530943992011418,
-        "market_cap": 63446.68460107954,
-        "pct_from_low": 8.75773851534674,
-        "avg_volume": 1042671.5238095238,
-        "volume": 1784003.0
+        "price": 839.5499877929688,
+        "day_change": -4.3084275197846855,
+        "volume_ratio": 2.137015232864414,
+        "market_cap": 63382.51039376023,
+        "pct_from_low": 8.665356566944528,
+        "avg_volume": 1050979.8095238095,
+        "volume": 1958477.0
       },
       "technical": {
         "symbol": "FORTIS",
-        "close": 840.4000244140625,
-        "rsi": 28.74,
+        "close": 839.5499877929688,
+        "rsi": 28.57,
         "adx": 12.86,
         "atr": 19.78,
-        "volume_ratio": 1.75,
+        "volume_ratio": 1.9,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -910,8 +910,8 @@
         "support_20d": 835.15
       },
       "news": {
-        "score": 75,
-        "label": "Bullish",
+        "score": 60,
+        "label": "Neutral",
         "headlines": [
           {
             "title": "Fortis stock holds steady as Supreme Court move adds legal overhang - AD HOC NEWS",
@@ -928,10 +928,10 @@
             "label": "Neutral"
           },
           {
-            "title": "Stocks To Watch Today: Infosys, Mazagon Dock, Fortis Healthcare, Shriram Finance, RBL Bank, South Indian Bank & More - NDTV Profit",
+            "title": "Stocks To Watch Today: Infosys, Mazagon Dock, Fortis Healthcare, Shriram Finance, RBL Bank, South Indian Bank & More - ndtvprofit.com",
             "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNzlMWUxMaGNYZ0pUbHU3eWhpekxHLUlMdFlHMDBUUW1RR2FXT3cwRHBmRTM0ZEZNT0tjSVFvZ3NGMG9uZkdpcWZEMnEzVENtV0VEdF9kSHVpXzFPUUk5SFN0aDB4aUR2OEtzVTI1WXlmU0N0ZDdUeVZKSGlzMDM4bDRCSUlWLVFUbnlZd0ZVTkpjYk42TTh0amZLYUdnMFVKMG9KZl9JS283SUZENlFTUmZpSzZUMnVLeHczRm8xby1xT2k3eUVPUDAwOEltQmtibEVReDdOcFNyVlZ6ZnRGWnJOODl3RGvSAe8BQVVfeXFMUFVHc3YtaEZ5djdYTlVzT2NBc3FsNVItcTBLdklnTXNQbE45aDdDdFY4SFdYUjlMZmRrQnJKOWRCdnlCUXJ4OFlRV2NUbVhuNjJNTzE2SkhoMURtN0FrM29YeEYzaW8wcGZmRzhOeWU3Y1FPRVRfb3JUaWsydXJtSExRcEpUT2Q5bUxodVlrd3F0RzI4OHZrVmphTExUbVBYS0tsOU05aFFTbkkwTTJOZXdOS1M2ek5lVG8xcE02bGdvN0RGeEZ1aVVfV2FDMWlRLW4xM2Zld2hSZFdQVE5LWEMwSjlCN0JKbFZlQkQxWEU?oc=5",
             "published": "Thu, 17 Sep 2026 01:30:01 GMT",
-            "score": 3,
+            "score": 0,
             "label": "Neutral"
           },
           {
@@ -950,8 +950,8 @@
           }
         ]
       },
-      "combined_score": 65.8,
-      "added_at": "2026-09-25T14:13:25.223255",
+      "combined_score": 68.8,
+      "added_at": "2026-09-25T14:42:20.637772",
       "first_seen_price": 849.2000122070312,
       "first_seen_at": "2026-09-25T11:45:34.599498"
     }
