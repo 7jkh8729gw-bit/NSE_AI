@@ -484,21 +484,21 @@
       "symbol": "JSWCEMENT",
       "base": {
         "symbol": "JSWCEMENT",
-        "price": 114.6500015258789,
-        "day_change": -0.9160812090404667,
-        "volume_ratio": 1.7673874705426338,
-        "market_cap": 15481.705860346297,
-        "pct_from_low": 6.977758302248459,
-        "avg_volume": 1335238.0,
-        "volume": 1491446.0
+        "price": 114.9800033569336,
+        "day_change": -0.6308838763416964,
+        "volume_ratio": 1.6268257881427395,
+        "market_cap": 15526.267493261856,
+        "pct_from_low": 7.244739596324222,
+        "avg_volume": 1338310.619047619,
+        "volume": 1555971.0
       },
       "technical": {
         "symbol": "JSWCEMENT",
-        "close": 114.6500015258789,
-        "rsi": 27.84,
+        "close": 114.9800033569336,
+        "rsi": 28.46,
         "adx": 37.98,
         "atr": 2.44,
-        "volume_ratio": 1.08,
+        "volume_ratio": 1.13,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -529,8 +529,8 @@
         "support_20d": 112.83
       },
       "news": {
-        "score": 65,
-        "label": "Bullish",
+        "score": 60,
+        "label": "Neutral",
         "headlines": [
           {
             "title": "Vodafone Idea, JSW Cement, Ola Electric, Central Bank of India among most traded stocks on NSE today, 22 May 2026 - Livemint",
@@ -547,10 +547,10 @@
             "label": "Neutral"
           },
           {
-            "title": "JSW Cement jumps 7% on strong Q4 beat; JM Financial sees 22% upside - Business Standard",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV25JWWpXY2JjNGZnYkVnbEVRdjVkZzgxdmlEeXVFZ2tyM2V3bHY3bjV5WVJyMHhqWmpOSDdyRXNpeHRCQllhSUtpbU1TbGlNYkh1WElvRDlDWm80ZXFkZmV5aWNqeXVKV3I3VG5jd3BCMmd1WXdDMWNxT3ZSdlBqNTJLOXdjaE5MMEZPZFkyUTVVQUVZNWhTS0VaRExjTW1keUloVUFLVXFkbGtkN19tQTZVSGt1cmJuZ1hoczZDXzdUSG9JUTlYMkVrc9IB0AFBVV95cUxPT3hjRlYtNDZfcEdoa0JYOEgyek9QZkVjMW9ZcVhObkJDTU9sTUFqbFhpOXFyRmxVb3pJY1RuMHdtNWtqaXVTYmJnWTNMc0JETFJXdzB0OGV4TWxYVmgxRXV2dE5XTzlrTl83dTU4bFoxWHBMMGdQSVlUdGhvSmZlT0dHQTd4eHJDYUlQcUNsbGd6NUNLWkF6THVKdjVuRlRNWXVMWHBsSWdlcllIMVg3WE5GcGU1SnkxcFhDa3BEUk9tbUwtRjczeFV3eUZRdDRs?oc=5",
-            "published": "Fri, 22 May 2026 07:00:00 GMT",
-            "score": 1,
+            "title": "Stocks to Watch: Dabur, Adani Ports, Cipla, JSW Cement, Allied Blenders - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNFdqaDd0QU1nbnBFdVZZOTYzVVgwM2trTVBySUZ1Z1JzbkNjZmJiMHZoZzk3NzhpcjNNQU5GZjVRUUsxTURmTWhiQW9haVVhZVhRUkEwcXh0T2hiMWpEdll3RjlCNjJhMkRPMjRSRnlWcm1Td3VjX29VV3otbHhiQ0xjdjExYUVMSHd3eU9vLS13MTU1d2g4M1BQZGplaWVOOF80M2J6SkJEMUgyN05oUE81RnRuSHZobVFKLVNtVWVjMS1FUjZnOEkwbjdZd9IB0wFBVV95cUxOUmpPN29FbHdMVWd2ZFRfb0lGV3owQzcxWksybGliRjNxblhkZ3htdmg2bWpkbUhyT1V3VVpwbkdmSlFVNFoyWUxNXzhWMExIUkROdl9EWjhkZXlHeS1vbmV2b05BYmJiMVNaUmlBRmUyNXh1dDV5TmVDZmgwanljZWctdVhyWlBsQkVSZVRvNHJJdmgxLUgyWUN4SkF5NVB3bGN5emR2V3ZfMWNZMXIteVRiWVUxYUNJSERBckNOQWd2eGtlM0oyT0t4Ql8wNjlXTzZN?oc=5",
+            "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+            "score": 0,
             "label": "Neutral"
           },
           {
@@ -561,7 +561,7 @@
             "label": "Neutral"
           },
           {
-            "title": "JSW CEMENT LIMITED Share Price - Live NSE: JSWCEMENT Stock Price & Chart - Upstox",
+            "title": "JSW CEMENT LIMITED Share Price - Live NSE: JSWCEMENT Stock Price & Chart - upstox.com",
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxRDF3VEhNV1RoaDJVVV9LMG5tQUc3RmxQcWw4R0pPUkZTdUJHSUhGVzU0THVLSFBTZG5MSlVvOFFvZ1pTSHRNUEQwbm93S1M0T2tjQWtFUHE5UmdQS1ZiYWNtVFg4aE5F?oc=5",
             "published": "Tue, 05 May 2026 11:36:22 GMT",
             "score": 0,
@@ -569,8 +569,8 @@
           }
         ]
       },
-      "combined_score": 53.4,
-      "added_at": "2026-09-25T13:12:30.851570",
+      "combined_score": 54.4,
+      "added_at": "2026-09-25T13:43:29.556987",
       "first_seen_price": 114.5,
       "first_seen_at": "2026-09-25T09:42:44.871068"
     },
@@ -861,21 +861,21 @@
       "symbol": "FORTIS",
       "base": {
         "symbol": "FORTIS",
-        "price": 841.2999877929688,
-        "day_change": -4.108963218343146,
-        "volume_ratio": 2.0153036242961644,
-        "market_cap": 63514.628069660226,
-        "pct_from_low": 8.855343050157433,
-        "avg_volume": 1019556.1428571428,
-        "volume": 1298580.0
+        "price": 840.3499755859375,
+        "day_change": -4.2172452304782455,
+        "volume_ratio": 2.0758831572046916,
+        "market_cap": 63458.00620856023,
+        "pct_from_low": 8.752304388619244,
+        "avg_volume": 1030228.9047619047,
+        "volume": 1522708.0
       },
       "technical": {
         "symbol": "FORTIS",
-        "close": 841.2999877929688,
-        "rsi": 28.91,
-        "adx": 12.75,
-        "atr": 19.5,
-        "volume_ratio": 1.3,
+        "close": 840.3499755859375,
+        "rsi": 28.73,
+        "adx": 12.78,
+        "atr": 19.58,
+        "volume_ratio": 1.51,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -885,15 +885,15 @@
         "bear_flag": false,
         "ll_lh": true,
         "near_breakdown": true,
-        "breakdown": false,
+        "breakdown": true,
         "macd_bearish": true,
         "macd_cross_down": true,
         "obv_distribution": true,
         "patterns": [
           "3 Black Crows"
         ],
-        "setup": "DOUBLE TOP",
-        "score": 62,
+        "setup": "DEATH CROSS + BREAKDOWN",
+        "score": 76,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -901,34 +901,43 @@
           "Lower High / Lower Low",
           "Double Top",
           "Near Breakdown",
+          "Confirmed Breakdown",
           "3 Black Crows",
           "MACD Bearish Crossover",
+          "Volume Expansion",
           "OBV Distribution"
         ],
-        "support_20d": 839.1
+        "support_20d": 837.95
       },
       "news": {
-        "score": 70,
+        "score": 75,
         "label": "Bullish",
         "headlines": [
           {
-            "title": "Fortis stock edges higher as investors eye strong earnings momentum - AD HOC NEWS",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQVVwTUhQMVZfcDdRUnNwTF9WVFJSeWR1US1weUNsZkNsbFZqUDRLbDBPcmpnbHVXd1VyeDVRZzFodVRtNVlma25hdkNETEhDOEJuTGVjM2xXbWE5RVNqR1doVW03MFNNQjVOQkFLQnpaWFpDdmN6b0VWbDEzSXZuVXhGa01hS1RtNkFIbjc5cktRcWZUMWpEQ1Z3VGczOVJOTUdvMmRmZFFZaFhUanlGcEJNd1lpVG80MGluMU95Z1NJaXQ0?oc=5",
-            "published": "Sun, 20 Sep 2026 15:16:48 GMT",
-            "score": 2,
+            "title": "Fortis stock holds steady as Supreme Court move adds legal overhang - AD HOC NEWS",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEtUd2c0WWNNUGIwcU5aRWtWbWVhbF9NWTRtNm5TRVp2dkR4UFdpQmNkbl9MRnRmbTJ0bEpISklQWGhGaGhwVGRBdUhEeVdUR0dBNGlmYUNla3V0SGUzY2pvYVVVb2VZaXlQMTdJdm1WSDFZMThMQ2xwekhhYkdkeERKZmN5bEk1Vy1MOHZUWDIzaE1tMHdubVBRT1dXRHRSOUNYU2pXNTN2N0lORjVPbmp2VGJFUkhDeFpxU1BKcGR4Smdw?oc=5",
+            "published": "Sat, 19 Sep 2026 19:02:51 GMT",
+            "score": 0,
             "label": "Neutral"
           },
           {
-            "title": "Fortis Healthcare Share Pros and Cons 2026 | FORTIS Hospital Investment - univest.in",
+            "title": "Fortis Healthcare Share Pros and Cons 2026 | FORTIS Hospital Investment - Univest",
             "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tYk9oOW9wZWFMOGM1bFdpQktwVkFtUXc0YVBOeUdESHJScUhidDhUOXQzUzlNN2FJSlV3ZVpibndRZnA2dV9zdExZWXZtYjVwSGY1Z0dWRWQ3OGRJc1lPcEY0dURmV09N?oc=5",
             "published": "Mon, 10 Aug 2026 07:00:00 GMT",
             "score": 2,
             "label": "Neutral"
           },
           {
-            "title": "Stocks To Watch Today: Infosys, Mazagon Dock, Fortis Healthcare, Shriram Finance, RBL Bank, South Indian Bank & More - ndtvprofit.com",
+            "title": "Stocks To Watch Today: Infosys, Mazagon Dock, Fortis Healthcare, Shriram Finance, RBL Bank, South Indian Bank & More - NDTV Profit",
             "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNzlMWUxMaGNYZ0pUbHU3eWhpekxHLUlMdFlHMDBUUW1RR2FXT3cwRHBmRTM0ZEZNT0tjSVFvZ3NGMG9uZkdpcWZEMnEzVENtV0VEdF9kSHVpXzFPUUk5SFN0aDB4aUR2OEtzVTI1WXlmU0N0ZDdUeVZKSGlzMDM4bDRCSUlWLVFUbnlZd0ZVTkpjYk42TTh0amZLYUdnMFVKMG9KZl9JS283SUZENlFTUmZpSzZUMnVLeHczRm8xby1xT2k3eUVPUDAwOEltQmtibEVReDdOcFNyVlZ6ZnRGWnJOODl3RGvSAe8BQVVfeXFMUFVHc3YtaEZ5djdYTlVzT2NBc3FsNVItcTBLdklnTXNQbE45aDdDdFY4SFdYUjlMZmRrQnJKOWRCdnlCUXJ4OFlRV2NUbVhuNjJNTzE2SkhoMURtN0FrM29YeEYzaW8wcGZmRzhOeWU3Y1FPRVRfb3JUaWsydXJtSExRcEpUT2Q5bUxodVlrd3F0RzI4OHZrVmphTExUbVBYS0tsOU05aFFTbkkwTTJOZXdOS1M2ek5lVG8xcE02bGdvN0RGeEZ1aVVfV2FDMWlRLW4xM2Zld2hSZFdQVE5LWEMwSjlCN0JKbFZlQkQxWEU?oc=5",
             "published": "Thu, 17 Sep 2026 01:30:01 GMT",
+            "score": 3,
+            "label": "Neutral"
+          },
+          {
+            "title": "Fortis Healthcare Ltd Share Price Today NSE/BSE Charts - Alice Blue",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtZEtsZjktc0RuZ0hWc3FaNUIwaFpmZGttRENMWk9iZ1oyRkcxcHpRU1JhSno2TWRIWjZ2ZU4yNHlRc00xUlVDWnBrZ1VtWEMyakQ0NDBtY1MxR3hKeWZaNURUTTBpN1l4dmN4R3ZHRUN5NWR5d2c?oc=5",
+            "published": "Tue, 25 Aug 2026 14:29:06 GMT",
             "score": 0,
             "label": "Neutral"
           },
@@ -938,18 +947,11 @@
             "published": "Wed, 16 Sep 2026 20:43:27 GMT",
             "score": 0,
             "label": "Neutral"
-          },
-          {
-            "title": "Should Weakness in Fortis Healthcare Limited's (NSE:FORTIS) Stock Be Seen As A Sign That Market Will Correct The Share Price Given Decent Financials? - simplywall.st",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVzRaOTJDNmZodll1MGlDU3BOWElnblZtME5fY25hMDRLbndSLTZrTXJaamVVYVByZzhVMVUxTnp3STQ5QWpCTHBaWWZ6R0xzUjVyYjJpbkRhTi1VVzdwWlE2SWNiNmw1OTFxSjl0dHByS3R1dDFEOXdYV29hRWJKMjVLNzZ1RkpoanEyTElEN1BjVVpjclpfQ2czWlBWQ0ZvMjVtVER3T1hXZHJuaVZZTFUxY3FNcm5rYXk5ZXl3VG1zR3c2QmtPVXhvOFd6TTlybDN6RUFBNU80T1dPRGtB0gHkAUFVX3lxTE90WjVvSUlnaTczb2wxcU9IZUFxR29uYWNtZDROTjdoYXA4Q2dmX2IzUmZXWFlYc3daV0lnZEZfaFZFeExTS0RiNFB2elJ3YmlDMU5EX1VYTjBiTklSYk81dF9sNzhtRDdKSFJOMk5aRmgxN1RSdWgxaHlyaWZqT0RGWkdtbmw4eGg5UDZhVlRBV2pNaDk0anNpMWI3RGxNN21IYlF2OUFGYkxBaFBhRl9nX01Cd0NVWjU5WXZFaHhacm51NHZKUEZMbUpfeG0tb3BmbEtpcEhjZjM5NmpXOHlMVUQ0UA?oc=5",
-            "published": "Fri, 16 Jan 2026 08:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 55.6,
-      "added_at": "2026-09-25T13:12:14.612867",
+      "combined_score": 65.8,
+      "added_at": "2026-09-25T13:43:00.834585",
       "first_seen_price": 849.2000122070312,
       "first_seen_at": "2026-09-25T11:45:34.599498"
     }
