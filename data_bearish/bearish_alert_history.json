@@ -36,7 +36,7 @@
     "outcome": "PENDING",
     "exit_price": null,
     "exit_time": null,
-    "max_favorable_pct": 0.0,
+    "max_favorable_pct": 0.09,
     "max_adverse_pct": 0.21
   }
 ]
