@@ -861,21 +861,21 @@
       "symbol": "FORTIS",
       "base": {
         "symbol": "FORTIS",
-        "price": 848.75,
-        "day_change": -3.2598138008537623,
-        "volume_ratio": 2.252734504353167,
-        "market_cap": 64077.0728115,
-        "pct_from_low": 9.655376990519146,
-        "avg_volume": 1010014.6666666666,
-        "volume": 1098209.0
+        "price": 847.8499755859375,
+        "day_change": -3.3623982243002226,
+        "volume_ratio": 2.0804015342968913,
+        "market_cap": 64009.12473502046,
+        "pct_from_low": 9.559472799059316,
+        "avg_volume": 1013121.380952381,
+        "volume": 1163450.0
       },
       "technical": {
         "symbol": "FORTIS",
-        "close": 848.75,
-        "rsi": 30.49,
+        "close": 847.8499755859375,
+        "rsi": 30.29,
         "adx": 12.53,
         "atr": 19.01,
-        "volume_ratio": 1.11,
+        "volume_ratio": 1.17,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -908,14 +908,14 @@
         "support_20d": 846.0
       },
       "news": {
-        "score": 75,
+        "score": 85,
         "label": "Bullish",
         "headlines": [
           {
-            "title": "Fortis stock holds steady as Supreme Court move adds legal overhang - AD HOC NEWS",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEtUd2c0WWNNUGIwcU5aRWtWbWVhbF9NWTRtNm5TRVp2dkR4UFdpQmNkbl9MRnRmbTJ0bEpISklQWGhGaGhwVGRBdUhEeVdUR0dBNGlmYUNla3V0SGUzY2pvYVVVb2VZaXlQMTdJdm1WSDFZMThMQ2xwekhhYkdkeERKZmN5bEk1Vy1MOHZUWDIzaE1tMHdubVBRT1dXRHRSOUNYU2pXNTN2N0lORjVPbmp2VGJFUkhDeFpxU1BKcGR4Smdw?oc=5",
-            "published": "Sat, 19 Sep 2026 19:02:51 GMT",
-            "score": 0,
+            "title": "Fortis stock edges higher as investors eye strong earnings momentum - AD HOC NEWS",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQVVwTUhQMVZfcDdRUnNwTF9WVFJSeWR1US1weUNsZkNsbFZqUDRLbDBPcmpnbHVXd1VyeDVRZzFodVRtNVlma25hdkNETEhDOEJuTGVjM2xXbWE5RVNqR1doVW03MFNNQjVOQkFLQnpaWFpDdmN6b0VWbDEzSXZuVXhGa01hS1RtNkFIbjc5cktRcWZUMWpEQ1Z3VGczOVJOTUdvMmRmZFFZaFhUanlGcEJNd1lpVG80MGluMU95Z1NJaXQ0?oc=5",
+            "published": "Sun, 20 Sep 2026 15:16:48 GMT",
+            "score": 2,
             "label": "Neutral"
           },
           {
@@ -933,23 +933,23 @@
             "label": "Neutral"
           },
           {
+            "title": "Fortis Healthcare Ltd Share Price Today NSE/BSE Charts - Alice Blue",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtZEtsZjktc0RuZ0hWc3FaNUIwaFpmZGttRENMWk9iZ1oyRkcxcHpRU1JhSno2TWRIWjZ2ZU4yNHlRc00xUlVDWnBrZ1VtWEMyakQ0NDBtY1MxR3hKeWZaNURUTTBpN1l4dmN4R3ZHRUN5NWR5d2c?oc=5",
+            "published": "Tue, 25 Aug 2026 14:29:06 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
             "title": "Stocks to Watch Today: Tempsens Instruments, Alembic Pharma, Manipal Payment, Rentomojo, Highway Infra, GR... - Moneycontrol.com",
             "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOTzl4NjhYQnI5d2xOLXpKR0ZkbWJ6ZWxDUDRIbFV6ZHlMaTFuSkNMamVBdDlhYXBTenJLRlJ6NUM0WE9saW1yelk3OE5YMFd0TkpXR0dyNjlaV0s4M001Mmo0Z3h1aS1EX0R2VW5WSU1fZldGeWhDc1Y4SW4wMVdUcE54T1dnallMa0xFWlFRc2N5TEIxbjFiT29sdnZKc2pUb2w0TlJSaUxfNEtxeDJERk9MLTIyci1yWEUtbC1vWkFnNHlpOGs5akN6VXFHNklhbWlwOHl1UUxMNElYYVgxTlBRQ2tOTHE2RndvWmVVNkhKekdPNXFmZXdiM0VmUEtUU0M2YUF0elhMQ3dPSWJ5MnVmS083bFUxbzJFUXpQVDlSVUNaSGwyWkRXSFdiVFV0TDlRZjlhaE5pb2NSX2poeTFleE3SAcoCQVVfeXFMTUtrbEFXeXVCZDkwQzRTbmZmdzNhOHdhamxaaDg2aWVxYTRRaVpkeGw3X215bFkxaFJBdGFZWFhhYlc1enh0YmRkY0REamNvSXpDWkg4SnloVWgwX1VwUzI5THRRX3B5My1hcl9uTDg4SWRBV3FPNFFDV3o3WkFWdEZCeGRFWlF3VmRvRDNMOUhxdUozbVA5d1hUOTVsOUdPS2lqX1lqWlMza19RVnBEbjJzYjhLUzFGVjBIWXhHMWlyaWdPV012aEM0UmxwX25zTjNCbkNHNHFMTUZTbmd5cjEyX2JxbXJ6bE84YjhLTWVfQTNET016RFl6V0gzSndsdHdLWFBvSnBvcWNvbDhjYXRHT2dWemZsdFA2T1YzRFJIdUpDSndBVW9WTEpRbmd1TFM3S0VYS1daY2s3U1Z1RXBkYWZiYUhsTVpn?oc=5",
             "published": "Wed, 16 Sep 2026 20:43:27 GMT",
             "score": 0,
             "label": "Neutral"
-          },
-          {
-            "title": "Should Weakness in Fortis Healthcare Limited's (NSE:FORTIS) Stock Be Seen As A Sign That Market Will Correct The Share Price Given Decent Financials? - simplywall.st",
-            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVzRaOTJDNmZodll1MGlDU3BOWElnblZtME5fY25hMDRLbndSLTZrTXJaamVVYVByZzhVMVUxTnp3STQ5QWpCTHBaWWZ6R0xzUjVyYjJpbkRhTi1VVzdwWlE2SWNiNmw1OTFxSjl0dHByS3R1dDFEOXdYV29hRWJKMjVLNzZ1RkpoanEyTElEN1BjVVpjclpfQ2czWlBWQ0ZvMjVtVER3T1hXZHJuaVZZTFUxY3FNcm5rYXk5ZXl3VG1zR3c2QmtPVXhvOFd6TTlybDN6RUFBNU80T1dPRGtB0gHkAUFVX3lxTE90WjVvSUlnaTczb2wxcU9IZUFxR29uYWNtZDROTjdoYXA4Q2dmX2IzUmZXWFlYc3daV0lnZEZfaFZFeExTS0RiNFB2elJ3YmlDMU5EX1VYTjBiTklSYk81dF9sNzhtRDdKSFJOMk5aRmgxN1RSdWgxaHlyaWZqT0RGWkdtbmw4eGg5UDZhVlRBV2pNaDk0anNpMWI3RGxNN21IYlF2OUFGYkxBaFBhRl9nX01Cd0NVWjU5WXZFaHhacm51NHZKUEZMbUpfeG0tb3BmbEtpcEhjZjM5NmpXOHlMVUQ0UA?oc=5",
-            "published": "Fri, 16 Jan 2026 08:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 54.6,
-      "added_at": "2026-09-25T12:16:47.842821",
+      "combined_score": 52.6,
+      "added_at": "2026-09-25T12:42:59.607383",
       "first_seen_price": 849.2000122070312,
       "first_seen_at": "2026-09-25T11:45:34.599498"
     }
