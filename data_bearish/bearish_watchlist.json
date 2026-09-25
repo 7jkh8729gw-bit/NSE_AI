@@ -861,21 +861,21 @@
       "symbol": "FORTIS",
       "base": {
         "symbol": "FORTIS",
-        "price": 839.5499877929688,
-        "day_change": -4.3084275197846855,
-        "volume_ratio": 2.137015232864414,
-        "market_cap": 63382.51039376023,
-        "pct_from_low": 8.665356566944528,
-        "avg_volume": 1050979.8095238095,
-        "volume": 1958477.0
+        "price": 835.1500244140625,
+        "day_change": -4.809933589351479,
+        "volume_ratio": 2.332094544269607,
+        "market_cap": 63050.33157337954,
+        "pct_from_low": 8.1841626801182,
+        "avg_volume": 1070940.5714285714,
+        "volume": 2377653.0
       },
       "technical": {
         "symbol": "FORTIS",
-        "close": 839.5499877929688,
-        "rsi": 28.57,
-        "adx": 12.86,
-        "atr": 19.78,
-        "volume_ratio": 1.9,
+        "close": 835.1500244140625,
+        "rsi": 27.73,
+        "adx": 12.95,
+        "atr": 20.01,
+        "volume_ratio": 2.26,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -893,7 +893,7 @@
           "3 Black Crows"
         ],
         "setup": "DEATH CROSS + BREAKDOWN",
-        "score": 76,
+        "score": 81,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -905,13 +905,14 @@
           "3 Black Crows",
           "MACD Bearish Crossover",
           "Volume Expansion",
-          "OBV Distribution"
+          "OBV Distribution",
+          "Strong Volume"
         ],
-        "support_20d": 835.15
+        "support_20d": 832.0
       },
       "news": {
-        "score": 60,
-        "label": "Neutral",
+        "score": 75,
+        "label": "Bullish",
         "headlines": [
           {
             "title": "Fortis stock holds steady as Supreme Court move adds legal overhang - AD HOC NEWS",
@@ -928,9 +929,16 @@
             "label": "Neutral"
           },
           {
-            "title": "Stocks To Watch Today: Infosys, Mazagon Dock, Fortis Healthcare, Shriram Finance, RBL Bank, South Indian Bank & More - ndtvprofit.com",
+            "title": "Stocks To Watch Today: Infosys, Mazagon Dock, Fortis Healthcare, Shriram Finance, RBL Bank, South Indian Bank & More - NDTV Profit",
             "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNzlMWUxMaGNYZ0pUbHU3eWhpekxHLUlMdFlHMDBUUW1RR2FXT3cwRHBmRTM0ZEZNT0tjSVFvZ3NGMG9uZkdpcWZEMnEzVENtV0VEdF9kSHVpXzFPUUk5SFN0aDB4aUR2OEtzVTI1WXlmU0N0ZDdUeVZKSGlzMDM4bDRCSUlWLVFUbnlZd0ZVTkpjYk42TTh0amZLYUdnMFVKMG9KZl9JS283SUZENlFTUmZpSzZUMnVLeHczRm8xby1xT2k3eUVPUDAwOEltQmtibEVReDdOcFNyVlZ6ZnRGWnJOODl3RGvSAe8BQVVfeXFMUFVHc3YtaEZ5djdYTlVzT2NBc3FsNVItcTBLdklnTXNQbE45aDdDdFY4SFdYUjlMZmRrQnJKOWRCdnlCUXJ4OFlRV2NUbVhuNjJNTzE2SkhoMURtN0FrM29YeEYzaW8wcGZmRzhOeWU3Y1FPRVRfb3JUaWsydXJtSExRcEpUT2Q5bUxodVlrd3F0RzI4OHZrVmphTExUbVBYS0tsOU05aFFTbkkwTTJOZXdOS1M2ek5lVG8xcE02bGdvN0RGeEZ1aVVfV2FDMWlRLW4xM2Zld2hSZFdQVE5LWEMwSjlCN0JKbFZlQkQxWEU?oc=5",
             "published": "Thu, 17 Sep 2026 01:30:01 GMT",
+            "score": 3,
+            "label": "Neutral"
+          },
+          {
+            "title": "Fortis Healthcare Ltd Share Price Today NSE/BSE Charts - Alice Blue",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtZEtsZjktc0RuZ0hWc3FaNUIwaFpmZGttRENMWk9iZ1oyRkcxcHpRU1JhSno2TWRIWjZ2ZU4yNHlRc00xUlVDWnBrZ1VtWEMyakQ0NDBtY1MxR3hKeWZaNURUTTBpN1l4dmN4R3ZHRUN5NWR5d2c?oc=5",
+            "published": "Tue, 25 Aug 2026 14:29:06 GMT",
             "score": 0,
             "label": "Neutral"
           },
@@ -940,18 +948,11 @@
             "published": "Wed, 16 Sep 2026 20:43:27 GMT",
             "score": 0,
             "label": "Neutral"
-          },
-          {
-            "title": "Fortis Healthcare Ltd Share Price Today NSE/BSE Charts - Alice Blue",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtZEtsZjktc0RuZ0hWc3FaNUIwaFpmZGttRENMWk9iZ1oyRkcxcHpRU1JhSno2TWRIWjZ2ZU4yNHlRc00xUlVDWnBrZ1VtWEMyakQ0NDBtY1MxR3hKeWZaNURUTTBpN1l4dmN4R3ZHRUN5NWR5d2c?oc=5",
-            "published": "Tue, 25 Aug 2026 14:29:06 GMT",
-            "score": 0,
-            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 68.8,
-      "added_at": "2026-09-25T14:42:20.637772",
+      "combined_score": 69.8,
+      "added_at": "2026-09-25T15:12:36.499041",
       "first_seen_price": 849.2000122070312,
       "first_seen_at": "2026-09-25T11:45:34.599498"
     }
