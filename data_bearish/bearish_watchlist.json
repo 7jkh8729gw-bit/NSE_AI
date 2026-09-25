@@ -484,21 +484,21 @@
       "symbol": "JSWCEMENT",
       "base": {
         "symbol": "JSWCEMENT",
-        "price": 114.72000122070312,
-        "day_change": -0.8555854045481373,
-        "volume_ratio": 2.029576574836327,
-        "market_cap": 15491.158234277038,
-        "pct_from_low": 7.034518487581617,
-        "avg_volume": 1303522.8095238095,
-        "volume": 825427.0
+        "price": 114.44000244140625,
+        "day_change": -1.097568622517455,
+        "volume_ratio": 1.6716007835850042,
+        "market_cap": 15453.348738554077,
+        "pct_from_low": 6.807061123155651,
+        "avg_volume": 1305793.238095238,
+        "volume": 873106.0
       },
       "technical": {
         "symbol": "JSWCEMENT",
-        "close": 114.72000122070312,
-        "rsi": 27.97,
+        "close": 114.44000244140625,
+        "rsi": 27.46,
         "adx": 37.98,
         "atr": 2.42,
-        "volume_ratio": 0.61,
+        "volume_ratio": 0.65,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -570,7 +570,7 @@
         ]
       },
       "combined_score": 54.4,
-      "added_at": "2026-09-25T11:12:16.905684",
+      "added_at": "2026-09-25T11:45:52.901397",
       "first_seen_price": 114.5,
       "first_seen_at": "2026-09-25T09:42:44.871068"
     },
@@ -856,6 +856,102 @@
       "added_at": "2026-09-25T11:12:18.029131",
       "first_seen_price": 226.13999938964844,
       "first_seen_at": "2026-09-25T10:41:22.362890"
+    },
+    {
+      "symbol": "FORTIS",
+      "base": {
+        "symbol": "FORTIS",
+        "price": 849.2000122070312,
+        "day_change": -3.2085215891305316,
+        "volume_ratio": 2.2357006441242,
+        "market_cap": 64111.04684973977,
+        "pct_from_low": 9.70325285322461,
+        "avg_volume": 1000317.2857142857,
+        "volume": 894564.0
+      },
+      "technical": {
+        "symbol": "FORTIS",
+        "close": 849.2000122070312,
+        "rsi": 30.59,
+        "adx": 12.43,
+        "atr": 18.81,
+        "volume_ratio": 0.92,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": true,
+        "obv_distribution": true,
+        "patterns": [
+          "3 Black Crows"
+        ],
+        "setup": "DOUBLE TOP",
+        "score": 62,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Near Breakdown",
+          "3 Black Crows",
+          "MACD Bearish Crossover",
+          "OBV Distribution"
+        ],
+        "support_20d": 848.75
+      },
+      "news": {
+        "score": 75,
+        "label": "Bullish",
+        "headlines": [
+          {
+            "title": "Fortis stock holds steady as Supreme Court move adds legal overhang - AD HOC NEWS",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEtUd2c0WWNNUGIwcU5aRWtWbWVhbF9NWTRtNm5TRVp2dkR4UFdpQmNkbl9MRnRmbTJ0bEpISklQWGhGaGhwVGRBdUhEeVdUR0dBNGlmYUNla3V0SGUzY2pvYVVVb2VZaXlQMTdJdm1WSDFZMThMQ2xwekhhYkdkeERKZmN5bEk1Vy1MOHZUWDIzaE1tMHdubVBRT1dXRHRSOUNYU2pXNTN2N0lORjVPbmp2VGJFUkhDeFpxU1BKcGR4Smdw?oc=5",
+            "published": "Sat, 19 Sep 2026 19:02:51 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Fortis Healthcare Share Pros and Cons 2026 | FORTIS Hospital Investment - Univest",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tYk9oOW9wZWFMOGM1bFdpQktwVkFtUXc0YVBOeUdESHJScUhidDhUOXQzUzlNN2FJSlV3ZVpibndRZnA2dV9zdExZWXZtYjVwSGY1Z0dWRWQ3OGRJc1lPcEY0dURmV09N?oc=5",
+            "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+            "score": 2,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks To Watch Today: Infosys, Mazagon Dock, Fortis Healthcare, Shriram Finance, RBL Bank, South Indian Bank & More - NDTV Profit",
+            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNzlMWUxMaGNYZ0pUbHU3eWhpekxHLUlMdFlHMDBUUW1RR2FXT3cwRHBmRTM0ZEZNT0tjSVFvZ3NGMG9uZkdpcWZEMnEzVENtV0VEdF9kSHVpXzFPUUk5SFN0aDB4aUR2OEtzVTI1WXlmU0N0ZDdUeVZKSGlzMDM4bDRCSUlWLVFUbnlZd0ZVTkpjYk42TTh0amZLYUdnMFVKMG9KZl9JS283SUZENlFTUmZpSzZUMnVLeHczRm8xby1xT2k3eUVPUDAwOEltQmtibEVReDdOcFNyVlZ6ZnRGWnJOODl3RGvSAe8BQVVfeXFMUFVHc3YtaEZ5djdYTlVzT2NBc3FsNVItcTBLdklnTXNQbE45aDdDdFY4SFdYUjlMZmRrQnJKOWRCdnlCUXJ4OFlRV2NUbVhuNjJNTzE2SkhoMURtN0FrM29YeEYzaW8wcGZmRzhOeWU3Y1FPRVRfb3JUaWsydXJtSExRcEpUT2Q5bUxodVlrd3F0RzI4OHZrVmphTExUbVBYS0tsOU05aFFTbkkwTTJOZXdOS1M2ek5lVG8xcE02bGdvN0RGeEZ1aVVfV2FDMWlRLW4xM2Zld2hSZFdQVE5LWEMwSjlCN0JKbFZlQkQxWEU?oc=5",
+            "published": "Thu, 17 Sep 2026 01:30:01 GMT",
+            "score": 3,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to Watch Today: Tempsens Instruments, Alembic Pharma, Manipal Payment, Rentomojo, Highway Infra, GR... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOTzl4NjhYQnI5d2xOLXpKR0ZkbWJ6ZWxDUDRIbFV6ZHlMaTFuSkNMamVBdDlhYXBTenJLRlJ6NUM0WE9saW1yelk3OE5YMFd0TkpXR0dyNjlaV0s4M001Mmo0Z3h1aS1EX0R2VW5WSU1fZldGeWhDc1Y4SW4wMVdUcE54T1dnallMa0xFWlFRc2N5TEIxbjFiT29sdnZKc2pUb2w0TlJSaUxfNEtxeDJERk9MLTIyci1yWEUtbC1vWkFnNHlpOGs5akN6VXFHNklhbWlwOHl1UUxMNElYYVgxTlBRQ2tOTHE2RndvWmVVNkhKekdPNXFmZXdiM0VmUEtUU0M2YUF0elhMQ3dPSWJ5MnVmS083bFUxbzJFUXpQVDlSVUNaSGwyWkRXSFdiVFV0TDlRZjlhaE5pb2NSX2poeTFleE3SAcoCQVVfeXFMTUtrbEFXeXVCZDkwQzRTbmZmdzNhOHdhamxaaDg2aWVxYTRRaVpkeGw3X215bFkxaFJBdGFZWFhhYlc1enh0YmRkY0REamNvSXpDWkg4SnloVWgwX1VwUzI5THRRX3B5My1hcl9uTDg4SWRBV3FPNFFDV3o3WkFWdEZCeGRFWlF3VmRvRDNMOUhxdUozbVA5d1hUOTVsOUdPS2lqX1lqWlMza19RVnBEbjJzYjhLUzFGVjBIWXhHMWlyaWdPV012aEM0UmxwX25zTjNCbkNHNHFMTUZTbmd5cjEyX2JxbXJ6bE84YjhLTWVfQTNET016RFl6V0gzSndsdHdLWFBvSnBvcWNvbDhjYXRHT2dWemZsdFA2T1YzRFJIdUpDSndBVW9WTEpRbmd1TFM3S0VYS1daY2s3U1Z1RXBkYWZiYUhsTVpn?oc=5",
+            "published": "Wed, 16 Sep 2026 20:43:27 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Should Weakness in Fortis Healthcare Limited's (NSE:FORTIS) Stock Be Seen As A Sign That Market Will Correct The Share Price Given Decent Financials? - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVzRaOTJDNmZodll1MGlDU3BOWElnblZtME5fY25hMDRLbndSLTZrTXJaamVVYVByZzhVMVUxTnp3STQ5QWpCTHBaWWZ6R0xzUjVyYjJpbkRhTi1VVzdwWlE2SWNiNmw1OTFxSjl0dHByS3R1dDFEOXdYV29hRWJKMjVLNzZ1RkpoanEyTElEN1BjVVpjclpfQ2czWlBWQ0ZvMjVtVER3T1hXZHJuaVZZTFUxY3FNcm5rYXk5ZXl3VG1zR3c2QmtPVXhvOFd6TTlybDN6RUFBNU80T1dPRGtB0gHkAUFVX3lxTE90WjVvSUlnaTczb2wxcU9IZUFxR29uYWNtZDROTjdoYXA4Q2dmX2IzUmZXWFlYc3daV0lnZEZfaFZFeExTS0RiNFB2elJ3YmlDMU5EX1VYTjBiTklSYk81dF9sNzhtRDdKSFJOMk5aRmgxN1RSdWgxaHlyaWZqT0RGWkdtbmw4eGg5UDZhVlRBV2pNaDk0anNpMWI3RGxNN21IYlF2OUFGYkxBaFBhRl9nX01Cd0NVWjU5WXZFaHhacm51NHZKUEZMbUpfeG0tb3BmbEtpcEhjZjM5NmpXOHlMVUQ0UA?oc=5",
+            "published": "Fri, 16 Jan 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 54.6,
+      "added_at": "2026-09-25T11:45:34.599498",
+      "first_seen_price": 849.2000122070312,
+      "first_seen_at": "2026-09-25T11:45:34.599498"
     }
   ]
 }
