@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2026-09-25",
+    "symbol": "JWL",
+    "alert_time": "12:57:16",
+    "bar_time": "2026-09-25T12:55:00+05:30",
+    "entry_price": 224.52,
+    "sl": 225.23,
+    "target1": 223.52,
+    "target2": 222.81,
+    "features": {
+      "rsi": 31.26,
+      "adx": 19.27,
+      "daily_volume_ratio": 1.7458134327962156,
+      "daily_score": 54,
+      "news_score": 60,
+      "combined_score": 51.2,
+      "intraday_score": 90.4,
+      "intraday_volume_ratio": 4.717532716002142,
+      "ema_alignment_bearish": 1.0,
+      "dema_alignment_bearish": 1.0,
+      "death_cross": 1.0,
+      "double_top": 1.0,
+      "head_shoulders": 0.0,
+      "rounding_top": 0.0,
+      "bear_flag": 0.0,
+      "ll_lh": 1.0,
+      "near_breakdown": 1.0,
+      "breakdown": 0.0,
+      "macd_bearish": 1.0,
+      "macd_cross_down": 0.0,
+      "obv_distribution": 0.0,
+      "has_patterns": 1.0,
+      "move_since_first_seen_pct": 0.7163682327584083
+    },
+    "outcome": "PENDING",
+    "exit_price": null,
+    "exit_time": null,
+    "max_favorable_pct": 0.0,
+    "max_adverse_pct": 0.0
+  }
+]
