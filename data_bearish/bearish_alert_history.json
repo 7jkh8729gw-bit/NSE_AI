@@ -33,10 +33,10 @@
       "has_patterns": 1.0,
       "move_since_first_seen_pct": 0.7163682327584083
     },
-    "outcome": "PENDING",
-    "exit_price": null,
-    "exit_time": null,
+    "outcome": "STOPLOSS_HIT",
+    "exit_price": 225.23,
+    "exit_time": "2026-09-25T14:00:00",
     "max_favorable_pct": 0.09,
-    "max_adverse_pct": 0.21
+    "max_adverse_pct": 0.77
   }
 ]
