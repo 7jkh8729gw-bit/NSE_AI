@@ -390,21 +390,21 @@
       "symbol": "INFY",
       "base": {
         "symbol": "INFY",
-        "price": 1000.5,
-        "day_change": -1.3799901429275505,
-        "volume_ratio": 2.295989049484022,
-        "market_cap": 405236.87307795,
-        "pct_from_low": 1.809093012087706,
-        "avg_volume": 8276639.333333333,
-        "volume": 2939142.0
+        "price": 1000.9000244140625,
+        "day_change": -1.3405594466177921,
+        "volume_ratio": 1.8604629842219034,
+        "market_cap": 405398.8967088441,
+        "pct_from_low": 1.8483364520677374,
+        "avg_volume": 8305425.142857143,
+        "volume": 3543644.0
       },
       "technical": {
         "symbol": "INFY",
-        "close": 1000.5,
-        "rsi": 29.95,
+        "close": 1000.9000244140625,
+        "rsi": 30.02,
         "adx": 21.09,
         "atr": 25.07,
-        "volume_ratio": 0.36,
+        "volume_ratio": 0.43,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -476,7 +476,7 @@
         ]
       },
       "combined_score": 55.6,
-      "added_at": "2026-09-25T10:13:44.214913",
+      "added_at": "2026-09-25T10:41:18.525497",
       "first_seen_price": 999.0,
       "first_seen_at": "2026-09-25T09:42:39.227284"
     },
@@ -484,21 +484,21 @@
       "symbol": "JSWCEMENT",
       "base": {
         "symbol": "JSWCEMENT",
-        "price": 114.9000015258789,
-        "day_change": -0.700023822489551,
-        "volume_ratio": 3.188078583479003,
-        "market_cap": 15515.464485846298,
-        "pct_from_low": 7.180156562610536,
-        "avg_volume": 1294614.9047619049,
-        "volume": 638361.0
+        "price": 114.58999633789062,
+        "day_change": -0.9679394654254445,
+        "volume_ratio": 2.4731646222544734,
+        "market_cap": 15473.603089668884,
+        "pct_from_low": 6.929047094651368,
+        "avg_volume": 1299309.1904761905,
+        "volume": 736941.0
       },
       "technical": {
         "symbol": "JSWCEMENT",
-        "close": 114.9000015258789,
-        "rsi": 28.31,
+        "close": 114.58999633789062,
+        "rsi": 27.73,
         "adx": 37.98,
         "atr": 2.42,
-        "volume_ratio": 0.48,
+        "volume_ratio": 0.55,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -570,7 +570,7 @@
         ]
       },
       "combined_score": 54.4,
-      "added_at": "2026-09-25T10:13:49.626015",
+      "added_at": "2026-09-25T10:41:21.538780",
       "first_seen_price": 114.5,
       "first_seen_at": "2026-09-25T09:42:44.871068"
     },
@@ -674,21 +674,21 @@
       "symbol": "CESC",
       "base": {
         "symbol": "CESC",
-        "price": 139.25,
-        "day_change": -0.5428144680048759,
-        "volume_ratio": 2.421178226228592,
-        "market_cap": 18458.56823775,
-        "pct_from_low": 1.1633717179084382,
-        "avg_volume": 1732070.2857142857,
-        "volume": 648618.0
+        "price": 139.22000122070312,
+        "day_change": -0.564240637902633,
+        "volume_ratio": 2.127812518274952,
+        "market_cap": 18454.591688272798,
+        "pct_from_low": 1.1420746472843586,
+        "avg_volume": 1741173.0,
+        "volume": 839775.0
       },
       "technical": {
         "symbol": "CESC",
-        "close": 139.25,
-        "rsi": 28.62,
+        "close": 139.22000122070312,
+        "rsi": 28.58,
         "adx": 19.99,
         "atr": 3.22,
-        "volume_ratio": 0.37,
+        "volume_ratio": 0.48,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -758,9 +758,104 @@
         ]
       },
       "combined_score": 47.8,
-      "added_at": "2026-09-25T10:13:17.647699",
+      "added_at": "2026-09-25T10:40:52.850050",
       "first_seen_price": 137.8699951171875,
       "first_seen_at": "2026-09-25T09:42:13.769554"
+    },
+    {
+      "symbol": "JWL",
+      "base": {
+        "symbol": "JWL",
+        "price": 226.13999938964844,
+        "day_change": -0.7722661491756571,
+        "volume_ratio": 2.040695207025267,
+        "market_cap": 9664.553950761381,
+        "pct_from_low": 0.4996926177864959,
+        "avg_volume": 627116.1428571428,
+        "volume": 293490.0
+      },
+      "technical": {
+        "symbol": "JWL",
+        "close": 226.13999938964844,
+        "rsi": 31.37,
+        "adx": 19.27,
+        "atr": 5.97,
+        "volume_ratio": 0.47,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [
+          "Evening Star"
+        ],
+        "setup": "DOUBLE TOP",
+        "score": 54,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Near Breakdown",
+          "Evening Star",
+          "MACD Bearish"
+        ],
+        "support_20d": 225.01
+      },
+      "news": {
+        "score": 60,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Jupiter Wagons Limited's (NSE:JWL) Fundamentals Look Pretty Strong: Could The Market Be Wrong About The Stock? - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdUNYRlFsOGJtWE5HTGNTV0ZPeE4wUjd1bWRxWmVxNTNET1Z6T0t2czJaOUhVWk5SWFRmYTh3WVFrbWZLRlJQUUZTbzFSaGZJbGdJUVBrUlRVTnpmRlZoOGpEcFRnSllGVjNobzJVYVdoeDM1d3JSaFFjLUlOTE9EN2tkQWdjWFhpYURWVUtzbzBvS2htTW5MdHpQUTFrVzk1S1JMUmZ5NmlRQkQ1aEdYMV9FU3cxYlRZWFB2LTlBanJIWkNEamRTUVZtUjhOd21SYjFlY2thU0NmakXSAeABQVVfeXFMTUZlRWhyYVd6SkczNE5fR21TTnVfTDhEOTFmWjFLZHgwX3VORGlTSXRocjRqa2ZpVEI1bjUzbkxzaVlCclAzZlBPTW5ySUdPNE80UlRCUk43enp6WWFoNFY0NnRmYVlXOW9kRzVNUDlKTksyRUpVQUszSHRFNmRzM2xERlhJbjVyNkxDcEp5SWpaUnFOb0ZBa2RMSGg5Qk54bVRrYThGcU9YRlFLdTJXTG44MU1QRTVlczg0UkhsejUyaUZBUHZwUFlPWjdNSmtRbTZLdHhtS2lYa2dBVnN2aHQ?oc=5",
+            "published": "Mon, 16 Feb 2026 08:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Jupiter Wagons (JWL): Rail and Mobility Business Signals - Kalkine India",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMVhWNlNJV3JqS0RiaktQZ0w5UmRnYkVPRy1rVDRCRURUQWRNaGtmUUhCbVR1Z2tONUFXOElwZ2l2d0IwS081X0x3LXVRdXRaSEtmdENOMHJaUlRHanV4aFYxZl9hVnRyZGN2RV91VEhPMWVPLVhNTHBBeWdmOUQyV0RNQnVBSDU2NWVNSE54RUVvOUlJQVJHcHZwbnNzeWtPVm1iYzR3SWZnb2psMUFIb09NRUQtbWdMNlEyblladlBzMjhK?oc=5",
+            "published": "Wed, 09 Sep 2026 12:45:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Jupiter Wagons shares zoom 15% as promoter Tatravagonka buys additional stake worth \u20b9135 crore; all you need to know - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdExVQ3A1cllRYjRIUnBMd1MzcU9wdXBHcFd5OUx6QU45ekZfdklUZHdSOUJ1R3E2WUQ0MGpyQ2gyck1sNVVCX0lkMEtJLWZZQmZaeUhKNFdkNHN6ejhPREx2LS1OOVp1TGdyR010SklWWEdkQ0I5Ry1lM3RBT1BwZEw2UF84aXJVOXVnM184bkZuc2lWZzZpRm1uempmVlVGWHNVemx1QThsYUp2Zk1hRTA2RC1RMFE5OVNGQTY4QnlXdHRkM1QxNmVrN2NpX1pNSVRfSUFUYkpFMVllcC1WTHVpd2h6N0ZBS3NwZjZGVEVUR3pNVGJUWUV3NlBoSHNOenc?oc=5",
+            "published": "Sun, 21 Dec 2025 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Jupiter Wagons Ltd. Share Price Today - Jupiter Wagons Ltd. Stock Price Live NSE/BSE - CNBC TV18",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YTDFVdm9uVXNyczNtbFNCb3ktY0I4RndPTVlWdFZGRWVqMEtwa0s0dGR2SnQtQlFHQXdVN1JPdUFvNlY4Nk9hYnA0aUhGZ3JVMEZ1SFhNSjhSdV9IQnRndmxOcjJIeGZERlppYUNwSTNtd0oyWnVFQUd5bWxGSGs?oc=5",
+            "published": "Sat, 03 Jan 2026 20:25:03 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Jupiter Wagons rises 6% on inking long-term supply pact with Tatravagonka - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ1JTaVA5MDc3VG1FOFVoeTBxVXhkdGF3aGF0d043cEJUc3hKcXpIeVhYcmFVNVdyZHRqeV9xb2dFNV9fU3drcldwakhnc3pGR0F0MmFtWGVraWJheDlHV1VRczExTUo1Q0kydjhRbVlJS1JsRlk5aUxhRDAyeHN1aUVBbGJfcXhaNVlaQnloZC1uN1d6STE2RmJkRVlCM2pQWFZrdDhSbXlIOEdiOHlVcnQxcWJRY05Hd2M3ampyeVc4WG1zenlrdERYYmhUVDROa2tQQ3V1REFEcnJOTmNDM0EyazhuUdIB6wFBVV95cUxNdG5CQlA2bUJra095UDNpSFBBYjBPSEtTQUJPa1RUMjdqazBzV2U5dWtlamNMN3BWN1A2MlctWGY1UXB3LWNhRThPRlVkY2dQODRPSlh4dHJEMW5kTm1LODFxeTRhTExXcldETUJZbzlnR1hOaXphcTBWMEtZY1JyY3V4UEl3aXNVNXpaSjVpcnJRbGJMNEVyREh6UTlVeFRMV2g4RlRxWEtqOVpuMWlnSGxETlVGZGl1VjREQ3ljeG5qUFZFOU5RVXNjUkVwX25IV294SzJ5ODZrb0FMeXE1aHpLTW9ZZWJWVmJz?oc=5",
+            "published": "Wed, 27 May 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 51.2,
+      "added_at": "2026-09-25T10:41:22.362890",
+      "first_seen_price": 226.13999938964844,
+      "first_seen_at": "2026-09-25T10:41:22.362890"
     }
   ]
 }
