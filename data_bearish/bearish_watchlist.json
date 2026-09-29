@@ -103,21 +103,21 @@
       "symbol": "WIPRO",
       "base": {
         "symbol": "WIPRO",
-        "price": 159.8800048828125,
-        "day_change": -1.039856834097784,
-        "volume_ratio": 1.855526652582714,
-        "market_cap": 158174.72877970856,
-        "pct_from_low": 0.8068604612987187,
-        "avg_volume": 9727234.761904761,
-        "volume": 6882740.0
+        "price": 157.1199951171875,
+        "day_change": -2.748206553912563,
+        "volume_ratio": 2.1730981197671326,
+        "market_cap": 155444.15720869147,
+        "pct_from_low": 0.0700105739371484,
+        "avg_volume": 10394835.333333334,
+        "volume": 20902352.0
       },
       "technical": {
         "symbol": "WIPRO",
-        "close": 159.8800048828125,
-        "rsi": 28.14,
-        "adx": 21.23,
-        "atr": 3.34,
-        "volume_ratio": 0.7,
+        "close": 157.1199951171875,
+        "rsi": 25.22,
+        "adx": 21.53,
+        "atr": 3.46,
+        "volume_ratio": 1.98,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -127,13 +127,13 @@
         "bear_flag": false,
         "ll_lh": true,
         "near_breakdown": true,
-        "breakdown": false,
+        "breakdown": true,
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": true,
         "patterns": [],
-        "setup": "HEAD & SHOULDERS",
-        "score": 68,
+        "setup": "DEATH CROSS + BREAKDOWN",
+        "score": 82,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -142,11 +142,13 @@
           "Double Top",
           "Head & Shoulders",
           "Near Breakdown",
+          "Confirmed Breakdown",
           "MACD Bearish",
           "ADX Trend Strength",
+          "Volume Expansion",
           "OBV Distribution"
         ],
-        "support_20d": 158.59
+        "support_20d": 157.01
       },
       "news": {
         "score": 50,
@@ -189,8 +191,8 @@
           }
         ]
       },
-      "combined_score": 64.4,
-      "added_at": "2026-09-29T11:38:40.475749",
+      "combined_score": 75.6,
+      "added_at": "2026-09-29T15:02:47.094488",
       "first_seen_price": 159.8800048828125,
       "first_seen_at": "2026-09-29T11:38:40.475749"
     },
@@ -198,21 +200,21 @@
       "symbol": "CAMS",
       "base": {
         "symbol": "CAMS",
-        "price": 677.1500244140625,
-        "day_change": -2.0822736798626345,
-        "volume_ratio": 3.328875268863025,
-        "market_cap": 16813.469272160193,
-        "pct_from_low": 9.709812837545629,
-        "avg_volume": 1025422.4761904762,
-        "volume": 1292580.0
+        "price": 671.7999877929688,
+        "day_change": -2.855903455805224,
+        "volume_ratio": 1.8453489287753089,
+        "market_cap": 16688.74633079491,
+        "pct_from_low": 8.990765774994319,
+        "avg_volume": 1048915.1904761905,
+        "volume": 1785927.0
       },
       "technical": {
         "symbol": "CAMS",
-        "close": 677.1500244140625,
-        "rsi": 30.86,
+        "close": 671.7999877929688,
+        "rsi": 29.64,
         "adx": 23.65,
         "atr": 17.9,
-        "volume_ratio": 1.26,
+        "volume_ratio": 1.7,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -222,15 +224,15 @@
         "bear_flag": false,
         "ll_lh": true,
         "near_breakdown": true,
-        "breakdown": false,
+        "breakdown": true,
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": true,
         "patterns": [
           "3 Black Crows"
         ],
-        "setup": "DOUBLE TOP",
-        "score": 62,
+        "setup": "DEATH CROSS + BREAKDOWN",
+        "score": 76,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -238,9 +240,11 @@
           "Lower High / Lower Low",
           "Double Top",
           "Near Breakdown",
+          "Confirmed Breakdown",
           "3 Black Crows",
           "MACD Bearish",
           "ADX Trend Strength",
+          "Volume Expansion",
           "OBV Distribution"
         ],
         "support_20d": 665.05
@@ -250,16 +254,16 @@
         "label": "Bearish",
         "headlines": [
           {
-            "title": "CAMS NSE:CAMS Analyst Investor Meetings September 2026 - Kalkine India",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNVBFWExpX1hPM0V0U3Y4U202WkdDcTBuZHJsWFBvUVVwcDJ3dDljaS1QLWVrRlh1TWJHdERMT1FER0pXLWJFRXlFc3FEaVZVMG9Da0tvSlpfekV4ZmtJZWZicnpTbi16dVdGaXcxVURuVTQzR3RYdkdiU3RqWFhEZGVqb3JnS2FpMFpBYjYxb3dLUGdaQ1pwdllfS1VrdFVFLXU1WHhudG51aVM1VEhSQmI2NnZDU1RIT3c?oc=5",
-            "published": "Wed, 16 Sep 2026 10:39:00 GMT",
+            "title": "CAMS (Computer Age Management Services) Share: Pros and Cons Every Investor Must Know in 2026 - Univest",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Hd0NPM3F0QkJVWmlQV19iVW8xcFNqd1ZFME1qTGFjaGlmQ0xKWkNnbjFDN2dMQ0s3WjhwbElZYlJxcDduWW9kQVAyZTdnWG5DTTk1TXVCcE82WFFrc2taQlA4ODZMc2lT?oc=5",
+            "published": "Thu, 06 Aug 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
           },
           {
-            "title": "CAMS (Computer Age Management Services) Share: Pros and Cons Every Investor Must Know in 2026 - Univest",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Hd0NPM3F0QkJVWmlQV19iVW8xcFNqd1ZFME1qTGFjaGlmQ0xKWkNnbjFDN2dMQ0s3WjhwbElZYlJxcDduWW9kQVAyZTdnWG5DTTk1TXVCcE82WFFrc2taQlA4ODZMc2lT?oc=5",
-            "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+            "title": "CAMS NSE:CAMS Analyst Investor Meetings September 2026 - Kalkine India",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNVBFWExpX1hPM0V0U3Y4U202WkdDcTBuZHJsWFBvUVVwcDJ3dDljaS1QLWVrRlh1TWJHdERMT1FER0pXLWJFRXlFc3FEaVZVMG9Da0tvSlpfekV4ZmtJZWZicnpTbi16dVdGaXcxVURuVTQzR3RYdkdiU3RqWFhEZGVqb3JnS2FpMFpBYjYxb3dLUGdaQ1pwdllfS1VrdFVFLXU1WHhudG51aVM1VEhSQmI2NnZDU1RIT3c?oc=5",
+            "published": "Wed, 16 Sep 2026 10:39:00 GMT",
             "score": 0,
             "label": "Neutral"
           },
@@ -286,8 +290,8 @@
           }
         ]
       },
-      "combined_score": 63.6,
-      "added_at": "2026-09-29T11:37:16.796872",
+      "combined_score": 74.8,
+      "added_at": "2026-09-29T15:01:21.146705",
       "first_seen_price": 677.1500244140625,
       "first_seen_at": "2026-09-29T11:37:16.796872"
     },
@@ -295,21 +299,21 @@
       "symbol": "ICICIPRULI",
       "base": {
         "symbol": "ICICIPRULI",
-        "price": 450.0,
-        "day_change": -1.8966670973412918,
-        "volume_ratio": 1.8713210965818772,
-        "market_cap": 65285.195265,
-        "pct_from_low": 1.5666639539930554,
-        "avg_volume": 1533157.4761904762,
-        "volume": 1086406.0
+        "price": 449.29998779296875,
+        "day_change": -2.049274943079762,
+        "volume_ratio": 1.825663015416551,
+        "market_cap": 65183.63874583574,
+        "pct_from_low": 1.4133041972980158,
+        "avg_volume": 1610616.6666666667,
+        "volume": 2713049.0
       },
       "technical": {
         "symbol": "ICICIPRULI",
-        "close": 450.0,
-        "rsi": 33.11,
+        "close": 449.29998779296875,
+        "rsi": 32.87,
         "adx": 21.64,
         "atr": 14.79,
-        "volume_ratio": 0.72,
+        "volume_ratio": 1.72,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -325,7 +329,7 @@
         "obv_distribution": true,
         "patterns": [],
         "setup": "DOUBLE TOP",
-        "score": 63,
+        "score": 68,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -336,6 +340,7 @@
           "Weak RSI",
           "MACD Bearish",
           "ADX Trend Strength",
+          "Volume Expansion",
           "OBV Distribution"
         ],
         "support_20d": 442.95
@@ -344,13 +349,6 @@
         "score": 50,
         "label": "Neutral",
         "headlines": [
-          {
-            "title": "ICICI Prudential Life Insurance Company Ltd (ICICIPRULI) Share Price - Business Today",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdG1hRE52UVFUdkJVZXZDOUxIUWhHVURIcDJBOTFJclBwSmQ4R19sR0JSTWQ1Q0FWdjhzdnlOYnlna0ZLVHpqQXZYYzVCc0FkLUR2NVpRZXEydmNVWWxRY3p6STM3VFQxSUJyVktwaUhzblpMamJScUdQQXI4MXBmTWRQeVAwNlpHdHR3cXhfb19sZjJuN1h6R2djQUZVU2Z4OVR2aHBoMDAxQmdlc1E?oc=5",
-            "published": "Fri, 25 Sep 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
           {
             "title": "Insurance Stocks Recover After Sharp Selloff: PB Fintech, Star Health, Go Digit Gain - Kalkine India",
             "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEw3YlhKR0toOG5abWhfdVpsWFAwX3VabmlYNFIwWVBjUzl6STJGTmJNSnpneEtialAxOG96SW8tTnhHRXdjbTFnbUZpYkNwQTlxYVY3dDNKdktxaEp5SG5helg4R2llUjMxcnhveXVYQWlGRFFnWXN5N3M4WGxxNWV2bEstVnQtUDE0MUNrQnBucEV2aWdSTDE1VFhLR0R3QUJNSHo0LTJhYUg0U2N2eGFqdkdpNW1oSGxVejR1dHFBQkU?oc=5",
@@ -378,11 +376,18 @@
             "published": "Wed, 15 Apr 2026 03:31:41 GMT",
             "score": 0,
             "label": "Neutral"
+          },
+          {
+            "title": "ICICI Prudential ESOP Allotment; Shares Gain 2% - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbXd4RmVQT29QQkRWZmtoTmUwN1Zac0ZWWkhveS1OZEZycUlqSFFpMmFxbWx6c0xrNXFsZmdhUHpWQ0tUQ3ptOHJtMkR2UU9OSmVjZFlPX3pzb2h5Z0ZxaV8tSGFfMnFfNkdmeWZFOFZINlVjdC1VRHY4eWdjSGNScE4wOXRJYl9Tb0NsRA?oc=5",
+            "published": "Wed, 15 Apr 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 60.4,
-      "added_at": "2026-09-29T11:37:39.034068",
+      "combined_score": 64.4,
+      "added_at": "2026-09-29T15:01:46.047727",
       "first_seen_price": 450.0,
       "first_seen_at": "2026-09-29T11:37:39.034068"
     },
@@ -485,21 +490,21 @@
       "symbol": "CANBK",
       "base": {
         "symbol": "CANBK",
-        "price": 118.83999633789062,
-        "day_change": -1.500211491999064,
-        "volume_ratio": 2.6255350910368813,
-        "market_cap": 107795.6162520683,
-        "pct_from_low": 0.681586657315886,
-        "avg_volume": 11002336.714285715,
-        "volume": 10938552.0
+        "price": 119.29000091552734,
+        "day_change": -1.1272280092427918,
+        "volume_ratio": 1.6625974475600112,
+        "market_cap": 108203.79971098292,
+        "pct_from_low": 1.0562512587477573,
+        "avg_volume": 11307447.952380951,
+        "volume": 17345888.0
       },
       "technical": {
         "symbol": "CANBK",
-        "close": 118.83999633789062,
-        "rsi": 31.27,
+        "close": 119.29000091552734,
+        "rsi": 32.13,
         "adx": 12.07,
         "atr": 2.32,
-        "volume_ratio": 0.99,
+        "volume_ratio": 1.52,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -509,15 +514,15 @@
         "bear_flag": false,
         "ll_lh": true,
         "near_breakdown": true,
-        "breakdown": false,
+        "breakdown": true,
         "macd_bearish": true,
         "macd_cross_down": true,
         "obv_distribution": true,
         "patterns": [
           "3 Black Crows"
         ],
-        "setup": "DOUBLE TOP",
-        "score": 62,
+        "setup": "DEATH CROSS + BREAKDOWN",
+        "score": 82,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -525,8 +530,11 @@
           "Lower High / Lower Low",
           "Double Top",
           "Near Breakdown",
+          "Confirmed Breakdown",
           "3 Black Crows",
+          "Weak RSI",
           "MACD Bearish Crossover",
+          "Volume Expansion",
           "OBV Distribution"
         ],
         "support_20d": 118.03
@@ -536,7 +544,7 @@
         "label": "Bullish",
         "headlines": [
           {
-            "title": "Canara Bank Share Price Today,, CANBK Share Price NSE, BSE - Business Today",
+            "title": "Canara Bank Share Price Today,, CANBK Share Price NSE, BSE - businesstoday.in",
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xMGYxaHJvbWxWa0RMcVM0MTUtWEd4SHZORmhwSk9mQ2dXYS1CdlNvWWhCVUVnWFRxUG4xOVJ1YV9TSTdfY3c0V2ZSSDM4NVNVcnpqR2RIVTRCN1lkSjBxU1UxMGZnUWlHai1RSmZoakN4RkloMVdLeUVPdG0?oc=5",
             "published": "Fri, 25 Sep 2026 07:00:00 GMT",
             "score": 0,
@@ -572,8 +580,8 @@
           }
         ]
       },
-      "combined_score": 55.6,
-      "added_at": "2026-09-29T11:37:16.492784",
+      "combined_score": 71.6,
+      "added_at": "2026-09-29T15:01:22.449381",
       "first_seen_price": 118.83999633789062,
       "first_seen_at": "2026-09-29T11:37:16.492784"
     },
@@ -581,21 +589,21 @@
       "symbol": "HDFCAMC",
       "base": {
         "symbol": "HDFCAMC",
-        "price": 2285.10009765625,
-        "day_change": -0.7470768712631444,
-        "volume_ratio": 1.7614437083586294,
-        "market_cap": 98047.5663671499,
-        "pct_from_low": 3.479059848692863,
-        "avg_volume": 574731.619047619,
-        "volume": 383346.0
+        "price": 2255.5,
+        "day_change": -2.032751936566492,
+        "volume_ratio": 1.7133126609677518,
+        "market_cap": 96777.5049189,
+        "pct_from_low": 2.2123654331079585,
+        "avg_volume": 601777.0,
+        "volume": 951299.0
       },
       "technical": {
         "symbol": "HDFCAMC",
-        "close": 2285.10009765625,
-        "rsi": 29.22,
-        "adx": 22.41,
-        "atr": 49.42,
-        "volume_ratio": 0.69,
+        "close": 2255.5,
+        "rsi": 27.22,
+        "adx": 22.53,
+        "atr": 50.23,
+        "volume_ratio": 1.63,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -605,36 +613,59 @@
         "bear_flag": false,
         "ll_lh": true,
         "near_breakdown": true,
-        "breakdown": false,
+        "breakdown": true,
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": true,
         "patterns": [
           "3 Black Crows"
         ],
-        "setup": "DEATH CROSS",
-        "score": 52,
+        "setup": "DEATH CROSS + BREAKDOWN",
+        "score": 66,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
           "Lower High / Lower Low",
           "Near Breakdown",
+          "Confirmed Breakdown",
           "3 Black Crows",
           "MACD Bearish",
           "ADX Trend Strength",
+          "Volume Expansion",
           "OBV Distribution"
         ],
-        "support_20d": 2265.8
+        "support_20d": 2254.4
       },
       "news": {
         "score": 40,
         "label": "Neutral",
         "headlines": [
           {
-            "title": "HDFC AMC among 5 F&O stocks with a sharp rise in futures open interest - The Economic Times",
-            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeVRtRWNuamZZVjB6RmZGZzVIMlNMdE5OaEt2NUFIcnIxYzc3RE00N09RbXA1T29OQk00SEtlRUllOWVOY0l4akxjeHZEU1VJZVRhQVBIeENEaXB1UE04bFg3bm1SOHpseWVub21WOWpGeF9SdURNN1JxRDJZWjZmZUU3Sk5LSlhkMVhLNlhfdlJUWk10aEpJUjNjbUZSbEtBT0xCaVNZczc1aExNR2h1X3pKSzVTOERxQlhEdEFRa0dENGhuWlNHc3VsQWlKdjRIMjhOcHBYdWpnNzJBVUs1NHdLdnh2TE5udDRUYlY1aXAzUQ?oc=5",
-            "published": "Fri, 17 Jul 2026 07:00:00 GMT",
+            "title": "Stocks to Watch Today 26 August 2026: Paytm, Dixon, HDFC AMC and 4 More - Univest",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOekdQeFM0WkNlTUh6MWdIeDVLTmhZSTZCbUFTd2xJaG1RX2dtanNfeFRMZExBdmFTck9TQVZhMS1iS21HLXlwLTlmNHdiVTdETy1nUE9ZS2JJWnFoLXRaMzRXdXhfTHBESFVZblh3?oc=5",
+            "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Capital Market stocks: HDFC AMC, MOFSL, Nuvama rally up to 6%; here's why - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUTVDVG9GYzVLTWJDZ0xhYV8xdDF1UUc5Wk9HOFVjZXcySWJwQ19KdURGa25Jbnh1SHNDd2hKSWVMd1hXQTJTX1YwOHFiUGpUdnRMRFA2SjRZUDY2TnlVTm9hUURwenVVWXRySDZ5STlqaUszTnFyOUg5N0hGa2s5SUVCWmhrX2Z4ZGEyTFFsVUJ6bF95U0puNXBqc25NRFVzYThvdTdNX2JxS2lZUWJIa2xQdW0xUlkxUW5IWVNvQjZqNlJGR0stRjJtVkVPWldw0gHWAUFVX3lxTE1sSUtxdU1CaWZuVnQwcUczeHFCeDRpeURtdlBhLXVIMFlWYmQ2ZjQyVU14d2dtOUQ1VWNzX0RPY3dPN3JNU3dXUTRCRDhieU0wdDBER3l6bUFNNlJHTGxtdjh2aUdwYUxnSnNWbWoxcFZKai1aMWI1a1A3RExpaElBTjN4dThLSFV6MGs3RkF3UlI1aHloYmd6QjF4enl6ZlI4TEVDYU9xVXpJVkViWjVsVXB2SXkyV2JWUEducmM5MlEzNjdMbVVBZ24zOGQ5RkZkS2Z6QUE?oc=5",
+            "published": "Mon, 15 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks in news: Wipro, Jio Financial, HDB Financial, HDFC AMC, SBI - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcG1GTUUzclUyUlZsVTMwRzFmNFVuMkphb04xbU1hakpkcTItNGs2QzFTWWFOT29YNm9DUVFhRjhlZzBNTWRqcGVsQ19NX1dfMGJYN0hyYmxNWmFCTndpakRUTWY4VWdVQ1UxR1hPNU1Yb0pRdjN2QWQzSmY1MUswVkhGb0RoVDVDSnhpeGxMOWF4ME83YmVFcWs4LXpSWGFPQnRVVVFpVjBvbjR5eXo0UmVsd3JCdzgtZXozYmJjenNQbE5QTlVJNXd2NGpOZzVI0gHWAUFVX3lxTE9YYllsUW1tN3VFeFV4eFB1YjlSVm00WFdKTU5DR05remNCclNQbmY3TUY5bmkzYVpMTUlsa0xJdW9iUWpnbnRadzhJY0JWSG5wTU55VWRfN1VPS0J5UnFNd1ViQktQU1ZZdWtiZHB0SERveDVUdlVQUGc4NW9BU2IzbmxuUkdRalllUmhvcXo0VkxEYTJGWmNpdnpCXzV3WVNZRnhoUGxhYlVLeGVPSHhDcG9IMzVWNWY5RlJUeUdTZG9oRUloQnpqQ3htblVyTWI4Rk9PdGc?oc=5",
+            "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "HDFC AMC (NSE:HDFCAMC): What Is the Elara India Dialogue 2026 Analyst Meet About? - Kalkine India",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSEFYWlpCbkJwaEJYTmJMM3l0U3prdF9IYmVnWjEwcUxOX2ZTUEpkSlVNa3RSamVtQjNxdDBNbTA5dFo0bDdzYUtBVWVGT3g5M2NhNjdxOC1zUnZJUDUwRXJhOTdZS1R0clNZdThnbWxHQm1ueHdOOWREeVRGcWJIVnBNU2dqNWtkQ1pGQV94enV5alViUmluekdhVHQ3X3liY2hzSkZ0T0VJRXMyT3pWWW51NGUzbS14QWlsX3BDRXdFZw?oc=5",
+            "published": "Tue, 18 Aug 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
           },
@@ -644,32 +675,11 @@
             "published": "Mon, 18 May 2026 07:00:00 GMT",
             "score": -2,
             "label": "Neutral"
-          },
-          {
-            "title": "Stocks to Watch Today 26 August 2026: Paytm, Dixon, HDFC AMC and 4 More - Univest",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOekdQeFM0WkNlTUh6MWdIeDVLTmhZSTZCbUFTd2xJaG1RX2dtanNfeFRMZExBdmFTck9TQVZhMS1iS21HLXlwLTlmNHdiVTdETy1nUE9ZS2JJWnFoLXRaMzRXdXhfTHBESFVZblh3?oc=5",
-            "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "HDFC AMC ESOP Grant Signals Alignment; Shares Rise 1.16% - HDFC Sky",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcEliNmQ4Q2dwNWh0TUYwUmh4Ym1hVS13OWpJY3V1cHZjSXgwWjVtYmFqUFB4V2ZiaEs1T1FXV0VHTTI3bVlXaGt3WUc0c2VMeDlYNEt3Ymh6SG5BNzlUVTh6X1hpNFRQeUhDczlENkgzYUFtdURta3BOZGZvc08yZkxKUzFIRlpNUlBfbDZPdXE?oc=5",
-            "published": "Thu, 16 Apr 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "Trade Spotlight: How should you trade IRCTC, Netweb Technologies, HDFC AMC, Gabriel India, Shreeji... - Moneycontrol.com",
-            "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQUVlqQVVuS1g0bmRaaG52TDRvazRaY0k5VUZneXFMTHJ6dUQ2SE1WT1k2Y2t3ZXNMckV2eEpiT2lRYmY5eFcxOUxvQ3RzOGh0bWpyTndwc2JpQm4wNFZUZGM2N0ZCX2oyMFpiemxpdm5YZEF1NjVGU3lOY0d6MHZlRGktbTN6WmhWU0FNdnpnc1FpS2lBZFRRWndtN2xtdmNHZTZnYkd3dG5VcWx4amt6eUhpbHVhSU9GLTUzX3ZBemVQdnZuSm9wOTRQRWEwMk84WWo5a1RlcGJZb1FGY2ZiUS1GWHl5TTVkV05kYzNZTkNxZ2dDbnJEckdRdUxyZUJjbzFETGF6REZvVEVjdG5CTTRRMDFKd9IBmwJBVV95cUxOWHF6Q3prbDBfaUozR1dBTGFMeC1ScEc0S0luektIMUVrcDROY0J6bE9kSVZGZmZwOHh1LUlkaDFjNGxVWThzS0FPOXE0QWdnbm5JbEMwMEJoSjBPUFJmbE92cFJOdDVQajJYVGYxRS1aMXRzamFscU5kNDY2eDNHeGNBQXloekVBcG51SUdfbHpEQVBxS180OU83VEVjOFM2azBoVlVmZ290OEdWRkx6VmVYY2sxZEREOGlDNHBGTmgtUDhmdi1kN0o0alJ5LVRNUDVOTHZzd0V4OUJrREtPT0R6d2o5XzN2NEY3SjZQdXlMTk45NEs0amlSMWpMcGRJVzRDYTdYTVJ1aHA2cWlrcXlyZ0ZCNzliMUZv?oc=5",
-            "published": "Wed, 06 May 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
           }
         ]
       },
-      "combined_score": 53.6,
-      "added_at": "2026-09-29T11:37:36.489417",
+      "combined_score": 64.8,
+      "added_at": "2026-09-29T15:01:42.839952",
       "first_seen_price": 2285.10009765625,
       "first_seen_at": "2026-09-29T11:37:36.489417"
     },
@@ -677,21 +687,21 @@
       "symbol": "RECLTD",
       "base": {
         "symbol": "RECLTD",
-        "price": 294.8500061035156,
-        "day_change": -2.7699897432759686,
-        "volume_ratio": 2.901504778273328,
-        "market_cap": 77640.61124719238,
-        "pct_from_low": 0.8478887394434386,
-        "avg_volume": 4419631.285714285,
-        "volume": 4890059.0
+        "price": 298.1000061035156,
+        "day_change": -1.6982667424515663,
+        "volume_ratio": 2.85824050306501,
+        "market_cap": 78496.40904719238,
+        "pct_from_low": 1.9791995222018193,
+        "avg_volume": 4790049.619047619,
+        "volume": 12668844.0
       },
       "technical": {
         "symbol": "RECLTD",
-        "close": 294.8500061035156,
-        "rsi": 29.73,
-        "adx": 55.32,
-        "atr": 6.31,
-        "volume_ratio": 1.13,
+        "close": 298.1000061035156,
+        "rsi": 31.55,
+        "adx": 55.33,
+        "atr": 6.32,
+        "volume_ratio": 2.69,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -701,13 +711,13 @@
         "bear_flag": false,
         "ll_lh": true,
         "near_breakdown": true,
-        "breakdown": false,
+        "breakdown": true,
         "macd_bearish": false,
         "macd_cross_down": false,
         "obv_distribution": true,
         "patterns": [],
-        "setup": "ROUNDING TOP",
-        "score": 52,
+        "setup": "DEATH CROSS + BREAKDOWN",
+        "score": 71,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -715,10 +725,13 @@
           "Lower High / Lower Low",
           "Rounding Top",
           "Near Breakdown",
+          "Confirmed Breakdown",
           "ADX Trend Strength",
-          "OBV Distribution"
+          "Volume Expansion",
+          "OBV Distribution",
+          "Strong Volume"
         ],
-        "support_20d": 292.35
+        "support_20d": 292.2
       },
       "news": {
         "score": 45,
@@ -761,8 +774,8 @@
           }
         ]
       },
-      "combined_score": 52.6,
-      "added_at": "2026-09-29T11:38:13.068977",
+      "combined_score": 67.8,
+      "added_at": "2026-09-29T15:02:19.937536",
       "first_seen_price": 294.8500061035156,
       "first_seen_at": "2026-09-29T11:38:13.068977"
     },
@@ -1044,6 +1057,391 @@
       "added_at": "2026-09-29T11:38:14.519413",
       "first_seen_price": 109.31999969482422,
       "first_seen_at": "2026-09-29T11:38:14.519413"
+    },
+    {
+      "symbol": "CROMPTON",
+      "base": {
+        "symbol": "CROMPTON",
+        "price": 212.8699951171875,
+        "day_change": -2.7102412485650427,
+        "volume_ratio": 2.3679473022634414,
+        "market_cap": 13707.01562971344,
+        "pct_from_low": 0.17381271464952738,
+        "avg_volume": 2410941.1428571427,
+        "volume": 5267487.0
+      },
+      "technical": {
+        "symbol": "CROMPTON",
+        "close": 212.8699951171875,
+        "rsi": 26.16,
+        "adx": 42.07,
+        "atr": 5.3,
+        "volume_ratio": 2.21,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": true,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": true,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DEATH CROSS + BREAKDOWN",
+        "score": 87,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Head & Shoulders",
+          "Near Breakdown",
+          "Confirmed Breakdown",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "Volume Expansion",
+          "OBV Distribution",
+          "Strong Volume"
+        ],
+        "support_20d": 212.5
+      },
+      "news": {
+        "score": 60,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Earnings Not Telling The Story For Crompton Greaves Consumer Electricals Limited (NSE:CROMPTON) - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeElxVVZVckZjendiYzdKckwxWTNmQUthbjVwTUhOZ055dThJTXNJcGtRR3Mzb2dXNkU5aDJjVkJSRmdQTzEtRzJtMldCRktRRFpkazFYMEllYWVmdVpoUnFPSmpzT3NOWGVSVkRlUFdfSHFZZ3hkRTd0djdoZGJXWkc5THRjOWl6RjQzSVVUWGdpb2JMUlQ4YUdVTG5Ed3h6ZHdPYlJfTmNRTnNjWUVuRVJMaTBFbHE5Qng4Y0dnSWxQaktqTGk1TjZ0d2Ezek5OQ3k3YWl2aGtDdVAzR29HbFQwdVRFaldJSTRNZTg4dDBlVVBQVDhGOGc1eG8zY2ZuZ3I3TlBB0gGLAkFVX3lxTE5TN0JNM2l6NTZtV2RpX3gwenQxMXlzdVE0R3VlZU1LeUFEdndZWVZPZEptVzllVWlfaU1OdEI5T2RBVVo2cGFfWkRaV0YxaW5fY0FXazhYMEYxMmF4cGN0eVloSTl6VlhRcVdETVdnM1hMcjhIVzZCdHpOb1lWTVpfRFdrZU02d2hkTEhXYU5LUkp0OEtvRU9pdWI5Y014Q2VrNzdJNlpwb215TFl5WlptOEtQMEd5cVNkc2Rjem5XSjRkT2lVc01nUkduallhUF9aekNNS1NHVzhCaC1oYkFDejJHRWhaX1FTTlVvSWxVSW9ZcDEyWFlJUG5pTXNoeWxVVWNTOUNEb3JjVQ?oc=5",
+            "published": "Thu, 15 Jan 2026 08:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Crompton Greaves Consumer Electricals Share Pros and Cons 2026: Fans Leader in Turnaround - Univest",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tUV9GRjJHZFhna2JSTzhjU2JLSl80bU5SMlZ5dGk1Mlh3Qmlva0Nodzk5aEJ6R3FDQmVodmxiY09TSHdfZ2p4UTdQSXA0RERsSlZYcmtGV3UtYVEzYzlJVDR4UlNDR0tpYjBv?oc=5",
+            "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to Watch for August 7: LIC, Crompton Greaves, Apollo Tyres and more - CNBC TV18",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQnR2NjFIQnB0b0lTZXAtNnhuVTJHZWt5bTl0RWhkSGxxenJqRkpoSE1mVVRvVlpJX0lVeVJyVG9ObmZkU2prd3BhZGVZekpzOEZMTDdiRXlUYzVzUXkzX01tU0Mtc1lxRmJoYUE2NGJrNllEcGFfbW5rdlFPeVpCUzNPaVcwR0lIQ29CVDdVdGZpcER6NHRyWFJZcWVjVm1JdE1XdDFoZmNYQVJ6a1d0RjZQb091Umc4REZzT09CUC1FakVp0gHKAUFVX3lxTE9xVlctNUZEZkpUcjVOWHdCdEVzVmpLSW5mdE1ZZkFVSXBSVEs5ZXJSblpPSFY2dlM3ZDdHWDNwMDNYZEhJYWpCSjR6Q2pDS2dfM2dYejJMMUJQQlEta1RqX1dhTndrVDJrQ3F3SVd4ajRoUWEzMXNPUFI2cS1pNHF5bTFBRHdFeGF1cnZOWjRVTGFTdzVjOVROT0pJV3dKejNTS2E5SUxRdktqalJId1VlR1l4ajJ3bEV5S0s3UFE5a3BDWXBwd285Unc?oc=5",
+            "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Voltas, Crompton, Blue Star rally up to 5% on late monsoon; check top picks - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMmZpM1MxUy1NOE5QSk0xbWY5NS1tbU5KRUZxbm94Z0ZPT0Y0bGJqel8tUVRYdDB1VklIaG04cHpJOFY5RGpLUTQ3SWFhQVB3VmxoMDlCdlg4OHBBUW5CeFBMeXdwcnNjU0Uzd2lyQTc1RllLdjFaZ2dfWVM1WmFLSXRlQ3hyM1g1WEdXQTRUUU1ZUDlIanZKZlBFczBXTnA3cWs5QXNQa2x3WlduT2k2M2tHUXhrNXY5QmQ0cHBJa1o3bTd5dFMzd0VsaW1ONmN2UmVnNdIB2gFBVV95cUxNSnlxWjlUeUVUa0FqWTNVUy1qeFZBLXp2VU5sQm9mR0t5cnUzeVdIajJWNmE3aWljSm9xYTR6QUR2bEFzTjZjSkwtc2I5VGZiZjRPSlhNSHVnX2NlRlBMcU5IUFBhQ0x6a0JRaUVIdV83dVg5eGp1T2VvTU4xM2xXQ2JlYWd4czhONVlMaGxKT2FtVjhWMnV1RjU3QklySTVUNFRvQ25kYmg2Tm9xYjd4QXRjNWdTRjBfNU5ocFAycU9qSDhOa1RwSkczekozcHBBdVJtNFI5RW5Vdw?oc=5",
+            "published": "Wed, 17 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "\"Crompton Greaves Q2FY26 Profit Falls, Shares PriceDown 2.93%\" - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KNGpYUGVhcFVDc1NtM3ZZVUlVY1c4VWRJbXRFT2Yzc21qSk1naWpNbm56djlpZlJDMmpJU3FNVlJjMlBXdWpmVTN3NW1Kb1lwVnNGeHV4OFoyb3lpWkdsMGJNOXBDWEU2Z2d5QUZQVXAyRzEyWUV4NGNncUs?oc=5",
+            "published": "Fri, 07 Nov 2025 08:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 77.6,
+      "added_at": "2026-09-29T15:01:26.043668",
+      "first_seen_price": 212.8699951171875,
+      "first_seen_at": "2026-09-29T15:01:26.043668"
+    },
+    {
+      "symbol": "IGL",
+      "base": {
+        "symbol": "IGL",
+        "price": 142.16000366210938,
+        "day_change": -0.8647073132165592,
+        "volume_ratio": 2.0719760624967867,
+        "market_cap": 19902.423258295898,
+        "pct_from_low": 2.0821656145301106,
+        "avg_volume": 1599240.9047619049,
+        "volume": 3057338.0
+      },
+      "technical": {
+        "symbol": "IGL",
+        "close": 142.16000366210938,
+        "rsi": 30.52,
+        "adx": 15.09,
+        "atr": 2.98,
+        "volume_ratio": 1.87,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": true,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": true,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [
+          "3 Black Crows"
+        ],
+        "setup": "DEATH CROSS + BREAKDOWN",
+        "score": 81,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Double Top",
+          "Rounding Top",
+          "Near Breakdown",
+          "Confirmed Breakdown",
+          "3 Black Crows",
+          "MACD Bearish",
+          "Volume Expansion",
+          "OBV Distribution"
+        ],
+        "support_20d": 139.2
+      },
+      "news": {
+        "score": 65,
+        "label": "Bullish",
+        "headlines": [
+          {
+            "title": "IGL: Major \u20b978.98 Cr Block Trade Amid BPCL's No Encumbrance Declaration - scanx.trade",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZkR2eHJsaDk5X05PQU4wR3FJTjFTTjFYSjRDVXJPOWFHaHp5dEVVVktnVmg1R2pNbVVNWmlpLV9Wajl0ZDIwZE1XUS1jcFNydERPTG9wRWpJVFlvMXFKOGhqSUpIZEdwTldkY25FSkRTMXk0eUgxNUNUbWdabnFQa3ZnbnFmaExOTXpOckdUMTRCZ0Y4dW52VVNoemh6S1p3eldjRFNYaE9ObUxaMExjaWZzVWZnWHJrbG9SN3l3?oc=5",
+            "published": "Sun, 27 Sep 2026 16:51:13 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Bonus & dividends: SAIL, IGL among 10 stocks turning ex-record date this week. Do you own any? - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOekhqY3NBUUxUYUNxTXZzaFZNMFVZYUp1VWxyRUZncG9LQUhBX2h4bWt3T3JQRERvYzliVUI3SHlnaThBY0hkYTV0TzJWZTNMaXhaNGYtLThtaTFFZFFfeXhUNGJXX3RKV3hIU25rVUdiWlp3MWZjbjBnVEFUTWN3UGh3LUhNS2lGbjFDYzEwMzVJcjZJendmczRTR1RfWDhZSG1IRXZZWDFQRXNLWnVNOVVkdFNEUVoyXy1uSFJ6dlFJZ2tCTFhGR3Iwb1NWQ2VWZVlFbFliX3M0YVdtZzZxU2dBcHRydkE0Y09RSUNpOGNOTVEyYXBCMnN30gH6AUFVX3lxTE56SGpjc0FRTFRhQ3FNdnNoVk0wVVlhSnVVbHJFRmdwb0tBSEFfaHhta3dPclBERG9jOWJVQjdIeWdpOEFjSGRhNXRPMlZlM0xpeFo0Zi0tOG1pMUVkUV95eFQ0YldfdEpXeEhTbmtVR2JaWncxZmNuMGdUQVRNY3dQaHctSE1LaUZuMUNjMTAzNUlyNkl6d2ZzNFNHVF9YOFlIbUhFdllYMVBFc0tadU05VWR0U0RRWjJfLW5IUnp2UUlna0JMWEZHcjBvU1ZDZVZlWUVsWWJfczRhV21nNnFTZ0FwdHJ2QTRjT1FJQ2k4Y05NUTJhcEIyc3c?oc=5",
+            "published": "Sun, 27 Sep 2026 04:34:00 GMT",
+            "score": 2,
+            "label": "Neutral"
+          },
+          {
+            "title": "Indraprastha Gas (NSE:IGL) Morgan Stanley Analyst Meet Sep 2026 - Kalkine India",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSjN2cHZPNXRaTE5HYklWS0lhU2loWVExUWpGdGdpT1dkLWxoTmJta1h0RUZBOEZGWU1BaTltWmhmZkxNWEpiRkJpd0tyMFF5MDJjSGwtX0RkTFI2eXdlUVBXNkZxcXJGM0RPMUg0Ml8wYjh4U2UxUFdvYVFWNVhPaDNWRjhqYlRjQUR0RUtQNnQ3aFMtRXN4QUpXWFpSR2tOZzNqaGxKMlRBNXA2TVdFZU50QzJFMnlucm05SWhMV0I?oc=5",
+            "published": "Tue, 15 Sep 2026 11:12:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "3 Fundamentally Strong Gas Distribution Stocks in India - Univest",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01MThYeFJHN2NjNXlIZzc0VmF2MllIOXlqUmdoWDk1MjNTZDNGMW1JaFN2RS1uUU9KU0IwM0dlcThOYW1EMHFLZlduaFk2WTBGdG5xLUliUHNQbWhhRzEyQnVfb2lCd00?oc=5",
+            "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "IGL, MGL to Adani Total Gas: City gas distributor stocks rise up to 4%; here's why - Livemint",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM2R4cTJuYWtMUk5OaGRzaWdqQlpvdU1uVUJjbkI3MmtEbDRiM2o1T2FjS2RmODFRWEJOeXpOU2wwTS11V0hIb012bkZybWFwa2pHZjlZeGxTTkpFYWlrckp3bWNIYVdRZ20waWtha0tnakxWTnp4MXlJejlGQUFBS1R1YTV6aEdLZU1FdmRuTkQwOEdTQWhOVVJVczFCZG9IR0R5NlBMT3BZYVRmazJ5ZFE2VmhleTBMZTVRSW0ySi1IZF82OHVtVXlTUVZmOU1RUjB6Y0VodU1sNE5YTWp1NdIB5gFBVV95cUxPN0JOZWJ0T3JGa3BUVmJPNVlEN0pzdlN3X0RaMGplS3kwYXlGTEpwMHN4aU1kRUlwRFhRRWZfelljRFdianE3RzRpR1VSVFlsYUNUN3l5MkpDZ1ZQS0N0dkg1Q21GZ05UeE9HOHFDVTRQUUg4S0xUWjlEX1RZLVVBcXNlcEZCNzZPNVZrSFllempuWmdQZFZ4N2NBc3U2dGR1X21RVVVNUGYyeDBKbF9mR0x2ZHcwRnBkT2NDM3BwQVI3N3JaZ0NJQnRWNlU3UGFtVmkzNzlqbnZGMV9SbnloOVdFbWhEUQ?oc=5",
+            "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 71.8,
+      "added_at": "2026-09-29T15:01:47.121060",
+      "first_seen_price": 142.16000366210938,
+      "first_seen_at": "2026-09-29T15:01:47.121060"
+    },
+    {
+      "symbol": "IEX",
+      "base": {
+        "symbol": "IEX",
+        "price": 106.8499984741211,
+        "day_change": -4.041311236340831,
+        "volume_ratio": 1.90255925822286,
+        "market_cap": 9506.734878703406,
+        "pct_from_low": 0.1310242317713698,
+        "avg_volume": 3526768.9523809524,
+        "volume": 6190989.0
+      },
+      "technical": {
+        "symbol": "IEX",
+        "close": 106.8499984741211,
+        "rsi": 26.26,
+        "adx": 33.46,
+        "atr": 2.3,
+        "volume_ratio": 1.73,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": true,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DEATH CROSS + BREAKDOWN",
+        "score": 61,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Near Breakdown",
+          "Confirmed Breakdown",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "Volume Expansion",
+          "OBV Distribution"
+        ],
+        "support_20d": 106.71
+      },
+      "news": {
+        "score": 40,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "Indian Energy Exchange Ltd Share Price Today,, IEX Share Price NSE, BSE - businesstoday.in",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkRRQ0NmV0x1UktEOW5qZ3JDbFZHd0hlUFUwUExVTXVlLWpaMnl6TGpXRXdGbFFpNkp6dC0tbGs5Z3Jra3ZYVk5NUUU2UWJORnJyNUR5REQ0cTItR0RsQUZVSmFIaTVFaXNESUh3X2hCcnFXaGhXaDlSSzFjR3k3VWJPeEdmSVRWQ21XVkJn?oc=5",
+            "published": "Fri, 25 Sep 2026 10:29:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "NSE debut puts BSE under pressure; \u20b94.45 lakh crore valuation nearly 2x BSE, MCX, IEX combined - fortuneindia.com",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT1BMcEM3V2wxS1BaWXB0a0RBZEwyVTYxb2ZLaEk4ajBWRzV6YmZseEZkOURhMWNjdXhpaGtWTnNIWkZPSUJQeEMtVGVmOUZGRjNaWi1ELThDeERMa0pZUDhndlJxQ3A3QW1ZWXpPUUtqTzZDcWpILTlIMlJDcVdtcm12b3dGYWFocGZ3OWI1MHJFN3lmOWh6VzlpbElvZFlqc1FMcmhJSTZFd2xGa0o4dnZZbjJfNUdjN2ppSFVuckVzWGdWZ01nUmM1eHBhQdIB2wFBVV95cUxOZnljNUJPeGdPZ1dmMXhFdGpTZGh5Um1zSmUxVXRNSUtpU2Rmam45NXpacXMwdE13c2VveHV6RHZVM2U2dFFvWXotYmRJX3BiNkRtb3lzX09NaDJBNWU1QWZaU3JvaUVMNDMzbkwyWTZoTFVzRENwRVNtLXFwY0s4R0lvU3JscTBpNXhUUDJDQWFhcUN0T05YamVUWVUyXy1EU2VCbHlMOFVNWkNzVDRCNl95Q3lGSDluaE9BUDFJNmRxT01VcF83VFNRSnByV2JzLUxXamp1SXlmdzg?oc=5",
+            "published": "Thu, 24 Sep 2026 08:21:17 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "NSE's \u20b94.45 trillion valuation nearly double that of BSE, MCX, IEX combined - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcUdBVk9lLWNYaE95RHFiTDMwYnJibXRQeTE2WFEtMmhCeFJfYzNjWWhOYkY5SXNCSXNHYzJMZHZhMDJvcUJIdE5qNXllcERGYVBpQ3VOcEo5YlQ2ZkJnN1ZRdnlubFhrczVCN3FUUVo2SE1YelpsUXJsOU9SYjN5bFI1UVpuTGlWM2QzRG5GcjdSelJoVmdTT0twZFBuNEtkQW14Z2pKZHUwUDRkeTd1QUhfYzIyN3VlTUthemlraVhLelZIZy0zSDcyUmoxTjhJbC1VNkNVSUwwOE9Tb196THdRTFPSAeoBQVVfeXFMTUphWmgyLWktV0NiWThvcWNCZkktTFRNMFZqY3VpcmRxYkV1NFRSNUNEU2FFakZ2dmpoWDhsRC1zdDloQWZjNXk2Wk1fbmRfdU03NEVpcUNmQ21zeVNSdHpTY0hTUnRuUG9xVmI0TDBycDJnRXpTcllKcndGR3YxM0tWUTl0Nk1wcXQ0QjMwY1UtX0pXMUhCUU9qWFlHRFp5ZXRxQm5Ya3N2SzNFSUg5SHN1dzJ2YzV5U3F3LXJpdTZ5UDNDb2lEMEQtQkRKNkJGZEppUXZZeWVQdm5VVUVtYm1YbFlwNm05c2Jn?oc=5",
+            "published": "Thu, 24 Sep 2026 04:43:45 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Indian Energy Exchange Limited (NSE:IEX) Looks Like A Good Stock, And It's Going Ex-Dividend Soon - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOEpJazhpTE9sVHBkcV9VTEJrdnVuQUFVYmVUb2VyaFowakt2RS1JdjFHaG13bFRtamEwdTJxVEVBVlBLNE50R3VhYmRJN2dXTlJ4ZmZqemc5UUFVcmlKRzFKZmFibGQxZTByVjlxTm9pWDh3ZzM0M3ZySmN3SHBVWTRUa0F5Y2M0MVQ5MVFrb0NPQUxDZ2ZPYjZtMXBLWmNyUThwckxGZ3cxTC1DMEpqeUhFNGt0UU8zaWdqOEpfVmtDcGZvZTRyT2d3NUlJak1GRjk2WFlfWnByeEhKZ3Z4ZnBYd3Fkd0xaajRpLXhxbjQtUdIB9wFBVV95cUxPQUMzekZ1UXNPODBpZzBEbzBuNlVYVS1sbEttNThXQlJhbEJpMDc0VTc4TklxMlZtZktXSi1mYjd2UWRlRXVsYlk3cGp6b09pUnh1WWd4a3g5Zl9ydlpHb2dtRlNtdXA3TkVleTVwWTRhMHZXRmM3OGZ4MkJNQjFJWFpiVExLZlVETVJ4RE9KNkluWldYUXIzcWVmajNvSTNWNk16VVFlVjI0dmNUTTEyYTU4LXVqb0g1SXpZUVBtZ1RzXzhmbWI0Q0w4WWlwa1dFYVcyRG1PR1VoQUxrcG1YYlNZcUh3WkZLUEprdDdvSnFERDNaTDFF?oc=5",
+            "published": "Tue, 12 May 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "IEX falls over 4% as Supreme Court allows CERC to frame market coupling regulations - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbE52T1JGQmdmdlRaQlV0VVpKXzU0Sm5zYmx5M1doeXVIbFRhbERxMUY1cDVMOEhHMjZhUmtXVmFaRWFMakRqM2FCdjI1Z3BlQnFpd3ktMlYxZkQtcVMyS2Y2NUc5SUNsRGtTbnppQWo0a1YyVlVidl90WUNlMlFlV1kyWWtEYmhWazdXZGdDLWFPdTRaVHFPbGZ0VkEyM0ZBMC1YXy03V0VaS2liWkp3aXY1WG5XbUlaaS1aQk9qQXpSQVF6LS1MTURoUU94ZDktaEp4RFBNVGpfbzdxUnJ30gHkAUFVX3lxTE96ZHFNVlB0VXgzZGZBbzZyOUd3TG9DM01YYkpRV3BqYm9LX01KTGx3TTIzZkVfYnY5Vk1iaU9vd3lUTkJqUVBidVFRRUNST1dxem1WV1BHYTRyQ2JmczU4MmZtaDBBM1FmanBvUWNRQTdWVDZFY2N4aTQ1T1prcHVhV1QwckN3NWdPaTBEcUd2SGs0R1JWaGF5Y2RmR1AybnhBYzNoRHZUdzQ4SHFOeGIzbEYyVmVYOXF1SFpIM1hUdnJYWVJUUXlYU2xPLW9GOFlDVTJCQWgyRnFtZzFlWUZPZm84eA?oc=5",
+            "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+            "score": -2,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 60.8,
+      "added_at": "2026-09-29T15:01:47.682541",
+      "first_seen_price": 106.8499984741211,
+      "first_seen_at": "2026-09-29T15:01:47.682541"
+    },
+    {
+      "symbol": "KPITTECH",
+      "base": {
+        "symbol": "KPITTECH",
+        "price": 504.0,
+        "day_change": -0.9823182711198428,
+        "volume_ratio": 1.524550842332878,
+        "market_cap": 13720.2518376,
+        "pct_from_low": 1.6865079365079365,
+        "avg_volume": 1409870.142857143,
+        "volume": 1983197.0
+      },
+      "technical": {
+        "symbol": "KPITTECH",
+        "close": 504.0,
+        "rsi": 25.91,
+        "adx": 25.14,
+        "atr": 14.35,
+        "volume_ratio": 1.39,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": true,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "DEATH CROSS",
+        "score": 47,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Near Breakdown",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "OBV Distribution"
+        ],
+        "support_20d": 495.5
+      },
+      "news": {
+        "score": 55,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "KPIT Tech share price crashes 15% on weaker Q1 business update. Buy or sell? - Livemint",
+            "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONUxScGZIaUszckZnMGNrNVhqcU1DdmdjTlozTTVNUGRjZ2xuWU4yc1E3Z3RTeHNVMVNHVkQzSGZqQXZaMTc2RHM1a0lWTmNhNDVHRkNzMFZEZkM2V2lqOFBKRm1OMllJYl9ZWldWcmFzTHJzQ1FxMTItYW1VM3c0SGktNXFtWnlOVXc1T1NITUQ0eXA0Z2RoWUlBVnRoZ284SndnLTJEcHdLRlYwWkQ1TlloMkRrZUtoaDV5aXVYdXI0YTctbDNxOURQaXdBekpqcllmRG1sZFVqLU11SzRld3lrUzNDLUM2SUNqbzBrYllKR1XSAfgBQVVfeXFMTTFYanM4aTRHcmMxSGFNVWlOS3V5WGcxOUotcG5rYm1scGc4N0F2RFduaHNJYnZXdVIxM2hqX1BOdkJGZkhKdE9GSnRINjhuTDNMbjVuRVpzUWI1cVpQZTdueWtYdXlueTRsdjZIOFJpYzBITlJzZmJOVFhPYkYtOHk2NU1jQnJWQzhFcHQwVFNSWmwxTGxabEpnS3dCWlo2eUxuaVVCQWd2ZFE0eFhrR2dSc2JiUVNzQ1NrRkp3RDlyMldWUThrTzZsYW4xYVZLMGVHNFlwc2NaQnlUVmVZcnhXN3k0WUZsZ0pRWW1zbE5NZ3JEMXZlLUU?oc=5",
+            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+            "score": 2,
+            "label": "Neutral"
+          },
+          {
+            "title": "KPIT Tech cracks 15% on Q1 earnings warning; stock down 57% from 52-wk high - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZzBUVTZtYjR1NXdmUTJYNVpBcWRzbFpOWWxEWmpOSFotSUhXa3g3S252MUE5RmxybHNqMWFYYk9sUkc1cXpBeFctd2FvTk1jTHhiV2J3VUlZOHdEQ1VObWxMLXR3eTZ2WWx5bFAxNkE4WWtYYnJrcHNPZC1BTlhOdzFRZmtoTHdDWjNMVFRfcnVZVnhIZFV6WFlweTZQeXMxZHEwMGRkRHNkY28wLTg2bEZFdHR0c2gxbTB2cDlTdzNyLVJ1SGtSbnFUZkVneF9ydEJ4dlJZY2xiMkFxc2N0OWliaE5zZXR10gHuAUFVX3lxTFBlUDk1SENJQW1RY21zdHlQWEx1M2YzSndNdFA5dF9xTFk5UjVrdGJtb0NpczljdlNiend1UjBYc0tGcGlFWDFzQ1VsVk9ER1lCZXUwZU1EUG12VEV1RVZEdjVLZjFtSEZKZGowZFMzQ2k4R1dvWFdFVFRES3N0UlZzOTBtYjdfNmxEcGxBR0JxSVNaZlgyMXNRNDFKWG1ZZjVyVzd3ZHQtMnVUU1k4eXdvQkhRcFZQUlFQSnhCeXRnM00wVDJWMUNxczNqV2dPM0VZaEd4OXRqbkZYTGtrM3hLQXJmN01Udko0dmMxZ0E?oc=5",
+            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+            "score": -1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to Watch Today: Kotak Bank, KPIT Tech, Waterways Leisure, Advit Jewels, Genus Power, Ivalue Info,... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQT2tCc3RSR2hhaGx2c1VoQWNlNVlqenloZXhMRnFsc0J4S3RGeW83QktCbnhtMXdLWU5YZ1hxZ0kxNmxkWEJQTmF0VE8xVm9mcUFnTm5CYXFjRWNpaXRKSnc2NURVSHU1ZGV4MElsX0dpMS0yb3dIWElqbDhjbm5zbkg4YVk0TENTWllvQlRhVVdISS1QYmFETFZQVnl6TzRQT2t6Y2dwcFVvV0g5MlJCYkU3YWFEb0JwU0FjMUgtMGtGX09mZDl2cnF3UWNmdkp3QWJEbzhNb3JPS213MmtYcW9Jd052d2w2ZWJFNVBoRG1ud1MxdDRuenVxYTluNjU0Rk5wZ2IzUGlwTTUtNkFsWHQtejVlM1BjTzlyYUsxcVBuekZYZkJnLW1DN2Uyc2N6VGfSAbcCQVVfeXFMT2t0WVdxa1YxVGVjVS1tS3drMzN1MWJkajFZN2JuWEQteTFfckd6dDRHUFBjdFE1WGZEY3cwcm5XbWY2MC1Fbmd5VTZaZzJCLWJaSWVVZTBNWXN2TDdQWHdzNWJ2eWVYakFhcUxDQ3ZiQjdibUVrdUVScF9zeGJneFZNNzRqdEU0eGhCa2dKVGttT3lMc3JLd2xydnJzQnp0N3pjVmRtT2JHV3NiUjhyQnZvSlJ0RWdLN2t5QzNtN3ZoQlNhNXZNY2Q2WHhKTDJxLVZvQ0lTM2pYaXUzNzZYbW9ZdW94SXRLdzR0NzlLTDVSeTFURER6aFE1UVJmZ3hleHNUNTR3Rkl3ei11eUZDb19DWFkyc1dWTVZ3Z3EwY3lKZDlfZUxqOFpGT2lnQmt3Wnh0RXVPY0k?oc=5",
+            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "KPIT Tech shares crash 17% as company expects Q1 revenue decline, sharp hit to margins - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPX1VacWRNVlNJQzZZUUZPXzIzc1JzRThULS1NOGFXVDhCaGVndERlZ1g4SHJndV92LWpnX1dFZUFNUDdjRFNxQWNvYU0xS3BFS3Zaa1JHRkdsckIwcks1UV9EYV9uRVhXZXhZZXNKbHBFbjBtUTQ0V1lRak81NXZIRGR6aVd0c3NQVzlBaTlqYWd1eVI1bVRSVnBkS0U5aTktcnpUOC05TTJxNXl0Z1l5eEVWNFNyakk2TDV0X0M2RlpSTkdlc2dRRkJyYWV2dzBINC12czhKVWlqQk0wQlZ4RnJ0eFZpSHp1b045UnRJVUp3WjZlajVScXB5UnlEQU3SAYQCQVVfeXFMT0dmcFNCOUFfRVhRbXYwbUpTSDgtTHU0X1dRMXZOVklORjNwdmU3UWpaamJhM0xBUkxaN1BLeHRBU2xqYmZjVk5fbHZHZGczcGZCVno4dFFNSTFUMUhSTEY3YjNKYU1tOTVzVFR4WExHU1FvOG5SN3R4SHNwT3ItR0NJNEtWMkZMMXh2ZENxdFFNRkVfczJjUi1rcW9jZzA0NDhaTmVCbmxabUd0SzRHU0ZqSkk4XzZmb1plZFZReGw0bEdiaWJTQVlfbm4tOU5nUFp5Y3VRbmVFSXJqRWhld0FEaDJzQ0RUNEhMZG9SbnV4YUNPcDVscFpXSHhEVC00SE0zZkk?oc=5",
+            "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to watch, July 1: RIL, Nestle India, Paras Defence, KPIT Tech, HUL, Kotak Bank, Unimech Aerospace - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMVBXQnpKLVFYSUNhekg1WHhfeWpzek1KVEJtQ3pzSFRvVEtqNkJjX3QyREFfWG8wbWl1ZHN4VnpFb0dIdldyOURDU3dvSUE3b1VTTWpFTFU2Zkd1bkFZcHI1b0pYSWFUaXV5bjNlMTVndG5pVVBzckVvZGdVakFxZVdxT253emdNTzNkdnpDcDA2b1J2VU1zb3lWbV85cWN2c0JEeVVUc0l4U1Y0U0JXMndYSjhJYmsxN09qTE5HdEVHTW1yc29qMlhjVHhCN012aVVIYkVQeXBEOW40dTNDU2VkQ2FKWV9YSmpPMkZCVWU?oc=5",
+            "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 46.6,
+      "added_at": "2026-09-29T15:01:56.424978",
+      "first_seen_price": 504.0,
+      "first_seen_at": "2026-09-29T15:01:56.424978"
     }
   ]
 }
