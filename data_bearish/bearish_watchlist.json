@@ -5,21 +5,21 @@
       "symbol": "MAXHEALTH",
       "base": {
         "symbol": "MAXHEALTH",
-        "price": 936.7999877929688,
-        "day_change": -4.612563783635369,
-        "volume_ratio": 8.528495540134491,
-        "market_cap": 91179.70312555713,
-        "pct_from_low": 3.608026071029208,
-        "avg_volume": 2052289.6666666667,
-        "volume": 6067687.0
+        "price": 923.9000244140625,
+        "day_change": -5.926071949767835,
+        "volume_ratio": 5.566883855284214,
+        "market_cap": 89924.13646613574,
+        "pct_from_low": 2.2621521660113926,
+        "avg_volume": 2316951.0,
+        "volume": 11625575.0
       },
       "technical": {
         "symbol": "MAXHEALTH",
-        "close": 936.7999877929688,
-        "rsi": 28.45,
-        "adx": 22.86,
-        "atr": 26.91,
-        "volume_ratio": 2.9,
+        "close": 923.9000244140625,
+        "rsi": 26.81,
+        "adx": 22.99,
+        "atr": 27.47,
+        "volume_ratio": 4.9,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -53,7 +53,7 @@
           "OBV Distribution",
           "Strong Volume"
         ],
-        "support_20d": 915.5
+        "support_20d": 907.7
       },
       "news": {
         "score": 50,
@@ -97,7 +97,7 @@
         ]
       },
       "combined_score": 73.2,
-      "added_at": "2026-09-30T11:25:04.745162",
+      "added_at": "2026-09-30T14:53:27.697534",
       "first_seen_price": 936.7999877929688,
       "first_seen_at": "2026-09-30T11:25:04.745162"
     },
@@ -203,21 +203,21 @@
       "symbol": "DELHIVERY",
       "base": {
         "symbol": "DELHIVERY",
-        "price": 402.54998779296875,
-        "day_change": -3.557739894744331,
-        "volume_ratio": 2.2743292177176837,
-        "market_cap": 30162.843909429022,
-        "pct_from_low": 6.980493463681162,
-        "avg_volume": 2488832.476190476,
-        "volume": 1947186.0
+        "price": 409.79998779296875,
+        "day_change": -1.8207968889909554,
+        "volume_ratio": 2.114599953271447,
+        "market_cap": 30706.082326954023,
+        "pct_from_low": 8.6261534013994,
+        "avg_volume": 2635288.0,
+        "volume": 5022752.0
       },
       "technical": {
         "symbol": "DELHIVERY",
-        "close": 402.54998779296875,
-        "rsi": 31.85,
-        "adx": 32.17,
-        "atr": 11.44,
-        "volume_ratio": 0.76,
+        "close": 409.79998779296875,
+        "rsi": 34.36,
+        "adx": 32.27,
+        "atr": 11.58,
+        "volume_ratio": 1.85,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -231,11 +231,9 @@
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": true,
-        "patterns": [
-          "Bearish Engulfing"
-        ],
+        "patterns": [],
         "setup": "DOUBLE TOP",
-        "score": 70,
+        "score": 76,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
@@ -244,12 +242,13 @@
           "Double Top",
           "Rounding Top",
           "Near Breakdown",
-          "Bearish Engulfing",
+          "Weak RSI",
           "MACD Bearish",
           "ADX Trend Strength",
+          "Volume Expansion",
           "OBV Distribution"
         ],
-        "support_20d": 402.25
+        "support_20d": 400.35
       },
       "news": {
         "score": 50,
@@ -263,16 +262,16 @@
             "label": "Neutral"
           },
           {
-            "title": "Delhivery ESOP Allotment: 1,27,439 Shares Issued in Sept 2026 - Kalkine India",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQktBSXRyNFRHVTJXeW9MRGI1UF9GNjM0TzZtUS1FSFBZSnRDd2QwMmdBTXpxdndNZnNSaWlkTjZ5NlpGaUNGT2JYOHI0d3ZNLWhndTQxc0Ytc3B1T19Sc0xxMWI0Q3dJSllEclNUcTNuM04zbkgweUdvUVlTMGRueGQ5WU8xMW9veE5yMFNRLTdtdjNsS19heVdNUklLQm9XY2RieXdzTm5MZFgwVjBlaVhFemVqRjZjTVNiZllMWi1wZ2VpR0E?oc=5",
-            "published": "Wed, 09 Sep 2026 10:55:00 GMT",
+            "title": "Delhivery Share Pros and Cons 2026: India's Largest Listed Logistics Company - Univest",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oNHFHM1BMZ3diLWxldFZvZHRlVC1peFQxQUtTSDFzVTJoMFRBY0xKVGN1cEFzbG02aDJnbkVqTWRnTUZ5RGF0YVFxN05sSU9kcElOaDFRS2pOR3JuYUtSd0M1c01oaTRxTW14ZQ?oc=5",
+            "published": "Fri, 07 Aug 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
           },
           {
-            "title": "Delhivery Share Pros and Cons 2026: India's Largest Listed Logistics Company - Univest",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oNHFHM1BMZ3diLWxldFZvZHRlVC1peFQxQUtTSDFzVTJoMFRBY0xKVGN1cEFzbG02aDJnbkVqTWRnTUZ5RGF0YVFxN05sSU9kcElOaDFRS2pOR3JuYUtSd0M1c01oaTRxTW14ZQ?oc=5",
-            "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+            "title": "Delhivery ESOP Allotment: 1,27,439 Shares Issued in Sept 2026 - Kalkine India",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQktBSXRyNFRHVTJXeW9MRGI1UF9GNjM0TzZtUS1FSFBZSnRDd2QwMmdBTXpxdndNZnNSaWlkTjZ5NlpGaUNGT2JYOHI0d3ZNLWhndTQxc0Ytc3B1T19Sc0xxMWI0Q3dJSllEclNUcTNuM04zbkgweUdvUVlTMGRueGQ5WU8xMW9veE5yMFNRLTdtdjNsS19heVdNUklLQm9XY2RieXdzTm5MZFgwVjBlaVhFemVqRjZjTVNiZllMWi1wZ2VpR0E?oc=5",
+            "published": "Wed, 09 Sep 2026 10:55:00 GMT",
             "score": 0,
             "label": "Neutral"
           },
@@ -292,8 +291,8 @@
           }
         ]
       },
-      "combined_score": 66.0,
-      "added_at": "2026-09-30T11:24:33.870618",
+      "combined_score": 70.8,
+      "added_at": "2026-09-30T14:53:01.243799",
       "first_seen_price": 402.54998779296875,
       "first_seen_at": "2026-09-30T11:24:33.870618"
     },
