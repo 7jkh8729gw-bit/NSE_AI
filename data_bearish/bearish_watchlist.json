@@ -1,214 +1,120 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "items": [
     {
-      "symbol": "MFSL",
+      "symbol": "JINDALSTEL",
       "base": {
-        "symbol": "MFSL",
-        "price": 1352.5999755859375,
-        "day_change": -2.8304615239987427,
-        "volume_ratio": 1.7304771354652149,
-        "market_cap": 46434.587951608286,
-        "pct_from_low": 0.613627599262452,
-        "avg_volume": 1303316.0476190476,
-        "volume": 872072.0
+        "symbol": "JINDALSTEL",
+        "price": 1081.199951171875,
+        "day_change": -1.467246599819648,
+        "volume_ratio": 7.5980683978284125,
+        "market_cap": 110010.8080794364,
+        "pct_from_low": 9.628189075767821,
+        "avg_volume": 759774.8571428572,
+        "volume": 2832531.0
       },
       "technical": {
-        "symbol": "MFSL",
-        "close": 1352.5999755859375,
-        "rsi": 34.67,
-        "adx": 26.6,
-        "atr": 51.43,
-        "volume_ratio": 0.65,
-        "ema_alignment_bearish": true,
+        "symbol": "JINDALSTEL",
+        "close": 1081.199951171875,
+        "rsi": 37.71,
+        "adx": 23.38,
+        "atr": 30.35,
+        "volume_ratio": 3.65,
+        "ema_alignment_bearish": false,
         "dema_alignment_bearish": true,
-        "death_cross": true,
+        "death_cross": false,
         "double_top": true,
-        "head_shoulders": false,
+        "head_shoulders": true,
         "rounding_top": false,
         "bear_flag": false,
         "ll_lh": true,
-        "near_breakdown": true,
+        "near_breakdown": false,
         "breakdown": false,
         "macd_bearish": true,
-        "macd_cross_down": false,
-        "obv_distribution": true,
-        "patterns": [],
-        "setup": "DOUBLE TOP",
-        "score": 63,
-        "reasons": [
-          "EMA bearish alignment",
-          "DEMA bearish alignment",
-          "Death Cross",
-          "Lower High / Lower Low",
-          "Double Top",
-          "Near Breakdown",
-          "Weak RSI",
-          "MACD Bearish",
-          "ADX Trend Strength",
-          "OBV Distribution"
-        ],
-        "support_20d": 1344.3
-      },
-      "news": {
-        "score": 50,
-        "label": "Neutral",
-        "headlines": [
-          {
-            "title": "Max Financial Services Ltd Share Price Today,, MFSL Share Price NSE, BSE - Business Today",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmtUTDFBdWJkSGpWazFwRExkNXBkSjNYak1Ec3Q0R3MtMlJWSTRUMV9PdWdZREZJRHROS0pBMWVQQUhwUlp1UFlNWXNQNFdyN3RSOWZNNFJWdWk3bEJpZ2xlN1JNT0lTbTZ2eXdscmRscG1wcHh1RFEycGhHcVBBMnJHUVRHRHZkQTVSRlVjaw?oc=5",
-            "published": "Thu, 01 Oct 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "Max Financial Services (NSEI:MFSL) Stock Forecast & Analyst Predictions - Simply Wall Street",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOE0tVTFMZGdRdUNnWHMxVGxkSTVnWkhMSGlFcFNrd3RiQjZQTlgwRDlIQ0YxR1ZjM3RaUlVwaWhRSlBSb3ZnWm9UdzBISnNpQmpaVlB2Yl9IZ0hRYVZLcmM0SWZhZEdibGpQQ0x3NDNzelk3YU1DVUZwdE5NMGRzRmRlaEtCNFdmR09sVWxxWW4?oc=5",
-            "published": "Mon, 07 Sep 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "Max Financial Services MFSL Jefferies India Forum 2026 - kalkine.co.in",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLWJUaHNvdl9ZMDh1WFdmLXdnZHQ1d3lMT3Q2T3JXSmE1SDR1REFYSFBBU0lNTDdhLWxnZC0yUndwRFpRRUkyZjhJVHpYUTA0ZlhLYXJQZVF4dEowX0tIOTZPVk1CcENwSndXN0pVdFhnQngyaDlDUDh0ZExnQ3NBWkpTZ2hRbEZGQVpxUEc5d2UxRV9zOF9XVzVoXy1QckpzVEdGTnZoZkJmelIzVE85SDdmMmt5bWtzVXpTSkU5X0VlY1VRTVNaZXQybHE?oc=5",
-            "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "Technical outlook: Analyst bullish on HUL, bearish on Max Financial - Business Standard",
-            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb2VnTGFOT1AxMkwyWThvaWk5ODhfRlFmaWw3cVdiSVpnWDdGT29xN194Z2pPeXRYLUdyeDZzdkExSF8xRWE0bm1PaUZHSlkyY3Fjal9OdEoyNW52TWpkYzVoNUpualY3eWhEcGMwZEwwVUlua3RJZEs3X3M0OXh6Sk9rb0tUVXIzZ21GYUUtSnU1elN2ZEgwWlBHeHRLREtlcHhOeHpPQVlHNERwS1Z0YThjYlFJUmw5QzhlLTVYY2h4MVp4Vm0zV0tBRklsb1NqMFZmMFVn0gHbAUFVX3lxTE03VlhTWWV5YnhTSGtsMmJVRmRVUHlOTXA1TThVTWI5eDQ2a29SWFQ4UF8yb3cwdG1URmh4X1ZzdGlxVUpYYzM4UlRfSGl4TUdzdmxES1NNUTRpdDVfY3dTcm9iR2JjeC1NdHpVLVpwU21reDNzandrQnFTT2FqN1lheG5FMkJ5TjFIYk9VLXlnZHktb0stWUR2akotRmhmcDBlbWlIdnFXZm1mbVEwOXVfd3JfNDUxTzlRTHZweGFjZ3VsSS1YRzk5VGxvbkk2WEJSRWVRMmJHWEphSQ?oc=5",
-            "published": "Tue, 27 Jan 2026 08:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "MFSL share price Falls 2.37% to Rs 1,557.60 on June 3: Rate Hike Fears and Crude Oil Surge Weigh on Financials - univest.in",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VVGRJSXVkbkVoY0tudzBLQlBJRk9nNHp0NEJmaEN0VjRCdDQ4c2EzbWl6dDlCMC16RXNxOHV2OEZJTHVjbG80Wm5FcXRZTU9KWG1iVkRUWTlUSFgtM1BheVlzOVJSVDQwUURB?oc=5",
-            "published": "Wed, 03 Jun 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          }
-        ]
-      },
-      "combined_score": 60.4,
-      "added_at": "2026-10-05T11:40:22.067555",
-      "first_seen_price": 1352.5999755859375,
-      "first_seen_at": "2026-10-05T11:40:22.067555"
-    },
-    {
-      "symbol": "ASIANPAINT",
-      "base": {
-        "symbol": "ASIANPAINT",
-        "price": 2346.300048828125,
-        "day_change": -2.5218093548764022,
-        "volume_ratio": 1.6890468389575775,
-        "market_cap": 224715.8185527107,
-        "pct_from_low": 9.858076290952187,
-        "avg_volume": 520922.1904761905,
-        "volume": 337867.0
-      },
-      "technical": {
-        "symbol": "ASIANPAINT",
-        "close": 2346.300048828125,
-        "rsi": 29.33,
-        "adx": 43.5,
-        "atr": 44.72,
-        "volume_ratio": 0.64,
-        "ema_alignment_bearish": true,
-        "dema_alignment_bearish": true,
-        "death_cross": true,
-        "double_top": false,
-        "head_shoulders": true,
-        "rounding_top": true,
-        "bear_flag": false,
-        "ll_lh": true,
-        "near_breakdown": true,
-        "breakdown": false,
-        "macd_bearish": false,
         "macd_cross_down": false,
         "obv_distribution": true,
         "patterns": [],
         "setup": "HEAD & SHOULDERS",
-        "score": 63,
+        "score": 62,
         "reasons": [
-          "EMA bearish alignment",
           "DEMA bearish alignment",
-          "Death Cross",
           "Lower High / Lower Low",
+          "Double Top",
           "Head & Shoulders",
-          "Rounding Top",
-          "Near Breakdown",
+          "Weak RSI",
+          "MACD Bearish",
           "ADX Trend Strength",
-          "OBV Distribution"
+          "Volume Expansion",
+          "OBV Distribution",
+          "Strong Volume"
         ],
-        "support_20d": 2343.1
+        "support_20d": 1034.8
       },
       "news": {
-        "score": 65,
-        "label": "Bullish",
+        "score": 60,
+        "label": "Neutral",
         "headlines": [
           {
-            "title": "Asian Paints Share Price - Live NSE: ASIANPAINT Stock Price & Chart - Upstox",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14U2I2TUt3bmZGekZ5VXZvNkliTmx0YzZNYVNfWjJuaU41OF9OcjVBaEltdUxaMlNlMl8zMm1QQmUwOS1jMDJHMTFDNHV1SUREWTV6TjVERW83VWR4Z3AyQld5T1N4VkR3cVBZ?oc=5",
+            "title": "Jindal Steel (NSE:JINDALSTEL): What Does Its Q2 FY27 Reg 74(5) Filing Mean? - Kalkine India",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVFVZWx3X2JhTnZlQWtKRUtPSjlTc2ZEcjBTbE9Ea1ZhZnFxMmhWYm1VT3cwZXdCd3FhSkN3YVd3cmtyR2JFNXludTlXYTQzSlg3RHRTX1dMeDEwc1g5eWQtY3JlS3ZpbTlhVlhMTlJGTElPbFpYeE9Ha3kxeUVTTjgyaEVMbEFvTmdjWkRsRXpSTzlxblhxbkZxRkgxM1ZtUF9xUm81RFdtbWRzOGxpLWtaaEJ5enc?oc=5",
+            "published": "Mon, 05 Oct 2026 10:52:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Jindal Steel & Power Share Price - Live NSE: JINDALSTEL Stock Price & Chart - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UT1BLMWg2UWpGWHFTNWpYUDJxSTZrV2p5UVhSVXVTT2xHSGpPZXJuX1dDZUVXQWtCUUZsWC02eE1vV0FPS2xPM2laaUdjeW95Y3RUZXNPVDJxU0w1UWZiY09XMmRWZlV4aC1V?oc=5",
             "published": "Thu, 01 Oct 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
           },
           {
-            "title": "Asian Paints (NSEI:ASIANPAINT) Stock Forecast & Analyst Predictions - Simply Wall Street",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkN2OHNyOXpLdERkVVhrMFhJMkZoMVVsZ1NkdXNOSlRtVEhRT3dfN1Qxd0xYOERaTm1wamJ0R3pCVVo0T2NiSTZSMzA0WWI3VEdpY25xc1ZJWEF1RTJEcFFwaDZtNER6RkpfelFEZHJYeXRXdkljOHRDTnZyMEpTdzJMVzl5Tll1ekxZ?oc=5",
-            "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "5 Paint Stocks India 2026: Strong Future Roadmaps - univest.in",
-            "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqNWYzM1dxZE1OdDFyNU93YTZBNTNic0d1U0s4M0VNdktENU9sNTBNVUdlVjU0aWJ4QnFqQmFvZUxhRmIzaFBpckVKbHNOSF92U3lta2FXcTRPaHJhTzFoTDFRMGRWeFM1LVhpZVphTVAyQQ?oc=5",
-            "published": "Tue, 25 Aug 2026 07:00:00 GMT",
-            "score": 1,
-            "label": "Neutral"
-          },
-          {
-            "title": "How Has Asian Paints Performed Against the Nifty 50? - kalkine.co.in",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXE2dkxqWGVybGZGZHZ6NHBWY1pyMEdhbE5vZ1l1dHhpYjFpOVV4Tl91VURqRmUycTNrVDA0a1Exd1BQc0JCNm14SFJ5THY3TDRBdXJrVlBIQkpmOHhpU3hLWnBCYUxSS25SUlZsS0tpWFkwdXFvbVlpMEIyaE14TVFaWnFKXzh3S3UxVVZnVEMyTEZDSzB5WDdn?oc=5",
-            "published": "Mon, 01 Jun 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "IndiGo among top Nifty losers; Asian Paints, IOCL, Apollo Tyres slump as crude surge hits paints, tyre... - Moneycontrol.com",
-            "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORlI3SUtHOEVnYTYteWhoWHhpX0hDTWQxUllRV1BWQ2pIeUx1ZWpHT19DTkYtampoOGhzSTd3MVVhR0lnZVNob2Z2NlBZZEJWYnhuQ2poeG5BRkFnUlBFZDljcjBtQnRZQl8tcFhVVkZvLWVkMElNZEFrdDVSS2hEM2pwVUYwNWFIcS1mLW1ERHlKei1VX0g1c1NsWTJ5Qmp5SlJMRTVEaEd0YmRSRTFTRTdRYzB1MkRCSGh3UHpOb05tX2ZYUmMxVE9PZ3N5ZkI0dFI2TEt5dDZReGhZc2pHanoyMnJTX2FQdmhkdnhOY3NlaklKSXdjNU5QYUNDQdIBgwJBVV95cUxOeWJ1Rkw4bU9FaEwtWXhNVTlZZWZHdkhJX3hiMXdhQndCa0RtNDg2cnpMYUNGd1FydU5QWXh4TzgxRzhsQ2FMZW1JR1YyRXE3UklvMWp6U2JvT3lnZG9sRjQzWHhUdlotOWRjblRrZ2pZRUc5cW1VVnNBemhPMVVXOXBWNF9iSnFielcyYnBNTXJzWXd2VlhMMlV1Vm1CQVRKOU5iM3hPUGdQRDNWZ2VmUXJvZXVJMUF1MU53NGFBVjJWSWk5dGRvWkVpbHQ2R3RPV2xINW5RZ0lWR1FUUEZMdWFLTzRzSjlaNVlueTgtb1l4Z0puQjV4Wi02OFpnc2ltc00w?oc=5",
-            "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+            "title": "Jindal Steel Limited Just Beat Revenue Estimates By 12% - simplywall.st",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeXJYaGlXTVY5TGdaUnpHZDlkRkpwSms1U2UtamlLZGtLREtsMXBfX0ctMlRQbDNvRUJzMXpDN2pyWUpNZHY2ME9uelFwcUZmWE05a2VwcGZFOXJtbloxbl9LTlNFSGg2MVZCZ2M2OEZjLVhhajJwbmtiRVo4XzZWdm4tS2tzQVFNNWlfYThkYmt2VU1ScnVaRXR0Y2txdE1manRGb1I3V2hFSEFHX3hZQW9ZRHl1RzR2a0RwdVprRnpmeFczQXRxcFVwZDIzTG5sNXfSAdcBQVVfeXFMTVFNVFNUcU9JdzJSN3FiWUhJN1BHcjhvSHNSWEFSMWxfSkJqYVhFS1FJOGpGYkFCU2Z0bF9WVHVWZVRLVHo1YmF0Z3B0QkRibUhrU1NNTVZyblNiM09FU3FOcTJSdWZCZWFDdVd2NlJQRmI5Nmc5cXpWYzV3clUyRmpNV3NYLU5rcXV3bWl1WU1lS2RiV3dGdkxqUlRjRTVFWmNzeXRpVlJOcTk3cmxWUDdoNFBOSVBwU09Sa3RheWdPQ014YzBQYlViZUMxaFRQWWlXcXNyaUE?oc=5",
+            "published": "Tue, 28 Jul 2026 07:00:00 GMT",
             "score": 2,
+            "label": "Neutral"
+          },
+          {
+            "title": "Jindal Steel and Power Share Pros and Cons 2026 | JINDALSTEL Integrated Steel - Univest",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mS083UEhqdlRDM1dlNGRyVC13VzM3ck05eXZWci1hYVcxeVEtTXB4alI3V3ZQTUlJU25OaFduMTAwLU8tMEptQ09ESmVqR3VOM2RSR3hGaHhmWlJleE5WdXY1MFFaTjF6dGZGMTVB?oc=5",
+            "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Jindal Steel Ltd. Share Price Today - Jindal Steel Ltd. Stock Price Live NSE/BSE - cnbctv18.com",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xeGdlMzZoTERqRDh1dEF6UEVjSnZuV1h5Q1hHTVhIT2Q5ZXhISWIxZDduOUozVFNGdS0zQ0Q1cktoOHdJUUJJSllQWllCZFZGdWRoTUk4aUJWSWxkRnNYbmpCeG4wZ2F2NFhDNklTR1p6cXdHeDF0MV9EaFg?oc=5",
+            "published": "Sat, 03 Jan 2026 16:27:04 GMT",
+            "score": 0,
             "label": "Neutral"
           }
         ]
       },
-      "combined_score": 57.4,
-      "added_at": "2026-10-05T11:39:13.294496",
-      "first_seen_price": 2346.300048828125,
-      "first_seen_at": "2026-10-05T11:39:13.294496"
+      "combined_score": 57.6,
+      "added_at": "2026-10-06T12:19:19.474726",
+      "first_seen_price": 1081.199951171875,
+      "first_seen_at": "2026-10-06T12:19:19.474726"
     },
     {
-      "symbol": "IOC",
+      "symbol": "ONGC",
       "base": {
-        "symbol": "IOC",
-        "price": 130.2100067138672,
-        "day_change": -0.8603545420515927,
-        "volume_ratio": 1.5950517904369819,
-        "market_cap": 183943.24341993008,
-        "pct_from_low": 0.06912801784695814,
-        "avg_volume": 7517822.047619048,
-        "volume": 4636642.0
+        "symbol": "ONGC",
+        "price": 221.57000732421875,
+        "day_change": -1.4806521399010493,
+        "volume_ratio": 1.9845766043087512,
+        "market_cap": 278741.2555814137,
+        "pct_from_low": 0.4377854351395776,
+        "avg_volume": 10470741.761904761,
+        "volume": 10196048.0
       },
       "technical": {
-        "symbol": "IOC",
-        "close": 130.2100067138672,
-        "rsi": 37.83,
-        "adx": 26.6,
-        "atr": 2.74,
-        "volume_ratio": 0.6,
+        "symbol": "ONGC",
+        "close": 221.57000732421875,
+        "rsi": 32.64,
+        "adx": 19.93,
+        "atr": 4.06,
+        "volume_ratio": 0.96,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -216,164 +122,74 @@
         "head_shoulders": false,
         "rounding_top": false,
         "bear_flag": false,
-        "ll_lh": true,
+        "ll_lh": false,
         "near_breakdown": true,
         "breakdown": false,
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": true,
-        "patterns": [],
+        "patterns": [
+          "Bearish Engulfing"
+        ],
         "setup": "DEATH CROSS",
-        "score": 53,
+        "score": 48,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
-          "Lower High / Lower Low",
           "Near Breakdown",
+          "Bearish Engulfing",
           "Weak RSI",
           "MACD Bearish",
-          "ADX Trend Strength",
           "OBV Distribution"
         ],
-        "support_20d": 130.12
+        "support_20d": 220.6
       },
       "news": {
-        "score": 50,
-        "label": "Neutral",
-        "headlines": [
-          {
-            "title": "Indian Oil Share Price - Live NSE: IOC Stock Price & Chart - Upstox",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGZVNnY0dLam9NNTc3Y2MwNzgwVEV4Mmo0V3lpcHp6MXFqT1l6UGlLNWR3dFZCeVRIVjI2bm5lMmdWQ3pfbkcyckx0Tkh5elZhd2dkQVN5NEhTRWswVmliengyU1hYRjZudUE?oc=5",
-            "published": "Thu, 01 Oct 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "Indian Oil (NSEI:IOC) Stock Forecast & Analyst Predictions - Simply Wall Street",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JWDc2RElvekJLRlBkVnlIbTVoRVRmVnFwcm1Jelg1ZE1LX1BwMWUxZG9XbS1CMmNuNTFVa0g2NHV5dWZmNTlkdjNkenBCWVhjTHZIQV9McGpYeHkzd3VOc2llZl9MRGxNVzVIUHl6N0F2STR1NWJoQVljaw?oc=5",
-            "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "IOC Share Pros and Cons 2026: India's Largest PSU OMC at 6x PE - univest.in",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xUlB5QkpvZFB3MDBIOHRSb29PbGNMVGRpSS1ZSDhEdDNKNVRQTmRFcmpFQjFJRjJYampqYjV5LVVvUlV3bEdvankyeV82T25iZTdVN1BzUFVHYUxDcGFhZlNEbGY?oc=5",
-            "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "HPCL, BPCL, IOC shares rise 3% as crude oil prices drop sharply to $90 - Business Standard",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdmJnN0RjVXFYYWE5OFh2TXdsMlVJY0doN2FtQTVpblFFa3dNTnZmTFB3a0IzX19qWGtCZ2RvcmY2dm5Qd1ZkX3dzcmt0UTVwaGYxZlRvdnNNcVEyUzY1NDRkcjdzZXlrZk1rSk1VNzM2X0hWQWloVjlBdFExYTVvUGtqVXhXRUswWFRvc3kwR2hPN3Q1bTJic2U2cm9IREYzVDhuQ2RYZ1lXWl9DYXdvU3ZsRzl0MDFvb1Q4X21ucjJZX2ZkRHBvN0FaV09WQdIB0wFBVV95cUxOTG4zdWVNTWQzOTV4Skd3UDh4VGFHd2JGUG5yamZkaVhMaUNzUXBKRldRUDZvOC1aSTFfdWZ5SHRGY28wYkdjM1VuR25kcUNIRWlMaDZoY1AyT2hjRFhCX0ZXMHBvZlFJbU9sVXJzRFROVFAwZjQ5a2NuRWdlVHBIX2pab0FEQnhJWDNYbDJYcjZmc0pZcGF2bXRFOG5lREE3ZmI3NW12QjFMSlh6X0pzaDJWdF8tVlJLSXZxSVY2T2RrZHpLSkhQUHdSN05vcXVMdE9z?oc=5",
-            "published": "Mon, 27 Jul 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "Indian Oil Corporation Ltd. Share Price Today - Indian Oil Corporation Ltd. Stock Price Live NSE/BSE - CNBC TV18",
-            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjZxUGRXSVdjNDZDakRKS1VWdWNFak4tcDJncGwzWlV1Qkt5SUIzeGZCektTUmtTOXZHcU9VNXNkbUFlWnZ2UTZkZUQxN0s4UTI4djloS1hEWmhrTDRtLXE0Ymh0Y1REeWtRemhHZzhmQmx1dU1XZnQyQ0tFTlhSc2V3a1ZYTXFFY1E?oc=5",
-            "published": "Sat, 03 Jan 2026 15:32:33 GMT",
-            "score": 0,
-            "label": "Neutral"
-          }
-        ]
-      },
-      "combined_score": 52.4,
-      "added_at": "2026-10-05T11:40:02.892659",
-      "first_seen_price": 130.2100067138672,
-      "first_seen_at": "2026-10-05T11:40:02.892659"
-    },
-    {
-      "symbol": "INFY",
-      "base": {
-        "symbol": "INFY",
-        "price": 1014.75,
-        "day_change": -1.956521739130435,
-        "volume_ratio": 2.043102439211461,
-        "market_cap": 411008.612649525,
-        "pct_from_low": 3.385067808419562,
-        "avg_volume": 9153889.19047619,
-        "volume": 7181696.0
-      },
-      "technical": {
-        "symbol": "INFY",
-        "close": 1014.75,
-        "rsi": 40.69,
-        "adx": 21.88,
-        "atr": 27.9,
-        "volume_ratio": 0.77,
-        "ema_alignment_bearish": true,
-        "dema_alignment_bearish": true,
-        "death_cross": true,
-        "double_top": true,
-        "head_shoulders": false,
-        "rounding_top": false,
-        "bear_flag": false,
-        "ll_lh": false,
-        "near_breakdown": false,
-        "breakdown": false,
-        "macd_bearish": false,
-        "macd_cross_down": false,
-        "obv_distribution": false,
-        "patterns": [],
-        "setup": "DOUBLE TOP",
-        "score": 42,
-        "reasons": [
-          "EMA bearish alignment",
-          "DEMA bearish alignment",
-          "Death Cross",
-          "Double Top",
-          "Weak RSI",
-          "ADX Trend Strength"
-        ],
-        "support_20d": 980.4
-      },
-      "news": {
-        "score": 30,
+        "score": 35,
         "label": "Bearish",
         "headlines": [
           {
-            "title": "Infosys Ltd. Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - CNBC TV18",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2V1U1ZktaS0l6MzBNR3g0aFBIYXh5SnVaN2w0Mnptdi1yWlB1bFZnU01sZFpEaFJudnJ1LVZfWUxfZFctR0VqMHcxU0ZhNktNNHhTVnRhQ0R6YWFzV1VLNkZQaUx2aElMQ1dUbUhDNDk3Rnoz?oc=5",
-            "published": "Thu, 01 Oct 2026 10:29:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE - univest.in",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zZmU3SmpYRTVHcTdlZFpiRzYzR0I4aUV5dnlnZTBxYUVrZTdnSmw0alFfWTZFX2hqMHlyWHpOOVR4Zk5PTFJ4a3VfOEVBN3U5R0xxcU1pZTNlTDgxM2x1MmJ0SUo3ZnBXRGJyTVFVYU9zUkZtV2o4?oc=5",
-            "published": "Sun, 23 Aug 2026 04:44:55 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "Infosys shares down 5%, hit 52-week low: Why IT stock tumbled after Q4 results - India Today",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ3AyNjZzVlBPSHFkanU3bndmdXFMWjVFVVBjUm1NYnZva1NlNGtYWTEyYXhubmlfUnpMd3lNalZwM0JUd09NUVFpbHJvYTlNcWw4SFpRVTJ6TFlFb1h6Z0dmWFo3Zi05OFJrTG1tbjc5cWNOQmNzRkJjekdpeGp6WjA3cEQtVFFsdklhN3VQVUlSbVVpS0YwUk9HcmJ4LXJVQ3JpNTAtYy1ZZEJ4VzdJelMzc1l6STZ4ZERjOWZTX1RNclU1aTZvQmlhT0g5OTVVSnk2d2V4SdIB3AFBVV95cUxNc0p5alZFdEhpU0FkUllrLU5VU2c5MC1Idi1RdUNhV2sxYmwxeks5LXQxZDFLUHVXNkpqOHNPV1hCUDVya3hyMVJrQ0lrLTk4QnZYSTRqcElNOExJdmRLeTNGSVBLWTJrRlMtTnJJNUpWcTJ5THc4dVhCN01pT0ZCTER2NzZRTHNIVzZhQWNMSERlaXhHbER4Q0FNRGcwM3ZoQkxUV2wwbnRnamtjSVFzYmpUalZPMHF3cEFzdm1PTlpua0daUHN6d0Uwa0p5YzlYXzU5Q0VuUjR2d2d2?oc=5",
-            "published": "Fri, 24 Apr 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "IT stocks drag Nifty despite firm broader market; Infosys, TCS, HCL Tech fall as Fed signals rate hike... - Moneycontrol.com",
-            "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOMExtR1loaFhUdWwtSkY0MHVGcWlzQ1JucXJuZ3R2bURNaTl4VXEtZV9Ud2hJVW85ZHVlcmpDS1RKSFJDNUcxV2FNWUJvX25hZm0xeXF2RXhfZUZkNkNhMmNHdXV5bzVSNnlBNVI4SXJlc0FaODg3N1NvWC1mb1Y0aUlCVEU1SHQzeDJ6TEhackhkRFhGV3RkTVdQY3BOYVVYWnBGWHNta0dwWXdsNGhoWTJIc1ppa1JQV2RDMktWR1czaDdQdDZGR1J6TUFleV9jRVNLNU4xYTFMZC1KWlVoSllpRUNVTXhRdXhqclNmb3BoVExDVWVYa2Y1QnlNQdIBgwJBVV95cUxQWXZQbkctbFN3SU5aMF96ZTYzZkdEcENvZDRxdFZhbGNWUXByY2VjU05oZEhnM3BDV2EzRDFiYThja3RLTDc2WTRCOVM0Um53SDVuakVWQmxscTZsMGpWYUVBWko2VWpLWG9yS0RFd1FqOGZsckpUZkptVFh2dnN3NU9VSUh3QVlSTDJIb2RQbmZkbzg5WDhJd0RVLVBCQnBWN0xLcXRsZTRlNm5CWkNURUo4SlB4dnFoUktGTnZEXzFDV0cwV3ZRT3pXUm5wb2gyMzFsaWJJOGhaVlhQM2lVa281QXFYamRGRlBQc2U5bmRIaGkwVENjRkNicmFCR3NrOUlJ?oc=5",
-            "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+            "title": "Oil-linked stocks split: HPCL, Indian Oil, Asian Paints, IndiGo decline; ONGC, OIL gain as crude jumps - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbEJCU0JCUWJFeFZBSk91NXVySHFyaWFzbUFweXlkU1FQSUNrdUg1SC1CRDI0dU1kOVJIRXNmd1RWd0N4RnlpLXBqSWZsaU55NkVpS1VGU2kzRXpkVS13TzUyZnNOendScXQ3WEtSdXRUd0RhLU5PRy13QXY0YWVqQm1iWnFmUVl5RElfb2Z5NDdsVm1Hb0FJR2hQZ1R3U1puY2d5N2JwSUl2czQyQ3IzUXVybm9KQ1Rxc0tHTnB3Wl9vcWdCMndyVWNHand0VlZjMDdNNXhuS18yRVVGYUJUTVJpaVY2Z2lRYkQ3Zg?oc=5",
+            "published": "Thu, 23 Jul 2026 07:00:00 GMT",
             "score": -2,
             "label": "Neutral"
           },
           {
-            "title": "Infosys Partners With Knorr-Bremse; Shares Fall 2.29% Today - HDFC Sky",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82YU9CSS16M1JDblVRWVRjcXFaUVNxQnVlak9leG9EdXNjc2RMUU1JOTZlQy1rd1U3aFNKNElYc0hWX1ZSR0U0YnRnQjc0YV9tVnp4NU5Rcjg3VkpPYmdiZldUZTRkM3pxdXNr?oc=5",
-            "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+            "title": "5 Oil and Gas Stocks India 2026: Strong Future Roadmaps - Univest",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4weE4yWUdEcWdGNWpaUDVmYWoza2hPZDVoM29WQUhuUU1FaGJRRG9tZUNYb2NtV2JpMjdLSUJyRVpOWjhvcTNXNVdQQllUVXJHdHhuVjBTWEhNQ3dWMFZBV29wMWtpZ080amxHbm95bHJ6QlI2NVY3aG9R?oc=5",
+            "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "ONGC fined \u20b914.31 lakh each by BSE, NSE for board compliance gaps - scanx.trade",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNXzMzMWdxRjV2NjlkSDgxWTlOLUd6NGMtNElGSVRFRHp2Y21pYjlEeEtraFVDUU9CNjFheHE4dUdkRHdQUlprYTZnQnQ1Y2h4ZmhlbzE2V1NCb19DUll3Qmh2dVRYV0hDVjg5UkpoZnNEdFRrLUl6Nl9XV2JQckhjT1ZiWnJCSTJzU3BtYVl3Sk1LLU9PaVlnWXB6aFYzcEg2UzlPNTUxZ09WR3dmd3hTdWNfSQ?oc=5",
+            "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to watch: BPCL, RailTel, ONGC among shares in focus today; check list here - Livemint",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPX2lkd01tc0lPcEhTUGRCZFgyUXRqVWpnN191VjBQNl9jSHdnYmVNbXAybktFakNZeDFOQm5KNzY2MDgtTGF2U1ZEdms0MUhybGtfUXVSRVZuMnR0ZmJqb3htOTFRYTZIRnpzOWtaZ2dqRkhsMFVsOV9INEhBazl2ekNBWnp3RWNlZ2hZYmJjYWRYMVdwblFGLVZDaWk0WWhzeDRFazE0RTRCbnBNTlhvTnBDYlR5SHYxX2FyamRyU3FpMm41QmlBajNYcks5OUx5YWpBVjYxS19oUjhVamVWdtIB5gFBVV95cUxQaHRuUVlUWkd4aGdsRk41Y3I4RWVmWXJweWZtOWhkM2dUQTdGc0VUaS1DTVhVWkdMbGlsVHlPOHVLa2pvNEM5SnZ5MnpISElicnBScmVsRG14UEt6aFNNT0VrVGtETmNadU52bzJvX25tOHE1NXRBUEpDUEJMREg2MjljMGRfLUhfWlYtOUxVSlZoUThFMWllZzVUUUlzMDBXZldwTjNyQWFTNHFBczNpc3hSZDhTN1RlR2tuVU1odWMyNVJFTUxiTjdCTjBmcUN1cy1zbXV4cXdYS2VHUDBGVWg2ZjFpdw?oc=5",
+            "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "ONGC, Oil India fall up to 2% as Brent crude drops below $90 on Middle East peace hopes - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRm5vWlpHLTdPTGk1S0NVUzhlTHJNa3dNYjFMMEE5RFNIeFBBaTJUMmY2LTNZTmZLTVY2TDdCS0Q0d0JWeVl0OThmaF9GUENCdzllTHZGcm1HTVFXN0ZHcDhsWmlmekhxa0dQTF9PLUJ6NXZVZHpCNGVjWlZaVnk5eF9nbTZpNUV2TWdjTTBlWEVCbno3WERYNi1WY0RxMzE1cmVJVmt0NUozWWFLeHZQdkszNF9rZ3NGQVFWUlB1QnAweVkyWTF6M2lRdlZtaU5IVmtybEZObkhHNFFpQ2kza0pITdIB6AFBVV95cUxNNlNPZHVUWktUUy1zYWVoVjNudTE1MkJwd00wZjh0MGJuU3FtRkdlSGw5OVBVT293UjRTM1B1UkE2RG1wR1pGN0FPM21lZllRQTZzTHg0U0V4WmNWV3pSMWJpeGdKS21fWTJMN2NDVGNua05CWGxlTTV4VUZRZHdPMXY5N2VzYzNjczBaOEhENENmVWEtR0RhVlVseGViM3FUbG1zeFU3QnhHV3lsdmNDZWdONFEzVjVPbVNUUWI0SXpnMGF0WG9EUHV1TXNTZG10T0JsZE9MMzZscDQ4VE9wSDhacGw4MHhK?oc=5",
+            "published": "Fri, 12 Jun 2026 07:00:00 GMT",
             "score": -2,
             "label": "Neutral"
           }
         ]
       },
-      "combined_score": 47.6,
-      "added_at": "2026-10-05T11:40:01.310624",
-      "first_seen_price": 1014.75,
-      "first_seen_at": "2026-10-05T11:40:01.310624"
+      "combined_score": 51.4,
+      "added_at": "2026-10-06T12:19:45.184698",
+      "first_seen_price": 221.57000732421875,
+      "first_seen_at": "2026-10-06T12:19:45.184698"
     }
   ]
 }
