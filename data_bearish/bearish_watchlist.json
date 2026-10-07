@@ -1,120 +1,121 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "items": [
     {
-      "symbol": "JINDALSTEL",
+      "symbol": "TATAPOWER",
       "base": {
-        "symbol": "JINDALSTEL",
-        "price": 1082.0999755859375,
-        "day_change": -1.385224876133069,
-        "volume_ratio": 5.441099565758214,
-        "market_cap": 110102.38449226822,
-        "pct_from_low": 9.703354807225127,
-        "avg_volume": 835630.6666666666,
-        "volume": 4425503.0
+        "symbol": "TATAPOWER",
+        "price": 345.45001220703125,
+        "day_change": -1.7631115589549022,
+        "volume_ratio": 2.0800341445235895,
+        "market_cap": 110383.00855167597,
+        "pct_from_low": 1.2881783325467993,
+        "avg_volume": 3414315.5714285714,
+        "volume": 3030141.0
       },
       "technical": {
-        "symbol": "JINDALSTEL",
-        "close": 1082.0999755859375,
-        "rsi": 37.88,
-        "adx": 23.38,
-        "atr": 30.35,
-        "volume_ratio": 5.17,
-        "ema_alignment_bearish": false,
+        "symbol": "TATAPOWER",
+        "close": 345.45001220703125,
+        "rsi": 32.21,
+        "adx": 18.59,
+        "atr": 7.04,
+        "volume_ratio": 0.92,
+        "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
-        "death_cross": false,
+        "death_cross": true,
         "double_top": true,
-        "head_shoulders": true,
+        "head_shoulders": false,
         "rounding_top": false,
         "bear_flag": false,
         "ll_lh": true,
-        "near_breakdown": false,
+        "near_breakdown": true,
         "breakdown": false,
         "macd_bearish": true,
         "macd_cross_down": false,
-        "obv_distribution": true,
-        "patterns": [],
-        "setup": "HEAD & SHOULDERS",
-        "score": 62,
+        "obv_distribution": false,
+        "patterns": [
+          "Evening Star"
+        ],
+        "setup": "DOUBLE TOP",
+        "score": 60,
         "reasons": [
+          "EMA bearish alignment",
           "DEMA bearish alignment",
+          "Death Cross",
           "Lower High / Lower Low",
           "Double Top",
-          "Head & Shoulders",
+          "Near Breakdown",
+          "Evening Star",
           "Weak RSI",
-          "MACD Bearish",
-          "ADX Trend Strength",
-          "Volume Expansion",
-          "OBV Distribution",
-          "Strong Volume"
+          "MACD Bearish"
         ],
-        "support_20d": 1034.8
+        "support_20d": 341.0
       },
       "news": {
-        "score": 40,
+        "score": 60,
         "label": "Neutral",
         "headlines": [
           {
-            "title": "Jindal Steel (NSE:JINDALSTEL): What Does Its Q2 FY27 Reg 74(5) Filing Mean? - Kalkine India",
-            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVFVZWx3X2JhTnZlQWtKRUtPSjlTc2ZEcjBTbE9Ea1ZhZnFxMmhWYm1VT3cwZXdCd3FhSkN3YVd3cmtyR2JFNXludTlXYTQzSlg3RHRTX1dMeDEwc1g5eWQtY3JlS3ZpbTlhVlhMTlJGTElPbFpYeE9Ha3kxeUVTTjgyaEVMbEFvTmdjWkRsRXpSTzlxblhxbkZxRkgxM1ZtUF9xUm81RFdtbWRzOGxpLWtaaEJ5enc?oc=5",
-            "published": "Mon, 05 Oct 2026 10:52:00 GMT",
+            "title": "Tata Power stock reports record rooftop solar growth in Q2 FY27 - AD HOC NEWS",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU0pkVmRqMGEtUVJELWx1eF9aNzVmaFBwc1YxYXRxak54TGFTMlpqTTNnVE95TklCVEpBbXJpOU9wT2R2U1VMZ1AxZDZiMzNQTUlxaXpQV0Fsb0s1LTFtWnNiTlg5ellsdjZnNW1jbFJmTVg4cnNTd2Q0Y0liQlA1S2pkTF9hTkJ4Vk04bU5Lal9SZldZZ193Z0d1U21GellfS25UaTU5S28xYTJxN1pnZmJuLXJ6X2prdTJtQ0JKTQ?oc=5",
+            "published": "Wed, 07 Oct 2026 00:41:39 GMT",
+            "score": 4,
+            "label": "Neutral"
+          },
+          {
+            "title": "Tata Power (NSEI:TATAPOWER) Stock Forecast & Analyst Predictions - Simply Wall Street",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTXk5eDFuVkhWQ19meXdTMUxxQ2s4VHZaaFdySVktV2xCMVJOTG9kZ3B4alA1VEtSc1FwN0JGX2xtNk1UTjRSdFJEQlVoQWhMZFVJX1dlcEp4WlNCMnZVWlJkWm1Jd0F3QXZuY200azFneER6N2FWbmlCTUlaSjlMcEZPbHN2OUk?oc=5",
+            "published": "Sat, 03 Oct 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
           },
           {
-            "title": "Jindal Steel & Power Share Price - Live NSE: JINDALSTEL Stock Price & Chart - Upstox",
-            "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UT1BLMWg2UWpGWHFTNWpYUDJxSTZrV2p5UVhSVXVTT2xHSGpPZXJuX1dDZUVXQWtCUUZsWC02eE1vV0FPS2xPM2laaUdjeW95Y3RUZXNPVDJxU0w1UWZiY09XMmRWZlV4aC1V?oc=5",
-            "published": "Thu, 01 Oct 2026 07:00:00 GMT",
-            "score": 0,
+            "title": "Tata Power Share Price Falls 1% Despite Strong Q1 Results - India Infoline",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaWQ0dF9XcWlZN1BTSWlqLXlBSkY4eGR1SnVSUVFKOUg1Zkc0aXN5bU9mb3pPaUlSQkNXdjZ4OXl2ZWktYjhZUlg3THlUZlc5aFpDZE9FMFk3WlY1ZzhCS2FLMEtCWnhrak1URGZXbmpnVzVjUnNqNFZ4aWxMRXNYektDa1RSUXBIOVBHQ0hKWFdIc0ZGQmRuc2dIQmF2b3hFZjFv?oc=5",
+            "published": "Tue, 28 Jul 2026 07:00:00 GMT",
+            "score": -1,
             "label": "Neutral"
           },
           {
-            "title": "Jindal Steel (NSEI:JINDALSTEL) Stock Forecast & Analyst Predictions - Simply Wall Street",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTW1aaEp1YVhwTkdyU1VPeVhsU3UtY2g4Z3l6MWVtZy1ZcGZzVlhSZHRnQW1fd2R5R0tqX0phSXZaN1k4Vk95dWN4TzlNUU9yZjdGQkdCX0M1VVNyREVCQkZ0Y3JzRi02aHA3ZldnaU9KbEFvX3ZObWdXcC1iX3BleE8ySE9ZLTFGbHZz?oc=5",
-            "published": "Thu, 27 Aug 2026 07:00:00 GMT",
-            "score": 0,
+            "title": "3 Fundamentally Strong Power Generation Stocks in India (2026) - Univest",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXY2V2NRQ0REZW1kSHZ5TnhWc2U2RzdqTzgxOTNjZVBLVEc4UDIwY3RRazV2MHpnZDZRbVkyQzM3RHNMNUdyR1AwZGl2cUdkZWJiOFpGM3g5QWdJN0kwcVZwMTJSUEJRM2hBZ2pVcDg5Zm9yQlF5TkFYUHI4R0pBcg?oc=5",
+            "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+            "score": 1,
             "label": "Neutral"
           },
           {
-            "title": "Why Did Jindal Steel Share Price Fall 4.4% on June 23, 2026? China Demand Fears and Global Steel Prices Explained - Univest",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sLWNwNmNxdWpIbXNsZUpBallHeFk3UzF0SFVNUzF0UVY0b0w3ejM0c2FzSUFha0dncm9uN0lUSlFfSFVraXMtWjd3cnZNOGY0eXdac19ReVl4WENjcnMwdE5fNHplNkJKbkN5TTllUEhsaHMzdTVB?oc=5",
-            "published": "Tue, 23 Jun 2026 07:00:00 GMT",
+            "title": "Tata Power Signs Bhutan Energy MoU; Shares Fall 2.13% - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2NUcERfT2VhbHdpc0l2NExYQmdiUWg4VVJaY0FsZFdqV2V5MG5nYVhJYWRlS0wwdzJiVDRsZ2h1Tlk4OVBpRlU1bU5IU3RyamFHd0hnUnVsWm50emlMeDBCU0JrUm1GZkprQldyLTdIR0RWeFFTckFhOVlpWUgtelp3eUN1RHh6bXRKYTRBem1falh6bms5Vw?oc=5",
+            "published": "Mon, 18 May 2026 07:00:00 GMT",
             "score": -2,
-            "label": "Neutral"
-          },
-          {
-            "title": "Jindal Steel Ltd. Share Price Today - Jindal Steel Ltd. Stock Price Live NSE/BSE - CNBC TV18",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xeGdlMzZoTERqRDh1dEF6UEVjSnZuV1h5Q1hHTVhIT2Q5ZXhISWIxZDduOUozVFNGdS0zQ0Q1cktoOHdJUUJJSllQWllCZFZGdWRoTUk4aUJWSWxkRnNYbmpCeG4wZ2F2NFhDNklTR1p6cXdHeDF0MV9EaFg?oc=5",
-            "published": "Sat, 03 Jan 2026 16:27:04 GMT",
-            "score": 0,
             "label": "Neutral"
           }
         ]
       },
-      "combined_score": 61.6,
-      "added_at": "2026-10-06T15:20:35.600971",
-      "first_seen_price": 1081.199951171875,
-      "first_seen_at": "2026-10-06T12:19:19.474726"
+      "combined_score": 56.0,
+      "added_at": "2026-10-07T11:55:02.596342",
+      "first_seen_price": 345.45001220703125,
+      "first_seen_at": "2026-10-07T11:55:02.596342"
     },
     {
-      "symbol": "ONGC",
+      "symbol": "KEC",
       "base": {
-        "symbol": "ONGC",
-        "price": 223.5,
-        "day_change": -0.6224961914088606,
-        "volume_ratio": 1.7656306101670673,
-        "market_cap": 281169.2402541,
-        "pct_from_low": 1.297536419008669,
-        "avg_volume": 10877849.666666666,
-        "volume": 18745314.0
+        "symbol": "KEC",
+        "price": 364.0,
+        "day_change": -2.933333333333333,
+        "volume_ratio": 2.267847059967794,
+        "market_cap": 9689.68,
+        "pct_from_low": 0.5219763451880151,
+        "avg_volume": 1036080.5238095238,
+        "volume": 996261.0
       },
       "technical": {
-        "symbol": "ONGC",
-        "close": 223.5,
-        "rsi": 34.79,
-        "adx": 19.98,
-        "atr": 4.07,
-        "volume_ratio": 1.7,
+        "symbol": "KEC",
+        "close": 364.0,
+        "rsi": 28.55,
+        "adx": 42.87,
+        "atr": 10.79,
+        "volume_ratio": 1.01,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -122,100 +123,7 @@
         "head_shoulders": false,
         "rounding_top": false,
         "bear_flag": false,
-        "ll_lh": false,
-        "near_breakdown": true,
-        "breakdown": false,
-        "macd_bearish": true,
-        "macd_cross_down": false,
-        "obv_distribution": true,
-        "patterns": [],
-        "setup": "DEATH CROSS",
-        "score": 48,
-        "reasons": [
-          "EMA bearish alignment",
-          "DEMA bearish alignment",
-          "Death Cross",
-          "Near Breakdown",
-          "Weak RSI",
-          "MACD Bearish",
-          "Volume Expansion",
-          "OBV Distribution"
-        ],
-        "support_20d": 220.6
-      },
-      "news": {
-        "score": 45,
-        "label": "Neutral",
-        "headlines": [
-          {
-            "title": "Oil-linked stocks split: HPCL, Indian Oil, Asian Paints, IndiGo decline; ONGC, OIL gain as crude jumps - Upstox",
-            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbEJCU0JCUWJFeFZBSk91NXVySHFyaWFzbUFweXlkU1FQSUNrdUg1SC1CRDI0dU1kOVJIRXNmd1RWd0N4RnlpLXBqSWZsaU55NkVpS1VGU2kzRXpkVS13TzUyZnNOendScXQ3WEtSdXRUd0RhLU5PRy13QXY0YWVqQm1iWnFmUVl5RElfb2Z5NDdsVm1Hb0FJR2hQZ1R3U1puY2d5N2JwSUl2czQyQ3IzUXVybm9KQ1Rxc0tHTnB3Wl9vcWdCMndyVWNHand0VlZjMDdNNXhuS18yRVVGYUJUTVJpaVY2Z2lRYkQ3Zg?oc=5",
-            "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-            "score": -2,
-            "label": "Neutral"
-          },
-          {
-            "title": "5 Oil and Gas Stocks India 2026: Strong Future Roadmaps - Univest",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4weE4yWUdEcWdGNWpaUDVmYWoza2hPZDVoM29WQUhuUU1FaGJRRG9tZUNYb2NtV2JpMjdLSUJyRVpOWjhvcTNXNVdQQllUVXJHdHhuVjBTWEhNQ3dWMFZBV29wMWtpZ080amxHbm95bHJ6QlI2NVY3aG9R?oc=5",
-            "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-            "score": 1,
-            "label": "Neutral"
-          },
-          {
-            "title": "ONGC fined \u20b914.31 lakh each by BSE, NSE for board compliance gaps - scanx.trade",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNXzMzMWdxRjV2NjlkSDgxWTlOLUd6NGMtNElGSVRFRHp2Y21pYjlEeEtraFVDUU9CNjFheHE4dUdkRHdQUlprYTZnQnQ1Y2h4ZmhlbzE2V1NCb19DUll3Qmh2dVRYV0hDVjg5UkpoZnNEdFRrLUl6Nl9XV2JQckhjT1ZiWnJCSTJzU3BtYVl3Sk1LLU9PaVlnWXB6aFYzcEg2UzlPNTUxZ09WR3dmd3hTdWNfSQ?oc=5",
-            "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "Stocks to watch: BPCL, RailTel, ONGC among shares in focus today; check list here - Livemint",
-            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPX2lkd01tc0lPcEhTUGRCZFgyUXRqVWpnN191VjBQNl9jSHdnYmVNbXAybktFakNZeDFOQm5KNzY2MDgtTGF2U1ZEdms0MUhybGtfUXVSRVZuMnR0ZmJqb3htOTFRYTZIRnpzOWtaZ2dqRkhsMFVsOV9INEhBazl2ekNBWnp3RWNlZ2hZYmJjYWRYMVdwblFGLVZDaWk0WWhzeDRFazE0RTRCbnBNTlhvTnBDYlR5SHYxX2FyamRyU3FpMm41QmlBajNYcks5OUx5YWpBVjYxS19oUjhVamVWdtIB5gFBVV95cUxQaHRuUVlUWkd4aGdsRk41Y3I4RWVmWXJweWZtOWhkM2dUQTdGc0VUaS1DTVhVWkdMbGlsVHlPOHVLa2pvNEM5SnZ5MnpISElicnBScmVsRG14UEt6aFNNT0VrVGtETmNadU52bzJvX25tOHE1NXRBUEpDUEJMREg2MjljMGRfLUhfWlYtOUxVSlZoUThFMWllZzVUUUlzMDBXZldwTjNyQWFTNHFBczNpc3hSZDhTN1RlR2tuVU1odWMyNVJFTUxiTjdCTjBmcUN1cy1zbXV4cXdYS2VHUDBGVWg2ZjFpdw?oc=5",
-            "published": "Wed, 19 Aug 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "Oil India rallies 5%, hits 52-week high post Q4 results; ONGC gains 2% - Business Standard",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMHptemRlRXA0dzN4bnd0QWtDNldLMXhPemdpTGhwUjEtV2NnNVlOc3h4YkhSak1TWlNKcXg1LUxrdEVKQzdZcTBMYVczTUM2TEp2dGlXeE9qVUZwdmdETVlpUGlrcGJLZGlVd2NFcTFmVkstSlR0WjVJOUNlYm5ZejIxSTVrZENKeVVfb2k0Q29weWV5VTJTYmZ2V21SUThyWDl2RHFkNWNsU0ZRS1M3RURDeXpRa0M0emM0R0NldnZZdmk4MU5yS1BB0gHPAUFVX3lxTE13MEc4Z0EwQ01WWVYydloyajladHZZRzFBQnRFbFYySkJSRnJrc0JDMk9DOEtvUUJuOWkyUUpMOEQ4dm05MHZDdTFyOWJrMmFBTnlVR0ctWHY2OTJFWFViaWpJWEFhazJzZTcxVjVjYnBtZzJJc29KZWFiZzJvMTVPX294QVR3STg5RHBGSlRUNjFFWlFkNVc3Q2tHcFBYcFFtZUxwdFVIcTZMTl9WdUduWkV5OUNiTy1fYkFiLTlnM0ZrbkNta3N5Nkx4NUNNSQ?oc=5",
-            "published": "Thu, 14 May 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          }
-        ]
-      },
-      "combined_score": 49.4,
-      "added_at": "2026-10-06T15:21:02.458692",
-      "first_seen_price": 221.57000732421875,
-      "first_seen_at": "2026-10-06T12:19:45.184698"
-    },
-    {
-      "symbol": "AMBUJACEM",
-      "base": {
-        "symbol": "AMBUJACEM",
-        "price": 361.5,
-        "day_change": -1.364256480218281,
-        "volume_ratio": 1.6489399201373183,
-        "market_cap": 89826.1412739,
-        "pct_from_low": 1.438454275803942,
-        "avg_volume": 1452449.142857143,
-        "volume": 2324748.0
-      },
-      "technical": {
-        "symbol": "AMBUJACEM",
-        "close": 361.5,
-        "rsi": 31.61,
-        "adx": 36.88,
-        "atr": 8.22,
-        "volume_ratio": 1.58,
-        "ema_alignment_bearish": true,
-        "dema_alignment_bearish": true,
-        "death_cross": true,
-        "double_top": false,
-        "head_shoulders": true,
-        "rounding_top": false,
-        "bear_flag": false,
-        "ll_lh": false,
+        "ll_lh": true,
         "near_breakdown": true,
         "breakdown": false,
         "macd_bearish": true,
@@ -224,25 +132,302 @@
         "patterns": [
           "Bearish Engulfing"
         ],
+        "setup": "DEATH CROSS",
+        "score": 52,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Lower High / Lower Low",
+          "Near Breakdown",
+          "Bearish Engulfing",
+          "MACD Bearish",
+          "ADX Trend Strength",
+          "OBV Distribution"
+        ],
+        "support_20d": 362.1
+      },
+      "news": {
+        "score": 55,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "KEC International (NSEI:KEC) Stock Forecast & Analyst Predictions - Simply Wall Street",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPek1HeVdFbVlodFlmdUo5eEI1Q2V6TlktSXh4OW1CUlVrSS13MDlBa09iTXF3QXdCLVp5MEtZU2FNd0lpdFVEWTdGZEotQ1hQNzJ5TFZydTctYXJydzR5NUIyNDVtb1VHR2J3bElUcEFUMlJNaEdIaEF4bDFXamJrdERkbXJCMEYtOUVLLXNn?oc=5",
+            "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "3 Fundamentally Strong Power Infrastructure Stocks in India (2026) - Univest",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHZFZmtnY0M4MVdaVGxGbW1kNy01d0JmM0Rtd1NRNUlGSjRveEJWZVQ3ZHVfU1ptWUgzS2pGZ0JuRDhKMW8ycUJjMXd3M2J4NFRPNkV4c0RsR3RHaGVxQ191dDFUX1hLVmN1aWpKZEZDaWwxdjFnVDBNMFVkaHN6OTEyLS13dw?oc=5",
+            "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Volumes jump at KEC International Ltd counter - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVUJUXzFlWUNkQzFOTWI5cF9KQUZ0YTA4Nng0aERMSHltYVJBU3dPS3pjZ01mV2I4Q1hGWFM5dk9oV05XTFdzek9mM0hHYmNxdUhMczJ3d3h1RkRjbXhQei00SndiYlF5NnJ3UW9KQzB4bTVtbllkaDJpSHFReG0wbDhSblhWeFllaUhRMm16RUs3aFIzZTBBVXhjempBYTRhQ3lDdkZZVTRNRkF2ZUxUaVNWRDRrWXo1MnBkQUV1SWViSHVrU3fSAcsBQVVfeXFMTl9XNGFkWkIwMW9GSU9BNnBlV25UVFR6Z2Y5SXBoZXRzMjM3WHZvQTJoYjVtZUNNQXREMk9mbzdZeUZ5OHdkelZKVksxdmtPMDV5cnB5R0o1a1Brd1JBdnd6MS1UWmd0SkQ0TDBQRGZSTEMzV0d4eHBZMEI4SGRKVUNXWlVzb2NKZER0bTBtZUtqLXNtbnZFeWhoc3dIZml3Y2FfOGI1OGY2RW5VYU1fM3EtUHRJS1pLRE9nY29TZjhYMXRmQ3JWQkV0bEE?oc=5",
+            "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to Watch Today: Info Edge, KEC International, RITES, NHPC, NTPC, NPST, Poonawalla Fincorp, Uflex,... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNSm44aDFqUXU1QmgzeVpWbE1Ud3Bqbks0UlZIbzZ6dk5zTXp6RElTTlZrVEZkMnMwN3dtOXJENGhHdWlGV0J4RHpQMUo0QTZhYkxBbFpPMlVKT1J1RXYtWEp5Q3RwNzNpYUdPYWFObXZCOVdsVnRQWlVRTFlmTWY4a1VxX0tuQnprZkpLeVRWVU1ldGc3VUVodjB1N3JnSmluSGxGZnlnMjM1NFlJaTNSZk5oZllkUmtPLTc4UUJfM2oxRk9XZTNkRGc2S2k1YkREYy0tNE8xVGkteHFlREhWbTVndmZvdkg3S1NPNGhHRk1wRGtDWTVqVnlnUWxaZU0xdUh4SEM2cy1OcXFlT09hNjdLcnVRemluYVBpX2N4YUpPYm5aMkHSAasCQVVfeXFMTjVHeWx0aThaTjU3NFhUbmpMNHJ2aTluQVZZaGtFZFhVd0R2Rkw0VUlrR1VWSzFSSnd2YVp0SEVPUmdWV1JLazloTzBOY1FwNE9PZ3FGbDBQWDRGcEhSdi1pemtldFI3ODFHYndUSnM2LWhRVjBrZmlnTDZUZ0pqSVpuQmJQQ3A0S1dsSmZucUxJWjJwUkphRTI0V0U1WmhWM0JFUlRLWWM0dlZQVDlYUllXLURQUjN2MFU0d0lENGdyMllRdTFLTGVUa25ZVDlOZmxLV3hWeUgtQmt5cHA3MVU4RlQ1MFl1dUtxekdUZ1EtWkh2dldqTU9sOVlmd3hFWXBWanV6UXprc2NQVDc1MXRWdW1HZU9rVm5TTmFuaVdzY1JnS0FwajBEdGs?oc=5",
+            "published": "Thu, 09 Apr 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "KEC International shares rise over 7% after Delhi HC puts Power Grid\u2019s bidding ban in abeyance - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVEpEVEFTNERiX3Awekk1YktFdG5QV3hITkJBNkUtT3Y1MmpnMmVLVkNTXzNYWjJ6RWJkbGxNYUZZV2hqbVZYNzFvMWNEV2dKaDhWdXpSUUdERkdPT0E0d2RTOGc1MVNTVGpLUGR2SC1IU0NaTDRvVWlYUEZIVmp5X21Bc2tUVVlaUlc2M2VVc3JXNnIxdkVJSmtiWGEyQzA1c0p3VXJueGQ4dTFoYkh4bldoUWFZdXJKN3V6dWY1cUN2WW1KaWVLUnQxY1NtS1JtaTRBb2ttNzRWOTNvYjdnQ0FCVm9BVlE?oc=5",
+            "published": "Sun, 21 Dec 2025 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 50.6,
+      "added_at": "2026-10-07T11:54:09.606016",
+      "first_seen_price": 364.0,
+      "first_seen_at": "2026-10-07T11:54:09.606016"
+    },
+    {
+      "symbol": "BEL",
+      "base": {
+        "symbol": "BEL",
+        "price": 380.20001220703125,
+        "day_change": -1.8585394431825946,
+        "volume_ratio": 1.7928857079728673,
+        "market_cap": 277917.8000016498,
+        "pct_from_low": 0.8416654666725101,
+        "avg_volume": 8739711.476190476,
+        "volume": 6602000.0
+      },
+      "technical": {
+        "symbol": "BEL",
+        "close": 380.20001220703125,
+        "rsi": 36.07,
+        "adx": 26.48,
+        "atr": 6.67,
+        "volume_ratio": 0.76,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": true,
+        "head_shoulders": false,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [],
+        "setup": "DOUBLE TOP",
+        "score": 51,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Double Top",
+          "Near Breakdown",
+          "Weak RSI",
+          "MACD Bearish",
+          "ADX Trend Strength"
+        ],
+        "support_20d": 377.0
+      },
+      "news": {
+        "score": 60,
+        "label": "Neutral",
+        "headlines": [
+          {
+            "title": "3 Fundamentally Strong PSU Stocks in India (September 2026): BEL, BHEL and Coal India Compared - Univest",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96YlZ3c0RUeHBaVzM5bjlUazBDV3dNczFRU2phbEgxUU1zUTlPRU5ZRUlGakw4c0lHdkVtOTdFUnZRbktFVHZZODE1a1dFcWhTMkpNVFBvSFY1RTdtbmJjaW9pS0ZRTFhsTEFPX25wYw?oc=5",
+            "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Closing bell ceremony to commemorate 25 years of NSE - NSE India",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGh1cUFlQU5UWEtPZHRIMFQyZjB6Y0NFRnFKZHp2RXJBUlVuMGVuVm01Vzhodk1mMkZUOVhOU1F3WHRiLVlOSXhKbFI0aFp1cjgxN25SdHlPZDJNbGtTNWxHRE1Fd2ZkeWFCaFo3X3M1cnVoYkNZUUo1UTNsYUs3VFdhUXJZV3lVWC1zSw?oc=5",
+            "published": "Sat, 14 Feb 2026 22:50:34 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "NSE-BSE Closing Price Gaps Spark Debate Over SEBI Auction - Sarkaritel.com",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFRMSFFxaUlTVHhGSkRpZ2xzVU9ZU3FHdUxDQnBEb3pYRU4wVF9VNWoxRkhBT2hQRk50OU9xVmxIV0lPWEtFXzdJOWxRVV9GNWNocDhOT2hGNWxTRUR4U1hmM1NjU1lUN0o2QUZ5TUhZdkJQNjUwa1o5NktHbUtnbThWdlhEb2lmdmNCYldn?oc=5",
+            "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "BEL Shares Fall Despite Q4 Beat on Profit Booking - HDFC Sky",
+            "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVTdYaHNsMnRKaDNUVkhBbnpOOTNuR1FfWnprVWVEbUs0VUM3aFp2eU9wX0RaMmhZQnFHTkJIZk9zOUc5ajVlZXpCOEIwR0RJRzRkaFg2eHRpcXpGeG8wZWtrMGVqUGpRZmtURmgwOFR6ckZkbE1XRFhjdXh6b09yVURydlg?oc=5",
+            "published": "Wed, 20 May 2026 07:00:00 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to watch: BEL, Indus Towers, NTPC among shares in focus today; check list here - Livemint",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWkp6aE1CcUZCanhfRmJzY3VMLVBlZ2d1ajB1TVJoeWxjSmpzd0pqRHlEaWMxN1BPM1FBdU85QUNyVFNuSThiRWhHRkVHVEQ1a3VwaFd2Z2xGZ3gtNUM2dENnTXltblN1M1JSUWJIUWZ0aXRJQWl4b1I1dW4taDljTC1uUWtET0FZZXNhVXZzWmE2dTdFQjJnRTgxYUNvWFJHMDZBWlE1aFY5MThROThabUVrZEtZc3JZMDRJdTgtVldOekNaNi1nTndBQW1HVmZRb0R1cXVtRXNTTFhfOXdVSnRnRmxkUdIB6wFBVV95cUxOdGtfYXluU2VmQkdYTWNOZ0ZMcDZpSWY0RVphVWxkVHA5Z2I4U1hFSktLNjdtMmRRSktmbU1qU2dvMEllYS1yeUphZEJoRXpiVUtlUEE3WnY1Yk1Ic2l2Yk9QbG9QQUxxRVZXWXU0djZRYWRCazFtbEFXVXJJTTFxZ1NMaXBQaFEtQkpKUGlWQURPNGUyUC03UUQ1WkNxaHpYTXhTd1JiVFRUQ0Z1cmNjVUs0ZjltVDk0Snl6aVJyRjB4dHVudHl4SU1CVTNyX0JqdkhjemJhd3k2ZlRudG9CenNhbWZaZTdJcWVn?oc=5",
+            "published": "Mon, 27 Jul 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 48.8,
+      "added_at": "2026-10-07T11:53:25.086800",
+      "first_seen_price": 380.20001220703125,
+      "first_seen_at": "2026-10-07T11:53:25.086800"
+    },
+    {
+      "symbol": "JSWCEMENT",
+      "base": {
+        "symbol": "JSWCEMENT",
+        "price": 112.2300033569336,
+        "day_change": -1.1189397736267896,
+        "volume_ratio": 4.380584339920962,
+        "market_cap": 15154.922612761857,
+        "pct_from_low": 4.9719341211353125,
+        "avg_volume": 1622922.0,
+        "volume": 3014363.0
+      },
+      "technical": {
+        "symbol": "JSWCEMENT",
+        "close": 112.2300033569336,
+        "rsi": 32.68,
+        "adx": 41.5,
+        "atr": 2.73,
+        "volume_ratio": 1.83,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": false,
+        "rounding_top": true,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": false,
+        "breakdown": false,
+        "macd_bearish": false,
+        "macd_cross_down": false,
+        "obv_distribution": true,
+        "patterns": [],
+        "setup": "ROUNDING TOP",
+        "score": 50,
+        "reasons": [
+          "EMA bearish alignment",
+          "DEMA bearish alignment",
+          "Death Cross",
+          "Rounding Top",
+          "Weak RSI",
+          "ADX Trend Strength",
+          "Volume Expansion",
+          "OBV Distribution"
+        ],
+        "support_20d": 109.62
+      },
+      "news": {
+        "score": 75,
+        "label": "Bullish",
+        "headlines": [
+          {
+            "title": "JSWCEMENT Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12WW9VN2NqSy1FYkd3bnRIVk9rcmVzb29JY0F6UTE1YUdlQWhKT3ZaU1JfLS13MU1kYVBMQUZTVW52dkQzNUtmbVFFS2c3blpmZDZBWVg3R2NlZU85U0Y5eWJfSnFXNjYyNnFuR21oMTRkcEo5bEpZNWNqQXY?oc=5",
+            "published": "Fri, 26 Jun 2026 08:44:53 GMT",
+            "score": 1,
+            "label": "Neutral"
+          },
+          {
+            "title": "Vodafone Idea, JSW Cement, Ola Electric, Central Bank of India among most traded stocks on NSE today, 22 May 2026 - Livemint",
+            "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPU0drSFZVRWJxWUExWlFYdldwX2RlYkJKX3FoZ21DRnZVVVVTMHQ5VU1oNGREV1pLTzRKeHFXeXQwam1KMmVJcHBOWEd1OV9mYTF4WHpLV1ZRbnJjVnhqbzFvemNjRFA3eWw2em9zNG5mdElwcnVFT1VDV0dmOXVESE1EU2JqWFhxSC1DdllRVTZGVzZaQlMydU9TLWhmejdSNV9GS0otYmlPVm1rTDFRTF9iSTNpczNZVmdHUk9xQnEzdXVnOUM0bS1jQkpwbThUYks4a09VM3ktVHZ4TW1oaThEek5rUjY5VHdQaDExN0h1Z292X0ppLTFkUXFmS08xTnlTcF9aUWhxZUHSAZACQVVfeXFMUGFGOV8wZ29vX1hiY25ieFFIVjBKNjZBZkx4aERJZkZfX2VobWNTWlZrY1VVdGlwNDZKV09MX1FYY2pQUm82ekpteUpnRDlRZkpqbFRlZTc3c3ZEd2xYWU1PYjJXZmpRZkpuZ3NzNXpGVzF0alk4S3FsODZ3RE8wRXZIMXpfdXJ4NW5UOUMyQ3k0RVVYeGhPMS0tZ2pWZDU3cGZURFlIUGx6TWpOQnpoTGFOTENqUWRwWjBrVWpoZ3g5bnF4dUJScE5rY25JSDZHWVdsR0Z1TE1xY3ktaUVCQjBYOW0tRzBUS2F5LTZLaS1iNFZ5cEJpUHRlQjVjcHZibXBOT2RBUHpNZHVjZzQ2US0?oc=5",
+            "published": "Fri, 22 May 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Fresh Entry: Goldman Sachs and India\u2019s Largest MF Buy Stake in JSW Cement; Shares Price Up 18% in 2 Days - Dalal Street Investment Journal",
+            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNlBVRFBhRTJuQ0JlUnl3OXE2LW5raC1Hbjcxby11N3RUaHdFcTVpSDRGb1ZmcElteV9scGFxbXZDYVVQVW5yNjJ5TlVRV3FlZGRfNjVXVU1XanN5akpaZXpTWER3dVpHX2tjZF9hZllEQzBYTFBWakxXZjVfOWtYRGFra19aTXplbWZtVzR2TUJzSTFyUjRQY01YVUZsazdJM0xvaU1FT0o2OXVVSnJfeWlRalFvTXBmOTBXNjdMQTluZ1NRVGt4R0pYcDZkSXhsM0xzSmd3QVpsRzlZXzVZaTlaT1N4VnZ6bHhn?oc=5",
+            "published": "Mon, 25 May 2026 07:00:00 GMT",
+            "score": 4,
+            "label": "Neutral"
+          },
+          {
+            "title": "Stocks to Watch: Dabur, Adani Ports, Cipla, JSW Cement, Allied Blenders - Business Standard",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNFdqaDd0QU1nbnBFdVZZOTYzVVgwM2trTVBySUZ1Z1JzbkNjZmJiMHZoZzk3NzhpcjNNQU5GZjVRUUsxTURmTWhiQW9haVVhZVhRUkEwcXh0T2hiMWpEdll3RjlCNjJhMkRPMjRSRnlWcm1Td3VjX29VV3otbHhiQ0xjdjExYUVMSHd3eU9vLS13MTU1d2g4M1BQZGplaWVOOF80M2J6SkJEMUgyN05oUE81RnRuSHZobVFKLVNtVWVjMS1FUjZnOEkwbjdZd9IB0wFBVV95cUxOUmpPN29FbHdMVWd2ZFRfb0lGV3owQzcxWksybGliRjNxblhkZ3htdmg2bWpkbUhyT1V3VVpwbkdmSlFVNFoyWUxNXzhWMExIUkROdl9EWjhkZXlHeS1vbmV2b05BYmJiMVNaUmlBRmUyNXh1dDV5TmVDZmgwanljZWctdVhyWlBsQkVSZVRvNHJJdmgxLUgyWUN4SkF5NVB3bGN5emR2V3ZfMWNZMXIteVRiWVUxYUNJSERBckNOQWd2eGtlM0oyT0t4Ql8wNjlXTzZN?oc=5",
+            "published": "Wed, 04 Mar 2026 08:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "Block Deals: AP Asia Opportunistic Holdings sells 3.4% stake in JSW Cement; Madison India pares 2.2%... - Moneycontrol.com",
+            "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUEhmbklRaGJTSU1qMHVKNWhJcDlpVDlBQXNjcE1tZ1lod3JvN05vdHM4VC1EMTVFNjExU3dMMkdYWThwNG5RRGJ0UldoRUVCSG1lN1QtNmRvYm5WWC1yeDQ5NHZSVkgzMjJmNEowUzByLUtTWnlKWlg1SjMyQ1Z5cjE4NG1YaWVLX3IzUWxLakp6MFJYWWhYdE1EU1dvcm41VER1Tk1NOG5IYS1CeVZKV2p4Q01yNXZTT21yX0VkUWFtb1piUm9hUHJMMDV6Z2dVSXJRdmNpR2hwRFJoMklZVmxWRWcxelVOMzhjbnpBNGNndDZqY0dabHE1RUNnQWpnMVZ3MTRhd0FVVmZrMXfSAZMCQVVfeXFMTl9hbmxMaVdldUx6VUpyb0FxWGxpMXBvN0Zkd0htZ1BGMV8weFU2UW1BTzM0aF9lQmJsX3RKdHZQb0c5dXE3TVpBMnFjbzV0V04yOXJCR1JEdUN0aWJZVmREYlFhUFctUXlJb3UxSnNnQm5RYW1mSHozUFNVdUp4LXVjVEw2WXBnZ1dvOURVN0cxZ19Jc1Ffbl9zeHZoZllpOE1kWXJCMHd3X0NVYXhqWDgwanltQ3J5V2UtSEtyTFdQbWxjT1NzRkxob3hLWnN0b0xmSHh4WUFFV3NOaVcya0JZVU1WdzdjSVlRMnd3Z3VmbzZkVEpXa3R5MFpST0tiR2ROOE9PTzJFbnZSMXByOW5Yc0U?oc=5",
+            "published": "Fri, 22 May 2026 07:00:00 GMT",
+            "score": 0,
+            "label": "Neutral"
+          }
+        ]
+      },
+      "combined_score": 45.0,
+      "added_at": "2026-10-07T11:54:06.307972",
+      "first_seen_price": 112.2300033569336,
+      "first_seen_at": "2026-10-07T11:54:06.307972"
+    },
+    {
+      "symbol": "AMBUJACEM",
+      "base": {
+        "symbol": "AMBUJACEM",
+        "price": 358.04998779296875,
+        "day_change": -0.9680542437202831,
+        "volume_ratio": 1.6422192813401775,
+        "market_cap": 88968.8763115059,
+        "pct_from_low": 0.48875856993797273,
+        "avg_volume": 1387461.857142857,
+        "volume": 960015.0
+      },
+      "technical": {
+        "symbol": "AMBUJACEM",
+        "close": 358.04998779296875,
+        "rsi": 30.09,
+        "adx": 37.06,
+        "atr": 8.15,
+        "volume_ratio": 0.68,
+        "ema_alignment_bearish": true,
+        "dema_alignment_bearish": true,
+        "death_cross": true,
+        "double_top": false,
+        "head_shoulders": true,
+        "rounding_top": false,
+        "bear_flag": false,
+        "ll_lh": false,
+        "near_breakdown": true,
+        "breakdown": false,
+        "macd_bearish": true,
+        "macd_cross_down": false,
+        "obv_distribution": false,
+        "patterns": [],
         "setup": "HEAD & SHOULDERS",
-        "score": 61,
+        "score": 46,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
           "Head & Shoulders",
           "Near Breakdown",
-          "Bearish Engulfing",
           "MACD Bearish",
-          "ADX Trend Strength",
-          "Volume Expansion",
-          "OBV Distribution"
+          "ADX Trend Strength"
         ],
         "support_20d": 356.3
       },
       "news": {
-        "score": 50,
-        "label": "Neutral",
+        "score": 70,
+        "label": "Bullish",
         "headlines": [
           {
             "title": "Ambuja Cements (NSEI:AMBUJACEM) Stock Forecast & Analyst Predictions - Simply Wall Street",
@@ -273,113 +458,18 @@
             "label": "Neutral"
           },
           {
-            "title": "Ambuja Cements Ltd. Share Price Today - Ambuja Cements Ltd. Stock Price Live NSE/BSE - CNBC TV18",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbkZZalBOWUljemRhNzlvbWVWdG51cDlGWVdRaTEzcEdfS0lXRjlTb3B2cDlwT2lzMjcySDl2OXNabUxuVmhDdWI1V215OE9QRWRBZ0tILURqYWxDRVdMSGtIVHhJdVdvZy1EM0FPcHE5a1MtcVEzWWZHSDlXMXlJdA?oc=5",
-            "published": "Sat, 03 Jan 2026 14:49:21 GMT",
-            "score": 0,
+            "title": "Ambuja Cements (NSE:AMBUJACEM) Strong Profits May Be Masking Some Underlying Issues - Simply Wall Street",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ3NGY2E1M1ZoVklWRGJPdmp4RkFITHo4Y3JnTDhFYkdWUTdaZmUzRnFCWXhYZ0ZUcWhiX1J2V0ZvR2duN3JYMmZrMW1GRUlNUHBfRFV2YmMxOC1Nd3VrX3hFUUlJSHZYdEJ2aTYtbWRVS1MxaEQ3MVVUOHJFRjNodm1NTk4wcWZjMXc1ZVF6SGREZnljdmgyT05Pb0h6dEIxLUxCcnB2SHhXTVYzZ2UyZG1wSnNkQUVCVF9NTWpRblJUa2djSmZfZ0lmVWVJTUVhZ3J3NmNoU2lzaXfSAeABQVVfeXFMT0E0VEl6SV9zZVhybGtVbkNsX1hMM0R2YXhHVUk3Q0Jmd0h3WEJQcGVNY0V6T28wRFNfNV9CZWxMWVA5ZmJCek5yMHpndlExVnBjX1lFYlNhX2VYbkNsVnhKc3M0Y0hXR2ZrMnkxcWxNdVFzV2c5RjNkSzdIVTRfYVhON2R5MEpIUzhZQzR0RWFyUDFIek1NeWdGSHBYUmQzOWFJOUVLNmxQblozWG8tcnVLUVd6d2c0Tlc5bkFRbjhTTHZXNlFaOGpUang1bUdlU3h5RWpZVGg3d0NtNmVPWG4?oc=5",
+            "published": "Wed, 13 May 2026 07:00:00 GMT",
+            "score": 4,
             "label": "Neutral"
           }
         ]
       },
-      "combined_score": 58.8,
-      "added_at": "2026-10-06T15:19:38.452713",
-      "first_seen_price": 361.5,
-      "first_seen_at": "2026-10-06T15:19:38.452713"
-    },
-    {
-      "symbol": "HUDCO",
-      "base": {
-        "symbol": "HUDCO",
-        "price": 160.3699951171875,
-        "day_change": -0.8225119704117259,
-        "volume_ratio": 4.755471385276142,
-        "market_cap": 32104.469322509765,
-        "pct_from_low": 2.8496552999769365,
-        "avg_volume": 2048980.142857143,
-        "volume": 9484030.0
-      },
-      "technical": {
-        "symbol": "HUDCO",
-        "close": 160.3699951171875,
-        "rsi": 27.93,
-        "adx": 25.69,
-        "atr": 4.89,
-        "volume_ratio": 4.53,
-        "ema_alignment_bearish": true,
-        "dema_alignment_bearish": true,
-        "death_cross": true,
-        "double_top": false,
-        "head_shoulders": false,
-        "rounding_top": false,
-        "bear_flag": false,
-        "ll_lh": true,
-        "near_breakdown": true,
-        "breakdown": false,
-        "macd_bearish": true,
-        "macd_cross_down": false,
-        "obv_distribution": true,
-        "patterns": [],
-        "setup": "DEATH CROSS",
-        "score": 57,
-        "reasons": [
-          "EMA bearish alignment",
-          "DEMA bearish alignment",
-          "Death Cross",
-          "Lower High / Lower Low",
-          "Near Breakdown",
-          "MACD Bearish",
-          "ADX Trend Strength",
-          "Volume Expansion",
-          "OBV Distribution",
-          "Strong Volume"
-        ],
-        "support_20d": 155.8
-      },
-      "news": {
-        "score": 45,
-        "label": "Neutral",
-        "headlines": [
-          {
-            "title": "Housing and Urban Development Corporation Limited (NSE:HUDCO) most popular amongst state or government who own 75% of the shares, institutions hold 14% - Simply Wall Street",
-            "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUWNiM0NtNk4wcmhzUlFWSXNXTDFFS1Y4VjlEeXNNMl91TS1xVkxYREdaZWR5c0VHNmxtRUk4dzQwVTQxYTdmZDAtX2ltUWd5RTFUUl9Bd3dEeTdOdGgwSS0yNEZmY1AybkNaeHduLXdWRWUyMFJNNUR3QzVzbzRWd1d5ck1QZ3VjV1lXVFFrOXlMVkNsU0xxbDlOODY3bkpGOUZuUXI3SDh2bEM2SkRJWFgtNXVoM1pSUVZkSzhCRUgzNUJGelF2SlZrUFdYYUoyLVVfb1J3NXJ4Y2FCeVNEd3dJbWFaOWFvTnV0dkpvOVNFVXlqMERCcXVIY9IBgAJBVV95cUxNQXJaQVo5akVGYzVXZU52VDlReE41WTBGZFBxRDdNNmxEd2RMZ1F1YnlFMzEwNnExV2xnUDRXbWJNc2ViRldkRXk4dUx5TnctUGdfR0xiZHZsQzdHdFdVV0ZfYmhOakhVUlFMQ0x4UDgyeXpRQmJIbm9xY1pQTWNUSm9FWU8waVoyUm9kMXQ0RmY3LWZoVTBuSjVhNWtZdXU4aXhFSURXSzJjQVVBbVRFdjdFTXc1Z1pPNl9PWkZKSVZNSkUxTW4xMTV2cGw2bTM1MV9jOVN3WnFFNWNrb0JUNTY5eGVXOE9Eekh5SFZmdldDcG93YTlzLUNtTnhWNEps?oc=5",
-            "published": "Tue, 20 Jan 2026 08:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "5 PSU Stocks India 2026: Strong Future Roadmaps - Univest",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OZTNwUG1iNUllQXMwR19Ebk9vUHRmcXJ3YnFiU0EzSzcydVhrMnBFWWdfb3pqV0pTdGR0TExDanZOTnpLUERCVmt2MUdvRFdVdGV1QUV2cWNmOTVuaWxmamhRQ0ZSSjE2MDhpM21zVQ?oc=5",
-            "published": "Wed, 26 Aug 2026 07:00:00 GMT",
-            "score": 1,
-            "label": "Neutral"
-          },
-          {
-            "title": "HUDCO Dividend, \u20b970,000 Cr Plan; Shares Fall 4.84% - HDFC Sky",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOV8wNjd5cGtsT3hRRC1OWjNpallXeHFXNGx0UUFidjhmeXh3dlRUQTl4ZnZkWHVreEhYTnBTY2tlNWFhTDR5V3J2clRmN1V5MnhGeG40S1Italk2MVdnOFQ3eE13WE5wTWdIb2tnaklER1FXR0x1dVJuV0lzREQxMmdkS0ROU0xxWFhib2ZPZGljVUo3OEpqcw?oc=5",
-            "published": "Fri, 27 Mar 2026 07:00:00 GMT",
-            "score": -2,
-            "label": "Neutral"
-          },
-          {
-            "title": "HUDCO fined \u20b95.31 lakh for board composition non-compliance - scanx.trade",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNnljOEQ4ZV9aQXVmVklYZXU4Y0ZkNmVNOTBrZ3NCOVZSc1hJMEdFLUpvRWZHNnpTNFhtdE5OZWtDd0hFTUktVVB4cEItTTN3NHRKel9JOUZ4SVFFM2tRTlNQSDZhZW5vTmc5V1pES1hfMExCNTJXYnIydS1wdktHaUxIZDNRckQxeFl0aFQ4UFNHekczcWdlVjVmbkFCWGdTVUsxbkUxcVJYZlV3VFIwYTk1QjJFZw?oc=5",
-            "published": "Fri, 10 Jul 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          },
-          {
-            "title": "Trade Spotlight: How should you trade HUDCO, RBL Bank, Gujarat Fluorochemicals, Elecon Engineering, Deepak... - Moneycontrol.com",
-            "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPS1JhNlQ1Wk9XRHVjR2dvc29NNkVFQjExR05OZW1xdzJnaWkzNEJDUHQ1d0Z5cTFFR1JJbnZXSG11Qmpia2VlOWNBTm5sMzFod0s1NWp3ZGlWZFhPQVZRTGZLbHpqT3dzcXBVWWVJNzFHX3VVbHVWN0lFQTdRYWt2RldpMEhLbjZYM1ZVWGo5aG54VVNYM3VhOERXdFpuS2ZRUXdCTC0zQlk3VDJqU0Y2U0NySU9PZ0JOYnpVYWJYM1lqZXo2NlMwTm1FejVSeFI2bndObHNtU3Y5MjJnQXJ6bVlqZUQ3aHJZR3ZmR3pvSFlLR3hjVkloaVJPR2x1RERpSXdxel9OWEY3eFlGcHRnZHhxdVE3Z0VVc09BRC1oLU1kWVZS0gGqAkFVX3lxTE9nTTV4U2xfeHBTbnctRGFrdEw2R1FQODNzU2dVZEFWYlNQX1ZzbnJFMVIxWnJCeVp4X1JURWxRMG1HMHpMX0V1RHVVbnRickw3WjFYNG5HcWZYMW96cVpYZDV6Q2JsOFlHcGtSZ2JKRU1yRVp6NnBvb1F5V3JvbG9mZFRJUWw2cGh4WDhyYllOczdTdHU2T09fVWI4OUpfTTI2T0ttT0hTems0dlU5WnRyUDRza1pJNm9XNllSejdWeHdLOVNiMkFUZ205cGxadGRMRUxGVXZfZ19sOXk2NjJCZ3haWUZHbU5aSlZGWEpua1piaW5JLUpKbUNQMWR0aE1IU2FyMVBTbG51VFJkc2l1bVdndGFiRDBYSkxwLTJia3FpbXlhamxreUE?oc=5",
-            "published": "Mon, 04 May 2026 07:00:00 GMT",
-            "score": 0,
-            "label": "Neutral"
-          }
-        ]
-      },
-      "combined_score": 56.6,
-      "added_at": "2026-10-06T15:20:27.043352",
-      "first_seen_price": 160.3699951171875,
-      "first_seen_at": "2026-10-06T15:20:27.043352"
+      "combined_score": 42.8,
+      "added_at": "2026-10-07T11:53:15.361879",
+      "first_seen_price": 358.04998779296875,
+      "first_seen_at": "2026-10-07T11:53:15.361879"
     }
   ]
 }
