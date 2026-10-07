@@ -101,21 +101,21 @@
       "symbol": "KEC",
       "base": {
         "symbol": "KEC",
-        "price": 364.0,
-        "day_change": -2.933333333333333,
-        "volume_ratio": 2.267847059967794,
-        "market_cap": 9689.68,
-        "pct_from_low": 0.5219763451880151,
-        "avg_volume": 1036080.5238095238,
-        "volume": 996261.0
+        "price": 362.6000061035156,
+        "day_change": -3.3066650390625,
+        "volume_ratio": 1.6001896794230193,
+        "market_cap": 9652.412162475586,
+        "pct_from_low": 0.16547327452176996,
+        "avg_volume": 1069011.5714285714,
+        "volume": 1687813.0
       },
       "technical": {
         "symbol": "KEC",
-        "close": 364.0,
-        "rsi": 28.55,
-        "adx": 42.87,
-        "atr": 10.79,
-        "volume_ratio": 1.01,
+        "close": 362.6000061035156,
+        "rsi": 28.06,
+        "adx": 42.88,
+        "atr": 10.8,
+        "volume_ratio": 1.66,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -125,27 +125,29 @@
         "bear_flag": false,
         "ll_lh": true,
         "near_breakdown": true,
-        "breakdown": false,
+        "breakdown": true,
         "macd_bearish": true,
         "macd_cross_down": false,
         "obv_distribution": true,
         "patterns": [
           "Bearish Engulfing"
         ],
-        "setup": "DEATH CROSS",
-        "score": 52,
+        "setup": "DEATH CROSS + BREAKDOWN",
+        "score": 66,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
           "Lower High / Lower Low",
           "Near Breakdown",
+          "Confirmed Breakdown",
           "Bearish Engulfing",
           "MACD Bearish",
           "ADX Trend Strength",
+          "Volume Expansion",
           "OBV Distribution"
         ],
-        "support_20d": 362.1
+        "support_20d": 362.0
       },
       "news": {
         "score": 55,
@@ -180,16 +182,16 @@
             "label": "Neutral"
           },
           {
-            "title": "KEC International shares rise over 7% after Delhi HC puts Power Grid\u2019s bidding ban in abeyance - Upstox",
-            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVEpEVEFTNERiX3Awekk1YktFdG5QV3hITkJBNkUtT3Y1MmpnMmVLVkNTXzNYWjJ6RWJkbGxNYUZZV2hqbVZYNzFvMWNEV2dKaDhWdXpSUUdERkdPT0E0d2RTOGc1MVNTVGpLUGR2SC1IU0NaTDRvVWlYUEZIVmp5X21Bc2tUVVlaUlc2M2VVc3JXNnIxdkVJSmtiWGEyQzA1c0p3VXJueGQ4dTFoYkh4bldoUWFZdXJKN3V6dWY1cUN2WW1KaWVLUnQxY1NtS1JtaTRBb2ttNzRWOTNvYjdnQ0FCVm9BVlE?oc=5",
-            "published": "Sun, 21 Dec 2025 08:00:00 GMT",
+            "title": "KEC International shares rally 5% as firm secures new orders worth \u20b91,002 crore; details here - Upstox",
+            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMk9PNURPaVJqVS12aWlvZXRXeUpjeENxM0Y2Vk12bFprNEMtbDNoN21FTXVKcmV4blg4MlNJMWVQZTJZY1ZZRUppTDQ5czJmNmVvcWxzNVRFRnVMZUl5MGJyTExBQlRPTXFtQlY0QlZ3cTJuenY1eG5hQm93M1pIYzVpdl82MnZnRF91UFVhaFZqeGthMVZFZndSQXM4Vkd1a1VvZG1wY3JNYkR1ajBzR251OFk5SnFFZzVWS09VajhtRkpBUFhiazNmYWVoZEJGWFJyVkhnNWhuQjFxV0dGajFQaE0?oc=5",
+            "published": "Tue, 05 May 2026 07:00:00 GMT",
             "score": 0,
             "label": "Neutral"
           }
         ]
       },
-      "combined_score": 50.6,
-      "added_at": "2026-10-07T11:54:09.606016",
+      "combined_score": 61.8,
+      "added_at": "2026-10-07T15:25:31.033097",
       "first_seen_price": 364.0,
       "first_seen_at": "2026-10-07T11:54:09.606016"
     },
@@ -197,21 +199,21 @@
       "symbol": "BEL",
       "base": {
         "symbol": "BEL",
-        "price": 380.20001220703125,
-        "day_change": -1.8585394431825946,
-        "volume_ratio": 1.7928857079728673,
-        "market_cap": 277917.8000016498,
-        "pct_from_low": 0.8416654666725101,
-        "avg_volume": 8739711.476190476,
-        "volume": 6602000.0
+        "price": 378.29998779296875,
+        "day_change": -2.348994901106581,
+        "volume_ratio": 1.5018548962088099,
+        "market_cap": 276528.92417800013,
+        "pct_from_low": 0.343639395960063,
+        "avg_volume": 9063126.57142857,
+        "volume": 13393717.0
       },
       "technical": {
         "symbol": "BEL",
-        "close": 380.20001220703125,
-        "rsi": 36.07,
-        "adx": 26.48,
-        "atr": 6.67,
-        "volume_ratio": 0.76,
+        "close": 378.29998779296875,
+        "rsi": 34.77,
+        "adx": 26.61,
+        "atr": 6.78,
+        "volume_ratio": 1.49,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -219,24 +221,26 @@
         "head_shoulders": false,
         "rounding_top": false,
         "bear_flag": false,
-        "ll_lh": false,
+        "ll_lh": true,
         "near_breakdown": true,
         "breakdown": false,
         "macd_bearish": true,
         "macd_cross_down": false,
-        "obv_distribution": false,
+        "obv_distribution": true,
         "patterns": [],
         "setup": "DOUBLE TOP",
-        "score": 51,
+        "score": 63,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
+          "Lower High / Lower Low",
           "Double Top",
           "Near Breakdown",
           "Weak RSI",
           "MACD Bearish",
-          "ADX Trend Strength"
+          "ADX Trend Strength",
+          "OBV Distribution"
         ],
         "support_20d": 377.0
       },
@@ -245,17 +249,17 @@
         "label": "Neutral",
         "headlines": [
           {
-            "title": "3 Fundamentally Strong PSU Stocks in India (September 2026): BEL, BHEL and Coal India Compared - Univest",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96YlZ3c0RUeHBaVzM5bjlUazBDV3dNczFRU2phbEgxUU1zUTlPRU5ZRUlGakw4c0lHdkVtOTdFUnZRbktFVHZZODE1a1dFcWhTMkpNVFBvSFY1RTdtbmJjaW9pS0ZRTFhsTEFPX25wYw?oc=5",
-            "published": "Wed, 30 Sep 2026 07:00:00 GMT",
-            "score": 1,
-            "label": "Neutral"
-          },
-          {
             "title": "Closing bell ceremony to commemorate 25 years of NSE - NSE India",
             "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGh1cUFlQU5UWEtPZHRIMFQyZjB6Y0NFRnFKZHp2RXJBUlVuMGVuVm01Vzhodk1mMkZUOVhOU1F3WHRiLVlOSXhKbFI0aFp1cjgxN25SdHlPZDJNbGtTNWxHRE1Fd2ZkeWFCaFo3X3M1cnVoYkNZUUo1UTNsYUs3VFdhUXJZV3lVWC1zSw?oc=5",
             "published": "Sat, 14 Feb 2026 22:50:34 GMT",
             "score": 0,
+            "label": "Neutral"
+          },
+          {
+            "title": "3 Fundamentally Strong PSU Stocks in India (September 2026): BEL, BHEL and Coal India Compared - Univest",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96YlZ3c0RUeHBaVzM5bjlUazBDV3dNczFRU2phbEgxUU1zUTlPRU5ZRUlGakw4c0lHdkVtOTdFUnZRbktFVHZZODE1a1dFcWhTMkpNVFBvSFY1RTdtbmJjaW9pS0ZRTFhsTEFPX25wYw?oc=5",
+            "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+            "score": 1,
             "label": "Neutral"
           },
           {
@@ -281,8 +285,8 @@
           }
         ]
       },
-      "combined_score": 48.8,
-      "added_at": "2026-10-07T11:53:25.086800",
+      "combined_score": 58.4,
+      "added_at": "2026-10-07T15:24:58.940874",
       "first_seen_price": 380.20001220703125,
       "first_seen_at": "2026-10-07T11:53:25.086800"
     },
@@ -290,21 +294,21 @@
       "symbol": "JSWCEMENT",
       "base": {
         "symbol": "JSWCEMENT",
-        "price": 112.2300033569336,
-        "day_change": -1.1189397736267896,
-        "volume_ratio": 4.380584339920962,
-        "market_cap": 15154.922612761857,
-        "pct_from_low": 4.9719341211353125,
-        "avg_volume": 1622922.0,
-        "volume": 3014363.0
+        "price": 111.69999694824219,
+        "day_change": -1.5859057724738435,
+        "volume_ratio": 2.6874109126685886,
+        "market_cap": 15083.353461307404,
+        "pct_from_low": 4.521034521337785,
+        "avg_volume": 1693170.142857143,
+        "volume": 4489574.0
       },
       "technical": {
         "symbol": "JSWCEMENT",
-        "close": 112.2300033569336,
-        "rsi": 32.68,
+        "close": 111.69999694824219,
+        "rsi": 31.56,
         "adx": 41.5,
         "atr": 2.73,
-        "volume_ratio": 1.83,
+        "volume_ratio": 2.6,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -320,16 +324,16 @@
         "obv_distribution": true,
         "patterns": [],
         "setup": "ROUNDING TOP",
-        "score": 50,
+        "score": 49,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
           "Rounding Top",
-          "Weak RSI",
           "ADX Trend Strength",
           "Volume Expansion",
-          "OBV Distribution"
+          "OBV Distribution",
+          "Strong Volume"
         ],
         "support_20d": 109.62
       },
@@ -374,8 +378,8 @@
           }
         ]
       },
-      "combined_score": 45.0,
-      "added_at": "2026-10-07T11:54:06.307972",
+      "combined_score": 44.2,
+      "added_at": "2026-10-07T15:25:29.015158",
       "first_seen_price": 112.2300033569336,
       "first_seen_at": "2026-10-07T11:54:06.307972"
     },
@@ -383,21 +387,21 @@
       "symbol": "AMBUJACEM",
       "base": {
         "symbol": "AMBUJACEM",
-        "price": 358.04998779296875,
-        "day_change": -0.9680542437202831,
-        "volume_ratio": 1.6422192813401775,
-        "market_cap": 88968.8763115059,
-        "pct_from_low": 0.48875856993797273,
-        "avg_volume": 1387461.857142857,
-        "volume": 960015.0
+        "price": 356.6000061035156,
+        "day_change": -1.3691002230893698,
+        "volume_ratio": 2.227449332079711,
+        "market_cap": 88608.58236937204,
+        "pct_from_low": 1.1637671972668713,
+        "avg_volume": 1570940.8095238095,
+        "volume": 3443204.0
       },
       "technical": {
         "symbol": "AMBUJACEM",
-        "close": 358.04998779296875,
-        "rsi": 30.09,
-        "adx": 37.06,
-        "atr": 8.15,
-        "volume_ratio": 0.68,
+        "close": 356.6000061035156,
+        "rsi": 29.34,
+        "adx": 37.69,
+        "atr": 8.37,
+        "volume_ratio": 2.14,
         "ema_alignment_bearish": true,
         "dema_alignment_bearish": true,
         "death_cross": true,
@@ -405,25 +409,29 @@
         "head_shoulders": true,
         "rounding_top": false,
         "bear_flag": false,
-        "ll_lh": false,
+        "ll_lh": true,
         "near_breakdown": true,
         "breakdown": false,
         "macd_bearish": true,
         "macd_cross_down": false,
-        "obv_distribution": false,
+        "obv_distribution": true,
         "patterns": [],
         "setup": "HEAD & SHOULDERS",
-        "score": 46,
+        "score": 68,
         "reasons": [
           "EMA bearish alignment",
           "DEMA bearish alignment",
           "Death Cross",
+          "Lower High / Lower Low",
           "Head & Shoulders",
           "Near Breakdown",
           "MACD Bearish",
-          "ADX Trend Strength"
+          "ADX Trend Strength",
+          "Volume Expansion",
+          "OBV Distribution",
+          "Strong Volume"
         ],
-        "support_20d": 356.3
+        "support_20d": 352.45
       },
       "news": {
         "score": 70,
@@ -466,8 +474,8 @@
           }
         ]
       },
-      "combined_score": 42.8,
-      "added_at": "2026-10-07T11:53:15.361879",
+      "combined_score": 60.4,
+      "added_at": "2026-10-07T15:24:51.898050",
       "first_seen_price": 358.04998779296875,
       "first_seen_at": "2026-10-07T11:53:15.361879"
     }
